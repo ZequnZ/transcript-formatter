@@ -1,0 +1,1185 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 8,
+  "episode": 9,
+  "title": "The Septum Deviation",
+  "url": "https://bigbangtrans.wordpress.com/series-8-episode-09-the-septum-deviation/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "This is an easy one. You love this guy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Me."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Come on, he’s an under-appreciated genius."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Still think it’s me."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It’s not you. Now think, there’s a car named after him."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Of course there is. The Mini Cooper, ’cause it’s me."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "How about this, he’s a poor man’s Sheldon Cooper."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, Tesla."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hey, how did it go?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, not fun. The doctor shoved a camera up into my sinuses."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, I watched. It was like the scary boat tunnel in Willy Wonka."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Did they figure out what’s wrong?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah. It’s a deviated septum. The surgery to correct it is simple. He’s gonna do it next week."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why would you have surgery?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Because I can’t breathe. I snore, I get sinus infections."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, back off, he’s all mine."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But you don’t have a life-threatening condition. Why would you take the risk of surgery?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, it’s a routine procedure, I’ve heard you complain about his snoring."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, for the first five or six years, but I’ve gotten used to it. It helps me sleep. He’s like my mucus-powered white noise machine."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, I’m gonna get the surgery, it’s no big deal. End of story."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Very well. I’m done talking about it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I believe it was your turn in the game."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Let’s see. Oh, this person is most famous for never having gotten his nose mutilated with elective surgery and never living the rest of his life in the shadows as a hideous, disfigured freak."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I think you could give a better clue."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t. I’m not even sure if that’s a person or a typo."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m listening to you snore. I’m wondering how I’ll ever sleep without it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "If it helps you sleep, then why are you sitting here staring at me like the albino boogeyman?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Really Leonard. Insults? After I spent two hours in your closet, waiting for you to fall asleep?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What’s your problem?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If the surgery is successful, the snoring is gone. And if you die during surgery, the snoring is gone."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It sounds like either way, I finally get some rest."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I have to be honest with you Leonard, I’m truly worried."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I told you, there’s nothing to worry about."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I’ve been doing some research and I’ve learned that one in 700,000 people die from general anaesthesia."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Buddy, wh, do you realize that that also means 699,999 people don’t die?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I suppose that’s true. You’re such a glass half-full kind of guy. I’m going to miss that."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, so, my, uh, parents’ 40th anniversary’s coming up and I can’t think of a thing to get them."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Damn, can you imagine being married to someone for 40 years?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Not anymore."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Anyway, any ideas on a gift?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Well, what are some of the things they like?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "They used to like going to the Mumbai Symphony, but last year my mom thought they were phoning it in. Then my dad said based on their love life, she should know about phoning it in."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "He said that to her?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, they weren’t speaking at the time, so he had a servant say it to her. Oh, maybe I could make a gift for them. I know how much you guys love the coasters I made for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "They’re yours in the divorce."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey. What’re you working on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Remember when I said if you went through with your surgery, there was a one-in-700,000 chance of dying?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I’ve been crunching the numbers, and so far, I’ve gotten your probability of death all the way to a sphincter-tightening one in 300."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Great timing. My check sphincter light just went on."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard, what if you have an allergic reaction to the surgeon’s latex gloves?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m not allergic to latex."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, then why don’t you wear the rubber gloves I bought for you to do the dishes?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "For the same reason I don’t wear the apron or the hair net."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Fine. What about epilepsy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t have epilepsy, either."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You don’t, but the surgeon might, hmm? And your carotid artery is just one shaky scalpel away from becoming the dancing fountain at Disneyland."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, do you realize that driving is riskier than surgery?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I do. I have the drive to the hospital right here. That is if you make it to the car without falling down the stairs. And don’t expect me to carry you, I do that enough in life."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Buddy, I, I get that you’re worried about me and I, I appreciate that, but I’m not going to die."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You don’t know that."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, I do know that it won’t be from an asteroid strike."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know who else said that? Every cocky T. Rex currently swimming around in the gas tank of your car."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "If there was an asteroid strike, wouldn’t you die, too?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t know, I’m smart and scrappy, I think I’d find a way."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Tell you what, the surgery’s not for a week, I’ll think about it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thank you. And while you’re thinking about it, if you have the surgery in Nicaragua during monsoon season, I can practically guarantee your death."
+    },
+    {
+      "type": "scene",
+      "text": "Raj’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj (on phone)",
+      "text": "Yes. Okay. I, I understand. Of course, yes. I’ll call you tomorrow. Bye."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So I found this fencing school in Burbank that has a Jedi class. And if you’re cool being the only adults there, they said they are."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Dude, my parents just split up."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Uh, that was my dad on the phone. He moved out."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, my God, I, I’m sorry. I mean, if you’re not up to it, we don’t have to go out, we can just hang here."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No, it’s fine. It’s not that big a deal. As long as they’re happy, I’m happy. And when I get to see them for the holidays, I’ll get to celebrate Diwali twice, one at each house. That’s double the Diwali."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You sure you’re okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You don’t look okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "How can I be okay? I come from a broken home."
+    },
+    {
+      "type": "scene",
+      "text": "A waiting room."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "The doctor said I should be out of surgery by ten."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay. And Sheldon really believes we’re at a public swimming pool?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "He was so busy figuring out how many parts per million of urine we’d be floating around in, he didn’t even question it."
+    },
+    {
+      "type": "scene",
+      "text": "Amy’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "18 parts per million. And he’s still doing it."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Don’t worry about that. I’m happy to take you to work."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, thank you. And Leonard never lets me have French toast sticks in the car. I can’t have syrupy fingers, but he can do the backstroke in a toilet bowl."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It’s nice they’re getting exercise."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Although now that I think about it, Leonard would never go swimming in public without his swim shirt."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’m sure he brought it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, but last year, at Magic Mountain, he got such a bad sunburn, we had to cut him out of it."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "He probably got a new one. Finish your breakfast. Look, there’s an entire section of my dashboard that doesn’t have any syrup on it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re acting odd. Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’m odd all the time, everyone knows that. Just last night I tried to see how many fava beans I could fit in my mouth."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Tell me the truth."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Twenty eight."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Come on."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Fifty six."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Amy. What’s going on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "All right. Don’t get upset, but, an earlier appointment opened up for Leonard and he’s getting the surgery right now."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I see. Take me to Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Just go to work, he’ll be fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Amy, he’s my best friend, and if you don’t take me, I’m going there anyway."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Fine. It’s sweet that you care about him so much."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I do. And I wouldn’t be able to forgive myself if something happened to him and I wasn’t at his bedside to say I told you so."
+    },
+    {
+      "type": "scene",
+      "text": "The waiting room."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "We had a really nice swim."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, stop it. I assume this medical centre’s already treated the burns on your bottom from the recent pants fire."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "‘Cause I’m a liar, liar?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s for the fire marshal to determine."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You had to tell him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "He wore me down. And I was distracted, he has on extra baby powder today."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Is he okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "He’s still in surgery."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Very well."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "He’s gonna be all right. That is sticky."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Come on, let’s talk about something other than the surgery."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s a good idea. Penny, did you and Leonard ever discuss funeral arrangements?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I think she meant something a little happier."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I suppose we could try to make it a celebration, but he died so young."
+    },
+    {
+      "type": "scene",
+      "text": "Raj’s office."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Knock, knock."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey. What brings you by?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, muffin much."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Told you, not funny."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "He’s just not laughing because he’s feeling blueberry. Tough crowd."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m sorry. This is very sweet. Thanks."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So, how you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Better. I guess the news just hit me a lot harder than I expected."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Well, of course. I would be devastated if my parents split up."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Why? Your father barely speaks to your mother."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Well, at least he stuck around, not like your dad, who just took off."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "As you can see, we’re here to cheer you up."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Sorry, Raj. Do you have any sense of what happened with your folks?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I think, over time, they started to resent each other, and instead of talking about the things that bothered them, they kept it bottled up, and the hate just grew."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "It’s a shame they spent all that time unhappy. But sometimes, there’s muffin you can do about it. You get it, right?"
+    },
+    {
+      "type": "scene",
+      "text": "The waiting room."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, it’s nice you got him that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, this isn’t for Leonard, no. Amy bought it for me."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Stubbed his toe on the revolving door on the way in."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know those confounded things make me dizzy."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Who told you to keep going around?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "There was a large plant in the lobby. It kept looking like the outside."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, listen, when Leonard comes out, he is not gonna feel great, so, please don’t give him a hard time."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Penny has a good point. This is like the man in the supermarket with the goiter on his neck. Whatever you’re thinking, just keep it to yourself."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It was like a grapefruit."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "And I’m sure he knew that before you held a grapefruit up next to it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I’m not making any promises. Not only did Leonard take what I feel is an unnecessary risk, he deceived me."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, the reason he deceived you is you were being a pain in the ass."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The reason I was being a pain in the B is because I was worried about him, and no one else was."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Really? You won’t even say A?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You bet your sweet B I won’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Obviously, I care about Leonard. I’m gonna spend the rest of my life with him."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And I’m not? It’s an earthquake. I knew it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon, it was just a little tremor."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "A little tremor that turns routine sinus surgery into a frontal lobotomy. Oh, I don’t care for this at all. Oh, I need to see he’s okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, you can’t go back there."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Try and stop me."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Are you okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why didn’t you stop me?"
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Can I tell you something? This whole thing with Raj’s parents just got me a little worried about us."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What are you talking about? We’re fine. And Raj’s parents probably split up because of Raj."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "They always say the children aren’t to blame, but, come on."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I’m not joking, Howie. You heard what he said about his parents. It was the little things they kept bottled up. I don’t want that to happen to us."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "How can I convince you it won’t?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Well, is there anything about me you’re keeping inside?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m not answering that. It’s a trap."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "So there are things you don’t like."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "And here I am in the trap. You just keep talking. I’m gonna chew my leg off."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Just tell me one thing that bothers you, and I promise I won’t get mad."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay. The truth is, sometimes, you’re too beautiful."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh. Howie, be serious."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, okay. I really don’t like how your wings poke me when we sleep ’cause you’re an angel."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Okay, fine, maybe it was a bad idea."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I just don’t think the secret to a happy marriage is going out of our way to criticize each other. Although, there are ways to improve our communication. One thing I learned when I was in couples therapy was…"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Who were you in couples therapy with?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Not important."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Was it your mom?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Not important."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "It was your mom."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Anyway, the therapist had us tell each other what we loved about one another."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, that’s so sweet. I want to do that."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "All right."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Okay, um, I love that you make me laugh."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Thank you. And I love that you’re strong and independent."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "And yet, I still love when you hold a door for me."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I love that I’m kind of a slob around here, and you’re okay with that."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Uh-huh. And I love that I work and do all the cleaning, and you’re okay with that."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "See, I am. Isn’t this great?"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Come on, smile. This is gonna be my Christmas card."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know this is all your fault."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "How is it my fault?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I told you not to get the surgery."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, first of all, the surgery was a success, and secondly, I didn’t even want you there."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wow. I don’t know which hurts worse, my nose or my heart. Well, I’m done speaking to you."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Don’t be like that. You two need to talk this out."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, ’cause you sound really funny."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, I’m sorry I didn’t tell you about the surgery, but you were worried about nothing."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, you’re hardly out of the woods, no. You still run the risk of infection, a blood clot, the possibility that an inattentive surgeon let a barn spider lay eggs in your nose. The minute you sneeze web, I’m moving out."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I never thought I’d say these words, but come on, nose spider."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Who are you kidding? You were so panicked Leonard was gonna die, you’ll never leave him."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon will move out eventually."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, once he figures out how to work a door."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I was not panicked, and I am not overly attached to Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You were so worried that you smashed your face trying to check on me. You love me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah. Tell me those aren’t the words of a man with a spider eating its way through his brain. Amy, you’re a neuroscientist. Crack his skull open, spray some Raid in there."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I love that you take pride in your looks, even when I have to pee in the morning, and you’re in there spending an hour on your hair."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I love that you’re too good to pee in the kitchen sink."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I love that you have the confidence to speak, even without giving it an ounce of thought."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "And I love how your hair is always on the soap. It’s like washing myself with a hamster."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, guys. Sorry I am so late. I was on the phone with my mother."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, how is she?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Pretty good. She bought the book Eat, Pray, Love and used it to set my father’s Mercedes on fire. So, what’s up with you guys?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "We’re just saying all the things we love about each other."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, like you and I did at couples therapy."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, what’d you get?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I ordered it before your surgery. It’s the urn I was going to put you in."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, that’s morbid. Send it back."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I can’t send it back, I had it engraved. Here lie the ashes of Leonard Hofstadter. He thought he was right, but his room mate knew better.”"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s funny. Boy, I’m gonna miss these painkillers."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, why did you get two? I’m with stupid."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, that one’s mine."
+    }
+  ]
+}

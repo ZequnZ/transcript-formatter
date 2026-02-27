@@ -1,0 +1,1299 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 1,
+  "episode": 6,
+  "title": "The Middle Earth Paradigm",
+  "url": "https://bigbangtrans.wordpress.com/series-1-episode-6-the-middle-earth-paradigm/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "Lobby of the apartment building, Howard, Raj, Sheldon and Leonard enter in combat gear, covered in blue paint."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, if no-one else will say it, I will. We really suck at paintball."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That was absolutely humiliating."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, come on, some battles you win, some battles you lose."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yes, but you don’t have to lose to Kyle Bernstein’s Bar-Mitzvah party."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I think we have to acknowledge, those were some fairly savage pre-adolescent Jews."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know, we were annihilated by our own incompetence and the inability of some people to follow the chain of command."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, let it go."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, I want to talk about the fact that Wolowitz shot me in the back."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I shot you for good reason, you were leading us into disaster."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I was giving clear, concise orders."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You hid behind a tree yelling “get the kid in the yarmulkah, get the kid in the yarmulkah.”"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny (arriving)",
+      "text": "Oh, hey guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hello Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Morning ma’am."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So, how was paintball, did you have fun?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Sure, if you consider being fragged by your own troops fun. (To Howard) You clear space on your calendar, there will be an enquiry."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, um, oh hey, I’m having a party on Saturday so if you guys are around you should come by."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "A party?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "A boy-girl party?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, there will be boys, and there will be girls, and it is a party. So, it’ll just be a bunch of my friends, we’ll have some beer, do a little dancing…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Dancing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, I don’t know, Penny…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The thing is, we’re not…."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We’re really more…."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "But thanks, thanks for thinking of us."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Are you sure? Come on, it’s Halloween."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "A Halloween party?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "As in, costumes?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Is there a theme?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Um, yeah, Halloween."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, but are the costumes random, or genre specific?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "As usual, I’m not following."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "He’s asking if we can come as anyone from science-fiction, fantasy…"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sure."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What about comic-books?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Anime?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Of course."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "TV , film, D&D, Manga, Greek Gods, Roman Gods, Norse Gods…"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Anything you want, okay? Any costume you want. Bye."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Gentlemen, to the sewing machines."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment living room. There is a knock on the door."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard (off)",
+      "text": "I’ll get it. (He enters, wearing a Flash costume. Opens door.)"
+    },
+    {
+      "type": "direction",
+      "text": "Howard (Entering at speed, also wearing a Flash costume): Bjow (They stare at each other in shock.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, no."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh no! (He is also wearing a Flash costume.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Make way for the fastest man alive. (Enters, also in a Flash costume.) Oh no!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "See, this is why I wanted to have a costume meeting."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We all have other costumes, we can change."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Or, we could walk right behind each other all night and look like one person going really fast."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, no, no, it’s a boy-girl party, this Flash runs solo."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, how about this, nobody gets to be The Flash, we all change, agreed?"
+    },
+    {
+      "type": "dialog",
+      "character": "All",
+      "text": "Agreed."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I call Frodo!"
+    },
+    {
+      "type": "dialog",
+      "character": "All",
+      "text": "Damn!"
+    },
+    {
+      "type": "scene",
+      "text": "The same, later. Leonard is dressed as Frodo. Howard appears to be Peter Pan. There is a knock on the door."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj (Entering dressed as Thor)",
+      "text": "Hey. Sorry I’m late, but my hammer got stuck in the door on the bus."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You went with Thor?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What? Just because I’m Indian I can’t be a Norse God? No, no, no, Raj has to be an Indian God. That’s racism. I mean, look at Wolowitz, he’s not English, but he’s dressed like Peter Pan. Sheldon(entering in a body suit featuring black and white vertical lines) is neither sound nor light, but he’s obviously the Doppler Effect."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m not Peter Pan, I’m Robin Hood."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Really, because I saw Peter Pan, and you’re dressed exactly like Cathy Rigby. She was a little bigger than you, but it’s basically the same look, man."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, Sheldon, there’s something I want to talk to you about before we go to the party."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t care if anybody gets it, I’m going as the Doppler Effect."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, it’s not…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If I have to, I can demonstrate. Neeeeoooowwwww!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Terrific. Um, this party is my first chance for Penny to see me in the context of her social group, and I need you not to embarrass me tonight."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, what exactly do you mean by embarrass you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "For example, tonight no-one needs to know that my middle name is Leakey."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, there’s nothing embarrassing about that, your father worked with Lewis Leakey, a great anthropologist. It had nothing to do with your bed-wetting."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "All I’m saying is that this party is the perfect opportunity for Penny to see me as a member of her peer group. A potential close friend and… perhaps more. I don’t want to look like a dork."
+    },
+    {
+      "type": "scene",
+      "text": "The hallway. Howard knocks on Penny’s door with his bow."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Just a heads up fellas, if anyone gets lucky I’ve got a dozen condoms in my quiver."
+    },
+    {
+      "type": "direction",
+      "text": "Penny (opening door, not in costume): Oh, hey guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, sorry we’re late."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Late? It’s 7:05."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And you said the party starts at seven."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, yeah, when you start a party at seven, no-one shows up at, you know, seven."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s 7:05."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yes. Yes it is. Okay, well, um, come on in."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What, are all the girls in the bathroom?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Probably, but in their own homes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So what time does the costume parade start?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "The parade?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, so the judges can give out the prizes for best costume, you know, most frightening, most authentic, most accurate visual representation of a scientific principle."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, Sheldon, I’m sorry but there aren’t going to be any parades or judges or prizes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "This party is just going to suck."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, come on, it’s going to be fun, and you all look great, I mean, look at you, Thor, and, oh, Peter Pan, that’s so cute."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Actually, Penny, he’s Rob…"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m Peter Pan! And I’ve got a handful of pixie dust with your name on it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No you don’t. Oh, hey, what’s Sheldon supposed to be."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, he’s the Doppler Effect."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes. It’s the apparent change in the frequency of a wave caused by relative motion between the source of the wave and the observer."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, sure, I see it now, the Doppler Effect. Alright, I’ve got to shower, you guys um, make yourselves comfortable."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "See, people get it."
+    },
+    {
+      "type": "direction",
+      "text": "Time shift, the party is in full swing, the four guys are sitting together around the coffee table."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Mmmm, by Odin’s beard, this is good Chex Mix."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No thanks, peanuts, I can’t afford to swell up in these tights."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m confused. If there’s no costume parade, what are we doing here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We’re socialising. Meeting new people."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Telepathically?"
+    },
+    {
+      "type": "direction",
+      "text": "Penny (crossing the room in a cat costume, speaking to someone off-screen): Oh hey, when did you get here, Hi!"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Penny is wearing the worst Catwoman costume I have ever seen, and that includes Halle Berry’s."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "She’s not Catwoman, she’s just a generic cat."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And that’s the kind of sloppy costuming which results from a lack of rules and competition."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey guys, check out the sexy nurse. I believe it’s time for me to turn my head and cough."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What is your move?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m going to use the mirror technique. She brushes her hair back, I brush my hair back, she shrugs, I shrug, subconsciously she’s thinking we’re in sync, we belong together."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Where do you get this stuff?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You know, psychology journals, internet research, and there’s this great show on VH1 about how to pick up girls."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, if only I had his confidence. I have such difficulty speaking to women. Or around women. Or at times, even effeminate men."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "If that’s a working stethoscope, maybe you’d like to hear my heart skip a beat."
+    },
+    {
+      "type": "dialog",
+      "character": "Nurse Costume Girl",
+      "text": "No thanks."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, seriously, you can, I have transient idiopathic arrhythmia."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I want to get to know Penny’s friends, I just, I don’t know how to talk to these people."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I actually might be able to help."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "How so?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Like Jane Goodall observing the apes, I initially saw their interactions as confusing and unstructured, but patterns emerge, they have their own language if you will."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Go on."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, it seems that the newcomer approaches the existing group with the greeting “How wasted am I?” which is met with an approving chorus of “Dude.”"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Then what happens?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s as far as I’ve gotten."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "This is ridiculous, I’m jumping in."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Good luck."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, you’re coming with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I hardly think so."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Come on."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Aren’t you afraid I’ll embarrass you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes. But I need a wing-man."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Alright, but if we’re going to use flight metaphors I’m much more suited to being the guy from the FAA, analysing wreckage."
+    },
+    {
+      "type": "dialog",
+      "character": "Girl in Hippie Costume",
+      "text": "Oh, Hi!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "So, what are you supposed to be?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Me? I’ll give you a hint. Neeeeooooowwwww!"
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "Uh, a choo-choo train?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Close! Neeeeeoooooowwwww!"
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "A brain damaged choo-choo train?"
+    },
+    {
+      "type": "direction",
+      "text": "Girl in Butterfly Costume (dropping onto sofa next to Raj): How wasted am I? (Raj shrugs.)"
+    },
+    {
+      "type": "direction",
+      "text": "Time shift. Sheldon and Leonard are now talking to a girl in a princess costume."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Neeeeeooooowwwwww!"
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "I still don’t get it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m the Doppler Effect."
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "Okay, if that is some sort of learning disability, I think it’s very insensitive."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why don’t you just tell people you’re a zebra?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, why don’t you just tell people you’re one of the seven dwarves."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Because I’m Frodo."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, well, I’m the Doppler Effect."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh no."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s Penny’s ex-boyfriend."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What do you suppose he’s doing here? Besides disrupting the local gravity field."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "If he were any bigger, he’d have moons orbiting him."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, snap. So I guess we’ll be leaving now."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why should we leave? For all we know, he crashed the party and Penny doesn’t even want him here. (Penny and Kurt hug)."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You have a back-up hypothesis."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Maybe they just want to be friends."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Or maybe she wants to be friends, and he wants something more."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Then he and I are on equal ground."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, but you’re much closer to it than he is."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Look, if this was 15,000 years ago, by virtue of his size and strength, Kurt would be entitled to his choice of female partners."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And male partners. Animal partners. Large primordial eggplants, pretty much whatever tickled his fancy."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes, but our society has undergone a paradigm shift, in the information age, Sheldon, you and I are the alpha males. We shouldn’t have to back down."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "True. Why don’t you text him that and see if he backs down?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No. I’m going to assert my dominance face to face."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Face to face? Are you going to wait for him to sit down, or are you going to stand on a coffee table?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hello Penny. Hello Kurt."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, hey guys. You having a good time?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Given the reaction to my costume, this party is a scathing indictment of the American education system."
+    },
+    {
+      "type": "dialog",
+      "character": "Kurt",
+      "text": "What, you’re a zebra, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yet another child left behind."
+    },
+    {
+      "type": "dialog",
+      "character": "Kurt",
+      "text": "And what are you supposed to be, an Elf?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, I’m a Hobbit."
+    },
+    {
+      "type": "dialog",
+      "character": "Kurt",
+      "text": "What’s the difference?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, a Hobbit is a mortal Halfling inhabitant of Middle Earth, whereas an Elf is an immortal tall warrior."
+    },
+    {
+      "type": "dialog",
+      "character": "Kurt",
+      "text": "So why the hell would you want to be a Hobbit?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Because he is neither tall nor immortal, and none of us could be The Flash."
+    },
+    {
+      "type": "dialog",
+      "character": "Kurt",
+      "text": "Well, whatever, why don’t you go hop off on a quest, I’m talking to Penny here."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I think we’re all talking to Penny here."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m not. No offence."
+    },
+    {
+      "type": "dialog",
+      "character": "Kurt",
+      "text": "Okay, maybe you didn’t hear me, go away."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Alright Kurt, be nice."
+    },
+    {
+      "type": "dialog",
+      "character": "Kurt",
+      "text": "Aw, I am being nice. Right little buddy."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Kurt!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, I understand your impulse to try to physically intimidate me. I mean, you can’t compete with me on an intellectual level and so you’re driven to animalistic puffery."
+    },
+    {
+      "type": "dialog",
+      "character": "Kurt",
+      "text": "Are you calling me a puffy animal?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Of course not, no, he’s not, you’re not, right Leonard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, I said animalistic. Of course we’re all animals, but some of us have climbed a little higher on the evolutionary tree."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If he understands that, you’re in trouble."
+    },
+    {
+      "type": "dialog",
+      "character": "Kurt",
+      "text": "So what, I’m unevolved?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re in trouble."
+    },
+    {
+      "type": "dialog",
+      "character": "Kurt",
+      "text": "You know, you use a lot of big words for such a little dwarf."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, Kurt, please."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, Penny, it’s okay, I can handle this. I’m not a dwarf, I’m a Hobbit. A Hobbit. Are misfiring neurons in your hippocampus preventing the conversion from short-term to long-term memory?"
+    },
+    {
+      "type": "dialog",
+      "character": "Kurt",
+      "text": "Okay, now you’re starting to make me mad."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "A homo-habilus discovering his opposable thumbs says what?"
+    },
+    {
+      "type": "dialog",
+      "character": "Kurt",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I think I’ve made my point."
+    },
+    {
+      "type": "dialog",
+      "character": "Kurt",
+      "text": "Yeah, how about I make a point out of your pointy little head."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Let me remind you, while my moral support is absolute, in a physical confrontation I will be less than useless."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "There’s not going to be a confrontation, in fact I doubt if he can even spell confrontation."
+    },
+    {
+      "type": "direction",
+      "text": "Kurt (physically lifting Leonard from the ground): C – O – N… frontation!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Kurt, put him down this instant."
+    },
+    {
+      "type": "dialog",
+      "character": "Kurt",
+      "text": "He started it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I don’t care, I’m finishing it, put him down."
+    },
+    {
+      "type": "dialog",
+      "character": "Kurt",
+      "text": "Fine. You’re one lucky little leprechaun."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "He’s a Hobbit! I’ve got your back."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Leonard, are you okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, no, I’m fine. It’s good, it’s a good party, thanks for having us, it’s just getting a little late so…."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, okay, alright, well thank you for coming."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Happy Halloween. (They leave) If it’s any consolation, I thought that homo-habilus line really put him in his place."
+    },
+    {
+      "type": "scene",
+      "text": "The living room. Sheldon brings Leonard a cup of tea."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What’s that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Tea. When people are upset the cultural convention is to bring them hot beverages. There there. You want to talk about it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Good. There there was really all I had."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Good night Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Good night Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny (knocking on door and entering)",
+      "text": "Hey Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hi Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, I just wanted to make sure you’re okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’m so sorry about what happened."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s not your fault."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yes it is. That’s why I broke up with him, he always does stuff like that."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So why was he at your party?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, I ran into him last week and, he was… just, all apologetic, about how he’s changed, he was just going on and on and I believed him, and I’m an idiot because I always believe guys like that and… I can’t go back to my party because he’s there, and I know you don’t want to hear this and I’m upset and I’m really drunk and I just want to… (bursts into tears and rests head on Leonard’s shoulder.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "There there."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "God, what is wrong with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Nothing, you’re perfect."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Gah, I’m not perfect."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes you are."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You really think so, don’t you? (She kisses hm.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Penny?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "How much have you had to drink tonight?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Just…. a lot."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Are you sure that your being drunk, and your being angry with Kurt doesn’t have something to do with what’s going on here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It might. Boy, you’re really smart."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, I’m a frickin’ genius."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Leonard, you are so great. Why can’t all guys be like you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Because if all guys were like me, the human race couldn’t survive."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I should probably go."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Probably."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny (in doorway)",
+      "text": "Thank you. (She kisses him again. Kurt is watching.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s right, you saw what you saw. That’s how we roll in The Shire. (Closes door quickly, locks and chains it.)"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment, there is a knock on the door."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Coming. (Opens door to Howard.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, have you seen Koothrapali?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "He’s not here. Maybe the Avenger summoned him."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "He’s not the Marvel comic story, he’s the original Norse God."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thank you for the clarification."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m supposed to give him a ride home."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well I’m sure he’ll be fine. He has his hammer."
+    },
+    {
+      "type": "scene",
+      "text": "A random bedroom. Butterfly costume girl is climbing off of Raj."
+    },
+    {
+      "type": "dialog",
+      "character": "Butterfly Girl",
+      "text": "Wow, I have to say, you are an amazing man. You’re gentle and passionate, and my God, you are such a good listener!"
+    },
+    {
+      "type": "direction",
+      "text": "(Raj puts hands behind head with a smug expression on his face.)"
+    }
+  ]
+}

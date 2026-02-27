@@ -1,0 +1,1318 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 5,
+  "episode": 13,
+  "title": "The Recombination Hypothesis",
+  "url": "https://bigbangtrans.wordpress.com/series-5-episode-13-the-recombination-hypothesis/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The stairwell."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You feel like trying something new for dinner? Maybe Indian, Tex-Mex?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You ever wonder how humans would be different if they evolved from lizards instead of mammals?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, let’s talk about that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "As you know, lizards, cold-blooded animals, lack the ability to sense temperature. But they do move more sluggishly when it’s cold. So, lizard weathermen would say things like, bring a sweater, it’s slow outside. I love my mind."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We all do. Now, how about dinner?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I would assume we’d enjoy insects or smaller lizards. We could also pull each other’s tails off and grill them, they’ll just grow back. Oh! My life-size cardboard Mr. Spock is here! I know he wouldn’t care for an outburst of human emotion, but, oh goodie, oh goodie, oh goodie. Commander Spock requesting permission to be unfolded."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "direction": "(seeing Penny’s door open and the girls inside)",
+      "text": "Excuse me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Permission granted, Commander."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Which is why the more intelligent the monkey, the more faeces they fling."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Excuse me, Amy. Penny, do you have plans for dinner tonight?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why, you guys going somewhere?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, I mean just you and me."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You mean, like a date?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Not like a date, a date."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Ooh!"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Ooh!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Um, o-okay. Sure."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Ooh!"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Ooh!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, no! They sent the wrong Spock! Live long and suck it, Zachary Quinto."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "This is so exciting. If Leonard and Penny get back together, Howard and I can go on double dates with them."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "How come you never invite Sheldon and me on a double date?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Mm, uh… How’s it going in there, Penny?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Just a sec. (Emerges in revealing slinky green dress) Too much?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, just hang on."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You just can’t handle her raw sexuality, can you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "When did you and Leonard break up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh, about two years ago."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Why do you think he asked you out again?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I don’t know."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Maybe he’s dying. That would be so romantic."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "He’s not dying."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Too bad. If he were, she could just throw him in bed and ride him right up until he flatlines."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "How about this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Maybe."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Come on."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, okay, no."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Do you think you’ll sleep with him tonight?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Absolutely not. Look, we’re just gonna have dinner and, you know, see how it goes."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "If he were dying, would you sleep with him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Assuming he were dying of something that couldn’t be sexually transmitted. You know, like a spear wound to the head."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, he is not dying."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "How do you know? Are you a doctor?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You can make-believe, though. Sometimes Howard and I pretend that his arrhythmia is acting up and I’m a sexy cardiologist. And the naughty part is I’m not in his HMO network."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Screw it. I’m not gonna make a big deal out of this. It’s just dinner."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "With a dead man."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Amy, stop it. Oh, God, I’m so nervous."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Relax. You know Leonard’s always been crazy about you. It’s gonna be great."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I know, but we’ve finally gotten to a place where we can hang out without it being weird. And what if something goes wrong? Then what?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Guess it’ll just be Sheldon and me going on a double date with Howard and Bernadette."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Sure, we’d love that. Change your clothes, we got a lot riding on this."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment. The guys are playing a board game."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Mm. I want to build a road, but I need wood. Do either of you fellows have wood? (Raj and Howard snigger) I don’t understand the laughter. The object of Settlers of Catan is to build roads and settlements. To do so requires wood. Now, I have sheep; I need wood. Who has wood for my sheep?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, how do I look?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, more to the point, why are you doing this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What are you talking about?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Did you forget what Penny did to you? It took you two years and defiling my sister to turn that frown upside down."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I didn’t defile your sister, we had a relationship."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I heard you call her Brown Sugar. In my book, that’s defilement."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You want to know my opinion?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, boy, do I?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Sarcasm?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, then. The reason you’re fixated on a good-natured simpleton like Penny is that she’s the exact opposite of your first romantic attachment, your brilliant yet intimidating mother."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Where on earth did you get that from?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s in her book, Needy Baby, Greedy Baby."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That doesn’t make it true."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s called non-fiction for a reason, Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "See you later."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "If they ever make a movie version of that book, you know who should play Leonard’s mother? Sandra Bullock."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Because she’s great in everything."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Now, where were we? Oh, yes. Does anyone have any wood? Oh, come on! I just want wood. Why are you making it so hard?"
+    },
+    {
+      "type": "scene",
+      "text": "A restaurant."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, do they have a name for a first date with someone you used to go out with?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, that’s a good question. How about awkward?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, that sounds right."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, how about if we pretend we’re actually on a first date? See how that goes."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, Polly, tell me about yourself."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It’s Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, sorry, yeah. Awkward."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, uh, let’s see. I’m from Nebraska, and ever since I was a little girl, I dreamed of moving to L.A. and becoming a movie star. Anyway, after four years of acting lessons and waiting tables, I’ve done a haemorrhoid commercial and a production of Anne Frank above a bowling alley. So, you know, dreams do come true. Your turn."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, let’s see. Uh, I am an experimental physicist at Cal-Tech, most of my research is with high-powered lasers, and, oh, I’ve just gotten a big government grant to see if they can be used to knock out incoming ballistic missiles."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wow. Can they?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, God, no. The money’s pretty good. And I used the equipment to make my own Bat-signal."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Bat-signal? What are you, some kind of nerd?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Not some kind of nerd, I am the king of the nerds."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What does that mean?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, it means if anyone displeases me, I don’t help them set up their printer."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You are so funny."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Good. Remember that when I take my shirt off."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Leonard, this is nice. I’m so glad we did this."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Me, too. So what do you think? Are we gonna get back together?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Whoa. Not so fast."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m sorry, what did I say?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Leonard, you know I will always have feelings for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, God."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You said always. You’ll always have feelings for me."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, that sounds more like something you’d say if you didn’t want a relationship with someone. This isn’t working out, but I’ll always have feelings for you. I’m sorry I slept with your best friend, but I’ll always have feelings for you. Here’s the thing, Lisa, I’m into dudes now, but I’ll always have feelings for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "How would you say it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I have feelings for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It’s the same thing."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, it’s not. Always made it worse."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You’re overthinking this."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, I’m not."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yes, you are. You always overthink things."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Ah now th-th-there you go. Always made it worse."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "See, this is where everything goes wrong, when we talk."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, I don’t know how you have a relationship without talking."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, I went out with this guy TJ for eight months, we never talked. To this day, I don’t even know what TJ stands for."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Wait, if you guys didn’t talk, what did you… never mind, stupid question."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And now that I have some wood, I’m going to begin the erection of my settlement."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "He’s got to be doing this on purpose."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "direction": "(as Leonard enters)",
+      "text": "Ooh, eight thirty. You and Penny decide to go out and paint the town beige?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re thirty years old and you live with your mother."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I guess it didn’t go well."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "We don’t know that. Not to a certainty. All we know is that Leonard is home."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "direction": "(as Leonard groans loudly in his room)",
+      "text": "How about now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Again, not enough evidence. For all we know, he’s being murdered. Now, back to our game."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You were in the middle of an erection."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, of course. It’s right here in my hand."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s bedroom. Leonard’s phone text signal sounds."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What does she want from me now? (Goes to front door, where Penny is waiting) What’s up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Do not overthink this. (Kisses him, then leads him to her apartment.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t understand."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Bup-bup-bup-bup-bup-bup-bup."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, but earlier it seemed like…"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No talking."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Even during? ‘Cause sometimes I have questions."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s bedroom. They are in bed."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, that was fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, except for when I got the foot cramp."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You hung in there, though."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, there was a lot at stake."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So what do you want to do now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, I want to go get my asthma inhaler, but it might ruin the moment. Just, just help me out here. How does a miserable date end in sex?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I don’t know, it’s complicated."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, I’m a pretty smart guy, and right now my brain has dibs on the blood supply, so give it a go."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, it’s just, at the restaurant when you said you wanted us to be together again, it got very real very fast and I panicked."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why? What are you afraid of?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, what if we do go out and I do something stupid and dump you again?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What if I dump you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Come on, be serious."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, how about if we don’t think about this as a relationship? It could be more like a new version of software. Penny and Leonard 2.0. We can test it internally, shake out the bugs, and if we both feel it’s solid, then we’ll roll it out to the public."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So we don’t tell people we’re back together?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Exactly. We pretend like our date went badly."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, we don’t really have to pretend."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "And we let them think that we decided to just be friends and that everything’s cool."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, great. Hey, I just remembered. I still got one of your inhalers."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I can’t believe you kept this."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, I was gonna throw it away, but I just couldn’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That is so sweet. In 25 to 30 minutes I’m gonna show you how much this means to me."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment. Leonard is sneaking back in."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, hi, hi. How’s it going?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Uh, can’t complain. Thanks for asking. Well, what were you doing out at three o’clock in the morning?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, uh, uh, what are you doing up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I was using the bathroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, well, so was I."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Really? I didn’t see you in there."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Obviously, when I saw that you were in ours, I went and used another one."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Where?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "The, the gas station across the street."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "In your pyjamas?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Without shoes?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "On a cold winter’s night?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Seems unlikely. Did you bring your asthma inhaler?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, uh, uh, yes, I did."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, then, I guess it’s plausible. Hang on a second, mister."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "After you used the facilities at the gas station, did you make a purchase?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s customary, when using the rest room at a retail establishment, to make a small purchase. Did you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Here’s two dollars. Go buy some beef jerky."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t want beef jerky."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s not about you. It’s about a poor immigrant from Pakistan trying to make his way in America by working the graveyard shift at the Colorado Boulevard Chevron."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Needy Baby, Greedy Baby indeed."
+    },
+    {
+      "type": "scene",
+      "text": "The Cheesecake Factory."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard will be here in a moment. He’s looking for a different parking space."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "We were next to a car with an ask me about my grandchildren bumper sticker, and I was afraid if we ran into them on the way out, I’d be obligated to do so."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I’m so disappointed it didn’t work with him and Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Me, too. Out of deference to them, let’s not flaunt our happy relationship."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You have a keen insight into the human heart, Amy Farrah Fowler."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We are next to a Suburu with a Gore/Lieberman bumper sticker."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I doubt they’d want to talk about that, so we’re fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m surprised to see you here after it went so badly with Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, hey, we’re grown-ups. We can still be friends."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Boy, I don’t know if I could be friends with Howie if we broke up."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Why not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I’m a very vengeful person."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Really?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "With access to weaponised smallpox."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Here you go, guys, let me get you going with some water. You need menus or you know what you want?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Leonard knows what he wants, but it looks like he’s not gonna get it from you."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Howard."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, that’s okay, Bernadette. Sometimes these things just don’t work out."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, it’s all good. We-We’ll always have feelings for each other."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, that’s nice."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "See, she knew what always meant."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wow, you’re like a dog with a bone, aren’t you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m just making a point."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Is the point that you don’t know when to let something go?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "People, people, please, before you say something you both regret, I’d like to place my order."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, just hang on, Sheldon. You know why we can’t be together? Because you always have to be right."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, that is not true."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’ve got to go with Leonard on this. He is wrong more than anyone I know."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know what? I just realized I’m on a break. I’ll get someone else."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard, promise me that when our new waitress comes over, you will not start a complicated on-again, off-again relationship with her, because I am very, very hungry."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s bedroom. Text signal."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Unbelievable. (Goes to door)"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Mind explaining to me why you were being such a jerk at the restaurant?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, I was trying to act like we weren’t seeing each other. That was the plan, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, the plan was to tell people we decided to stay friends. That’s a little hard to do when you’re always being such a tool bag."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You know what? I don’t have to stand here and take this crap. (Goes to Penny’s apartment.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "The hell do you think you’re going?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Isn’t sex after fighting kind of what we do now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, kind of, yeah."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What are we doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What do you mean?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Every scenario I play out for you and me ends badly."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That’s because you overthink everything."
+    },
+    {
+      "type": "direction",
+      "text": "Sheldon’s voice: Leonard, are you listening to me? (Leonard is in the hallway with Sheldon. It is the opening scene, and Sheldon has just found his cardboard Spock.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What? Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "This is a disaster. I distinctly ordered the Leonard Nimoy Mr. Spock cardboard standee. Why would I feel safer with Zachary Quinto at the foot of my bed?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know, he was pretty badass on Heroes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re right, I’ll give him a shot."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hang on. Penny, do you have plans for dinner?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why, you guys going somewhere?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, I mean just you and me."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Ooh!"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Ooh!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh, have you thought this through?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes, and I think we should go anyway."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, can’t do it. Sorry, Quinto, you’re going back."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "If you and Leonard get back together, Sheldon and I will finally have someone to go on double dates with."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What about me and Howard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Fine, we can double with you, too. So insecure."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Where are you guys going to eat?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Penny?"
+    },
+    {
+      "type": "direction",
+      "text": "(In her imagination, Penny is transported to her wedding day.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Minister",
+      "text": "Do you, Penny, take Leonard to be your lawful wedded husband?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(turning, heavily pregnant)",
+      "text": "Well, it’s a little late for me to start saying no, isn’t it?"
+    },
+    {
+      "type": "direction",
+      "text": "(Back in the bedroom)"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Penny?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sorry, just remembered I’ve got to stop by the drugstore."
+    }
+  ]
+}

@@ -1,0 +1,1288 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 2,
+  "episode": 16,
+  "title": "The Cushion Saturation",
+  "url": "https://bigbangtrans.wordpress.com/series-2-episode-16-the-cushion-saturation-3/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The paintball range."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That was close."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "God, I love the smell of paintballs in the morning."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, still funny, Raj."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "There’s no way we can get to the ridge. The Chemistry Department has us completely cut off."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "But what about the creek bed?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The Pharmacology Department controls that, and they’re all hopped up on experimental steroids."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, that’s it then, we’re doomed."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I think the time has come to acknowledge that we are paying the price for some of us failing to attend my Physics Department paintball strategy meeting."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I told you my mom has spider veins, I had to take her to the laser clinic."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And I told you I wanted to see a doctor’s note."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "We need a plan. How about Operation Hammer of the Gods?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I forget. Which one is Hammer of the Gods?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "We hide behind the Dumpsters in the parking lot and ambush people when they come to pee."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No go. The Dumpsters are deep in Astronomy Department territory."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, that shouldn’t be a problem, Venus is up during the day. They’re probably just all staring at the sky."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, what we need now is a tactical retreat. Did you see the episode of Stargate where they found themselves on a planet with a culture based loosely on Earth’s Athens and Sparta? Not important. Leonard, Raj and I are going to burst out the door and run away, Howard will cover us."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Why don’t I run away and you cover me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Because you chose your mother’s veins over victory. On three. One, two, three, go!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I had to take her! It’s almost bathing suit weather!(Another player bursts through the door)"
+    },
+    {
+      "type": "direction",
+      "text": "I surrender! Don’t shoot! They went that way!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Howard, I’m on your team."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, Leslie, thank God."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Where’s the rest of your squad?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Ah, they left me here to die. What about yours?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Dead, all of them."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Don’t be. It was friendly fire. They just wouldn’t listen."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, we’re surrounded, so I guess there’s nothing for us to do but wait to be captured or killed."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Hmm, that’s the worst part, the waiting."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "All the while knowing that there’s a paint pellet out there with your name on it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Yeah, the big wet ball of death. Kind of makes you feel more alive, doesn’t it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It kind of does."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "I say we make every moment count."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I agree. How exactly do we do that? (Leslie kisses him)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "direction": "(voice)",
+      "text": "Howard, why aren’t you covering us? We’re getting slaughtered out here!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "War is hell."
+    },
+    {
+      "type": "scene",
+      "text": "The university cafeteria."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Did you guys see the new budget memo that went out this morning?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, more cutbacks."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Unacceptable. It baffles me why they don’t simply let some of you go so that there’s money available for my research."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You know what baffles me, Sheldon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Based on your academic record, any number of things, I would imagine."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Hey, guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, Leslie."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Howard, I got the approval for the rapid prototyper you wanted."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That’s great, Leslie. Thanks."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "You scratch my back, I scratch yours. Rawr."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What was all that about?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, uh, no big deal. They gave Leslie control of some unrestricted grant money."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, okay, but what’s with the back-scratching and the meow!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I believe the back-scratching metaphor generally describes a quid pro quo situation where one party provides goods or services to the second party in compensation for a similar action."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The mrow, that sounded to me like an African civet cat."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Are you done?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. Despite what the name suggests, the civet cat is not a true cat. Now I’m done."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You know what I’m thinking? I’m thinking Howard wasn’t making a back-scratching metaphor. I’m thinking there was some actual scratching involved."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What about it, Howard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, I didn’t want to say anything ’cause I know you and Leslie have a little history."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t care about that."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Great, ’cause I’ve been dying to say something."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You and Leslie?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "In the paintball shed! Twice!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Is that why you didn’t cover our escape and let us get cut down like animals?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, yeah, sorry about that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "My good man, dereliction of duty in the face of the enemy is a court-martial offense."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Court-martial, schmort-martial, Leslie Winkle is the fifth girl I’ve ever had sex with. I mean, for free."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "And plus, you got a rapid prototyper. That’s an expensive piece of equipment, dude."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "And the rest of us have had our budgets cut to the bone."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, one way to look at this is that I’m getting new equipment, and you’re not, and that’s unfair. But a better way to look at this is that I’m getting sex and you’re not, and that’s delightful."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment. Leonard is looking at Penny’s laptop."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "The whole thing froze. I don’t know what happened."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Calm down. We’ll figure it out."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "How can I calm down? I’m gonna lose my whole shopping cart. That’s three hours of picking out shoes just shot to hell."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hello, Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hello, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re in my spot."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Are you planning on sitting here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, I’m going to the comic book store."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Then what difference does it make?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What difference does it make?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Here we go."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That is my spot. In an ever-changing world, it is a single point of consistency. If my life were expressed as a function on a four-dimensional Cartesian coordinate system, that spot at the moment I first sat on it would be zero-zero-zero-zero."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Don’t sit in his spot."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Fine. (Moves) Happy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m not unhappy."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Boy, I love him, but he is one serious wackadoodle."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, that should do it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, thank you. You are a lifesaver."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s a lot of shoes you ordered."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, you know the sad thing is, it’s really not. Ooh, is this one of those paintball guns?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah. You ought to come out with us sometime."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, no, thanks. I’m from Nebraska. When we shoot things, it’s because we want to eat them or make them leave our boyfriends alone. (Gun goes off and shoots three paint pellets onto Sheldon’s spot.)"
+    },
+    {
+      "type": "scene",
+      "text": "Howard’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Boy, your heart’s racing. I must’ve really gotten you going."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, it’s partly you, partly my transient idiopathic arrhythmia."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Sexy."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Can I assume that you likewise found the experience…"
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Satisfactory?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That wasn’t quite the word I was looking for, but sure, I’ll do this pass-fail."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Hey, are you enjoying that prototyper I got you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, it’s great. Everybody in the Engineering Department is eating their hearts out."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Isn’t it nice when your good fortune makes others miserable?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You know, most people don’t get that."
+    },
+    {
+      "type": "direction",
+      "text": "Howard’s Mother (voice): Howard, I’m home!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, great."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard’s Mother",
+      "direction": "(voice)",
+      "text": "Book club was cancelled! That thing on Phyllis’s neck opened up again!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m busy, Ma!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard’s Mother",
+      "direction": "(voice)",
+      "text": "Too busy to help your mother with her zipper?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Don’t come in, Ma!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard’s Mother",
+      "direction": "(voice)",
+      "text": "Why not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "He’s got company!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, there’s the arrhythmia."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard’s Mother",
+      "direction": "(voice)",
+      "text": "Is she Jewish?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Are you Jewish?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yes!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard’s Mother",
+      "direction": "(voice)",
+      "text": "Okay, then you kids have fun! Use protection!"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment. Leonard is trying to wash the paint off Sheldon’s seat."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You think he’ll notice?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "There’s a chance."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, what are we gonna do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We? No, no, no, you had your chance to be we for, like, a year and a half now. Right now, you are you, and you are screwed."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why do we have to tell him I did it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, we’re not gonna tell him I did it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, okay, how about this? We tell him somebody broke in."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Just to shoot the couch with a paintball gun?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’m sorry, I buy it. All those people are on drugs."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We could tell him they wanted the couch to stay away from their boyfriend."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, fine. Well, what if we just flip it over? There. Looks fine, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Mm, butt print. There’s no discernible butt print."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, come on. (Sits and wriggles around) There, butt print."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s too small and too perfect."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re welcome."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(as Sheldon enters)",
+      "text": "Shh! Act normal."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon! How was the comic book store?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Fine. The new issue of Flash is out."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Great, great. Did you walk the whole way? It’s a little chilly."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Koothrappali picked me up."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Isn’t that terrific? He is such a good friend. You know what the best thing about friends is?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "They don’t talk incessantly for no particular reason."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, no, friends forgive the little things."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know, I gotta go home and wash my hair."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Don’t you dare, missy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hello, fastest man alive. Want to see me read your entire comic book? Want to see it again? Something’s wrong."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What do you mean?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m not sure. It doesn’t feel right."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know what you’re talking about. Oh, that. Penny did that."
+    },
+    {
+      "type": "scene",
+      "text": "The same. Everyone is eating. Sheldon is perched on the back of Leonard’s chair. He keeps making moaning noises. Saying “Excuse me” he tries moving back to his spot, but the cushion is not there. He tries perching on the arm in various positions."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why don’t you just eat in your desk chair?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why don’t I just eat in my desk chair?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Here we go."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That is my desk chair, that is where I work. I don’t eat in my desk chair and I don’t work in my spot. I work in my desk chair and eat in my spot."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Wackadoodle."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You know, there’s kind of an obvious solution here. (To Raj) Get up. (Raj does. Howard moves his cushion across to Sheldon’s spot) There. Problem solved. (Raj whispers to him) Nobody cares where you’re going to sit. You’re not crazy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Excuse me, but the problem is not solved. If your head had been accidentally amputated, and we transplanted a dog’s head in its place, would that be “problem solved”?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "If it were your head, it would be."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon, I am really, really sorry, but it’s only for a week. Can’t you be a little bit flexible? Yeah, sorry. I didn’t really think that through."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You claim it’s going to be a week, but I have no faith in your dry cleaner."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Did you notice the sign on his counter? He’s not a full-time dry cleaner. He also makes keys."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, for God’s sake, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Focus is important. Was Michael DeBakey a wedding planner in between heart transplants? Did Alexander Fleming moonlight as a hairdresser? “Thanks for discovering penicillin, now how about we try a bouffant?”"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "direction": "(after his phone rings)",
+      "text": "Ooh, looks like I’m gonna have sex tonight. Hey, baby…"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "His right hand is calling him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, it’s Leslie Winkle. It’s a long story."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’ll pick you up in ten minutes. Gentlemen, adieu."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I thought we were going to play Halo tonight."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What am I supposed to do, Leonard? There’s a woman out there anxious to have sex with me. You understand, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No. Not at all."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Nevertheless, I must depart. By the way, did I tell you? Leslie pulled some strings and got me on the research trip to Geneva to check out the CERN Supercollider."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s not fair. You’re not even a physicist."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, there are two ways of looking at this…"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Get out."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Bye."
+    },
+    {
+      "type": "scene",
+      "text": "Howard’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "You’re improving."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Thank you. It helps when I get to practice with a real woman."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Hey, listen. Saturday my sister’s getting married. I.. I want you to come with me. It’s black tie."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, gee, I’d really rather not."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Why not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "When I go to weddings, it’s to scam on chunky bridesmaids. I don’t know what I would do with a date."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Oh, all right. I understand."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Thanks."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Hey, I’m really sorry about that Geneva trip."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What about it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Oh, didn’t you hear? I had to reduce the number of people going, and you didn’t make the cut."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "When did that happen?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "About 12 seconds ago."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, hold on. Are you saying if I don’t go to the wedding, I can’t go to Geneva?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Actually, I’m trying not to say it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, I’m sorry, but that makes me a little uncomfortable."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "How so?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Because it’s like you’re controlling me with new equipment and research trips."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Well, if I weren’t controlling you with new equipment and research trips, then I’d be uncomfortable."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "How so?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "‘Cause then we’d be in, like, a real relationship with feelings and all that crap."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So, bottom line, I’m just a bought-and-paid-for sex toy."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "No. No, not at all. You’re also arm candy. So? What do you think?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, Ma, you got to rent me a tux!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard’s Mother",
+      "direction": "(voice)",
+      "text": "Right now? What kind of sex are you having up there?"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why are you crouching there?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "This is my spot. Where else am I supposed to crouch?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know. Texas?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(arriving with cushion)",
+      "text": "Here you go. Fresh from the cleaners, good as new."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Really? Great. Sheldon, look. Good as new."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "From that key maker, I highly doubt it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Come on, Sheldon. Just give it a try."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "There, nice and comfy cosy. Zero, zero, zero."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "There’s one more zero. You forgot the time parameter."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sit on the damn couch."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Nope."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What do you mean, nope? What’s wrong with it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Nothing, it’s what’s wrong with him."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It’s exactly the same…"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Penny, Penny, I think I know what to do. Sheldon, I have some bad news."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "More?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m afraid so. You know the cashew chicken I get you Monday nights?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes. From Szechuan Palace."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Szechuan Palace closed two years ago."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What? Wh-Where did my cashew chicken come from?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Golden Dragon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. No, this isn’t right. Our food always comes in Szechuan Palace containers."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, well, before they went out of business, I bought 4,000 containers. I keep them in the trunk of my car."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But. Oh, this changes everything."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I thought that might take his mind off the cushion."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What’s real? What isn’t? How can I know?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You did make that up, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, God, I wish I had."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, buddy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I still don’t like this cushion."
+    },
+    {
+      "type": "scene",
+      "text": "The paint ball range."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, first of all, Penny, thank you for coming."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Thanks for the shoes."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Penny is an amazing shot. I think we have a real chance to win this week."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What’s the plan?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay. Now, we all run out. Sheldon and I will cut to the left behind these trees. Raj, Howard and Leslie flank to the right behind the rocks. Then we’ll all have a great view as Penny runs out and kills everyone else in sight."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Right, just one thing before we start."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What is it, Sheldon? (Sheldon shoots Penny)"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What the hell?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That was for my cushion."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, Penny was our only hope."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m sorry, Leonard. But revenge is a dish best served cold."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Screw that. (Shoots Sheldon)"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "She can’t shoot me. She’s dead."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "He’s right. You can’t. (Shoots Sheldon)"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, if we’re going to descend into anarchy (Shoots Leonard)"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, see you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Where are you going?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Surrender, then Denny’s."
+    }
+  ]
+}

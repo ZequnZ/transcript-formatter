@@ -1,0 +1,1290 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 10,
+  "episode": 3,
+  "title": "The Dependence Transcendence",
+  "url": "https://bigbangtrans.wordpress.com/series-10-episode-03-the-dependence-transcendence/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The new laboratory."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It’s pretty late. You think I’ve got time to run some more simulations on the cooling system?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sure, I’m still figuring out the thermo-acoustic expander."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, while you do that I am going to pump cerebral spinal fluid through my brain cells to remove the metabolic by-products of the day’s thoughts."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s called sleep and it’s my bedtime. Nighty-night, y’all."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, hey, hey, you’re not going anywhere."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We only have two months to deliver this to the Air Force because of you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I know, I was there."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, wake up, we’re gonna put in a lot of late nights."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "How late?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, I don’t know, midnight, one."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "One o’clock? I’m not a raccoon."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "If you’re tired, have some coffee."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What? You have some coffee."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I am having coffee."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And look how irritable it’s making you!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Guys, we’re not gonna get anything done if we start fighting. Now, can you please try"
+    },
+    {
+      "type": "direction",
+      "text": "to soldier through?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Fine. (Time passing montage) I don’t think I can go much longer."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s been three and a half minutes, wake up."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I had a bad dream that my best friend became a tyrant and forced me to stay up all night to work."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, I had a good dream that when I carried you to bed, I let your head hit the wall and I laughed."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Good morning."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What is this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, we didn’t see you last night, we’re not gonna see you today, so we thought we could have breakfast together."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, that is so nice."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Ow, it does hurt."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, what are you guys gonna do today?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, Sheldon was supposed to go to this party with me this afternoon, but I don’t think that’s happening."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, that was never happening."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, I’ll go. I like a party."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, to be honest, it’s not like a party party, it’s more like a gathering where scientists of different disciplines get together to share their work and keep current on what’s going on in other fields. I don’t know why I called it a party, sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It’s okay, I’ll still go."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You don’t think you’ll be bored?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, I’ll have some wine and listen to people go on about crap I don’t understand. I mean, how is it any different than every single day of my life?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I won’t be there."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": ": Look at that, it is a party."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s kitchen."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sorry I have to work all weekend."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "It’s okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Thanks again for breakfast."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, I didn’t get to see you last night. It was the least I could do."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You shouldn’t have made the alarm code his birthday."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "So, what should we do today?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, I appreciate it, but you don’t have to spend your day off with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, I don’t mind. Oh, you want go to the mall and look at baby stuff?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Not really."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, come on, we could share a pretzel and get sideways glances from racist old ladies."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I get enough of that when I take Howard to my grandmother’s for Christmas."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, I know, why don’t we get started on clearing out the baby’s room?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Isn’t it a little early for that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You have to get to it eventually."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, there’s so much junk in there, it’s embarrassing."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "How can you be embarrassed around me? I’m gonna be in the room with you when you give birth."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I don’t think you are."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You didn’t think I was gonna be in your kitchen this morning, yet here I am."
+    },
+    {
+      "type": "scene",
+      "text": "In the university, Sheldon is asleep against a vending machine."
+    },
+    {
+      "type": "dialog",
+      "character": "Voice",
+      "text": "Psst, hey, kid."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Huh, what?"
+    },
+    {
+      "type": "dialog",
+      "character": "The Flash (the voice)",
+      "text": "You look tired. Why don’t you have an energy drink? Everyone’s doing it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, no, thank you, those have caffeine in them."
+    },
+    {
+      "type": "dialog",
+      "character": "The Flash",
+      "text": "Oh sorry, I thought you were cool."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I am cool. This is Yoo-hoo, chocolate milk’s delicious watery cousin."
+    },
+    {
+      "type": "dialog",
+      "character": "The Flash",
+      "text": "All right. But if you ever want to feel like you have superpowers, try one of these."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Superheroes take performance-enhancing chemicals?"
+    },
+    {
+      "type": "dialog",
+      "character": "The Flash",
+      "text": "You bet. You know why Hulk is so strong? Steroids. You know why Batman wanders around at night getting into fights? Scotch."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I am facing a great deal of work. And I do like things better when famous people also like them."
+    },
+    {
+      "type": "dialog",
+      "character": "The Flash",
+      "text": "Here. It’s on the house."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The first one’s free? Flash, how do you stay in business?"
+    },
+    {
+      "type": "dialog",
+      "character": "The Flash",
+      "text": "You want to know my secret? I bought stock in Marvel."
+    },
+    {
+      "type": "scene",
+      "text": "Bert’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hi, Bert. This is my friend, Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Bert",
+      "text": "Hey, come on in. I’ll gonna go turn on some rock music. That’s a geology joke."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Bert’s a geologist."
+    },
+    {
+      "type": "dialog",
+      "character": "Bert",
+      "text": "And a joker."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "How early are we?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, actually, we’re an hour late."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I suddenly wish Sheldon was here."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s spare room."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I don’t even know where to begin."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, in The Sound of Music, Julie Andrews says let’s start at the very beginning, a very good place to start."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, I was gonna start at the end. Thank God you’re here."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, I think the first thing we should get rid of is that tone."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Sorry. I should probably keep this in case we have a girl."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, that’s a nice one. Was it yours when you were little?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "My dad built it for me."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Wow, it’s so cute."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "This was the husband and this was the wife. They’d go out on adventures together. Cruises, skiing, horseback riding. That was really me just duct taping them to our dog."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, and did they have kids?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "They did, but the mommy and daddy didn’t like them, so they shipped them off to an orphanage I made out of a shoebox."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, that’s not worrisome at all."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Not every girl dreams about being a mom. Sometimes you think you’re never gonna have kids and one day you wake up and you’re pregnant. And it doesn’t matter that your career’s going great right now and that you and your husband never even got to go anywhere taped to a dog."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I skipped spin class for this."
+    },
+    {
+      "type": "scene",
+      "text": "The lab."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Why is it taking him so long to get a drink out of a vending machine?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, it’s complicated. He finds pushing that little door and reaching up into the machine"
+    },
+    {
+      "type": "direction",
+      "text": "uncomfortably intimate."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Gentlemen, I am ready to work. To quote The Martian, let’s science the faeces out of this. That’s The Martian the book and The Martian the movie, not Marvin the Martian. Although to quote Marvin the Martian, I claim this planet in the name of Mars."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Are you okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I’m fantastic, never been better. I had my first energy drink and I feel great. Hey, you guys want to wrestle? We can do arm, thumb, mud, sumo. Nah, we’re not fat enough, or wearing diapers."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You wanted him awake."
+    },
+    {
+      "type": "scene",
+      "text": "Bert’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So should we talk to each other or mingle?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I don’t know where everyone is."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, I mean, I could see him eating one or two guests, but not a whole party."
+    },
+    {
+      "type": "dialog",
+      "character": "Bert",
+      "text": "Well, I guess this is kind of a bust. You don’t have to stay. I’m gonna start cleaning up."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Okay. I feel so bad about leaving him here."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, it’s funny, I was just thinking the same thing about you."
+    },
+    {
+      "type": "dialog",
+      "character": "Bert",
+      "text": "Hey, listen, could you not say anything about this to the people at the university? You know, ’cause you’re you and I’m me, and it’s kind of embarrassing."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wait, what do you mean she’s her?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bert",
+      "text": "Well, you know how Amy’s the coolest girl on campus, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Bert",
+      "text": "Oh yeah, everybody thinks so."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What? You tell me about your foot fungus, but this is a secret?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’m sure it’s just ’cause I’m dating Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Bert",
+      "text": "Mm, actually, I think Sheldon’s popular because he’s dating you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Now Sheldon’s popular? What is happening?"
+    },
+    {
+      "type": "scene",
+      "text": "The lab."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Maybe we should break for lunch. What time is it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "According to the world’s worst cuckoo clock, it’s two."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "My head hurts and I’m more tired than ever."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Why don’t you just go home?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, I can do this. I just, I just need another energy drink. Oh, no."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I want another one."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s a craving. That’s a sign of chemical dependency."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You only had one."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, I know, but plenty of things are addictive after a single exposure. I mean, crack cocaine, nicotine, Pringles. You know once one pops one just can’t stop."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You can’t develop a problem that fast."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You want to bet? Oh, great, now I’m addicted to gambling."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We can’t afford to lose any more time."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, this probably won’t work, but has anyone ever tried to just haul off and whup the crazy out of him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s not helpful. It’s fun to think about, but it’s not helpful. Hey, Sheldon, we are on a serious time crunch. We can’t do this without you. Can you please pull it together?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m sorry. Yes, of course."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Just, please, bear with me if I display symptoms of caffeine withdrawal."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No worries."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You guys stink."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s kitchen."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Sorry I flipped out on you. I think it’s just hormones."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I think you were mean before you were pregnant, but it’s fine. So, uh, instead of cleaning out the room, why don’t we just decide on a theme for the nursery?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Does it really need one?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Of course it does. Didn’t your baby room have a theme?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Well, it doubled as my dad’s office, and he was a cop, so I guess the theme was bloody homicide photos."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh. Mine was Winnie the Pooh. But anyway, why don’t we just take a step back and start with a colour? Right? There are so many amazing ones. Red, blue, green, purple."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Are you just gonna name all the colours?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, not now."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I don’t care what colour the room is."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, well, I’m just trying to help you."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Well, you’re not, so just drop it. (Off) I’m clearly upset. Why aren’t you following me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Sorry. Sorry."
+    },
+    {
+      "type": "scene",
+      "text": "Bert’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Bert",
+      "text": "And when Amy started using a solution of chromic acid and white vinegar to clean all her lab equipment, all of a sudden, everybody was doing it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You trend setter."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Just the right idea at the right time."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, okay, so Amy’s cool, Sheldon’s cool. Tell me about Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Bert",
+      "text": "Who?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Leonard Hofstadter."
+    },
+    {
+      "type": "dialog",
+      "character": "Bert",
+      "text": "Oh, him. I guess he’s all right. Apparently he tricked some hot girl into marrying him."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That’s me, I’m her. You know, he didn’t trick me, he just wore me down."
+    },
+    {
+      "type": "dialog",
+      "character": "Bert",
+      "text": "It makes sense you two are friends. I mean, hot girls always stick together."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "And you thought this wasn’t gonna be a great party."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know, I had no idea Caltech is exactly like my high school."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, it’s not exactly like it. We’re all extremely smart."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wow, you popular girls are mean."
+    },
+    {
+      "type": "scene",
+      "text": "The lab."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m gonna get some coffee. You want some?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Uh, you’re really going to have caffeine in front of me when I’m trying to get my life back on track?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, okay, let’s pretend you do have a problem."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I do."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You don’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, but I do."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, you don’t. But let’s say you do. And don’t say you do, because you don’t. Now, wouldn’t you think that throwing yourself into your work would be the best way to deal with it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "With what?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Your problem."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I thought I didn’t have a problem."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That was painful to watch."
+    },
+    {
+      "type": "scene",
+      "text": "Bernadette’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "So where are we going?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I don’t know."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay. How Thelma and Louise of us."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Raj, why don’t I care about anything?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m sorry?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "It’s my baby. I, I should care about nurseries and colours, and I don’t. What’s wrong with me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, crime-scene photos near your crib spring to mind."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I keep waiting to feel excited, but it’s not happening. What if it never happens?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Bernadette, come on, look, you’re overthinking this, okay? You’re gonna be an amazing mom. Even if you don’t believe it, I know you have maternal instincts."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Once, I was supposed to babysit my brothers. Our neighbour found them naked in the backyard eating crickets."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Happy and well-fed. You see, that’s what I’m taking from that story."
+    },
+    {
+      "type": "scene",
+      "text": "The lab."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard, can I ask you a question?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Is it about the rotational symmetries you should be figuring out or your fake caffeine problem?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Howard, can I ask you a question?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, I’ll just toss this out to the room. Um, I was thinking that the best way to fight my addiction is by weaning myself off in steps. Now, I couldn’t find a caffeine patch, but I did find what claims to be a mind-boosting caffeine suppository. You know, the interesting fact about the rectum…"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon. We are dealing with an impossible deadline from the Air Force because of you. So have an energy drink, don’t have an energy drink. Order suppositories and shove ’em wherever you want, I don’t care."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You don’t shove them. They come with an easy-glide applicator."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Right. Listen to me. We can’t do anything until you do your part. So get up in front of this whiteboard and do it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I can’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes, you can."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, I can’t figure out the math. I’ve been racking my brain for days, and I’ve got nothing."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Seriously?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I can’t do it. I’m not as smart as I think I am. I’m so sorry. This is all my fault."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s okay, we’ll figure something out."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But what if we can’t?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’ll be fine. You’ll see. Sheldon? Buddy? (Sheldon snores)"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "When the baby gets here, you gotta teach me that."
+    },
+    {
+      "type": "direction",
+      "text": "Bert’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Thank you so much, Bert. This was great."
+    },
+    {
+      "type": "dialog",
+      "character": "Bert",
+      "text": "My pleasure. You girls want to take home a two-gallon tub of potato salad?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I think we’re good."
+    },
+    {
+      "type": "dialog",
+      "character": "Bert",
+      "text": "Okay, well, thanks for coming by. You’re nice people."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, so are you. In fact, you know what? We will never take you for granite. Did you get that? Granite? A little geology joke."
+    },
+    {
+      "type": "dialog",
+      "character": "Bert",
+      "text": "You need to leave. I’m in love with both of you now."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Bye."
+    },
+    {
+      "type": "scene",
+      "text": "Bernadette’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Uh, pull over."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What? Why? Who are you calling? You’re gonna rat me out to Howard, aren’t you? You’re such a snitch, no wonder I don’t like you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Whoa, I’m calling my dad, okay? He’s got experience dealing with pregnant ladies because he’s an OBGYN. And experience with crazy ladies because of my mom."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrapalli (on facetime)",
+      "text": "Hello, Rajesh. Are you calling to ask for money?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What? No."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrapalli",
+      "text": "Are you calling to ask for things that cost money?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrapalli",
+      "text": "Great. What’s up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "This is my friend, Bernadette. She’s pregnant, and she’s a bit worried, so I thought maybe you could talk to her."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrapalli",
+      "text": "Of course. What seems to be the trouble?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Something’s wrong. I don’t care about any of the baby stuff every other mom is so into. Honestly, I’m not even sure I like babies."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrapalli",
+      "text": "Look, some people are baby people, and some people are not baby people. It doesn’t mean you won’t love your own baby."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "But I thought I’d be more excited."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrapalli",
+      "text": "Oh, being excited isn’t a guarantee of anything. Rajesh’s mother was thrilled when she was pregnant with him. After he was born, she doted on his every move. And you know what happened? He broke her heart, moved halfway around the world, and dates only poor white women. So you never know."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Thank you. I feel better now."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well I don’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrapalli",
+      "text": "Good. Bernadette, I hope you have a daughter."
+    },
+    {
+      "type": "scene",
+      "text": "Colonel Williams’ office."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Um, I don’t really know how to say this."
+    },
+    {
+      "type": "dialog",
+      "character": "Colonel Williams",
+      "text": "Well, you could try starting with sir."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Right. Sorry, sir."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "He said start with it, not end with it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sir."
+    },
+    {
+      "type": "dialog",
+      "character": "Colonel Williams",
+      "text": "Hmm?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "We’ve hit a bit of a snag. We’re already behind schedule."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The computations required to overcome the deployability issues are more significant than we thought."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I understand that we’re under contract, and I don’t know what the consequences of violating that are, but, uh, we’re not gonna be able to deliver in the time we promised."
+    },
+    {
+      "type": "dialog",
+      "character": "Colonel Williams",
+      "text": "How long do you need?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "We, we’re thinking, two years."
+    },
+    {
+      "type": "dialog",
+      "character": "Colonel Williams",
+      "text": "All right."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That’s it? You’re okay with that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Colonel Williams",
+      "text": "What, you think you’re the first government contractor who isn’t gonna deliver on time? We’re still waiting for a big space laser Reagan ordered to beat the commies."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thanks for understanding, sir."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yes, thank you so much."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "We, we really appreciate it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard (off)",
+      "text": "All right, pressure’s off"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard (off)",
+      "text": "Wanna see a movie?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon (off)",
+      "text": "Popcorn’s on me."
+    }
+  ]
+}

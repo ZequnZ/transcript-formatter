@@ -1,0 +1,927 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 5,
+  "episode": 14,
+  "title": "The Beta Test Initiation",
+  "url": "https://bigbangtrans.wordpress.com/series-5-episode-14-the-beta-test-initiation/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The apartment. Sheldon is making a video."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hello. I’m Dr. Sheldon Cooper, and welcome to the premiere episode of Sheldon Cooper Presents Fun with Flags. Over the next 52 weeks, you and I are going to explore the dynamic world of vexillology."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hang on, Dr. C. What’s vexillology?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Vexillology is the study of flags."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Cool. I think I just learned something."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Did you have fun doing it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’ll say."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Fun and information are two sides to this video podcast, not unlike the only two-sided state flag, Oregon. Oh, look. Hello, Mr. Beaver. In future episodes, we’ll answer some burning questions. What’s the only non-rectangular flag? What animal appears most often on flags? What animal appears second most often on flags? And more."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sweet!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why are you waving a white flag?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’m surrendering to fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Now, today’s episode of Fun with Flags is not fun, but it is important. Flags: you gotta know how to hold ’em, you gotta know how to fold ’em. Let’s start by identifying the parts of our flag. This edge is the hoist, and it’s used to…"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Excuse me, sorry, excuse me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Cut. Did you not see we are rolling?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sorry. I’m having dinner with Penny. I have to get out of here."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And I have flag knowledge that I have to get out of here!"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, I’m a little rattled. But like the flag over Fort Sumter, I’m still here. And, take two. Hello. I’m Dr. Sheldon Cooper, and welcome to the premiere episode of Sheldon Cooper Presents Fun with Flags. Over the next 52 weeks, you and I are going to explore the dynamic world of vexillology."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hang on, Dr. Cooper. What’s vexillology?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Vexillology is… why is there a face on that flag?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It’s Ferdinand T. Flag. I thought he might help bring in some younger viewers."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Confound it! You’re right, it’s brilliant. Let’s take it from the top."
+    },
+    {
+      "type": "scene",
+      "text": "The stairwell."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That was a really nice dinner. I’m glad you asked me out again."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Me, too, I missed you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You see me all the time. You sure you just don’t miss the sex?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, yeah, sex with you is pretty great. Have you ever tried it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I have. You are not wrong. I just think if we’re gonna try dating again, we should take things slow."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, I can take it slow. Did I ever tell you about my first girlfriend in high school, Karen Berberick? To this day she doesn’t know we were going out. Made it easier on her when I broke things off."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, well, maybe not that slow."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "How about this, are you familiar with the typical development for computer software?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know, just for fun, let’s say I’m not."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Before an application is released, they give it a trial run. W-We could do that. And if we hit a rough spot, instead of getting mad, just say, hey, we found a bug, and we report it so it can be fixed."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You mean like a beta test?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, technically, this would be an alpha test. A beta test requires people that weren’t involved in the development of the appli…"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Seriously, do I not get credit for knowing beta test?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, you should. Absolutely. That was me being pedantic. That’s our first bug. You reported it. I can fix that. See? This is good."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right. Let’s give it a shot."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Great. You keep a list, I’ll keep a list. At some point, we’ll exchange."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay. Good night, Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Night. Attaboy, Hofstadter. Nothing gets the ladies hotter than software development analogies. Hey, I’m back."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Cut! Take 47."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon and Raj’s office."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Here’s an interesting fact about flags."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I will take that action."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The flags of Liechtenstein and Haiti were identical by coincidence, a fact that wasn’t discovered until they competed against each other at the 1936 Olympics. And thankfully, their embarrassment was overshadowed by the rise of Fascism."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Let’s see the new phone."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I stopped on the way to work. Hey, do you want to peel the plastic off with me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Really? Me? That’s, like, the best part."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Grab a corner. Whoa, what’s your hurry, cowboy? Savour the moment."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Speaking of cowboys, do you know what country has not one but two cows on its flag? The tiny landlocked nation of Andorra. Oh, the next classic episode of Sheldon Cooper Presents Fun with Flags is writing itself."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, let me try the voice recognition."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, I let you peel the plastic, don’t get greedy. (To phone) Hello?"
+    },
+    {
+      "type": "dialog",
+      "character": "Phone",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What’s your name?"
+    },
+    {
+      "type": "dialog",
+      "character": "Phone",
+      "text": "My name is Siri."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Look at that. There’s finally a woman in your life you can talk to."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Are you single?"
+    },
+    {
+      "type": "dialog",
+      "character": "Siri",
+      "text": "I don’t have a marital status, if that’s what you’re asking."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, you’re right, that’s too personal. We hardly know each other. How about a cup of coffee?"
+    },
+    {
+      "type": "dialog",
+      "character": "Siri",
+      "text": "I’ve found six coffee shops. Three of them are fairly close to you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I will see you gentlemen later."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "She is gonna break his heart."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "For someone who has a machine that can travel anywhere in time and space, Doctor Who sure does have a thing for modern-day London."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Careful, it’s that kind of sass that can get a person uninvited to this year’s Who Con."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh, we’re not counting this as a date, are we?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Um, I’m not sure, but I think the right answer here is no."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Bug report: When a guy asks me to spend time with him, maybe he plans something a little more interesting than hanging out at home, watching TV."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Even Doctor Who?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Even Doctor Who."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, that’s it. Who Con, you’re out."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, bug report taken. Next time I will have a better plan for our evening’s activity."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, thank you. I’ll see you tomorrow."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, wait, here, almost forgot. Here."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What’s this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "My bug report to you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, that’s quite a list you got there."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s colour coded."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, red means fix right away. Yellow is eh, whenever you get a chance. And green is I could probably learn to live with it. There’s a key down here at the bottom. It’s neat, huh?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yep."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, have a good night."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yep."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Look at that. Some day, we will tell future generations that dating used to be hard."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What’s baffling me is what you could’ve possibly put on the list. Hair too golden? Laugh too musical? World too much a better place for her mere presence in it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "How about constantly talks with food in her mouth?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Her heart’s full of love, no one cares what’s in her mouth."
+    },
+    {
+      "type": "scene",
+      "text": "Raj’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "So, Siri, what’s happening? How are you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Siri",
+      "text": "I am well."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What are you doing right now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Siri",
+      "text": "What am I doing? I’m talking with you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You have a beautiful voice."
+    },
+    {
+      "type": "dialog",
+      "character": "Siri",
+      "text": "Thank you, it’s nice to be appreciated."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I bet it is. Why don’t women like me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Siri",
+      "text": "Let me check on that. How about a Web search for why don’t women like me?”"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No need. I’ve already done that. Siri, do you have a last name?"
+    },
+    {
+      "type": "dialog",
+      "character": "Siri",
+      "text": "My name is Siri."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Ah, one name. Like, uh, Cher, Madonna, Adele. All the women who rock me. My name is Rajesh, but you can call me Raj."
+    },
+    {
+      "type": "dialog",
+      "character": "Siri",
+      "text": "Would you like me to call you Raj?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’d like you to call me sexy."
+    },
+    {
+      "type": "dialog",
+      "character": "Siri",
+      "text": "From now on, I’ll call you sexy. Okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon and Raj’s office."
+    },
+    {
+      "type": "direction",
+      "text": "Siri, I’m in the mood for gelato."
+    },
+    {
+      "type": "dialog",
+      "character": "Siri",
+      "text": "(chimes) I found ten restaurants whose reviews mention gelato. Seven of them are fairly close to you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Thank you, darling."
+    },
+    {
+      "type": "dialog",
+      "character": "Siri",
+      "text": "You are most certainly welcome, sexy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well done, Dr. Koothrappali."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m sorry?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’ve taken a great evolutionary leap by abandoning human interaction and allowing yourself to romantically bond with a soulless machine. Kudos."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I haven’t bonded with it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, no, of course. I understand. You’re afraid the world isn’t ready for your taboo love. Your secret’s safe with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s just a phone."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry Kripke",
+      "text": "Cooper."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Kripke."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Heads up. Pwofessor Wothman urinated in the particle physics wab again, so we’re going to move up his wetirement party. Fwiday, five o’cwock, pot wuck."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Thanks, Barry. Siri, remind me Friday morning to make my famous popovers."
+    },
+    {
+      "type": "dialog",
+      "character": "Siri",
+      "text": "All right, I’ll remind you."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "direction": "(to his own phone)",
+      "text": "You got Siwi, huh? Voice wecognition on that thing is tewible. Wook. Siwi, can you wecommend a westauwant?"
+    },
+    {
+      "type": "direction",
+      "text": "Barry’s Siri: I’m sorry, Bawwy. I don’t understand wecommend a westauwant."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Wisten to me. Not westauwant, westauwant."
+    },
+    {
+      "type": "direction",
+      "text": "Barry’s Siri: I don’t know what you mean by not westauwant, westauwant."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "See? Total cwap. You suck, Siwi."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, don’t talk to her like that. She’s a lady."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Well, that wady took high-wes pictures of my junk wast night for Cwaigswist. Waiter."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment door. Leonard knocks."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It’s open."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey. You ready to go?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, hang on. Let me just finish this chapter."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Can you finish it later?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, I can’t. Reading books is a big part of my life now because, you know, we’d have more fun things to talk about if I read more."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Great. Good. Great. What are you reading?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Two Weeks to Rock Hard Abs."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "They kind of spoil the ending right in the name of that, don’t they? All right. Look, just remember how this works. We don’t get mad about these things. Uh, speaking of which, I’ve addressed your bug report on my date planning. Got a really fun evening for you. It’s kind of a surprise."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right. Terrific. Well, let me just go find a pair of shoes that aren’t so tall. We wouldn’t want you to feel like you were out for a walk with your mommy."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah. Oh. Here’s my list for you, right there."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "All right, fair enough. I certainly can be quieter when we kiss. I thought it was an expression of passion, but if it’s coming across as juicy and weird, who wants that? Uh, uh, I’m sorry, can you be more specific on how my eyebrows are stupid? Nah, never mind, it’s right here."
+    },
+    {
+      "type": "scene",
+      "text": "Raj’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Good timing. Dinner’s almost ready."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Great."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, smells amazing in here."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, what are we eating?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, an exotic little treat. I was just talking to Siri about Peking duck, and she said she knew about four Chinese grocers, two of which were fairly close to me. Her spontaneity is contagious."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Who’s Siri? Is he dating somebody new?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yes. His phone."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh. Is that cute or creepy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Uh-huh."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Can I pour you some wine? I think you’ll enjoy it. The traditional choice with Peking duck is a Sauvignon Blanc, but Siri suggested an off-dry Riesling. I wasn’t sure, but I didn’t want to have an argument with her in the middle of Trader Joe’s. Now, what should we put Siri in for dinner? Leopard, sparkles, or to paraphrase Coco Chanel, you can never go wrong with a little black case. Siri, play some smooth jazz."
+    },
+    {
+      "type": "dialog",
+      "character": "Siri",
+      "text": "Playing smooth jazz."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, my God, Kenny G? This woman can read me like a book. I can’t believe I bought my soul mate at Glendale Galleria."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I don’t know if I want to stay."
+    },
+    {
+      "type": "scene",
+      "text": "A shooting range."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "This is amazing. How did you even get this idea?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I called your dad. I asked him what things you liked to do when you were a kid. This seemed easier than getting a cow out here so you could tip it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, you’re kind of really great."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You mean for a person whose neck massages feel like an eagle is trying to carry you to its nest?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, bug report. I just complimented you. You should take it and shut up."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Right. Sorry, sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "And stop apologizing all the time."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Right. Sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right, let’s shoot stuff. You want me to show you what to do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I play a lot of Grand Theft Auto. I think I know how to handle a gat."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wow. You are cute when you get all gangsta. (Kisses him. Leonard accidentally shoots himself in the foot.)"
+    },
+    {
+      "type": "scene",
+      "text": "The stairwell."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, I’ve got a gunshot wound. That’s pretty badass."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, you’ve got a Reebok with a gunshot wound and an ouchie on your pinkie toe."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hello? They gave me a Band-Aid. Hospitals do not issue Band-Aids unless it is medically necessary. That is the law."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, thank you for a really cool evening."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thank you for hiding my Star Wars socks at the emergency room. Is it a good time to evaluate the beta test and see where we stand?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Things are looking good."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, are we still taking things slow? Because a gunshot wound today, last week, I slammed my thumb in the kitchen drawer. We don’t know how much time I have."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Good night, you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Guten Tag, das YouTube. Ich bin ein Bavarian."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Und ich bin eine pretzel!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Und dis is Sheldon Cooper Presents Fun…"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Mit…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Flags."
+    },
+    {
+      "type": "scene",
+      "text": "An office suite."
+    },
+    {
+      "type": "dialog",
+      "character": "Receptionist",
+      "text": "First door on the left."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Thank you. (Enters a door marked “The Office of Siri” Inside is a red-headed woman sitting at a huge console desk.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Siri",
+      "text": "Dave, I found six vacuum cleaner repair shops in your area. Four are fairly close to you. (To Raj) Hello, sexy. What can I help you with? If you’d like to make love to me, just tell me. (Raj tries to speak) I’m sorry. I don’t understand."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "direction": "(waking from a dream)",
+      "text": "No!"
+    }
+  ]
+}

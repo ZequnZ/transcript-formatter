@@ -1,0 +1,1252 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 10,
+  "episode": 23,
+  "title": "The Gyroscopic Collapse",
+  "url": "https://bigbangtrans.wordpress.com/series-10-episode-23-the-gyroscopic-collapse/",
+  "lines": [
+    {
+      "type": "direction",
+      "text": "After a “previously on” segment."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Champagne, champagne."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "And for the world’s tallest second grader, apple juice."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thank you. No bendy straw, some party."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, a toast. Thank you all for your support while we worked on our Air Force project. And please know that we could not have done it without you, so cheers."
+    },
+    {
+      "type": "dialog",
+      "character": "All",
+      "text": "Cheers."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You know, it’s nice of you to acknowledge us, but this is your accomplishment."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Yeah, you guys did this all on your own."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Without me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "To success without Raj."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "So what happens next?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Phase two, we test it, perfect it, and hope to live long enough to see the movie based on our lives starring more attractive versions of us."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, I’ll definitely live long enough. Vitamin C."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "First thing tomorrow morning, we’re back at it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Without me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I hope his character doesn’t make it into the movie, he’s kind of a bummer."
+    },
+    {
+      "type": "scene",
+      "text": "Outside the lab."
+    },
+    {
+      "type": "dialog",
+      "character": "Computer Voice",
+      "text": "Leonard Hofstadter. Access granted."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hmm. I don’t care if this thing is burning out my retinas, it makes me feel special. Now, before we field test, I think we…"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What the hell?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Where is everything?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Who else has access to this room?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s a secure lab in a classified facility, only the U.S. government and us."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "This is disconcerting."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "But the movie did just get good."
+    },
+    {
+      "type": "scene",
+      "text": "The laboratory ."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sir, I, I, I’m sorry but I just don’t get it. You came into our lab in the middle of the night and took our prototype and all of our research and didn’t even tell us?"
+    },
+    {
+      "type": "dialog",
+      "character": "Col. Williams",
+      "text": "Sounds like you get it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "But why would you do that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Col. Williams",
+      "text": "You guys completed phase one, we’ll take it from here."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Where did you move it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Col. Williams",
+      "text": "I can’t tell you that."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Are you implementing phase two?"
+    },
+    {
+      "type": "dialog",
+      "character": "Col. Williams",
+      "text": "I can’t tell you that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wait, so you’re just going to take all the work we’ve done for the last year and toss us aside?"
+    },
+    {
+      "type": "dialog",
+      "character": "Col",
+      "text": "Williams: That one I can tell you, yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "This is all very upsetting."
+    },
+    {
+      "type": "dialog",
+      "character": "Col. Williams",
+      "text": "I’m sorry to hear that. As you know, the primary focus of the United States military is people’s feelings."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If that’s sarcasm, please save it for our enemies."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I may be moving out soon. I think I found a place to live."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, I’m sorry to hear that."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Really? You kept sending me apartment listings."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Um, well, I, yeah, you got me."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Where are you moving?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "And when? But also where?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Bert has a room for rent."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "So you’re gonna be roommates with Bert?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Uh, no, it’s, uh, pretty private, actually, it’s over his garage. So the only time I’ll see him is when he pulls his car in, does his laundry or practices drums in my dining room."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, good for you. I actually have a little news myself."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, we’re just gonna circle back to when he’s moving out? Okay, that’s cool."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I was, uh, asked to be a visiting researcher at Princeton."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Hey, that’s amazing."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Good for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Congratulations."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Thanks, but the thing is I’ll be gone for a few months and I don’t know how Sheldon’s gonna feel about that."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, come on, he’s a grown man, he can take care of himself."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You really believe that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Once again, you got me."
+    },
+    {
+      "type": "scene",
+      "text": "The stairwell."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "How can you work on something for a year and they just take it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I can’t believe the Air Force would treat us like that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know, I have a good mind to stop paying my taxes. It’s too bad I enjoy doing them so much. The Air Force did it again. They’re erasing our lives."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Third floor, wrong apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Although, if anyone’s gonna clean out your apartment and disappear, it’d be Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "She might disappear, but she’s definitely not cleaning anything."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s okay, everything’s here."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, hey, what’s going on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You won’t believe it, the military confiscated our project."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You’re kidding. Why would they do that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "They wouldn’t say."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I feel so betrayed. You know, all my life I thought Uncle Sam was a friendly uncle who brought you presents. Turns out he’s the other kind."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, I’m so sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thank you. Can we just talk about something else?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, what’s going on with you guys?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Give us some good news."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Amy’s got some news."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Yeah, um, Raj is moving out."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, no. When?"
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s van."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You doing okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Not really."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Want me to put on some Neil Diamond? That always makes you feel better."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No. Then you’ll get all sexed up and I’m not in the mood. I mean, an entire year wasted."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You might be forgetting another accomplishment of the past year."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh. Yeah, yeah, we brought life into the world."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Really? That’s the importance you put on us having a baby?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m happy about it, but, I mean, it’s not like I did much. I mean, after the first three minutes it was pretty much all you."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny (on phone)",
+      "text": "So, did you tell him about Princeton yet?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No, I’m waiting till he’s in a good mood."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, sweetie, you might not live that long."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I don’t know, maybe I shouldn’t go."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, stop it, he’ll be fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I guess. And he’ll have you and Leonard right across the hall the whole time."
+    },
+    {
+      "type": "direction",
+      "text": "Penny; Oh, damn, wait, you know, maybe you shouldn’t go."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Got to go. Morning."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I apologize for exceeding my allotted bathroom time."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Are you feeling okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Not really. Apparently grief can make one less regular."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, I’m sorry to hear that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, I sat and I sat, but to no avail."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, the more details, the more sorry. Well, maybe this’ll cheer you up. I made your favorite oatmeal, plain."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What’s the occasion?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No occasion, I just wanted to do something nice for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re so kind. You know, I don’t know how I ever got by without you."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh. That’s sweet, but you, you did just fine on your own."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I thought that, too, but I’ve come to realize, I am completely dependent on you."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, you’re, you’re being silly."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, to wake up every morning and know you’re there is a great comfort to me. Mmm, tasteless. How do you do it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You know, what you need to do is put this Air Force project behind you and just dive into something new."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, there is our quantum cognition experiment. You and I could spend more time on that."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, I don’t know, I mean, let’s say we succeed in proving that our consciousness creates reality. I mean, what will we have really accomplished? You know, a loaf of bread’s still three bucks."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m confused. You’re always saying that you want to spend more time with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "That is true, I have said that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, a lot, it’s very annoying. Has something changed? Um, is there something that you’re not telling me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I was offered a summer research fellowship at Princeton."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Princeton? A fine institution. The place where Albert Einstein taught. And where Leonard got his PhD, so it may have gone downhill."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Yeah, that’s the one."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, that’s wonderful. Congratulations."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, I haven’t accepted it yet. I wanted to talk to you first."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What is there to talk about? You have to take it. It’s important."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "So are you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thank you, but I’ll be fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Are, are you sure?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes. I may have lost my guidance system and my girlfriend, but I still have a colon full of yesterday’s meals to keep me company. Although, thanks to your high fibre breakfast, I’m sure that’ll be leaving me, too."
+    },
+    {
+      "type": "scene",
+      "text": "A park."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Really? He doesn’t put raisins or banana slices or anything in it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I don’t think plain oatmeal was the point of that story."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I mean, I like a little brown sugar."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You’re still gonna go, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I don’t know. Sheldon’s so vulnerable right now."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, come on. Look, if the roles were reversed, he’d be on the first train to New Jersey, or the second train if there were teenagers on the first one."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Well, distance might be nice. The last time a big project ended for Howie, he wouldn’t stop following me around. He even went with me to get a mammogram."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, what’s wrong with that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "No, he wanted to get one with me, like some kind of weird couple’s massage."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "And yet you bore his child. Neato."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You’re excited about this opportunity, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Of course. I get to be part of the first team to use radon markers to map the structures that…"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, a simple yes will do."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You have to go."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I know, but what if Sheldon…"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, listen to me. Your relationship can handle being long distance for a while. It’s not like you two are very physical."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hey, you don’t know what goes on behind closed doors."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "A lot of lectures?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "All right, so you know."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I’m telling you, if you don’t go you’ll end up regretting it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, wait up."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, great."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You left something at home. A big hug."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I found it right next to these kisses."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "It’s too late for me. Save yourself."
+    },
+    {
+      "type": "scene",
+      "text": "The stairwell."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, are you excited to have your own place again?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I am, but I’ll miss you guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Ah, we’ll miss you, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You could try saying that without smiling."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m trying. This is the best I can do. What are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What does it look like? I’m playing sad harmonica in an apartment as empty as my heart."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I got the blues. My baby done left me."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Come on, Sheldon. Amy’s only gone for a few months. And now that I’m moving out, your old room is empty, so you can stay there whenever you want."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, could I talk to you in the hall for a sec?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, sure."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, you’re being silly."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Am I? Yesterday I had an Air Force project, a girlfriend who lived with me, and my good friend Raj right across the hall."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Do you really care about that last one?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, but that list was sounding a little thin."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Instead of dwelling on the negative, think about this. Your girlfriend was given an amazing opportunity, which gives you an opportunity to show her that you’re a loving and supportive boyfriend."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So trick her."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "All right, let me start again. Uh, you and Amy…"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj (outside)",
+      "text": "Can I get my stuff? Sounds like it’s gonna be a while."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s bathroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I missed you."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Come here, let’s talk."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Ooh. Sounds serious. Have I been a bad boy? Am I gonna get a spanking ’cause you know."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Just listen. I don’t know if you realize this, but whenever you’re between projects, you tend to get a little insecure."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "A little clingy."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I know and I’m sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, oh, oh, okay, stop. Stop. I love when you’re affectionate, but this is not coming from a good place."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, excuse me, but what did you do when you worked on that allergy drug for two years and the FDA shut down your project?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I signed us up for ballroom dance class."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, and what did you do when they took you off the antifungal team?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I made us have a baby."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Bring it in."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "And now the movie just got rated R."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon and Amy’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hey. You going somewhere?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, but you are, so I got you this as a present."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, that isn’t necessary."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, it is. Leonard pointed out to me that I’m not always a loving and supportive boyfriend, so here’s some quality luggage."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The salesman said it could survive a plane crash, so perhaps you should fly inside it."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Does this mean you’re okay with me going?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I’m not looking forward to it, but it is a wonderful opportunity and you need to take it. Besides, Princeton is in New Jersey, so it’s not like you’re gonna want to stay. Uh, I know it’s not your birthday, but if you’re interested…"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I am."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay. Oh, and just to be clear, I’m not being intimate with you in order to keep you from going."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I wasn’t thinking that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, no, it’s just, I’m just warning you, you know, if you find yourself 3,000 miles away and craving a hit of this, you know, I can’t Skype it to you."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "That’s a risk I’m willing to take."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, then. Let’s go to the bedroom, remove our clothes, fold them neatly and engage in frenzied lovemaking."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What if we don’t fold our clothes at all?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Or, what if we fold them?"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment doorway."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, here’s your key back."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "As soon as I have the place set up I’m gonna have you guys over."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, we would love that."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I really can’t thank you enough for taking me in. You know, I was in a pretty low place in my life."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon (off)",
+      "text": "Oh, Amy, you naughty vixen."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Anyway, uh, as I was saying, I was at a pretty low place in my life and, uh, if it wasn’t for friends"
+    },
+    {
+      "type": "direction",
+      "text": "like you…"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy (off)",
+      "text": "My goodness, that form of stimulation is highly efficient."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I can’t compete with that. Bye."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Should we give them their privacy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I want to, but I don’t think I can."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon (off)",
+      "text": "Whoopee!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, I’m good now."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon and Amy’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Okay, the car is waiting. Do you want to walk me downstairs?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Of course. Here, here, let me. I’ve been doing a little research on New Jersey, and I was delighted to learn that their chief agricultural product is sod."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Is it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hmm, yes. Yeah, perhaps I’ve been harder on them than they deserve."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Do you think it’s possible you might enjoy being on your own for a little while?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s hard to say. I’ve never really lived by myself. What if I become strange and eccentric?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’ll love you no matter what."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Howard Hughes saved his urine in milk bottles."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "We’ll cross that bridge when we come to it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And you’ll text me when you arrive at the airport?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I will."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And when you’re at the gate?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Uh-huh."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And if you see any actors from Game of Thrones in first class?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I don’t know what they look like, but sure."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And don’t forget to Skype me when you arrive."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I won’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And every morning."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Got it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Now of course, my 9am is your noon, so let’s avoid the whole good morning, good afternoon minefield, and let’s just say hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Good thinking."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And just remember, I am proud of you and I support you in all that you do."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Thank you. That means a lot."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, and one last thing. If you find yourself working with a male scientist who’s as smart as me, as tall as me and has hair like Thor, well, then I want you to step away from the situation and call me immediately."
+    }
+  ]
+}

@@ -1,0 +1,1110 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 2,
+  "episode": 9,
+  "title": "The White Asparagus Triangulation",
+  "url": "https://bigbangtrans.wordpress.com/series-2-episode-09-the-white-asparagus-triangulation/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The lobby."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Penny, hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What is shaking?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’m sorry?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s colloquial, a conversation opener. So, do you find the weather satisfying? Are you currently sharing in the triumph of some local sports team?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What’s wrong with you? you’re freaking me out."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m striking up a casual conversation with you. S’u’up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Please don’t do that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, But I’m given to understand that when you have something awkward to discuss with someone, it’s more palatable to preface it with banal chit chat."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So, this wasn’t the awkward part?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, all right. S’u’up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, good, I used that right. Anyway, you’re aware that Leonard has entered into a new romantic relationship which includes a sexual component?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, feeling the awkward now."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Her name is Dr. Stephanie Barnett and she is a highly distinguished surgical resident at Freemont Memorial."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, Leonard told me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Good. What he may have left out is how important this relationship is to me."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "To you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, see, of the handful of women Leonard’s been involved with, she’s the only one I have ever found tolerable."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, what about me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The statement stands for itself."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, aren’t you sweet?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Anyway, should you have any interaction with her, it would be most helpful that she not see you as a sexual rival."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, I think she’s pretty safe."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You say that now, but consider the following scenario, you’re sitting in your apartment, it’s late, you’re alone, your hypothalamus is swimming in a soup of estrogen and progesterone and suddenly even Leonard seems like a viable sexual candidate, or a, uh, hookup as it’s referred to by today’s urban youth."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Really?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes. Now, should that happen, I would ask you to find some way to suppress your libido."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I could think about you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Fine, whatever works."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Always nice talking to you, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Uh, peace out!"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, this is very pleasant."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m glad you’re enjoying yourself."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And you said there’d never be enough pasta for the three of us."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I stand corrected."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know, Italian housewives have a rule of thumb. A handful of dry pasta about an inch in diameter is sufficient for each person as it doubles in volume when cooked."
+    },
+    {
+      "type": "dialog",
+      "character": "Steph",
+      "text": "That’s very interesting."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "She doesn’t mean it. She’s just being nice."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, Stephanie, since Leonard seems to be dropping the conversational ball, I guess I’ll just have to pick it up. Have you ever witnessed a violent crime?"
+    },
+    {
+      "type": "dialog",
+      "character": "Steph",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Good. What’s your favourite fruit?"
+    },
+    {
+      "type": "dialog",
+      "character": "Steph",
+      "text": "Ih-uh, strawberries."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hmm, technically not a fruit, but all right. Where did you do your medical internship?"
+    },
+    {
+      "type": "dialog",
+      "character": "Steph",
+      "text": "Uh, Lawrence Memorial in Galveston, Texas."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Really? That’s where I was born!"
+    },
+    {
+      "type": "dialog",
+      "character": "Steph",
+      "text": "You’re kidding!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I spent so much of my childhood at that hospital. When I was 12, I got to ride there in a helicopter."
+    },
+    {
+      "type": "dialog",
+      "character": "Steph",
+      "text": "Why, what-what-what happened?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Radiation burns. A little mishap while I was building my own cat scanner."
+    },
+    {
+      "type": "dialog",
+      "character": "Steph",
+      "text": "I’m sorry, you tried to build your own cat scanner?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, I didn’t try, I succeeded. In fact, I was briefly able to see the inside of my sister’s guinea pig, Snowball, before he caught fire. It led to an interesting expression in our house, not a snowball’s chance in a cat scanner."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, Sheldon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Excuse me. When I come back, just for fun, the subject will be alternative history. Specifically, how would the civil war have gone differently if Lincoln had been a robot sent from the future? (To Leonard) Look at that, there’s even pasta left over."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Do you understand that this was supposed to be a date?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I do. Do you? Because frankly, you’ve been in a foul mood since I sat down."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, here’s my question, why did you sit down?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "To help. Look, if you fail at this relationship, and history suggests you will, then we risk losing the medical officer that our landing party has always needed."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What landing party?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re Kirk, I’m Spock, Wolowitz is Scotty, Koothrappali is the guy who always gets killed, and now we’ve got McCoy."
+    },
+    {
+      "type": "scene",
+      "text": "A cinema."
+    },
+    {
+      "type": "dialog",
+      "character": "Steph",
+      "text": "So, we’re all standing around looking at the post-op x ray and there it is, clear as day, right in the guy’s chest cavity, one of my earrings."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, my god, what did you do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Steph",
+      "text": "What do you think I did? I discreetly slipped off the other earring, put it in my pocket and then got the hell out of there!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(arriving)",
+      "text": "I have a bone to pick with you, sir."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oo-oo-oh!"
+    },
+    {
+      "type": "dialog",
+      "character": "Steph",
+      "text": "Hi, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hi, Stephanie. I’m sorry I’m late, but your companion left the most indecipherable invitation."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What invitation?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "We’re going to the movies. What movie? What theatre? What time? If you were trying to make it impossible to locate you, you couldn’t have done a better job."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, clearly I could have."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It took me nearly 20 minutes to go through the browser history on your computer to see what movie times you looked up. Wait here, I’ll find us seats."
+    },
+    {
+      "type": "dialog",
+      "character": "Steph",
+      "text": "No, no, we have seats."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Not the right seats. (Sheldon moves around the theatre sitting in various seats and shouting “Ha!”)"
+    },
+    {
+      "type": "dialog",
+      "character": "Steph",
+      "text": "What is he doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "He’s finding the acoustic sweet spot."
+    },
+    {
+      "type": "dialog",
+      "character": "Steph",
+      "text": "Does he always do this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sometimes he brings a toy xylophone. I am really sorry about this."
+    },
+    {
+      "type": "dialog",
+      "character": "Steph",
+      "text": "No, it’s fine. you know, he’s sweet."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "My apologies, you’ve been sitting in it all along. Leonard, you want to slide over one?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, just sit here."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, yeah, this is it."
+    },
+    {
+      "type": "scene",
+      "text": "Outside Leonard’s bedroom."
+    },
+    {
+      "type": "direction",
+      "text": "Sheldon (Knock, knock, knock) : Leonard (knock, knock, knock) Leonard (knock, knock, knock) Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What, Sheldon? What, Sheldon? What, Sheldon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(showing him laptop)",
+      "text": "Tell me what you see here."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "The blunt instrument that will be the focus of my murder trial?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "This is Stephanie’s facebook page. Now, where it should say in a relationship, what does it say?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Stephanie Barnett is single."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, furthermore, earlier this evening, she threw a digital sheep at some guy named Mike. Who’s Mike? Why does he get a digital sheep and not you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s just her facebook page and we’ve only been going out a couple of weeks."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You don’t see it, do you? We’re losing her."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, I’m going to make this very simple for you. You are not in this relationship, I am. Ergo, you have no say in anything that happens between me and Stephanie."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m afraid I can’t allow that. Pursuant to Starfleet General Order 104 Section A, you are deemed unfit and I hereby relieve you of your command."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "General Order 104, Section A does not apply in this situation."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Give me one good reason why not."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Because this is not Star Trek"
+    },
+    {
+      "type": "scene",
+      "text": "Outside Penny’s door."
+    },
+    {
+      "type": "direction",
+      "text": "Sheldon (Knock, knock, knock) : Penny (knock, knock, knock) Penny (knock, knock, knock) Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "This is banana bread."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "This is a door knob."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s my understanding that an unsolicited gift of food can be a precursor to an impromptu invitation to come in and chat."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon, would you like to come in?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I suppose I could spare a few minutes. Were you robbed?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "How can you be sure?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon, what do you want?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m certain this will come as no surprise to you, but Leonard is failing in yet another relationship."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "He’s having problems with Stephanie?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "She’s sending virtual livestock to random men on the internet. If I have any hope of keeping them together, I need data. Specifically, I need to know exactly what Leonard did that caused you to pop an emotional cap in his buttocks."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Again, urban slang. In which, I believe I’m gaining remarkable fluency. So, what is the down and the low? And don’t worry, this is all entirely confidential, so, you feel free to include any and all shortcomings in the bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "We never got to the bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Because?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, okay, all right, you know what? I’ll tell you what happened. We were young, we were very much in love, but we could only communicate through a time-traveling mailbox at my lake house."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s not enough that you made me watch that movie, but now you mock me with it?"
+    },
+    {
+      "type": "scene",
+      "text": "The university cafeteria."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Gentlemen, I have a question about dating and relationships."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You told me you were going to have the talk with him."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’ve been waiting for someone to have the talk with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "More to the point, it’s about finding a way to keep Leonard and Stephanie together."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, I don’t think you can."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, why not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Look at Leonard’s record. 27 days with Joyce Kim."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "During which she defected to North Korea."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Two booty calls with Leslie Winkle."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "For which she awarded him the nickname “speed of light Leonard.”"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "And a three hour dinner with Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Which would have been two and a half if they ordered the souffle when they sat down."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Based on the geometric progression, his relationship with Stephanie should have ended after 20 minutes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, I’m aware of the math, Y equals 27 days over 12 to the nth, the issue remains, how do we circumvent his inevitable rejection?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, if you want to guarantee his appeal to Stephanie, your best bet would be to kill all the other men on the planet."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’ll tell you what you shouldn’t do. Don’t spritz him with that body spray from the commercial where the women undress when they smell it, that doesn’t work at all, no matter how much you put on."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So, that’s all you’ve got? Apocalyptic genocide and go easy on the cologne?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah."
+    },
+    {
+      "type": "scene",
+      "text": "Outside Penny’s door."
+    },
+    {
+      "type": "direction",
+      "text": "Sheldon (Knock, knock, knock) : Penny (knock, knock, knock) Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What?"
+    },
+    {
+      "type": "direction",
+      "text": "Sheldon (Knock, knock, knock) : Penny. Zucchini bread."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "May I come in?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I see. Apparently my earlier inquiry regarding you and Leonard crossed some sort of line. I apologize."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So, have you and I returned to a social equilibrium?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Great. New topic. Where are you in your menstrual cycle?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’ve been doing some research online, and apparently female primates, you know, uh, apes, chimpanzees, you, they find their mate more desirable when he’s being courted by another female. Now, this effect is intensified when the rival female is secreting the pheromones associated with ovulation. Which brings me back to my question, where are you in (Penny slams door). Clearly, I’m 14 days too early."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "All I’m saying is if they can cure yellow fever and malaria, why can’t they do something about lactose intolerance?"
+    },
+    {
+      "type": "dialog",
+      "character": "Steph",
+      "text": "Leonard, you’re going to have to let this go. You had a little cheese dip, you farted, I thought it was cute."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, hi Stephanie."
+    },
+    {
+      "type": "dialog",
+      "character": "Steph",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Want some more wine?"
+    },
+    {
+      "type": "dialog",
+      "character": "Steph",
+      "text": "Yeah, I assume I’m not driving anywhere tonight. (Sheldon lets out a loud noise)."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I have a craving for white asparagus that apparently is destined to go unsatisfied."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Excuse me. What the hell is wrong with you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m helping you with Stephanie."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "By making constipated moose sounds?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "When I fail to open this jar and you succeed it will establish you as the alpha male. You see, when a female witnesses an exhibition of physical domination she produces the hormone oxytocin. If the two of you then engage in intercourse this will create the biochemical reaction in the brain which lay people naively interpret as falling in love."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Huh? Would it work if I just punched you in the face?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, actually it would, but let’s see how the lid goes. I’m not strong enough, Leonard, you’ll have to do it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, for god’s sakes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Go ahead, it’s pre-loosened."
+    },
+    {
+      "type": "dialog",
+      "character": "Steph",
+      "text": "Do you want some help with that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, no, no, I got it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, yeah, yeah, he’s got it, and that’s not surprising. This is something I long ago came to peace with in my role as the beta male. Open it. (Leonard tries again. Then taps jar on counter. Jar breaks.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Steph",
+      "text": "Oh my god, are you okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, I’m not. I’m bleeding."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Like a gladiator!"
+    },
+    {
+      "type": "dialog",
+      "character": "Steph",
+      "text": "Oh, honey, you’re going to need stitches."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Stitches? With a needle?"
+    },
+    {
+      "type": "dialog",
+      "character": "Steph",
+      "text": "Well, yeah, I mean, just a few."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, okay, yeah, hang on a sec. (Throws up in sink)"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "FYI, I was defrosting a steak in there."
+    },
+    {
+      "type": "scene",
+      "text": "The hospital."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What a beautiful job Stephanie did. I might have gone with a mattress suture instead of a blanket stitch, but you can’t argue with her results. It’s a shame it won’t scar, the war wound is a time-honoured badge of masculinity."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I can’t remember a time when you weren’t talking."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Just for the record, my efforts to establish you as the alpha male were not aided by you bursting into tears."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I did not burst into tears, my eyes just got a little watery."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Watery?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "She stuck a needle into my hand!"
+    },
+    {
+      "type": "dialog",
+      "character": "Steph",
+      "text": "Hey, how’s my big cry baby?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I didn’t cry."
+    },
+    {
+      "type": "dialog",
+      "character": "Steph",
+      "text": "Okay, I’m just teasing you. But, yeah, you did. Alright, it’s all good. what do you say we get you home and put you to bed?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, are you still going to spend the night?"
+    },
+    {
+      "type": "dialog",
+      "character": "Steph",
+      "text": "Uh, no, I think that you probably need to rest."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "She’s right, as long as you’re vomiting, coitus is contra-indicated."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thank you, Dr. Cooper."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re welcome, Dr. Hofstadter."
+    },
+    {
+      "type": "dialog",
+      "character": "Steph",
+      "text": "Okay, I’m going to go get your discharge papers."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "direction": "(after Sheldon tuts)",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, you seem like a perfectly pleasant person. I just can’t understand why women have such a hard time loving you."
+    },
+    {
+      "type": "scene",
+      "text": "The Apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, can you open this for me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Can I see your stitches?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sure. (Holds out hand. Howard starts to retch)."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Answering the question once and for all why Wolowitz bailed out of medical school."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(entering)",
+      "text": "Leonard, congratulations."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What for?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Your facebook status update. Leonard Hofstadter is in a relationship."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What? no. no, that’s not right."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, man, did you switch your status before she did? Speaking as an expert, way to look needy."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Seriously? You went first, after only two weeks? That’s bold."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s not bold, it’s a mistake. I didn’t change my status."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, then who did?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I had no choice, he cried in front of her."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You hacked my facebook account?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, it’s hardly hacking when you use the same password for everything, Kal-el."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Are you insane? Now she’s going to think I’m desperate. You’ve destroyed this relationship! And you want to know what the worst part is? You don’t even understand what you did wrong because you can’t conceive of something that you are not an expert in!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "In which I am not an expert."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Don’t even! I don’t want to hear another word out of you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(after Raj lets out a noise)",
+      "text": "What’s wrong, Lassie? Timmy fall down the well? (He points) Oh, wow. She just updated her facebook status."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Stephanie Barnett is in a relationship with Leonard Hofstadter.”"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Really? Oh, look at that, I have a girlfriend."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If I am permitted to speak again, Dr. Sheldon Cooper for the win."
+    }
+  ]
+}

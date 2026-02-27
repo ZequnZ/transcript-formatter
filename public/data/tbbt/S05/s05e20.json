@@ -1,0 +1,1165 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 5,
+  "episode": 20,
+  "title": "The Transporter Malfunction",
+  "url": "https://bigbangtrans.wordpress.com/series-5-episode-20-the-transporter-malfunction/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh my God, I love this chicken."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, you know what they say, the best things in life are free."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, you’re right, I eat your food a lot. How about this, you can raid my fridge any time you want."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, that’s very kind of you. Next time I have a hankering to wash down a D cell battery with a jar of old pickle juice, I’ll come a-knocking."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, Raj, you didn’t send your RSVP in. I’m supposed to ask you if you’re bringing someone to the wedding."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’ll let you know."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, can you make it soon. There’s a battle royale going on over the seating charts. In one corner, Bernadette’s mom, and the other three, mine."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, I hate wedding receptions. I wish the bride and groom would take a cue from Bilbo Baggins, slip on the ring, disappear and everyone goes home."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Mmm, you liked Professor Guyster’s wedding."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "They had a make your own sundae bar. Ooh, that was a night to remember. Do you know, on the one trip, I just had a bowl of nuts."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Anyway, you gotta let me know if you have a plus one, because if not my mom’s trying to sneak in the doctor who sucked the fat out of her neck."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Alright, uh, fine, I’m coming and I’m bringing somebody. Uh, Koothrappali plus one."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Who you bringing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Who are you bringing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "He’s bringing me. Who are you bringing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Wow, what a bunch of Nosey O’Donnells."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Come on, who is it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m not telling. I’m from Asia. I’m mysterious. Deal with it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Howard, are you having a make your own sundae bar?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, uh, I don’t think so."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well you should. 50% of marriages end in divorce, but 100% of make your own sundae bars end in happiness."
+    },
+    {
+      "type": "scene",
+      "text": "Raj’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "direction": "(on skype)",
+      "text": "Hello Mummy, Daddy, how are you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Koothrappali",
+      "text": "Pretty good, can’t complain."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "Oh I’m sure you can. Just give it a minute."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Listen, uh, there’s something I want to talk to you about. I, I wasn’t ready until now, but I think it’s time."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "It’s finally happening. You’re coming out of the closet, aren’t you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Koothrappali",
+      "text": "We love you, and we accept your alternate lifestyle. Just keep it to yourself."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No, I’m not gay. If anything, I’m metrosexual."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "What’s that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It means I like women as well as their skincare products."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "Well, if you’re not coming out, why did you call us during the cricket semi-finals?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "‘Cause I, I’m tired of trying to meet someone and, I think I’d like you to help me find uh, a wife."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Koothrappali",
+      "text": "And just to clarify, a female wife?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "Matchmaking, very smart move son. Much better than marrying for love."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Koothrappali",
+      "text": "We married for love."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "And it’s been wonderful."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Quantum physics makes me so happy."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, I’m glad."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s like looking at the universe naked. (Shivers)"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hi, you guys got a minute?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sure, what’s up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, I was thinking about Sheldon’s little joke the other night about me eating all your food."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, that was no joke. But I understand your confusion as I am our group’s resident cut-up."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m sorry, you are our resident cut-up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Prove it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Knock, knock."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Who’s there?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Interrupting physicist."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Interrupting physi…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "MUON!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Anyway, I got a little residual cheque from my commercial and I thought, hey, how about I get the guys a little thankyou to pay them back. So, Sheldon, ta-da!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Ah! A vintage, mint in box, 1975 Mego Star Trek transporter with real transporter action. Hot-darn!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Where did you get that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh, from Stuart at the comic-book store."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You went to the comic-book store by yourself?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, it was fun, I walked in and two different guys got asthma attacks. Felt pretty good."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well this calls for an expression of gratitude."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Ooh, am I about to get a rare Sheldon Cooper hug?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Not this time. Then they wouldn’t be special. Thanks Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You’re welcome. Don’t worry, I didn’t forget about you. Leonard, I got you a label maker."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Wow. No, it’s great. Also, uh, mint in box."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Mmm. And, I got you a transporter too!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Awesome!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Look, it was actually designed for my vintage Mr Spock action figure."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, that’s great. Let’s open it up and put him in there."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Ah!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh dear Lord. No!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why, they’re just toys?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "They’re mint in box."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "They’re Collectables."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "C’mon can’t we just open one up and take a…"
+    },
+    {
+      "type": "dialog",
+      "character": "Together",
+      "text": "No!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Once you open the box it loses its value."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, yeah, my mom gave me the same lecture about my virginity. Gotta tell you, it was a lot more fun taking it out and playing with it."
+    },
+    {
+      "type": "scene",
+      "text": "A restaurant."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Are you sure you want us here when you meet this woman?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh yes. In my culture it’s expected to have a chaparone to oversee a first date. Plus I want to make a good impression and, no offence, but with you guys here I look like six two."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "The nuns always chaparoned the dances at my high school. They used to make us leave room between us for the holy spirit."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hindus do the same thing. Except they leave room for a cow."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Listen, I love your charming racist humour, but any chance you could not knock my religion while she’s here."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yesterday you made fun of me for eating lox."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s different. You’re people don’t worship lox."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well clearly you’ve never been to brunch with my cousins."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "So, arranged marriages. The parents just decide, and then you have to get married?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, no, no, I get a say in it. But I’m sure whoever shows up will be better company than a threesome I’ve been having with Aunt Jemima and Mrs Butterworth."
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "Excuse me, are you Rajesh?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, yes. You must be Lakshmi. Uh, nice to meet you."
+    },
+    {
+      "type": "dialog",
+      "character": "Lakshmi",
+      "text": "Nice to meet you too."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, uh, these are my, my friends. This is Bernadette."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "And this is Howard."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Nice to meet you."
+    },
+    {
+      "type": "dialog",
+      "character": "Lakshmi",
+      "text": "You too."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Please have a seat. (To Bernadette) I’m thinking double wedding!"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Voice of Spock",
+      "text": "Dr Cooper. Dr Cooper?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Is someone there?"
+    },
+    {
+      "type": "dialog",
+      "character": "Spock",
+      "text": "Down here, on your desk."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Spock?"
+    },
+    {
+      "type": "dialog",
+      "character": "Spock",
+      "text": "I need to speak with you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Fascinating. The only logical explanation is that this is a dream."
+    },
+    {
+      "type": "dialog",
+      "character": "Spock",
+      "text": "It is not the only logical explanation. For example, you could be hallucinating after being hit on the head by, say, a coconut."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Was I hit on the head by a coconut."
+    },
+    {
+      "type": "dialog",
+      "character": "Spock",
+      "text": "I’m not going to dignify that with a response. Now, to the matter at hand. You need to play with the transporter toy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But it’s mint in box."
+    },
+    {
+      "type": "dialog",
+      "character": "Spock",
+      "text": "Yes, and to open it would destroy it’s value. But remember, like me, you also have a human half."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I’m not going to dignify that with a response."
+    },
+    {
+      "type": "dialog",
+      "character": "Spock",
+      "text": "Consider this. What is the purpose of a toy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "To be played with."
+    },
+    {
+      "type": "dialog",
+      "character": "Spock",
+      "text": "Therefore? To not play with it would be?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Illogical. Oh, damn it Spock, you’re right. I’ll do it."
+    },
+    {
+      "type": "dialog",
+      "character": "Spock",
+      "text": "Sheldon, wait. You have to wake up first."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, of course. Set phasers to dumb, right? (Wakes up in bed) Goody, goody, goody. This is wrong. This is wrong. I’m so excited, but this is wrong. I’m gonna do it. I’m doing it. I did it. Oh, that’s what I always thought 1975 smelled like. One to beam down Mr Scott. Aye, aye, Mr Spock. Energise. (Spins toy). Energise. (Tries to spin toy. It sticks. Tries to get Spock out and toy falls apart.) Don’t be broken. Please don’t be broken. (To Spock toy) What did you make me do? Okay, okay, think. (Sees Leonard’s toy) It’s only logical."
+    },
+    {
+      "type": "scene",
+      "text": "Raj’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Lakshmi",
+      "text": "My goodness, that was delicious."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, I hope you saved room for chocolate lava cake."
+    },
+    {
+      "type": "dialog",
+      "character": "Lakshmi",
+      "text": "Impressive. What goes into making something like that."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, you start off by trying to make chocolate souffle, and when it falls you panic, quickly change the name, and voila! Lava cake."
+    },
+    {
+      "type": "dialog",
+      "character": "Lakshmi",
+      "text": "I bet our parents are dying to know how things are going here."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, let’s see. Yup, three missed calls."
+    },
+    {
+      "type": "dialog",
+      "character": "Lakshmi",
+      "text": "Four missed calls, two text messages, and a failed video chat. I win. So, what are we going to tell them."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’d like to tell them things are going well."
+    },
+    {
+      "type": "dialog",
+      "character": "Lakshmi",
+      "text": "Me too. But before we get their hopes up we should probably make sure we’re on the same page."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, what page are you on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Lakshmi",
+      "text": "I’m on the one where I’m on a lot of pressure from my parents to get married and settle down, and have a family, and I’m going to do it so they don’t find out I’m gay."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Say again."
+    },
+    {
+      "type": "dialog",
+      "character": "Lakshmi",
+      "text": "I’m gay."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Like, dude on dude, but with women?"
+    },
+    {
+      "type": "dialog",
+      "character": "Lakshmi",
+      "text": "I know a fake marriage isn’t an honest way to live, but you of all people must know how difficult it is to come out in our culture."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Why me, of all people?"
+    },
+    {
+      "type": "dialog",
+      "character": "Lakshmi",
+      "text": "Well, there is a rumour back in New Delhi that you’re, how shall we say, comfortable in a sari."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m not gay."
+    },
+    {
+      "type": "dialog",
+      "character": "Lakshmi",
+      "text": "Really? The chocolate lava cake? The little soaps in the bathroom? And I’m sorry, but you’re wearing more perfume than I am."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "That’s Unbreakable by Khloe and Lamar. And for your information, it’s unisex."
+    },
+    {
+      "type": "dialog",
+      "character": "Lakshmi",
+      "text": "Fill in the blank. I love the nightlife?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I like to boogie."
+    },
+    {
+      "type": "dialog",
+      "character": "Lakshmi",
+      "text": "Got you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "W-w-with women. I like to boogie with women."
+    },
+    {
+      "type": "dialog",
+      "character": "Lakshmi",
+      "text": "That’s disappointing. You were exactly the kind of phoney-baloney husband I was looking for."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Thankyou. And once again, my baloney likes girls. Wait-wait. You don’t want to put a bit of that in your mouth without trying my homemade chantilly cream. Yeah, okay, that time I heard it."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon’s bedroom. Sheldon writhes in bed, then wakes up on an alien planet."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh dear. Two suns and no sunscreen."
+    },
+    {
+      "type": "dialog",
+      "character": "Spock",
+      "text": "Hello again, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What is it now, tiny Spock?"
+    },
+    {
+      "type": "dialog",
+      "character": "Spock",
+      "text": "I am very disappointed in you. You broke your toy and switched it with Leonard’s. You should be ashamed of yourself."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re the one who told me to play with it."
+    },
+    {
+      "type": "dialog",
+      "character": "Spock",
+      "text": "If I told you to jump off the bridge of the Enterprise, would you do it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. If I got on the bridge of the Enterprise, I would never, ever leave."
+    },
+    {
+      "type": "dialog",
+      "character": "Spock",
+      "text": "Trust me, it gets old after a while. You must right your wrong, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why? I got away with it. Leonard has his toy, and he’s never going to open it, so he won’t know it’s broken. And I have a toy that isn’t broken. Everybody’s happy."
+    },
+    {
+      "type": "dialog",
+      "character": "Spock",
+      "text": "Well I am unhappy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I thought where you come from they don’t have emotions."
+    },
+    {
+      "type": "dialog",
+      "character": "Spock",
+      "text": "I come from a factory in Taiwan. Now do the right thing."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know what you are? Well, you’re a green blooded buzzkill. Perhaps it’s time you beam on out of here."
+    },
+    {
+      "type": "dialog",
+      "character": "Spock",
+      "text": "Fine. I will just use the transporter. Oh, right. You broke it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Very well. Cooper to Enterprise, one to beam up. Energise. (Throws Spock away. Get’s attacked by a Gorn. Wakes up.) Ah. Tiny Spock. Help."
+    },
+    {
+      "type": "scene",
+      "text": "Howard’s laboratory. Howard is soldering something."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Ready for lunch?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yep, one sec. (Puts thing in mouth.) Ah, good. Ma would have killed me if she’d found out I’d broke my retainer."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, uh, can I run something by you? It’s about Lakshmi."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah. Sure. How are things going?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "We hit a couple of bumps. She lives over on Manhattan Beach, so it takes over an hour to get there. And she’s a lesbian."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What do you mean, she’s a lesbian?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, you know whenever you and I would try to hit on women in bars, and they’d blow us off, and then we’d tell each other they were probably gay. It’s like that. Except this time it’s true."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Then why did she even go out with you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "She was looking for a husband so she can appear to be straight. And you know, it sounded crazy to me at first, but I’m actually thinking about doing it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, well, so the reason that might sound crazy, is ’cause it’s crazy."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Look, Howard, you’re in a relationship. You know you have to make compromises."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, yes. But my compromises are about which bedspread to buy, or whose turn it is to do the laundry, Bernadette’s or my mom’s."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s a great deal. We both get our parents off our backs. I don’t have to come home to an empty apartment every night, plus, once I’m married, I can finally eat carbs again and let myself go."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Why don’t you tell your parents you want to try and find someone else, you know, maybe one who hasn’t slept with more women than you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Because this one wants to marry me. I might never find another one who does."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So you’re seriously thinking about marrying someone you’re never going to have sex with."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I can’t believe your attitude. I thought you were in favour of gay people getting married."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yes, to other gay people."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Do you hear how homophobic you sound?"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment. Sheldon is working on his laptop. Spock is looking at him judgementally. He switches the two toys."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I don’t want a broken toy. (Switches them back again. Penny and Leonard enter.) Nothing!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Nothing. I said nothing."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That was weird."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Really? I don’t even notice any more."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I cannot believe you guys aren’t going to play with these."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well I told you, you don’t, it’s mint in box."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I dunno. I just think it’s a waste. (Picks up box. Sheldon screams.) Relax. I’m just looking at the box."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Perhaps you should look with your eyes, and not your muscular Nebraska man-hands."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What is your problem?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "My problem is that I don’t want you to break Leonard’s toy, which you probably did by shaking it. She shook it. We all saw her."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Leonard, I bought you this because I wanted you to have fun with it. I don’t want it to just sit in this box."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You know, you’re right. I mean, it’s from you, I’m never going to sell it. I’m opening it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Mmmmm!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s broken."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, nice job, man-hands."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I didn’t break it. I, I guess Stuart sold it to me like this."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes. Yes, he did, that is a perfectly satisfying and plausible explanation. Yeah, let’s all be mad at Stuart."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know, I paid a lot for this. Let’s take it over there and show him."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Absolutely."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wait. It was me. I opened your toy, discovered it was broken and didn’t tell you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why would you open mine?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I didn’t. That was a lie. I opened my own toy. And it was already broken so I switched them."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, you should talk to Stuart."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I can’t because that was a lie. Yours was broken in an earthquake. And that’s a lie."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What is the truth?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "My Mr Spock doll came to me in a dream and forced me to open it. And when the toy broke I switched it for yours. Later he encouraged me to do the right thing and I defied him. And then I was attacked by a Gorn."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, that I believe."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Mmm."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard, Penny, I just, I want you both to know that I regret my actions toward the two of you. That’s a lie."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, is that one mine."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, hand it over so I can open it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay. Leonard, even though I don’t have one any more, I hope you have fun playing with it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "And that’s a lie, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Big fat whopper. I hope it breaks."
+    },
+    {
+      "type": "scene",
+      "text": "Raj’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "This is a treat, what brings you guys by?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Raj, Howie told me what’s going on with you and Lakshmi."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What, you told her?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I told everybody."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "We believe there’s someone out there who’ll love you for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, actually we kind of agreed to disagree on that one, but we both think you shouldn’t marry this woman."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "So, while I’m waiting for this mysterious perfect match, who may or may not exist, I’m supposed to just be alone."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Not necessarily. I think we’ve found someone for you to cuddle with. (Pulls a puppy out of her bag.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, my goodness. Aren’t you the cutest little Yorkie ever? You got him for me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Her. We thought you two would hit it off."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I think we already have. Thank you guys so much. Let’s see if you fit in my man purse."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Metrosexual my ass."
+    }
+  ]
+}

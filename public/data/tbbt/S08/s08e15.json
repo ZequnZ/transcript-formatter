@@ -1,0 +1,1228 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 8,
+  "episode": 15,
+  "title": "The Comic Book Store Regeneration",
+  "url": "https://bigbangtrans.wordpress.com/series-8-episode-15-the-comic-book-store-regeneration/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "Amy’s laboratory."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’ve invented a science joke, would you like to hear it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sure."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "How many Edisons does it take to screw in a light bulb?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "How many?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Who cares? He stole the idea and doesn’t deserve his own joke."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Is that really true?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Of course, that’s how you know it’s a good joke. It not only entertains, it informs."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Hey, sowwy to intewupt."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Uh, Barry, uh, how many Edisons does it take to screw in a light bulb?"
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Did you know Edison didn’t actuawy invent the wight bulb?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What do you want, Barry?"
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Just wanted to dwop this off as a wittle thank you for Amy."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What’s this for?"
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Your idea weawy hewped me out. My wight-cone quantization paper’s onwine alweady. The wesponse has been amazing."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, that’s fascinating. I can’t wait to read it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, no, me as well. Uh, please e-mail it to Sheldon at bazinga dot biz. Why dot biz? Because I just gave you the business. And also bazinga dot com was taken."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Anyway, thanks again. Cooper, suck eggs."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Since when do you help out Barry Kripke?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, I’d been thinking about a cellular automata approach to neuronal connectivity, and I thought it might have some interesting applications to string theory, it’s not a big deal."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, really? When I was doing string theory and hit a dead end, why didn’t you try to help me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I did. You said the only math biologists know is if you have three frogs and one hops away, that leaves two frogs."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s pretty funny, that does sound like me. But that doesn’t mean that you should be standing on street corners handing out your math to whatever guy comes along."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, we’re all scientists. I helped out a fellow colleague. You’re being petty."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m being petty? You know Barry and I have a professional rivalry. You heard him, he told me to suck eggs. If we were friends, he would have suggested I suck something more pleasant. Why are you laughing? Did you learn something?"
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "direction": "(on phone)",
+      "text": "Okay, Ma. Say hi to Aunt Gladys. Yeah, I love you, too. Bye."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Your mom having fun in Florida?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Mmm, she loves it. She finally found a place where everyone talks about how sweaty they are. Anyway, she wants us to go to the house and check in on Stuart because he might be lonely."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "She’s just being nice."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, I’m her son, how come she doesn’t send someone to check on me if I’m lonely?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Because you have a wife."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, well, sometimes you work late."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I know you don’t like Stuart being in the house, but the store’s about to reopen, I’m sure he’ll get back on his feet."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That would be great. I’d love for things between me and Mom to get back to normal."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Well, normal’s a strong word, but sure."
+    },
+    {
+      "type": "scene",
+      "text": "The laundry room."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If I was okay, I would’ve said hello, and not the much more ominous hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What’s going on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m mad at Amy."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Did she leave pit stains in your favourite crop top, too?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. She helped Barry Kripke make an advancement in string theory."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, that sounds like a good thing."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, it would be, except that I left string theory because I decided it was a dead end. Yeah, and then she went behind my back to help someone else prove me wrong. My rival, no less. I’m sorry you had to see that."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’m sorry I didn’t have a camera."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why would she do this to me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, I’m sure she didn’t upset you on purpose. Besides, aren’t you the one who says there’s nothing more important than the advancement of science?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, I said there’s nothing more important than me advancing science."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right, well, if I’m understanding this right, and all she did was help out another scientist, I’m thinking you might have to let this one go."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Ugh, let it go. I have heard that my whole life. Every time something upsets me somebody says, let it go, you know, like it’s my fault, and it’s not okay to feel the way I feel."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I don’t know what to tell you. I mean, why don’t you talk to her?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Is that all you have? Shopworn tidbits like talk to her and let it go? Gee, Penny, life’s giving me lemons. What should I do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, you could shove them somewhere."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay, now you’re getting creative."
+    },
+    {
+      "type": "scene",
+      "text": "The comic book store."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Thanks again for your help."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No problem."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Our pleasure."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "The place really looks great."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, you should have burned it down years ago."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "I keep telling you I didn’t burn it down."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We know, we know, because burning something down for the insurance money is a crime."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Stuart, this place looks amazing."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Thanks."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You really did a nice job."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "And thank you for putting up with me staying at your mom’s through all this. I couldn’t have done it otherwise."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I appreciate that, and I’m glad you were able to… is that my mother’s furniture?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Yeah, she said I could use it. Doesn’t it look great?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Not as great as it looks in the den where it belongs."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Howie."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Why don’t you just clean out the whole room? Take the string art clown I made her in third grade and the ribbon I got in swim class for putting my face in the water."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "What is your problem? She said it was okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, I’m her son, and I say it’s not okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Some son, looks like you spent ten minutes on that clown art."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, maybe I should’ve gone to a fancy art school like you. Then I could run a failed comic shop and mooch off some guy’s mother."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Why don’t we leave so you can cool off?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "I think that’s a good idea. Take him out of my store."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Your store? My mother gave you the money to reopen. I’m not going anywhere."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why don’t we go get the food for the party."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Smart, looks like we’re being helpful."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Mmm, when really we’re just exiting an uncomfortable situation."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Kripke, you know, of all the people, Barry Kripke. I’m so… Are you folding that like a crazy person to get me to do it for you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, give me that. Just out of curiosity, if I were to let something go, how would I do that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I don’t know, just think about something else."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Can I think about the spiny anteater?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sure."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The spiny anteater never went behind my back and worked with Barry Kripke. That didn’t help at all."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know, some people try visualization."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "How does that work?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, imagine your problems are a pen."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Now imagine you’re holding that pen."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Now open your hand and let it go."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But I just got this pen. It’s got my initials on it and everything. Look."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon, this isn’t that hard."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I may have a better way that you can teach me."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "How?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What if I told you that over the past few months Amy has secretly been giving you little puzzles to test your intelligence against chimpanzees in her lab?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What? She didn’t give me any puzzles."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Are you sure?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "direction": "(in flashback)",
+      "text": "Boy, I just can’t seem to get these scissors back together. Can you do it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "direction": "(in flashback)",
+      "text": "Darn it. There’s something in my eye, and I need to sort these coins by size. Can you help?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "direction": "(in flashback)",
+      "text": "Penny? I really want to eat this banana, but it’s stuck inside this bamboo puzzle box."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Son of a bitch."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay, that’s great. Now, let it go."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I can’t believe you were testing me against a chimp."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, excuse me, Amy was testing you. I was rooting for you. Good job on that banana box, by the way."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why would she even do this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "She’s been conducting an experiment on apes where they’re given various puzzles to solve. I was surprised at the complexity of the puzzles and thought some humans wouldn’t be able to solve them. That’s when Amy said, want to make this interesting?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Make this interesting? You bet money on me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, no. We designed an experiment involving you. See? Now, isn’t that interesting?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It’s not interesting. It’s incredibly insulting."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay, maybe this will help. Imagine you’re holding a pen. Before you go too far, not a special pen with your initials engraved on it, that’ll make the next part really hard."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, my, that’s it. Get out."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t understand why you’re mad at me. You should be mad at Amy. Like I was this afternoon. Hey, look at that, I let it go."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Get out."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Penny?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I think I left my pen in there."
+    },
+    {
+      "type": "scene",
+      "text": "The comic book store."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I understand why you’re upset, but he worked really hard to get the store ready. And it’s just furniture."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It’s my mom’s furniture. It belongs in the house I grew up in, next to that pile of TV Guides and in plain view of what, for a ten-year-old, was a quality piece of string art."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Howie, if the store succeeds, Stuart has a source of income, and he can move out of your mother’s house. Seems like some old furniture is a reasonable price to pay for that."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That is a good point. But I didn’t marry you for good points. I married you to blindly support me no matter how ridiculous I’m being."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "This is why I had to rewrite our wedding vows."
+    },
+    {
+      "type": "scene",
+      "text": "A deli."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hi, we’re here to pick up an order for Comic Center."
+    },
+    {
+      "type": "dialog",
+      "character": "Waitress",
+      "text": "Sure, let me go check on that."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Dude, I, I think that’s Nathan Fillion."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh yeah, look at that."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "And he’s picking the tomatoes out of his salad just like I do. I always did feel a connection with him. Oh, I have got an idea."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We’re not selling his tomatoes on eBay."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No, if we got Captain Reynolds from Firefly to do a signing at Stuart’s store, that would be amazing."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That would be great."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "So should we go talk to him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know. I mean, if he’s not nice, it’s gonna make it hard for me to watch him in anything again."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What? The, the guy who plays Jon Snow was a jerk. We still watch Game of Thrones."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "He was a jerk because you rear-ended him."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I was distracted. It’s weird seeing a member of the Night’s Watch with a kayak strapped to his car. Come on. Hi, excuse me, s, sorry, I, I don’t mean to bother you, but we’re just really big fans of Firefly. And Dr. Horrible."
+    },
+    {
+      "type": "dialog",
+      "character": "Nathan Fillion",
+      "text": "Oh, uh, I think you made a mistake. I’m not an actor."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Don’t say that. I mean, you’re not Dame Judi Dench, but you’re pretty great."
+    },
+    {
+      "type": "dialog",
+      "character": "Nathan Fillion",
+      "text": "Oh, yeah, I get it, you think I’m Nathan Fillion, but I’m not. So if you don’t mind, I would just love to eat my lunch."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Come on. Sorry to bother you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Don’t know why he’s so grumpy. I got mistaken for that guy in Life of Pi once, and I’m still floating."
+    },
+    {
+      "type": "scene",
+      "text": "The hallway."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, it’s me."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, hey. Did you see that? I, I figured out how to open the door all by myself. Maybe I’ll fling some faeces around my cage to celebrate."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What are you talking about?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I know you’ve been giving me secret puzzle tests."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, open the door."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I can’t. I’m naked."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I just saw you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hang on."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Open the door now."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Pull up your pants."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It’s not a big deal. I run tests like this on undergrads all the time. If you fill out some paperwork at the university, I can get you five dollars."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I don’t want five dollars. I want my dignity."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "So what are we talking, like, ten bucks?"
+    },
+    {
+      "type": "scene",
+      "text": "The deli."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Thanks."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sorry again."
+    },
+    {
+      "type": "dialog",
+      "character": "Nathan Fillion",
+      "text": "No problem."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Are you sure you’re not him? Uh, you can tell us. We’re scientists, not crazy fanboys."
+    },
+    {
+      "type": "dialog",
+      "character": "Nathan Fillion",
+      "text": "All right, fine. I’m him."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "And you’re eating alone at a deli. I don’t buy it, you’re not him."
+    },
+    {
+      "type": "dialog",
+      "character": "Nathan Fillion",
+      "text": "I just wanted to eat my lunch in peace. But I really am him. And thank you very much for being a fan. If you want, uh, let’s take a picture."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That would be great."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Great."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Nathan Fillion",
+      "text": "You bet."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Wait, hang on. If you’re really Nathan Fillion, what’s the line from Firefly about your bonnet?"
+    },
+    {
+      "type": "dialog",
+      "character": "Nathan Fillion",
+      "text": "I swear by my pretty floral bonnet, I will end you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s it, that’s the line."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Although, I knew the line, doesn’t make me Nathan Fillion."
+    },
+    {
+      "type": "dialog",
+      "character": "Nathan Fillion",
+      "text": "Do you want the picture or not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I want a picture with Nathan Fillion."
+    },
+    {
+      "type": "dialog",
+      "character": "Nathan",
+      "text": "How about a picture with a guy who looks like Nathan Fillion but a little more annoyed than Nathan Fillion usually is?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What do you think?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Ah, it’s good enough for Facebook."
+    },
+    {
+      "type": "scene",
+      "text": "The comic book store."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I can’t believe they did that."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I know, it’s so insulting. At one point, they had me figure out how to get a banana out of a puzzle box."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Wait, Sheldon gave me a banana in a box. He was testing me, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Unbelievable."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "And how could a chimp even solve that? That was impossible."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Really? You couldn’t get it out?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Wow, the store looks great."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So you guys were testing us both? What is the matter with you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Eh, what’s the matter with them is they think they’re so smart they don’t care if they hurt other people’s feelings."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "That’s not true."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That sounds like us. I still don’t understand why you’re upset. You solved every puzzle faster than all of the chimps."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, except Barnabas, but he was on Adderall."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m sorry, but it’s making me crazy."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Can you please just let it go?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I can help you with that. Imagine you’re holding an ordinary pen. While your favourite pen is safe and secure in your pocket."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hold that thought. (On phone) Hello?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "How can I make this up to you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "The answer’s in this puzzle box. Let’s see if you can open it."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "You could have at least warned him about the furniture."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "That’s what I said when we moved it."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You helped him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No, Stuart picked out those throw pillows all on his own."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, you okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What’s wrong?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "My mom died."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Uh, that was my aunt. Ma took a nap. She never woke up."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, my God, Howie."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m so sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What can we do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I don’t know."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "May I say something?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Not right now, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But I think it would be comforting."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Buddy."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, it’s okay. What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "When I lost my own father, I didn’t have any friends to help me through it. You do."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I really thought he was gonna say let it go."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "direction": "(on phone)",
+      "text": "Okay, thanks, Bernadette. Travel safe. Okay, bye. Well, they’ve booked a flight. They’re heading to the airport now."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "How’s Howard holding up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "He’s hanging in there."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "How are you doing, Stuart?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Still can’t believe she’s gone. I mean, that woman took me in. If it wasn’t for her, I, I would have been homeless."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "One of us would have taken you in."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Yeah, I don’t recall any offers. But, you know what, uh, I, I’m glad it worked out the way it did because I got to know this wonderful person."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah. Mrs. Wolowitz was pretty special. When I first moved to America, Howard was my only friend and she made me feel so welcome in her home. Which says a lot, because, those first few years, she thought I was the gardener."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Whenever I saw her, she’d say I was too skinny and try and feed me."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "She did that to me, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Don’t take this away from me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I didn’t care for her yelling. But now that I’m not going to hear it again, I’m sad."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "If you want, I can yell at you later."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It won’t be as good."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Let’s have a toast. To Mrs. Wolowitz. A loving mother to all of us. We’ll miss you."
+    }
+  ]
+}

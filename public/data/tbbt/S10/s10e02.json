@@ -1,0 +1,1247 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 10,
+  "episode": 2,
+  "title": "The Military Miniturization",
+  "url": "https://bigbangtrans.wordpress.com/series-10-episode-02-the-military-miniturization/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Look at this. Elon Musk has a theory that we’re all just characters in some advanced civilization’s video game."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So some alien kid spent his money on the asthma-and-glasses upgrade for me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, he doesn’t say it’s a good game."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard (entering)",
+      "text": "All right, we got a problem."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What’s up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "The Air Force contacted me about our quantum gyroscope. They want to have a meeting."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Really?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah. This military guy showed up at Howard’s door. He was terrifying."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, what did he say?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "He gave me his business card and asked me to please pass it along to Howard."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That doesn’t sound terrifying."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "To a white guy born here, no. If you are a brown guy whose name has a lot of syllables in it, terrifying."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You realize if the military declares our research classified, they can take the whole thing away from us."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "And if that happens, we’ll never be able to sell it commercially."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "There goes our big payday."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I was counting on that money. I need to make as much as my wife so I don’t have to try so hard in bed."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You do that, too?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, yeah. How do you think I stay this thin?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Gentlemen, I think we are losing sight of the real issue. We are on the precipice of becoming faceless cogs in the military-industrial complex. Isn’t that exciting?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, you’re kidding, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Not at all. In Star Wars, when the stormtroopers would march in perfect formation, harassing civilians, didn’t you ever think, hey, that could be me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sheldon, we could be contributing to a weapons system that oppresses mankind for the next thousand years."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay, Howard’s on board. What do you think, Leonard?"
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I’m worried about Howard. Ever since that guy from the Air Force showed up, he’s been a nervous wreck."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right, we work at a giant pharmaceutical company. Get him some anti-anxiety meds."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "He won’t take any pills that aren’t chewable and shaped like a Flintstone."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know, when Leonard’s feeling anxious I make him take a long walk."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Does that help?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, for a while. Then he comes back."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I don’t believe this."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What’s wrong?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "This guy from the office just congratulated me on being pregnant."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You did already know, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "No one at the office did. Did you tell anyone?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No. You told me not to."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I bet it was Barbara Chen in retrovirus. She might have heard me throwing up one morning. Every since she got the hearing aid, she thinks she’s so great."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Why don’t you want anyone to know?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "‘Cause I’m up for a major immunotherapy study, and if they find out I’m pregnant they might give it to someone else."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Would they really do that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I know they would, they did it to Barbara Chen last year when I told everyone she was pregnant."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Wail till I Snapchat that my friends might be working on a top secret government project."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Are you crazy? You can’t put that on Snapchat."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Fine, I’ll put it on Facebook like a caveman."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You know, maybe before our meeting we should talk to a lawyer."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s not a bad idea."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, you must have someone in your family that’s a lawyer."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Why? Because I’m Jewish? That’s like me saying, hey, you’re Indian, doesn’t your cousin work in a call centre?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "My cousin does work in a call centre."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "And my cousin’s a lawyer."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "We don’t need Howard’s cousin. No, we have me."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re not a lawyer, Sheldon, you’re just a know-it-all."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I am not a know-it-all. I’m a person who knows lots of things and likes to correct other people when they’re wrong."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s the definition of being a know-it-all."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Or in German, a Besserwisser."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "How did you think you were gonna hide your pregnancy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I had a plan. I kept leaving Dove Bar wrappers around to explain any weight gain."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Where did you get empty Dove Bar wrappers?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "From all the Dove Bars I ate. I’m pregnant. Try to keep up. I’m sorry, I have to go find out if my boss knows."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, whatever happens, we’re here for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Thanks. You guys are the best."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, drive safe. We love you. And give us a call… Oh, my God, it was me, it was me. I’m the one who blabbed she was pregnant!"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I didn’t mean to. It just slipped out in front of her assistantone day. I…"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I forgot my coat."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, here’s your coat, honey. That’s such a cute jacket. Oh God, I feel so bad, I just lied to her."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, but you did it so well. That’s amazing, it’s like watching a sculptor, but your clay was lies."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Is that really what’s important right now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I mean, seriously, you have got to let me scan your brain when you’re being dishonest so I can see what lights up."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That’s super helpful, Amy. Thanks a lot. I can’t wait to do that."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I can see a clump of bitch cells lightin’ up from here."
+    },
+    {
+      "type": "scene",
+      "text": "Howard’s workshop."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Give me a second to call my cousin."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t see how a tax lawyer from Fort Lauderdale could be helpful regarding intellectual property."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "First of all, he’s in Boca Raton, which is better than Fort Lauderdale. But more importantly, he lasted two days on Jeopardy, so he’s clearly a smart guy."
+    },
+    {
+      "type": "direction",
+      "text": "Howard’s cousin (on skype): Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, Marty. Thanks for talking to us."
+    },
+    {
+      "type": "dialog",
+      "character": "Marty",
+      "text": "Hey, no problem. Thanks for going to outer space so no matter what I do my mom will be disappointed in me."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, I married a little Catholic girl, so we’re even. Anyway, this is Leonard and Sheldon. The three of us came up with the guidance system."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "And this is my friend, Raj."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, I’m not on the patent. I’m just here because there’s a bumblebee in my office."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I saw it. It’s big."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Anyway, like I said in the e-mail, this meeting’s on Thursday. Do you have any advice for us?"
+    },
+    {
+      "type": "dialog",
+      "character": "Marty",
+      "text": "Well, I don’t know much about patent law. But, uh, my advice is hear them out, offer as little information as possible, and whatever you do, don’t sign anything."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Don’t sign anything? That’s your advice? Okay, so, uh, if during this meeting, one of us were to, say, complete an oil painting, you’d recommend that we leave that unsigned?"
+    },
+    {
+      "type": "dialog",
+      "character": "Marty",
+      "text": "That’s not what I meant."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s what you said."
+    },
+    {
+      "type": "dialog",
+      "character": "Marty",
+      "text": "That’s not what I meant."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "This must be how you practice law in Boca Raton, by saying things you don’t mean and meaning things you don’t say."
+    },
+    {
+      "type": "dialog",
+      "character": "Marty",
+      "text": "Howard, why is he yelling at me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, you were on Jeopardy. Allow me to Alex Trebek this and put it in the form of a question: Who has been a complete waste of our time?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Marty, let me call you back."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Someday, when I’m up on murder charges, you’ll be hearing from me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You don’t need him. I’ll represent you."
+    },
+    {
+      "type": "scene",
+      "text": "Bernadette’s office."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Hey. What brings you by?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, had to go to a sales seminar on our new sleeping pill."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh. How was it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Great."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Fell asleep?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "In, like, two minutes. Yeah. So, how is everything going around here? Are you still upset about people finding out you’re pregnant?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I’m furious."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sure, sure. Uh, did you ever figure out who told?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "No. I confronted Barbara Chen, but she claimed she didn’t know what I was talking about."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hmm. Well, I guess it’s just gonna remain a mystery, you know, like whatever happened in that seminar after they dimmed the lights."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "It had to be Barbara. I’ve been trying to figure out a way to get back at her. Do you think using her work computer to Google how to be a prostitute is over the line?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh, you know, when I was in high school, there was this girl who was talking about me behind my back, so me and all my friends, we cornered her in the bathroom and forgave her."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What kind of revenge is that? This woman screwed with my job. She’s got to pay."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, all right, honey, you know what? There was something I was too scared to tell you yesterday, and now I’m just balls-out terrified to tell you, but the truth is it wasn’t Barbara Chen, it was me. I’m the reason everyone knows."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Why did you do that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, it was an accident.I am so sorry I lied."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Get out."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, you know, I also lied about the girl in the bathroom. Yeah, we actually dumped her retainer in the toilet and put it back in her mouth."
+    },
+    {
+      "type": "scene",
+      "text": "Howard’s workshop."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t understand why I can’t talk at this meeting."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "‘Cause when you talk, it enrages people."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay. Quick question. Am I allowed to exchange pleasantries upon meeting this colonel?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Am I allowed to inform him that Colonel Sanders was never actually in the military?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m getting enraged."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Fine. Ooh. Can I use text-to-speech software?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Don’t speak."
+    },
+    {
+      "type": "direction",
+      "text": "Sheldon’s phone: Aw, nuts."
+    },
+    {
+      "type": "dialog",
+      "character": "Colonel Williams",
+      "text": "Gentlemen, I’m Colonel Williams. Thank you for meeting with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Colonel Williams",
+      "text": "So, which one of you is the brains behind all this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It’s a group effort, but I guess if we had to pick a main brain, it would be me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Strangled sound)"
+    },
+    {
+      "type": "scene",
+      "text": "The same, shortly after, demonstrating the quantum gyroscope."
+    },
+    {
+      "type": "dialog",
+      "character": "Colonel Williams",
+      "text": "And because of the quantum vortices, this can run perpetually?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Exactly. Yeah, you have a good grasp of the physics."
+    },
+    {
+      "type": "dialog",
+      "character": "Colonel Williams",
+      "text": "Well, I’m a scientist by training."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Really? You’re a physicist?"
+    },
+    {
+      "type": "dialog",
+      "character": "Colonel Williams",
+      "text": "Better. I’m an engineer."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Where did you go to school?"
+    },
+    {
+      "type": "dialog",
+      "character": "Colonel Williams",
+      "text": "MIT."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh. Well, hey, me, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Colonel Williams",
+      "text": "I should have known. Behind every great invention is an MIT mind. I’ll cut to the chase. The Air Force believes there’s an application for this technology, and we’re interested in funding your research."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, thanks, but you should know we’re a little concerned about this being used in weapons."
+    },
+    {
+      "type": "dialog",
+      "character": "Colonel Williams",
+      "text": "Oh, well, let me put your mind at ease. What we use it for is none of your business."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know how I feel about this."
+    },
+    {
+      "type": "dialog",
+      "character": "Colonel Williams",
+      "text": "Look, guys, it’s just a guidance system. It’s not like you’re handing us the Death Star from Star Trek. All you need to worry about is, right now, it’s this big, and we need it to be this big."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s a lot less big."
+    },
+    {
+      "type": "dialog",
+      "character": "Colonel Williams",
+      "text": "Yes, it’s this much less big."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m not even sure that’s possible."
+    },
+    {
+      "type": "dialog",
+      "character": "Colonel Williams",
+      "text": "Well, I ran it by some colleagues at MIT, and they thought they could get it done in four months."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Four months?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, we’ll do it in two. Hi. I’m Dr. Sheldon Cooper. I’m the actual brains behind this project. Also, engineers aren’t real scientists, MIT’s a trade school, and the Death Star is from Star Wars, not Star Trek. But otherwise, thank you for your service."
+    },
+    {
+      "type": "scene",
+      "text": "Bernadette’s office."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hi. Howard told me you were working late, so I brought dinner."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, thanks. You know, I just wanted to get some work done without people congratulating me about the baby every five minutes."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I spent my day alone in the lab waiting for a rat to die of anthrax."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Did you come here to bring me dinner or to gloat?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, I came to see how you were feeling, but I’m guessing still angry?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I’m sorry. My boss wants to meet with me, and I’m stressing."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You really think they’re gonna start treating you differently?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Are you kidding? I’ve always been treated differently. Look at me. Listen to me. I mean, the first thought when you see me isn’t that’s a scientist, it’s I wonder if her mommy"
+    },
+    {
+      "type": "direction",
+      "text": "knows where she is."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I am really regretting that I got you a Happy Meal."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I’ve worked so hard to get where I am, and I don’t want to get sent back to square one because I’m pregnant."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I understand how you feel."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I wish there were some way I could make it better."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Well, you brought me French fries. That’s a start."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Uh, actually, I got you apple slices ’cause you’re pregnant."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Apple slices? What kind of lunatic goes to McDonald’s and gets fruit?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’ll be right back."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "And a chocolate shake."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, Leonard’s mad at me, so I’m making him lemon bars."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Does he even like lemon bars?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Not really. But I’m mad at him, too, so lemon bars it is."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Something happen at the meeting?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "They made me promise I wouldn’t talk."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "And you talked?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, now, see? You knew what was gonna happen. Why didn’t they? Anyway, now we’re committed to completing this project in a ridiculously short time frame, and everyone’s upset with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, if it makes you feel any better, Bernadette’s mad at me, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Mm. If it makes you feel any better, a parasitoid wasp known as Oobius depressus has been rediscovered after 101 years of presumed extinction."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why would that make me feel better?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why would your Bernadette thing make me feel better? At least mine was educational."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay. Never mind."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Look, I’m sorry. Tell me why Bernadette is upset with you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, I told people at work that she’s pregnant. She wasn’t ready for them to know."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why would you do that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, it just slipped out. I feel terrible."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "See, that’s exactly what happened to me, except that I said it on purpose, and I have no regrets."
+    },
+    {
+      "type": "scene",
+      "text": "Howard’s workshop."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Is it even possible to get this done in two months?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, maybe. I don’t know. We’ll have to work 12 hours a day, seven days a week."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Which means I won’t be able to make Penny breakfast every day, and she’ll realize my brioche French toast was the only thing keeping her in the marriage."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I love your French toast."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, thanks, man."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "So, why did you guys even agree to the deadline?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "We didn’t. Sheldon did."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "And you just let him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, the colonel said it was for the good of the country, and the funding is substantial."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, but mostly, there was an awkward pause, and I broke it by saying okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "So I guess I won’t be seeing you guys for a while."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, looks like it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Wow. You’re going off to work with the military, leaving me behind. Now I know how all those army wives feel."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Would you stop? We’re just gonna be on the other side of campus."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "And right here."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You are a deeply silly man."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "He is so afraid of his feelings."
+    },
+    {
+      "type": "scene",
+      "text": "Outside Penny’s door."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Got a minute?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, come on in."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I just wanted to apologize. I know what you did was an accident."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, thank you, and I’m sorry I lied about it."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "For what it’s worth, you’re a great liar."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, that’s what Amy said. So what’s going on with the research project? Are they gonna let you run it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Well, my boss said he hadn’t decided yet, so I gently reminded him that he’s an old rich white guy, and I’m a sweet little pregnant lady who’s not afraid to crying front of a jury."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You threatened to sue?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Hey, I learned a long time ago, when you’re four feet eleven and eye level with every guy’s crotch, that’s where you punch."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That’s funny. I learned something totally different."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Do you know what? It’s just a research project. The most important job in the world is gonna be raising this child. It’s all I need to give my life meaning."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, that’s so beautiful."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You believe me? Oh, good. 11 more chumps like you, I’ll have the jury eating out of my hand."
+    },
+    {
+      "type": "scene",
+      "text": "A corridor at the university."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I never realized this building was classified."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Maybe that’s because it’s classified."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Wish we weren’t so far from my parking space."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The way you put away those lemon bars, perhaps that’s a good thing."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’d like to reinstate the you-not-talking rule."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why? It clearly doesn’t work."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I guess this is it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Is that a retinal scanner?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Let’s find out."
+    },
+    {
+      "type": "dialog",
+      "character": "Scanner",
+      "text": "Howard Wolowitz, access granted."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No way."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Impressive."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, my turn, my turn."
+    },
+    {
+      "type": "dialog",
+      "character": "Scanner",
+      "text": "Leonard Hofstadter, access granted."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I didn’t even have to take my glasses off/"
+    },
+    {
+      "type": "direction",
+      "text": "Scanner (as Leonard and Sheldon try to fool it with one eye each): Access denied."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard and Sheldon",
+      "text": "It knows."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, oh, oh, oh, guys, hold me upside down."
+    },
+    {
+      "type": "dialog",
+      "character": "Scanner",
+      "text": "Howard Wolowitz, access granted."
+    },
+    {
+      "type": "dialog",
+      "character": "All",
+      "text": "Yay."
+    }
+  ]
+}

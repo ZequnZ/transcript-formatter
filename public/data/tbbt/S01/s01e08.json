@@ -1,0 +1,1357 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 1,
+  "episode": 8,
+  "title": "The Grasshopper Experiment",
+  "url": "https://bigbangtrans.wordpress.com/series-1-episode-8-the-grasshopper-experiment/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The Apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Damn you, walletnook.com."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Problem?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The online description was completely misleading, they said eight slots plus removable ID, to any rational person that would mean room for nine cards, but they don’t tell you the removable ID takes up one slot, it’s a nightmare."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, now, do you really need the honorary Justice League of America membership card?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s been in every wallet I’ve owned since I was five."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It says keep this on your person at all times. (Knock on door) It’s right here under Batman’s signature."
+    },
+    {
+      "type": "direction",
+      "text": "Leonard opens door. Raj and Howard are outside. Raj is holding a laptop which is open. His parents are on the screen."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "And this is Leonard and Sheldon’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Guess whose parents just got broadband."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "May I present, live from New Delhi, Dr and Mrs V. M. Koothrappali."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "Lift up the camera. I’m looking at his crotch."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Sorry papa."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "Oh, there’s much better. Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hi!"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "And over here is Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "He lives with Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Koothrappali",
+      "text": "Oh, that’s nice. Like Haroun and Tanweer."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No, no, not like Haroun and Tanweer."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Koothrappali",
+      "text": "Such sweet young men, they just adopted the cutest little Punjabi baby."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, we’re not like Haroun and Tanweer!"
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "So are you boys academics like our son?"
+    },
+    {
+      "type": "dialog",
+      "character": "Together",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "And your parents are comfortable with your limited earning potential?"
+    },
+    {
+      "type": "dialog",
+      "character": "Together",
+      "text": "Not at all."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Papa, please don’t start."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "God, it’s just a question, he’s so sensitive."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, that’s my life, that’s my friends, good to see you, say goodbye."
+    },
+    {
+      "type": "dialog",
+      "character": "Together",
+      "text": "Bye!"
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "Wait, wait. Before you go we have good news. Put the computer down and gather your friends."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What is it papa."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "Friends."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard (as they gather)",
+      "text": "Is it just me, or does webchatting with your clothes on seem a little pointless."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Koothrappali",
+      "text": "Rajesh, do you remember Lalita Gupta?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "The little fat girl that used to kick me in the samosas and call me untouchable."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Koothrappali",
+      "text": "Yes. Well, now she’s a dental student at USC, so we gave her your contact information."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Why did you do that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "You’re 26 years old Rajesh. We want grandchildren."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "But Papa, I’m not supposed…"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Koothrappali",
+      "text": "Lalita’s parents approve the match."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "If you decide on a spring wedding, we can avoid monsoon season."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Spring wedding?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Koothrappali",
+      "text": "It’s up to you dear, we don’t want to meddle."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "If you don’t want to meddle, then why are you meddling."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If I may, your parents probably don’t consider this meddling, while arranged marriages are no longer the norm, Indian parents continue to have a greater than average involvement in their children’s lives."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Why are you telling me about my own culture?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You seemed confused."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Sorry, Mommy, Papa, but with all due respect I really can’t go through…"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Koothrappali",
+      "text": "Sorry darling, we have to go. Doogie Howser is on. Grandma, it’s Doogie time! Bye bye."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "Bye bye."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I don’t believe it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Neither do I. Doogie Howser’s been off the air for like, twenty years."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Actually, I read somewhere that it’s one of the most popular programmes in India."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It might speak to a cultural aspiration to have one’s children enter the medical profession."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I bet you’re right."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I bet they love Scrubs."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What’s not to love?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Excuse me, hello? My parents are trying to marry me off to a total stranger, what am I going to do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I suggest you go through with it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Romantic love as the basis for marriage has only existed since the nineteenth century. Up until then, arranged marriages were the norm, and it served society quite well."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It’s the entire premise of Fiddler on the Roof."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m not a big fan of musicals, but I love that show."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Me too. Of course, it speaks to me culturally."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Understandable, but there’s a universality to that story which transcends ethnicity."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Let’s not forget it’s got some really catchy tunes."
+    },
+    {
+      "type": "dialog",
+      "character": "All",
+      "text": "(various noises of agreement)"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, I know what I’m going to do."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Find new friends."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So who wants to rent Fiddler?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No need, we have the special edition."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, maybe we are like Haroun and Tanweer."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon (on phone)",
+      "text": "This is Dr Sheldon Cooper. Yeah, I need to cancel my membership to the Planetarium. Yeah, well I’m sorry too, but there’s just no room for you in my wallet. Yeah, I understand, but it was between you and the Museum of Natural History and, frankly, you don’t have dinosaurs. Well I’ll miss you too, bye bye. Okay, I know you’re texting about me, and I’d really like you to stop."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj (entering)",
+      "text": "Oh dear, I am rightly and truly screwed."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, I thought you were finding new friends."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’ve got some feelers out. In the meantime, listen to this."
+    },
+    {
+      "type": "direction",
+      "text": "Lalita (voice from Raj’s phone): Hi Rajesh, this is Lalita Gupta. Your mother gave my mother your phone number to give to me. So I’m calling you, and, ah… call me back. Bye."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Can you believe how pushy she is?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So don’t call her."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "If I don’t call her, I won’t hear the end of it from my parents."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So call her."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "How can I call her, you know I can’t talk to women."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m done, anybody else?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Give me the phone."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Just give it to me. (Dials)"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Don’t worry, you’ll thank me. (In a fake Indian accent) Hello Lalita, Raj Koothrappali. (Raj starts to chase Howard across the room.) Yes it is good to talk to you too. So, what are you wearing. Oh, not important, so, anyhow, when would you like to meet. Friday works for me. And I call you with the time and place, but in the meantime, keep it real babe. (In own voice) You may now thank me."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "For what, making me sound like a Simpsons character?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Fine, next time make your own date."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I didn’t want to make this one."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Look on the bright side, she might turn out to be a nice, beautiful girl."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Great, then we’ll get married, I won’t be able to talk to her, and we’ll spend the rest of our lives in total silence."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Worked for my parents."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny (knocking and entering)",
+      "text": "Hi guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I need some guinea pigs."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay, there’s a lab animal supply company in Reseda you could try, but if your research is going to have human applications may I suggest white mice instead, their brain chemistry is far closer to ours."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I swear to God, Sheldon, one day I’m going to get the hang of talking to you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "His mom’s been saying that for years. What’s up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, I finally convinced the restaurant to give me a bar tending shift, so I need to practice making drinks."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, great, well the key to acquiring proficiency in any task is repetition."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "With certain obvious exceptions. Suicide, for example."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So Leonard, how about it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Look, Penny, we’d love to help you, but Raj is going through some stuff right now. And besides, he doesn’t drink, so… (Raj whispers in his ear) Really? Um, Raj is going through some stuff right now and he’d like to take up drinking."
+    },
+    {
+      "type": "dialog",
+      "character": "Scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, here you go, Leonard, one tequila sunrise."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thank you. This drink is a wonderful example of how liquids with different specific gravities interact in a cylindrical container. Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, Raj, what’ll it be? (Raj whispers in Leonard’s ear.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Whatever you recommend."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh, how about a grasshopper. I make a mean grasshopper. Okay? Good. Coming up. Sheldon, what are you going to have?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’ll have a diet coke."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, can you please order a cocktail, I need to practice mixing drinks."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Fine. I’ll have a virgin cuba libre."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That’s, um, rum and coke without the rum."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes,"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So coke."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes. And would you make it diet?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "There’s a can in the fridge."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "A cuba libre traditionally comes in a tall glass with a lime wedge."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Then swim to Cuba."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Bartenders are supposed to have people skills."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, Raj, here you go. Alright, who’s next?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’d like to try a slippery nipple."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, you’re cut off. Anybody need a refill?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Where did my life go, Penny? One day I’m a carefree batchelor, and the next I’m married and driving a minivan to peewee cricket matches in suburban New Delhi."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "A… are you talking to me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Is there another Penny here? I had such plans. I had dreams. I was going to be the Indira Gandhi of particle astro-physics. But with a penis, of course."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s amazing."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Ever since I was a little boy my father wanted me to be a gynaecologist like him. How can I be a gynaecologist, I can barely look a woman in the eye. You know what, I’m not going to let my parents control my future any longer, it’s time for a showdown. Somebody give me a computer with a webcam."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, sweetie, I think that’s the grasshopper talking."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "And it’s about to tell my parents that I’m not riding an elephant down the aisle with Lalita Gupta."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, calm down, no-one can make you get married. Why don’t you just meet this girl and, see what happens."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Haven’t you been listening to me, I cannot talk to women."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Um… Raj."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, no, let’s see how long it takes him."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Um, Raj, honey, you say you can’t talk to women but… you’ve been talking to me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And now we’ll never know."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You’re right. I… I am talking to you. Hello Penny, how are you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’m fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, now I just need to make sure I have a Lalita before I meet the grasshopper. It’s a sweet green miracle."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, if you’re going to drink on this date just promise me you won’t overdo it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Overdo what? Happiness? Freedom? This warm glow inside of me that promises everything is going to be all hunky donkey?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, that. Uh, why don’t you bring her to my restaurant when I’m tending the bar so I can keep an eye on you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Wait a minute, what’s the plan here? Let’s say he meets her and he likes her and they get married, what’s he going to do, stay drunk for the rest of his life?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Worked for my parents."
+    },
+    {
+      "type": "scene",
+      "text": "The restaurant."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I can’t believe I’m sitting here next to little Lalita Gupta."
+    },
+    {
+      "type": "dialog",
+      "character": "Lalita",
+      "text": "Well, you are."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Little Lalita. That’s kind of fun to say. Little Lalita, Little Lalita, Little Lalita, you should try it."
+    },
+    {
+      "type": "dialog",
+      "character": "Lalita",
+      "text": "No, it’s okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You have lost so much weight! That must have been difficult for you because you were so, so fat! Do you remember?"
+    },
+    {
+      "type": "dialog",
+      "character": "Lalita",
+      "text": "Yes, I do."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Of course you do. Who could forget being that fat?"
+    },
+    {
+      "type": "dialog",
+      "character": "Lalita",
+      "text": "Well, I’ve been trying."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "So you’re a dental student? Hmm, are you aware that dentists have an extremely high suicide rate? Not as high as, say, air traffic controllers, but then there are far more dentists than air traffic controllers, so in pure numbers you’re still winning."
+    },
+    {
+      "type": "dialog",
+      "character": "Lalita",
+      "text": "Yay me!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard (to Penny)",
+      "text": "You have a drink that’ll make him less obnoxious?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Drinks do not work that way."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’d say he was doing fine, look at her, last girl my mom set me up with had a moustache and a vestigial tail."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Sorry I’m late."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What happened?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Nothing, I just really didn’t want to come. Virgin diet cuba libre please."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "In a tall glass, with a lime wedge."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, I’ll wedge it right in there."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So, how’s Koothrappali d…. oh my Lord."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s Princess Punchali."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m pretty sure her name’s Lalita."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, no, Princess Punchali from The Monkey and the Princess."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, yeah, I tried to watch that online, but they wanted a credit card."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s a children’s story."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, no it isn’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "When I was a little boy and got sick, which was most of the time, my mother would read it to me. It’s about an Indian princess who befriends a monkey, who was mocked by all the other monkeys because he was different. For some reason I related to it quite strongly."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I know the reason."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We all know the reason. Sheldon, what are you getting at?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That woman looks exactly like the pictures of Princess Punchali in the book. How often does one see a beloved fictional character come to life?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Every year at Comic Con. Every day at Disneyland you can hire Snow White to come to your house. Course they prefer it if you have a kid, but…"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey guys. This is Lalita Gupta, Lalita this is Leonard and Sheldon and Howard and Penny. Isn’t it great, she isn’t fat any more!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Forgive me your highness, for I am but a monkey, and it is in my nature to climb. I did not mean to gaze upon you as you comb your hair."
+    },
+    {
+      "type": "dialog",
+      "character": "Lalita",
+      "text": "I’m sorry?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You are the living embodiment of the beautiful Princess Punchali."
+    },
+    {
+      "type": "dialog",
+      "character": "Lalita",
+      "text": "Oh, no kidding? Oh, who is that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "A beloved character from an Indian folk tale."
+    },
+    {
+      "type": "dialog",
+      "character": "Lalita",
+      "text": "Oh. Us Indian, or “come to our casino” Indian?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You Indian."
+    },
+    {
+      "type": "dialog",
+      "character": "Lalita",
+      "text": "Oh."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The resemblance is remarkable. I can practically smell the lotus blossoms woven into your ebony hair."
+    },
+    {
+      "type": "dialog",
+      "character": "Lalita",
+      "text": "Thanks. I imagine you smell very nice too."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I shower twice a day and wash my hands as often as I can."
+    },
+    {
+      "type": "dialog",
+      "character": "Lalita",
+      "text": "Really, so do I."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "But you’re a dentist, he’s nuts."
+    },
+    {
+      "type": "dialog",
+      "character": "Lalita",
+      "text": "Don’t be insulting Rajesh. So, Sheldon, tell me more about this princess you say I look like."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It was said that the Gods fashioned her eyes out of the stars, and that roses were ashamed to bloom in the presence of her ruby lips."
+    },
+    {
+      "type": "dialog",
+      "character": "Lalita",
+      "text": "Oh my."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Back off Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "If you do not stop hitting on my lady you will feel the full extent of my wrath."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m not hitting on her."
+    },
+    {
+      "type": "dialog",
+      "character": "Lalita",
+      "text": "And I am not your lady."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "And you have no wrath."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You are my lady. Our parents said so. We are for all intents and purposes one hundred percent hooked up."
+    },
+    {
+      "type": "dialog",
+      "character": "Lalita",
+      "text": "Okay, let’s get something straight here. The only reason I came tonight was to get my parents off my case, I certainly don’t need to be getting this old world crap from you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Exactly the kind of spirit with which Princess Punchali led the monkeys to freedom."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, screw Princess Punchali."
+    },
+    {
+      "type": "dialog",
+      "character": "Lalita",
+      "text": "Hey, you can’t talk to me like that."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "But you’re not Princess Punchali."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Luckily for you, she could have you beheaded."
+    },
+    {
+      "type": "dialog",
+      "character": "Lalita",
+      "text": "Sheldon, are you hungry?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I could eat."
+    },
+    {
+      "type": "dialog",
+      "character": "Lalita",
+      "text": "Let’s go."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What just happened?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Beats the hell out of me."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’ll tell you what just happened, I just learned how to pick up Indian chicks."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment. Raj is talking to his parents on the webcam."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Koothrappali",
+      "text": "What are we supposed to say to Lalita’s parents?"
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "I play golf with her father, I won’t be able to look at him."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Maybe you should keep your eye on the ball, Papa."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "Oh, now you’re a funny man? This is not funny, Mr Funny Man."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Doctor and Mrs Koothrappali, in all fairness, it wasn’t entirely Raj’s fault."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "This is a family matter Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, I’m Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "Oh, sorry, you all look alike to us."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "But he’s right, Papa, listen to him. (Sheldon enters) You! You are the one who ruined everything!"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Koothrappali",
+      "text": "Who is it? We can’t see."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "Turn us, turn us."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Go ahead, tell my parents why they won’t have any grandchildren."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "How would I know, do you have a low sperm count?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "This has nothing to do with my sperm count."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Koothrappali",
+      "text": "You are wearing the boxers that we sent you, aren’t you Rajesh."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yes Mommy."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Koothrappali",
+      "text": "Because you know what happens to the samosas when you wear the tidy whities."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Can we please stop talking about my testicles? Sheldon, tell them what you did."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What did I do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You left with his date. Friends don’t do that to each other."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh. Alright, noted. Sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Sorry? That’s all you can say is sorry?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Take it, Raj. It’s more than I’ve ever gotten."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And may I point out she wouldn’t have asked me to go with her if you hadn’t been drunk and boring."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "Drunk?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And boring, her words."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "I knew it, he moves to America and becomes an alcoholic."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m not an alcoholic."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "Then why were you drunk?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It was just this one time, Papa, I swear."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "Are you in denial? Do we have to come over and do an intervention?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Koothrappali",
+      "text": "Don’t embarrass him in front of his friends."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "Alright. Carry us outside, we want to talk to you in private."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "But Papa, please…."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "Now, Rajesh."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj (to Leonard and Sheldon)",
+      "text": "I have to go."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "Now listen to me…."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Please wait until I get into the hall."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay, well, good night."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hold on. What happened with you and Lalita?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "We ate. She lectured me on the link between gum disease and heart attacks, nothing I didn’t already know, and I came home."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So you’re not going to see her again?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why would I see her again? I already have a dentist. (Exits)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I wonder who’s going to tell his parents they’re not having grandchildren."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s restaurant. Sheldon is on the piano, singing “To Life” from Fiddler on the Roof enthusiastically."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t believe it, what’s gotten into him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, maybe a couple of virgin cuba libres that turned out to be kind of slutty."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You didn’t?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, you do your experiments, I do mine."
+    }
+  ]
+}

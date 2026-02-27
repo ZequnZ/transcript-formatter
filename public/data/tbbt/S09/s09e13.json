@@ -1,0 +1,1183 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 9,
+  "episode": 13,
+  "title": "The Empathy Optimisation",
+  "url": "https://bigbangtrans.wordpress.com/series-9-episode-13-the-empathy-optimisation/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, so I saw a movie trailer the other day. How could Batman possibly fight Superman? I mean, isn’t that dumb?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Maybe he uses Kryptonite."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Well, Batman’s got a lot of money. Maybe he builds a suit that can do everything Superman can do."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, no, no, no, no. I’ve seen that movie. It’s called Iron Man."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What is happening?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I don’t know."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "But it’s beautiful."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "And now Ben Affleck is Batman?"
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Oh, he was great in Shakespeare in Love."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Ooh, we should watch that next girls’ night."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "We could do a double feature with the Leonardo Di Caprio Romeo and Juliet."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, I love me some Leo."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "And it’s gone."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, hello, everyone. I am happy to report I’m feeling much better."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Good for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "My fever is gone, my sinuses are pressure-free, and my mucus is as clear as a Yosemite waterfall."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Glad to hear it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’ll be able to return to work tomorrow."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yay."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, why isn’t everyone happy? Your little ray of sunshine is ready to beam again."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You really don’t know why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. But I knew that his yay was sarcastic. Not bad for a guy whose last bowel movement sounded like rain on a roof."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Let me refresh your memory."
+    },
+    {
+      "type": "direction",
+      "text": "Flashback"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Penny, rub Vicks on my chest."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon, I cooked you breakfast. I made your bed. I checked your mouth for thrush. You can rub your own chest."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, sure, grope every other male on the planet, but draw the line with me."
+    },
+    {
+      "type": "direction",
+      "text": "Flashback"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I brought you a little care package from work. It’s our latest antiviral and the best decongestant we make."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I hope laughter is the best medicine, ’cause this care package is a joke."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, she came all the way here…"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You’re gonna want to take these with food."
+    },
+    {
+      "type": "direction",
+      "text": "Flashback"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Sheldon, stop being a baby and let Emily take a look at you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "She’s a dermatologist."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "I went to medical school."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, in that case, try removing the irritating patch of brown skin standing next to you."
+    },
+    {
+      "type": "direction",
+      "text": "Flashback"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "All right, here you go."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard, I’m dying."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re not dying. It’s just the flu."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I asked for chicken noodle. This is chicken and stars. It’s killing me."
+    },
+    {
+      "type": "direction",
+      "text": "Back to the present."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I never did get that chicken noodle, did I?"
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "direction": "(on Skype)",
+      "text": "Hi, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Are you feeling any better?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Physically, yes, but I’m upset because everyone’s mad at me for no good reason."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Why don’t you tell me what happened, and in a gentle, loving way, I’ll explain to you why you’re wrong."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know how, when you’re sick, you’re allowed to be cranky and say whatever you want and other people’s feelings don’t matter?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Ooh. Gentle and loving, this is gonna be tricky."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I had a hundred and one fever. If that’s not a time to verbally abuse my loved ones, when is?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, when you’re sick, you can be unbearable. That’s why your friends have been known to work late or sneak out to the movies or stay at a neurobiology conference three days after it’s ended."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You stayed in Michigan all week to avoid being around me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No, no, not just that. I mean, Detroit is beautiful when it’s sleeting."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know, I’m not the only one who’s unpleasant when they’re sick. When Penny got food poisoning, she threw up so loudly I could barely hear the television."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Ooh, I just heard something. Might be hail, might be gunfire. Either way, I’m gonna go take pictures. Bye."
+    },
+    {
+      "type": "scene",
+      "text": "The comic book store."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, Stuart."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Hey. Where’s Sheldon? Still sick?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, he’s fine. We just needed a little break."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Yeah, I get that. When I brought him his comics the other day he said, oh great, death is literally at my door."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "He was being a jerk to everyone. Don’t take it personally."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Oh, I’m on so many antidepressants, I couldn’t if I wanted to."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I wish we could do more stuff without Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I wish that all the time. Usually before I blow out birthday candles."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You know, Amy took some time off from him. Really improved their relationship."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Huh. Okay. As long as it doesn’t end with us having coitus with him, I’m in."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "We should all take a trip or something."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, you know, Penny and I have been talking about taking a weekend in Vegas. Maybe we should all go."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Bernie would love that."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, Ooh, maybe we could get one of those party buses to take us there."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That sounds really fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, that sounds fun. A party-bus party don’t stop. Ooh, when I say party, you say bus."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, the guys and I were talking about renting a party bus and everyone going to Vegas."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, that could be fun. But just to be clear, you mean a party bus with booze and music, right, not, like, juice boxes and video games?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes. And Howard’s birthday was a drop-off party, you didn’t have to stay."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, I’m in. When are we going?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "This weekend."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, where are we going?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, Vegas, but…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Ugh, Atlantic City without the taffy? No, thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s fine, ’cause actually you’re not invited."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, now, well, that’s hurtful."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, Sheldon, you don’t even like it there."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I can consider a place America’s urinal cake and still enjoy the occasional visit."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Not this time."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, fine. Then I’ll just hang out with Wolowitz."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "He’s coming, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, then Raj and I will…"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Nope."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Very well. Stuart."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, great. Do that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Ugh. Stuart."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "direction": "(on Skype)",
+      "text": "Hi, Sheldon. What’s new?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Our friends are jerks, and I’m mad at all of them."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I said what’s new, but sure."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Can you believe they planned a trip to Las Vegas and didn’t invite me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Did you refuse to apologize and act like they were stupid for being mad?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know, I liked it better when there was still a little mystery left in our relationship."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Everyone tried to take care of you, and you were nothing but mean to them."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I can’t believe you’re not on my side. I was on your side when someone stole your car radio."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Who else’s side could you have been on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t know. A music-loving hobo with a heart of gold?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, I understand that you’re upset because you feel left out, but I don’t know why we’re even talking about this. Just apologize to them."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Fine, if that’s what it takes to go on their dumb trip."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Maybe you could try apologizing because you actually feel bad. It’s called empathy. It’s something you could work on."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I have empathy. Watch. Leonard made me soup, and I was mean to him."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Great. Now try it as if this isn’t your first day as a person."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Fine. Leonard made me soup, and I was mean to him. Hey, I felt a little something. Let me try again. Leonard made me soup, and I was mean to him. I was mean to him. He must have felt terrible. Oh, now I feel terrible. Neat."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Glad I could help."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Now let me see you feel bad for lying and staying in Detroit longer than you needed to."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I feel so, so bad."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hey, we’re both great at this."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard, get ready for an apology. And with the added twist of an M. Night Shyamalan movie, I’m going to mean it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Ah, so like every other M. Night Shyamalan movie I’ve seen, you spoil it in advance."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hey, if you didn’t know Bruce Willis was dead the whole time, that’s not on me. Okay. Here it comes. You tried to take care of me when I was sick, and I was mean to you. There’s no excuse for that. And I’m truly sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thank you. I appreciate that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I want you to know that that is sincere. I do feel bad. I’m not just saying it to be included on your trip."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Appreciate that, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Terrific. Now all that’s left is for you to invite me to come, me to ask are you sure, you to say absolutely, and then me to bring it home with, how could I say no to that face?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re still not coming."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What? I apologized and I meant it. I know that we don’t play this game very often, but you’re doing it wrong."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, I accept your apology, but you upset a lot of people while you were sick. I’m not in a position to just say you can come."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, all right. What if I apologize to all of them?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Fine, if you apologize to everyone, they all say it’s okay, then yes, you can come."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Challenge accepted. Sounds like it’s time for the Sheldon Cooper Apology Tour."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, I hope it’s as much fun as the Sheldon Cooper Spell-Checks Local Menus Tour."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "My goodness, do you remember comes with apsparagus?"
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Berndette’s house."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Howard and Bernadette, you tried to comfort me when I was ill, and I treated you terribly. I’m sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Wow. I’m impressed."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, no, no, wait. I’m not done. Allow me to underscore my sentiment with a haunting rendition of Brenda Lee’s I’m Sorry played on the pan flute."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Apology accepted."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Forgiven, forgiven."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, that’s eight hours of practice down the drain. And to memorialise this occasion, here are your commemorative T-shirts."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sheldon Cooper apologized to me"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "And he made it all better."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment bathroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All you did was offer maternal care and affection, and all you received in return was rude and insensitive behavior."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Can this wait?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m afraid it can’t. The trip is tomorrow. And I have more apologies to make."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, fine, I accept your apology, now get out."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wonderful. would you mind holding up this shirt while I take a quick…?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Leonard."
+    },
+    {
+      "type": "scene",
+      "text": "The comic book store."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You brought me my comic books when I wasn’t feeling well. That, that was thoughtful. And I was insensitive. I’m sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Thank you, Sheldon. I appreciate that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And I want you to know that I mean it, you know? This isn’t me just wanting to go on the trip to Las Vegas."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "What trip to Las Vegas?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The one everyone’s taking this weekend on the party bus."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Of course, I wasn’t invited."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That would be my understanding. On a less painful subject, what size T-shirt do you take?"
+    },
+    {
+      "type": "scene",
+      "text": "Raj’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Raj, you were being a good friend, and my illness was no excuse for my behaviour. I hope that you can accept my apology."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Of course I do."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And, Emily, I’m sorry for saying dermatologists aren’t real doctors. And I’m sure you’re tired of hearing that."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Do you honestly think I hear that a lot?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I would imagine when your job is popping zits and squirting Botox into old lady faces…"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, okay, the point is that we accept your apology."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Uh, maybe you do. He just insulted me again."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, but he doesn’t mean it."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Why are you defending him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I believe I can answer that. Uh, like me, Raj is demonstrating empathy. Now, why don’t you accept my apology receive your free T-shirt, uh, I hope extra small is okay. For some reason Wolowitz took a medium."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Well, I don’t accept your apology."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "It’s called standing up for myself. You should try it some time."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Fine, how about this? You’re making me uncomfortable by prolonging this ridiculous fight, and I wish you’d stop."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Oh, you want me to stop? No problem."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No, come on, please don’t leave."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Point of clarification, are you still going on the trip? Because if not…"
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Don’t worry, you’re good."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I caused that fight, I feel terrible. Wait, I can do that better. I caused that fight. I feel terrible. Yeah, wow, I don’t know which one I like more."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So, was the fight really bad?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. As a fight, it was excellent. She used harsh language and slammed the door. Although as I say this, that might not have been what you were asking."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You think they’ll still go on the trip?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All I know is after the fight I went to Emily’s to smooth…"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "They’re not going on the trip."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What is wrong with you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Look at him, caring about what’s wrong with me. That is some top-shelf empathy. Hey, well, we should start a club."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You went to Emily’s to apologise, and when you left, she was crying."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That is true. Well, I suppose I should apologize again."
+    },
+    {
+      "type": "dialog",
+      "character": "All",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Is she okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, I calmed her down, but she’s not going to Vegas if he’s going."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Wait, that’s an option? I didn’t know that was an option."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, that is fine, because I’ve decided that I won’t be joining you. I’ve realized that the most genuine way to demonstrate the remorse I feel is to let you have this weekend to yourselves."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "That’s very mature of you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I’ve been on a little trip myself recently. Not to Sin City but to Sincere City. Where instead of genital warts, the only growth you’ll come back with is personal growth."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "And there’s your next T-shirt."
+    },
+    {
+      "type": "scene",
+      "text": "The party bus."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Ooh, check out the stripper pole."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You know what that means."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That Raj’ll be on it before we make it to the freeway?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You know it. Oo-ah, oo-ah."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "This is so cool."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Here’s some champagne."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Mm-hmm. Well, I would like to propose a toast to a well-deserved weekend of…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Aha."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "My plan was to jump out at the state line, but one of my nose plugs fell into the toilet."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You couldn’t give us just one weekend?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "I told him this was a bad idea."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What do we do, kick them off?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "If we drop them off at a fire station, they have to take them, no questions asked."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Before you do, please give me one more chance to apologize to Emily."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, God."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Emily, as I’m sure you know, I’m considered an odd fellow. But what you don’t know is that, while I often say the wrong thing, in my heart I mean well. I think that you are a smart and wonderful woman, you know? And we all think that you can do better than Koothrappali."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You know, Sheldon…"
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Shh, let him finish."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So, for all the times I’ve offended you and all the times that I’ll offend you in the future, I’m sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Good. Then I’ll be leaving now."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Oh, it’s okay, Sheldon. Come with us."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, that’s very kind of you. But I’m sure you’ll all have a better time without me. Let’s go, Stuart."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "But I want to stay."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Stuart, now."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "You know, I know he’s a jerk, but I actually feel bad for him."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "And now you see the problem."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Come on, you pain in the ass."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s me. Bye, Stuart."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Wait. I’m a pain in the ass, too."
+    },
+    {
+      "type": "scene",
+      "text": "Later on the party bus."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Are you relieved that you and Raj were able to patch things up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "At the moment? No, not really."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Shake it, baby."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Ooh, work that thing."
+    }
+  ]
+}

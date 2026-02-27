@@ -1,0 +1,1216 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 9,
+  "episode": 15,
+  "title": "The Valentino Submergence",
+  "url": "https://bigbangtrans.wordpress.com/series-9-episode-15-the-valentino-submergence/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The cafeteria."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Gentlemen."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If any of you are looking for something to do on Valentine’s Day, Amy and I’ll be streaming our first-ever live episode of Fun With Flags. You’re welcome to join us as we celebrate the timeless love affair between wind and flapping fabric."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Penny and I have dinner reservations that night, but any other time, no."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sorry, Bernie and I are breaking in the new hot tub, if you know what I mean."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Not a clue. Raj?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Spending Valentine’s Day with Emily."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You don’t sound very excited about it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, I am, I am. I, I guess I’m still wondering if Emily and I are right for each other."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Does this have to do with that girl you had coffee with?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You mean the strong, sexy angel I can’t stop thinking about? Who can say?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You’ve been talking about breaking up with Emily forever. Why don’t you just do it already?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, just get it over with."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, you say it like it’s easy. Have any one of you ever broken up with anyone?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Not really."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know, uh, once I ordered an Uber by accident. I just got in and went somewhere."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So, you really gonna break up with her?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, I think so. Do you have any advice?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, I have broken up with my fair share of guys. I mean, how many times did I break up with Leonard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I stopped counting at four."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right, my advice to you is do it at her place so you can leave when you need to, uh, tell the truth, make it quick and be prepared for tears."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, I’m gonna do a pre-cry before I go in there. Really dry myself out."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "She meant Emily."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, I, I really didn’t."
+    },
+    {
+      "type": "scene",
+      "text": "Emily’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "You’re seriously breaking up with me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "And you thought right before Valentine’s Day was a good time to do it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You’re right, let’s talk again in a few days."
+    },
+    {
+      "type": "scene",
+      "text": "Raj’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "direction": "(on phone)",
+      "text": "Hey, Claire. Hi. It’s, it’s Rajesh. I was, I was wondering if you’re free for Valentine’s Day?"
+    },
+    {
+      "type": "dialog",
+      "character": "Claire",
+      "text": "Sorry, I just got back with my boyfriend."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "But I just broke up with my girlfriend."
+    },
+    {
+      "type": "dialog",
+      "character": "Claire",
+      "text": "Right before Valentine’s Day? What an ass."
+    },
+    {
+      "type": "scene",
+      "text": "Emily’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Please take me back. Our love was meant to be."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m gonna all alone on Valentine’s Day."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, you were right, tears."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Okay, and we are live in 22 minutes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m nervous. I hope people will be around to watch even though it’s Valentine’s Day."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "People who are fans of an Internet show about flags? Trust me, they’re around."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, and speaking of Valentine’s Day, I haven’t forgotten about you tonight."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What do you mean?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, you’ve become such an integral part of my life as well as this show, I felt it only right to include your name in the title."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh. That is so sweet."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So from now on, this program will be officially known as Dr. Sheldon Cooper and Dr. Amy Farrah Fowler present Dr. Sheldon’ Cooper’s Fun With Flags."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Catchy."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s house."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m gonna check the temp on the tub."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Don’t make it too hot."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sorry, but too hot is the only temperature I come in."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Look at that, you shaved it all."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You’re welcome. Um, question, this is my first hot tub, is it supposed to come with a rat flopping around in it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Ew, really? Get it out."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "How?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Uh, wish we had a skimmer."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Uh, you turn off the jets, I’ll get a strainer from the kitchen."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I don’t know how to turn off the jets."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Good, I don’t know where we keep the strainer."
+    },
+    {
+      "type": "scene",
+      "text": "A restaurant."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Excuse me. Uh, bad news. The maître d’ said it’s gonna be at least an hour."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "An hour? What? That’s crazy. We have a reservation."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I know."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So what did you say?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thanks, sorry to bother you. But I said it like a badass."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right, well, can’t you, like, slip him some money or something?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Really? I’ve never done that before. Does it work?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Do people like money? Is that what you’re asking?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "A lot of attitude from the woman who thought MC squared was a rapper."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Now, is that a smart thing to say on a holiday that’s basically national sex night?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m sorry. You’re pretty, I’m stupid. Hello. Uh, just checking again for Hofstadter. Still gonna be an hour?"
+    },
+    {
+      "type": "direction",
+      "text": "Maitre d’: I’m afraid so."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay. Thanks. Hey. I think you may have dropped this?"
+    },
+    {
+      "type": "direction",
+      "text": "Maitre d’: Oh. Did anybody lose a 20?"
+    },
+    {
+      "type": "dialog",
+      "character": "Man",
+      "text": "I did."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, I took care of it."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Okay, we are live in five, four, three, oh, wait, oh shoot, I already pushed the button. Never mind, we’re live."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Uh, hello and welcome to a special live edition of Dr. Sheldon Cooper…"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "And Dr. Amy Farrah Fowler present…"
+    },
+    {
+      "type": "dialog",
+      "character": "Together",
+      "text": "Dr. Sheldon Cooper’s Fun With Flags."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Consider tonight’s episode a Valentine’s Day gift for you, our viewers."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s also my gift to you. That was clear, right? ‘Cause you’re not getting anything else."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Since we’re live, you’ll finally be able to reach out to us with your flag thoughts and flag questions."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Allow us to answer a few quick ones that we get all the time. Uh, uh, yes, I really am a doctor. Uh, yes, she really is my girlfriend."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No, I just blink a lot, it’s not Morse code for rescue me. Oh, uh, ok, uh, here’s our first call. Hello, and welcome to Fun With Flags. What’s your question?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "direction": "(voice)",
+      "text": "What is wrong with me? Why am I so self-destructive?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Rajesh?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yes. Whenever things are going well, I always find a way to ruin it. You two look happy, how do you do it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I, I think it starts with good communication."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know what, that’s not a flag question. Next caller."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s house."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I hope you don’t think I’m just saying this because it’s Valentine’s Day, but, I love you so much."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I’m gonna put this down your robe. It’s not moving, but I think it’s still alive."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, should we put it back in there a few minutes?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "No. No, and it’s not a rat, it’s a rabbit. We need to save it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, how do we do that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Um, I don’t know, look it up on your phone. I’m gonna wrap it in a towel."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Um, taking care of injured rabbit. Okay. Make sure it’s comfortable and warm. Well, it was just in a hot tub. I’m gonna say check."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Anything else?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "To make sure it’s not dehydrated, feed him an electrolyte solution. If it’s not responding, use a warm cloth to wash its face and genitals. Yeah."
+    },
+    {
+      "type": "scene",
+      "text": "The restaurant."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "This is ridiculous. You know, I’m gonna go talk to the maître d’."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What are you gonna say?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I don’t know. I’m, I’m gonna flirt with him."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know if I’m comfortable with that."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’m still sleeping with you tonight."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "See if you can get a table by the window."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hi there. What’s your name?"
+    },
+    {
+      "type": "direction",
+      "text": "Maitre d’: Glen."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, boy, it is crazy in here tonight, huh, Glen?"
+    },
+    {
+      "type": "direction",
+      "text": "Maitre d’: Well, you know, Valentine’s Day."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yes. Oh, bet your girlfriend is super bummed you had to work tonight. Anyway, look, we have been waiting a while, and I just…"
+    },
+    {
+      "type": "direction",
+      "text": "Maitre d’: With all due respect, ma’am, there’s nothing I can do."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You don’t have to call me ma’am."
+    },
+    {
+      "type": "direction",
+      "text": "Maitre d’: Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I mean, we’re basically the same age."
+    },
+    {
+      "type": "direction",
+      "text": "Maitre d’: Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "How old are you?"
+    },
+    {
+      "type": "direction",
+      "text": "Maitre d’: I’m 21. How old are you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Just shut up, Glen. Come on, let’s get out of here."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What? Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Because I’m young. Let’s go."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Rajesh, it’s perfectly normal to have doubts after breaking up with someone."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "direction": "(voice)",
+      "text": "You really think so?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, you know what’s not normal? Blubbering about emotions during a flag show. Unless that emotion is excitement over New Zealand changing their flag. Yeah, good luck, you crazy Kiwis, we’re rooting for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Your friend is hurting."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No, Sheldon’s right. Emily did say I always talk about my feelings too much."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I suppose that could be a legitimate concern in a relationship. Uh, perhaps even a, a red flag. And speaking of red flags, check out this sexy number from the former Soviet Union. Hubba, hubba."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh. Uh, we-we have another caller. Hi. You’re on Fun with Flags."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "direction": "(voice)",
+      "text": "Hewwo. I want to talk about how wonewy I am, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Kripke? Is that you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Yeah, I’m just sitting here all by myself wondering if I’w ever find someone to share my wife with. Pwefewabwy Asian, 18-24, no fatties."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Please, all comments and questions should be flag-related."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Aw wight. Is my pole fwag-wewated?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t see why not."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s house."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "He’s eating. That’s a good sign."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You’re gonna have to wait one hour until you can go swimming again."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "He’s pretty cute."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "He is. Should we name him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "It is Valentine’s Day. How about Valentino?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Nice. A classic rabbit name. Peter Rabbit, Roger Rabbit. Valentino Wolowitz Rabbit. Oh, look at all that chest hair and overbite. Of course you’re a Wolowitz. Son of a bitch, he bit me."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Are you okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, I’m not okay. Wild rabbits can have rabies."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh. Well, why did you put your finger near its mouth?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Poor judgement, obviously."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "He’s so little. I’m sure it’s fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "How can it be fine? I just got attacked by a clearly anti-Semitic wild animal."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s not what we planned, but this isn’t so bad, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It is freaking amazing."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, glad you’re feeling better."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I was just hungry and cranky, and I’ve never been called ma’am before."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Is that a big deal?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Kind of. When was the first time someone called you sir?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sixth grade, but I wore a sport coat and carried a briefcase, so…"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Can you believe when I met you I was 22? I mean, it’s crazy. Where did all that time go?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Mm, you watched The Bachelor a lot."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, go ahead and make jokes, but your thirties are almost over."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, they’re not."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You’re closer to 40 than you are 30."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Ha, ha. You married an old man. Tell you what. Let’s do something fun tonight."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Won’t make us any younger."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, maybe not, but some day we actually will be old, and we’ll look back on this night and remember what a good time we had."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, like what?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I know. Food fight. I’ll keep thinking."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Look, I know you both feel bad about being alone, but sometimes the best thing you can do is take a little time for yourself, especially when you just got out of a relationship."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Speaking of ending relationships, when British Honduras became Belize, they designed a new flag with a tree on it, and I would like to hang myself from that tree."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "But, Amy, when you and Sheldon split up, didn’t you start dating someone right away?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, I, I wouldn’t say right away."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And actually, it was three different men."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Thwee diffewent men? Damn, girl, way to give the milk away?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, looks like we just lost Kripke."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "No, actuawwy, I’m stiw here."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Yup."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Yup."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Now? Oh, looks like we just lost Kripke."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Before Emily, I was alone for so long. I just, I don’t know if I can do that again."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, you know, here is something that might cheer you up. The flag of the Isle of Man is nothing but three legs sharing a weird pair of underpants, so you think you got problems."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I have an idea. Maybe someone in our audience would be interested in meeting Rajesh. Ladies, I can attest that he is a kind, handsome, intelligent…"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Rich parents, don’t forget, rich parents."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "…spoiled astrophysicist who not only… oh. Well, that was quick. Hi. You’re on Fun with Flags."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Hey, I think I got cut off."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hello, Kripke."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "I have a fwag question. How many men did you have sex with?"
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Let’s see. What’s young and fun? Uh, we could go dancing."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Are you actually gonna dance?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Of course."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah. No one wants to see that. Hey, how about skinny dipping at the beach?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, I don’t need any fish nibbling my business."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, there’s a screening of Moulin Rouge, I heard the crowd sings along and stuff."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That sounds fun. When’s it start?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Midnight."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Midnight. Really? You know what? Let’s do it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, great. Oh, wait. Uh, it’s sold out."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, thank God."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yes."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s house."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It says, rabies in rabbits is highly unlikely."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, terrific."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It’s not terrific. Lots of highly unlikely things happen. You saw what’s under this robe, and you still married me."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "If you’re really worried, we’ll take him to the vet and have him tested."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Good. Thank you. Oh, okay, there is a test. All they have to do is cut off his head and check his brain."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, cut off his head? That’s where his little nose is."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "He’s not showing any symptoms. I guess I’ll just go to the emergency room to be safe."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Howie, this is just your hypochondria."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, when I sat on the mute button and thought I’d gone deaf, that was my hypochondria."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "We’ll find another time to tell him I’m pregnant."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "direction": "(voice)",
+      "text": "I mean, this is the first time I’ve ever broken up with someone. I just, I didn’t realize it was gonna hurt this much."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It really can."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right. Nothing about this is fun. No one wants to talk about flags, and I haven’t spoken in over ten minutes, so, enjoy your new show, Internet. Dr. Amy Farrah Flower present with."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m sorry for bothering you. I’ll hang up now."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No, hold on, Rajesh. You know, you’re not being very sympathetic. You know first hand that breakups are hard."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Fine. If you insist on making me a part of this, yes, I knowledge how painful they can be. However, pain has an evolutionary purpose. It provides information from the environment that, uh, behaviour isn’t good for us."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Wike when I feww in wove with that stwipper and bought her a Pwius."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’m just gonna push all the buttons."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Raj, now, I’m sorry you’re suffering. When Amy and I were broken up, I also suffered. And this may sound surprising, but I’m grateful for having gone through it."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Really?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes. I believe our relationship now is stronger than ever."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "So do I."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "When, when we were apart, I learned how important you are to me. And I realize that when two people are in love, sometimes they…"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard and Penny",
+      "text": "Happy Valentine’s Day!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We are young and fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I stand corrected. Fun."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Congratulations on a successful live show."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "And a lovely Valentine’s Day."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Cleaning up is not young and fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It can be. Confetti fight. Maybe you should take a break. I got this."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Did you know the singular of confetti is confetto?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Interesting, and when would you use the singular?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m glad you asked. Amy, you have a confetto in your nose. No, no, no, no. Other side. There you go."
+    }
+  ]
+}

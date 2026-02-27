@@ -1,0 +1,1212 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 1,
+  "episode": 14,
+  "title": "The Nerdvana Annihilation",
+  "url": "https://bigbangtrans.wordpress.com/series-1-episode-14-the-nerdvana-annihilation/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, this sandwich is an unmitigated disaster. I asked for turkey and roast beef with lettuce and swiss on wholewheat."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What did they give you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Turkey and roast beef with swiss and lettuce on wholewheat. It’s the right ingredients but in the wrong order. In a proper sandwich the cheese is adjacent to the bread to create a moisture barrier against the lettuce. They might as well have dragged this thing through a car wash."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t believe it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I know, it’s basic culinary science."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Some guy is auctioning off a miniature time machine prop from the original film and no-one is bidding on it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "A time machine from the movie The Time Machine?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, a time machine from Sophie’s Choice."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Boy, Sophie could have used a time machine in that movie. Did you see it, it’s rough."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, that’s cool."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh-huh."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s only $800?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah. And that’s my bid."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You bid $800."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It was a spur of the moment thing, I figured it would go for thousands and I just wanted to be a part of it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "There’s only 30 seconds left in the auction."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Do you have $800?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Not to blow on a miniature time machine."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Don’t worry, the way these things work there’s people waiting ‘til the last second to bid, and then they swoop in and get it, it’s called sniping."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Fifteen seconds."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Come on, snipers."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Ten, nine, eight…"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Where are your snipers?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Five."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Snipe."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Four."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Snipe."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Three."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Snipe!"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Two."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "SNIPE!"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "One."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Aaaa-aw!"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Congratulations, you are the proud owner of a miniature time machine."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You lucky duck."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I wonder why no-one else bid, this is a classic piece of sci-fi movie memorabilia."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, I know, I still can’t afford it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Why don’t we share it? We’ll each put in two hundred bucks and we’ll take turns having it in our homes."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "A time share time machine? I’m in. Sheldon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Need you ask? But I still don’t understand why no-one else bid."
+    },
+    {
+      "type": "scene",
+      "text": "The lobby. The guys stand around a full sized time machine."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I understand why no-one else bid."
+    },
+    {
+      "type": "scene",
+      "text": "The same"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Did the listing actually say miniature?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I just assumed. Who sells a full sized time machine for $800?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "In a venn diagram, that would be an individual located within the intersection of the sets “no longer want my time machine” and “need $800”."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It’s actually a tremendous bargain, even with shipping it works out to less than four dollars a pound."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Cocktain shrimp are $12.50."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "How are we going to get it upstairs?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "If we take the dish off it might fit in the elevator."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes but the elevator’s been broken for two years."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’ve been meaning to ask you, do you think we should make a call about that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Not necessary, I have a masters in engineering, I remotely repair satellites on a regular basis. I troubleshoot space shuttle payloads. When the Mars rover started pulling to the left I performed a front end alignment from 62 million miles away. (Presses lift button. Nothing happens.) No, that baby’s broken."
+    },
+    {
+      "type": "scene",
+      "text": "The stairwell, approaching the apartment door. Leonard and Sheldon are pulling the time machine up the last part of the stairs."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Come on, guys, push."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard (off)",
+      "text": "If I push any harder I’m going to give birth to my colon."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj (off)",
+      "text": "I can’t feel my fingers, hurry up."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s the same amount of work no matter how fast you go, basic physics."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Sheldon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "If my fingers ever work again, I’ve got a job for the middle one."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny (coming out of her apartment)",
+      "text": "Oh, hey guys."
+    },
+    {
+      "type": "direction",
+      "text": "Leonard (letting go of time machine, as does Sheldon): Uh, hi Penny. (Raj and Howard are heard to scream as the time machine slides back down the stairs.) Take a break, guys!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, just, you know, moving… something upstairs."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What is it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s… you know, time machine."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, okay, neat, but I really got to get to work, so…."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, just give us a few minutes."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I don’t have a few minutes, I’m running really late."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Then I have a simple solution, go up to the roof, hop over to the next building, there’s a small gap, don’t look down if you’re subject to vertigo, and use their stairwell."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You’re joking, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I never joke when it comes to vertigo."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Damn, okay, I’ll just take the roof."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, if you wait for us to set up the time machine, I can drop you off at work yesterday. Time travel joke, it’s not… never mind."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "For what it’s worth, I thought it was humorous."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Let’s just do this. Guys, ready to push?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "In a minute. Howard stepped outside to throw up."
+    },
+    {
+      "type": "scene",
+      "text": "The living room. The time machine is set up."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t know what you were worried about. I think it really works in the room."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah. It is by far the coolest thing I have ever owned."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The exact time machine that carried actor Rod Taylor from Victorian England into the post-apocalyptic future, which society had splintered into two factions, the sub-terranean Morlocks, who survived by feasting on the flesh of the gentle surface dwelling Eloy."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Talk about your chick magnets."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh yeah. The guy who lives next to me is always like, I have a Jacuzzi on my balcony, I have a Jacuzzi on my balcony. But wait until I tell him, I’ve got a time machine on my balcony. Stuff that in your speedos, Jacuzzi Bob!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Gentlemen, I know we said we’d take turns, but I think you’d agree that practicality dictates it remain here."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You can’t just keep it here, what if I meet a girl and say, “you wanna come up and see my time machine, it’s at my friends house,” how lame is that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "He’s got a point."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Alright, I think we’re going to need some ground rules, in addition to the expected no shoes in the time machine and no eating in the time machine, I propose that we add pants must be worn at all times in the time machine."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Seconded."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I was going to put down a towel."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I still want it on my balcony. I say we move it on a bi-monthly basis."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That sounds fair."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hold on. Bi-monthly is an ambiguous term, do you mean move it every other month, or twice a month?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Twice a month."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Then no."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, every other month."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, you can’t be selfish, we all paid for it, so it belongs to all of us. Now out of the way so I can sit in my time machine. (Sits and turns it on. The three lights on the front illuminate. All let out an “oh”.) Okay, I am setting the dials for March 10th, 1876."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Good choice, Alexander Graham Bell invents the telephone and calls out for Dr Watson."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wait a minute, I’d want to see that too."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, when it’s your turn you can."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But if we all go back to the same point in time, Bell’s lab is going to get very crowded, he’ll know something’s up."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Also, since the time machine doesn’t move in space, you’ll end up in 1876 Pasadena."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "And even if you can make it to Boston, what are you going to do, knock on the door and say to Mrs Bell, “hey Mrs Bell, big fan of your husband, can I come in and watch him invent the telephone?”"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Mrs Bell was deaf, she’s not even going to hear you knock."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I have a solution, first go into the future and obtain a cloaking device."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Ooh, how far into the future?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If I remember correctly, Captain Kirk will steal a cloaking device from the Romulans on Stardate 5027.3, which will be January 10th 2328 by pre-federation reckoning."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, I am setting the dials for January 10th, 2328. Here we go into the future. (Pulls lever, the disk begins to spin. The other guys all run around the flat as if moving in fast motion.) That was fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "My turn."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny (entering)",
+      "text": "Okay, first of all, what you call a gap was nearly three feet wide, I slipped and skinned my knee."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Are you okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Zzz-zz-zz-zz! Second of all, the door to the stairwell of the other building was locked, so I had to go down the fire escape which ends on the third floor, forcing me to crawl through the window of a lovely Armenian family, who insisted I stay for lunch."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That doesn’t sound too bad."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It was eight courses of lamb, and they tried to fix me up with their son."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Not done. By the time I finally got to work, they’d given my shift away. Yeah, that’s right, I’ve lost an entire day’s pay thanks to this… this…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Time machine."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "The lights flash and the dish spins, you wanna try it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No! I don’t want to try it, my God, you are grown men, how could you waste your lives with these stupid toys and costumes and comic books and… and now that… that…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Again, time machine."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh please, it’s not a time machine, if anything it looks like something Elton John would drive through the Everglades."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It only moves in time. It would be worse than useless in a swamp."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Pathetic. All of you, completely pathetic. (Storms out. A beat, and then…)"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "My turn!"
+    },
+    {
+      "type": "scene",
+      "text": "Later that night, Leonard is sitting in the time machine, turning the lights on and off. Sheldon enters."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard, it’s two in the morning."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So it’s my turn. Why did you set it for the day before yesterday?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Because I want to go back and keep myself from getting a time machine."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You can’t. If you were to prevent yourself from buying it in the past, you would not have it available in the present to travel back and stop yourself from buying it, ergo you would still have it. This is a classic rookie time travel mistake."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Can I go back and prevent you from explaining that to me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Same paradox. If you were to travel back in time and, say, knock me unconscious, you would not then have the conversation that irritated you, motivating you to go back and knock me unconscious."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What if I knocked you unconscious right now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It won’t change the past."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "But it would make the present so much nicer."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Are you upset about something?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What was your first clue?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, it was a number of things. First the late hour, then your demeanour seems very low energy, plus your irritability…"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes I’m upset."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh! I don’t usually pick up on those things. Good for me."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, good for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, wait. Did you want to talk about what’s bothering you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know. Maybe."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wow, I’m on fire tonight."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, here’s the thing. Girls like Penny never end up with guys who own time machines."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I disagree. Your inability to successfully woo Penny long predates your acquisition of the time machine. That failure clearly stands on its own."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thanks for pointing it out."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "In addition, your premise is flawed. In the original film, Rod Taylor got Yvette Mimeaux with that very time machine. In Back to the Future, Marty McFly got the opportunity to hook up with his extremely attractive young mother."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Those are movies."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well of course they’re movies. Were you expecting me to come up with an example involving a real life time machine? That’s absurd."
+    },
+    {
+      "type": "scene",
+      "text": "The stairwell. It is the previous day, and again Leonard and Sheldon are pulling the time machine up the stairs."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Come on, guys, push."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard (off)",
+      "text": "If I push any harder I’m going to give birth to my colon."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny (coming out of her apartment)",
+      "text": "Oh, hey guys."
+    },
+    {
+      "type": "direction",
+      "text": "Leonard (letting go of time machine, as does Sheldon): Uh, hi Penny. (Raj and Howard are heard to scream as the time machine slides back down the stairs.) Take a break, guys!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, just, you know, moving a… time machine."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, okay, neat, but I really got to get to work, so…."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No problem. (Removes glasses, pulls down out of order tape from lift doors, and forces them open.) Hang on. (Takes Penny in his arms as he holds onto the lift cable.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "But, what about your time machine."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Some things are more important than toys. (She puts her arms around his neck as he dangles from the cable.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, I’m scared."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Don’t worry baby, I’ve got you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, Leonard. (Kisses him as they descend from view. Leonard wakes up still sitting in the time machine.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s still my turn."
+    },
+    {
+      "type": "scene",
+      "text": "The living room."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m packing up all my collectibles and taking them down to the comic book store to sell."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well is that really necessary. If you need money you can always sell blood. And semen."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s not about money."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj (entering)",
+      "text": "We brought food."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Lox and bagels, the breakfast of time travellers."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Terrific, does anyone want to buy my share of the time machine?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Because I don’t want it any more."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Just… personal reasons."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "My spidey-sense tells me this has something to do with Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Look, do you want to buy me out or not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’ll give you a hundred dollars, which will make me half owner, and we’ll put it on my balcony."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Screw his balcony, I’ll give you a hundred and twenty and we’ll put it in my garage."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I paid two hundred dollars for my share."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Dude, everyone knows a time machine loses half its value the minute you drive it off the lot."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’ll go for two hundred, that time machine stays right where it is."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Three hundred, and I’ll throw in my original 1979 Mattel Millenium Falcon with real light speed sound effects."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, no more toys or action figures or props or replicas or costumes or robots or Darth Vader voice changers, I’m getting rid of all of it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You can’t do that, look what you’ve created here, it’s like nerdvana."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "More importantly, you’ve a Darth Vader voice changer?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Not for long."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, I call dibs on the Golden Age Flash."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hang on, I need that to complete my Justice Society of America collection."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Too bad, I called dibs."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well you can’t just call dibs."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I can and I did, look up dibs on Wikipedia."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Dibs doesn’t apply in a bidding war."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s not a bidding war, I’m selling it all to Larry down at the comic book store."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Why Larry? Did Larry call dibs?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Will you forget dibs!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "He offered me a fair price for the whole collection."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What’s the number, I’ll match it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’ll match it, plus a thousand rupees."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What’s the exchange rate."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "None of your business. Take it or leave it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard (on phone)",
+      "text": "Mom, my bar-mizvah bonds, how much do I got? Thanks. I can go twenty six hundred dollars and two trees in Israel."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Forget it guys, if I sell to one of you, the other two are going to be really mad at me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Who cares, as long as you pick me."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, Leonard, put down the box, let’s talk."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sorry Raj, my mind is made up."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon (moving to block his path)",
+      "text": "No. I can’t let you do this."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, get out of my way."
+    },
+    {
+      "type": "direction",
+      "text": "Sheldon (brandishing toy sword from Leonard’s box): None shall pass."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay. I did not want to do this but, I have here the rare mint condition production error Star Trek: The Next Generation Geordi LaForge, without his visor in the original packaging. If you do not get out of my way, I will open it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay man, be cool, we’re all friends here."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny (coming out of her flat)",
+      "text": "What the hell’s going on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You hypocrite!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Little Miss “grown ups don’t play with toys”. If I were to go into that apartment right now, would I find Beanie Babies? Are you not an accumulator of Care Bears and My Little Ponies? And who is that Japanese feline I see frolicking on your shorts? Hello,Hello Kitty!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, okay look, if this is about yesterday, Leonard, I am really sorry about what I said, I was just a bit upset."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, I needed to hear it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No you didn’t. Look, you are a great guy, and it is things you love that make you who you are."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I guess that makes me large breasts."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Still, I think it’s time for me to get rid of this stuff and… you know… move on with my life."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Really?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh. Wow. Good for you. (Kisses his cheek.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thanks. Hey, do you want to, I don’t know, later…"
+    },
+    {
+      "type": "dialog",
+      "character": "Good looking man coming up stairs",
+      "text": "Excuse me. Hey, Penny!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hi Mike."
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "Are you ready to go."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, I just have to change."
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "I’ll give you a hand."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, stop it! Bye guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard (after a long pause)",
+      "text": "My turn on the time machine."
+    },
+    {
+      "type": "scene",
+      "text": "A jungle. As the camera moves, the time machine becomes visible. Sheldon is sitting in it The disk stops spinning, and he looks around. The dials read APR 28 802,701."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It worked. It really worked. They said I was mad, but it worked. (Large hairy creatures with glowing eyes emerge from the forest and walk towards him menacingly.) Oh no, not Morlocks! Not flesh-eating Morlocks! He-e-e-e-e-e-e-elp! (With a yelp, he wakes up in the time machine in the living room.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, are you okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "We have to get rid of the time machine."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It is a little big for the living room, isn’t it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, that’s the problem, it’s too big."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m glad you agree. I hired some guys to help us move it, come on in fellas. (A pair of Morlocks come through the door.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh no, Morlocks? Eat him, eat him. Aaaaargh. (Sheldon wakes up in his own bed.) Leonard!!!!!!!!"
+    }
+  ]
+}

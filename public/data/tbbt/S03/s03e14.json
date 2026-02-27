@@ -1,0 +1,1105 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 3,
+  "episode": 14,
+  "title": "The Einstein Approximation",
+  "url": "https://bigbangtrans.wordpress.com/series-3-episode-14-the-einstein-approximation/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The apartment. Sheldon is stood in the middle of the room. His whiteboard is behind him. Every few moments he turns round suddently."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Whatcha doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m attempting to view my work as a fleeting peripheral image so as to engage the superior colliculus of my brain."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Interesting. I usually just have coffee. You’ve been up all night?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Is it morning?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Then I’ve been up all night."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "And you’re stuck?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why else would a person try to engage their superior colliculus?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, sorry, sweetie, I can’t help you till I’ve had my coffee."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Penny, I told you if you don’t put him in his crate at night he just runs around the apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What is he doing now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Mmm, he’s either isolating the terms of his formula and examining them individually, or looking for the alligator that swallowed his hand after Peter Pan cut it off."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Captain Hook’s hand was eaten by a crocodile, not an alligator. If you’re going to mock me, at least get your facts straight."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Aye, aye, Captain."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I can’t see it! It just won’t coalesce."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Maybe you need a fresh start."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re right. (Takes whiteboard to window and throws it out. Picks up a new one) It’s a great idea, Leonard. Thank you."
+    },
+    {
+      "type": "scene",
+      "text": "The cafeteria."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Electrons move through graphene, act as if they have no mass…"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "How long has he been stuck?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Intellectually about 30 hours. Emotionally about 29 years."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Unit cell contains two carbon atoms. Interior angle of a hexagon is 120 degrees."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Have you tried rebooting him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, I think it’s a firmware problem."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "direction": "(arriving)",
+      "text": "Hey, it’s Disco Night at the Moonlight Roller Rink in Glendale tonight. Who’s up for getting down?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, that’s perfect. Bernadette’s been hocking me to take her roller skating."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I think Penny likes to skate. The four of us could double."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What could be better? We’re in."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Great. It’s not like I brought it up because I wanted to go."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You can come with us."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No, it’s okay. I don’t have to go. I’m happy just to guide you and your ladies to suitable entertainment choices. I’m a walking brown Yelp.com."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Structure, constant structure. One atom…"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Boy, he’s really gone, isn’t he?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, this morning he used a stick of butter as deodorant."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I thought I smelled popcorn."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Pattern is the same as fermions, travels on the pathways, hexagonal, it’s always hexagonal…"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I haven’t seen him this stuck since he tried to figure out the third Matrix movie."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "direction": "(as Sheldon reaches out and grabs from his plate)",
+      "text": "Hey, those are my lima beans!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Not lima beans, carbon atoms."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "But if I don’t eat my lima beans, I can’t have my cookie."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Here, you want my peas?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Peas! Perfect, they can be electrons."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Want my corn?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Don’t be ridiculous. What would I do with corn?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So roller skating, should we all grab a bite to eat first?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Good. P.F. Chang’s? My mom has coupons."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Great. Your mom’s not coming, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Not this time, I promise."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, just to be clear, roller skating was my idea, and I’m very unhappy that you turned it into a double date, and I hope you both fall on your asses and break your coccyxes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The plural of coccyx is coccyges."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Screw you. Give me back my lima beans."
+    },
+    {
+      "type": "scene",
+      "text": "The stairwell."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, my God, have you ever been so embarrassed?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Not recently."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I don’t know which was lamer, their roller-skating or their disco dancing."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "For me, the worst part was when people saw us leave with them."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You had some nice moves out there, Howard."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Thanks. You, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah. Did you notice all the people looking at us?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Not really. I was in my boogie zone."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "When Howard tried to do the splits…"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Shh."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sorry. I’m moving a little slow. I think I bruised my coccyx."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, poor baby."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Don’t tell Koothrappali. After you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, what a gentleman. Hey, Sheldon. (Steps on marbles which are all over the floor, screams and falls)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, my God! Are you… (falls as well)"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Good Lord! You’re ruining everything!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, damn."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Are you okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Do I look okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Don’t bark at me. I fell, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, you’ve been falling all night. You’re used to it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sheldon, what the hell are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The same thing I’ve been doing for three days. Trying to figure out why electrons behave as if they have no mass when travelling through a graphene sheet."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "With marbles?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I needed something bigger than peas, now, didn’t I?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Sheldon, when was the last time you got any sleep?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t know, two, three days. Not important. I don’t need sleep, I need answers. I need to determine where in this swamp of unbalanced formulas squatteth the toad of truth."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Toad of truth? Is that a physics thing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, that’s a crazy thing."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Okay, Sheldon. What happens to our neuroreceptors when we don’t get enough REM sleep?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "They lose their sensitivity to serotonin and norepinephrine."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Which leads to…?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Impaired cognitive function."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Right, so march in there, brush your teeth and go to bed."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But I don’t want to go to bed."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I’m going to count to three. One…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, all right."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That was amazing how you handled him."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I know how to deal with stubborn children. My mother used to run an illegal day care centre in our basement."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Leonard, you’re… you’re giggling in your sleep."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s not me, it’s my new ringtone. The Joker from Batman."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, it creeps me out."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Me, too, but I paid three bucks for it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Just answer the phone."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hello. Yeah, I’m Leonard Hofstadter. Yeah, yeah, he’s my roommate. Oh, God, is he okay? Yeah, alright, alright, I’ll be right there."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What happened?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon’s escaped and is terrorizing the village."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay. Have fun."
+    },
+    {
+      "type": "scene",
+      "text": "A children’s play area."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hi. I’m Dr. Hofstadter. Where is he?"
+    },
+    {
+      "type": "dialog",
+      "character": "Security Guard",
+      "text": "Ball pit."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thanks for not calling the cops."
+    },
+    {
+      "type": "dialog",
+      "character": "Security Guard",
+      "text": "Oh, hey, it’s no big deal. My sister’s got a kid who’s special."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, well, he’s extra special. Hey, Shelly. What you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Size ratio was all wrong. Couldn’t visualize it. Needed bigger carbon atoms."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sure, sure. How did you get into this place?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Back door has a five-pin tumbler system, single-circuit alarm. Child’s play. You can start sorting protons and neutrons while I build carbon atoms."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, I don’t think so. We need to go home now."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But I’m still working."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "If you don’t come out of there, I’m going to have to drag you out."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You can try, but you’ll never catch me. (He disappears under the balls)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "For God’s sakes. Sheldon, come here!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(popping his head up)",
+      "text": "Bazinga. (Disappears, pops up in another place) Bazinga. (And again) Bazinga. (And again) Bazinga. (And again) Bazinga."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s bedroom. Sheldon is standing over their bed. He knocks on the wall."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Leonard and Penny. (Knock, knock, knock) Leonard and Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "direction": "(Waking up as Penny screams)",
+      "text": "What! What, what, what?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Leonard and Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I have good news."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "And you had to barge in here and wake us up in the middle of the night?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Your cell phone was off."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Because we didn’t want to be disturbed."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And that didn’t work out, did it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon, what do you want?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I came to tell you I’ve got the answer."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Really? You figured out the graphene problem?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, no, I’m still hopelessly stuck on that, but I figured out how to figure it out."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, you know what, Leonard, I know I said I could handle your roommate, but I was wrong. We’re going to have to break up."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What are you talking about?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(as Sheldon sits on the bed)",
+      "text": "Oh."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Einstein."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, I’m going to need a little more."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Albert Einstein."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Keep going."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "When Albert Einstein came up with special relativity, he was working at the patent office."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, you’re going to go work at the patent office?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Don’t be absurd. That’s in Washington. You know I could never live in a city whose streets are laid out in a wheel-and-spoke pattern. No. I’m going to find a similarly menial job where my basal ganglia are occupied with a routine task, freeing my prefrontal cortex to work quietly in the background on my problem."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sounds like a great plan."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Of course it is. Even talking to you is sufficiently menial that I can feel the proverbial juices starting to flow."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, well, thanks for sharing with us. Good night."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re welcome. Good night to you, too. Oh, by the way, I was watching you sleep for a moment, and I noticed that your snoring seems to be worse when you’re on your back."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Leonard doesn’t snore."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, I wasn’t talking to Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Told you."
+    },
+    {
+      "type": "scene",
+      "text": "An employment office"
+    },
+    {
+      "type": "dialog",
+      "character": "Employment Office Assistant",
+      "text": "So, Mr. Cooper, you’re looking for a job."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "A menial job. Like yours."
+    },
+    {
+      "type": "dialog",
+      "character": "Assistant",
+      "text": "Why, thank you for noticing. I’m Menial Employee of the Month. Do you have a particular field in mind?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I do. For thousands of years, the lowest classes of the human race have spent their lives labouring to erect monuments under the lash of their betters, until finally they dropped down and became one with the dust through which they trudged. Do you have anything like that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Assistant",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Shouldn’t you check your database?"
+    },
+    {
+      "type": "dialog",
+      "character": "Assistant",
+      "direction": "(clicks her keyboard a few times)",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You didn’t really type."
+    },
+    {
+      "type": "dialog",
+      "character": "Assistant",
+      "text": "I didn’t really have to. So, how about construction?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, that would be good! Sawing, hammering, eating out of a lunch pail as my working-class fellows and I sit perched precariously on a girder high above the metropolis."
+    },
+    {
+      "type": "dialog",
+      "character": "Assistant",
+      "text": "No, no. This is putting up sheetrock at a housing project in Rosemead."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I could do that."
+    },
+    {
+      "type": "dialog",
+      "character": "Assistant",
+      "text": "Good."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "One question."
+    },
+    {
+      "type": "dialog",
+      "character": "Assistant",
+      "text": "Yes?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What’s sheetrock?"
+    },
+    {
+      "type": "dialog",
+      "character": "Assistant",
+      "text": "Moving on. How about doing deliveries for a florist?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That seems acceptable."
+    },
+    {
+      "type": "dialog",
+      "character": "Assistant",
+      "text": "Do you have your own car?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t drive."
+    },
+    {
+      "type": "dialog",
+      "character": "Assistant",
+      "text": "Of course you don’t. Mr. Cooper, let me just ask you a question. What was your last job?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Senior theoretical particle physicist at CalTech, focusing on M theory, or, in layman’s terms, string theory."
+    },
+    {
+      "type": "dialog",
+      "character": "Assistant",
+      "text": "I see. Just give me a second. Security!"
+    },
+    {
+      "type": "scene",
+      "text": "The Cheesecake Factory."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, I’ll get those drinks started for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(appearing in an apron and carrying a tray)",
+      "text": "Behind you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon, what the hell are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m trying to get these tables cleared. We’re slammed."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, wait, wait, no, wait. Wh.. what are you doing here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "A reasonable question. I asked myself, what is the most mind-numbing, pedestrian job conceivable, and three answers came to mind, uh, toll booth attendant, an Apple Store genius, and what Penny does. Now, since I don’t like touching other people’s coins, and I refuse to contribute to the devaluation of the word genius, here I am."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You just, you just walked in and they hired you, just like that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, heavens, no. Since I don’t need to be paid, I didn’t need to be hired. I simply came in, picked up a tray, and started working for the man. Let me get that plate out of your way."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon, this is ridiculous."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Is it? Just a moment ago I had a minor epiphany regarding the polymer degradation phenomenon while scraping congealed nachos off a plate. Bernadette, table 10 wants their check."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Thanks, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon, wait, this isn’t even what I do. I’m a waitress, not a busboy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re right. That is more menial. Hello, I’m Sheldon. I’ll be your server today. I don’t recommend the salmon. I saw it in the kitchen."
+    },
+    {
+      "type": "scene",
+      "text": "The same, later."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, one bacon cheeseburger, breaking two Jewish dietary restrictions simultaneously, kudos. Beer-battered fish and chips. Now, here’s your tartar sauce. I also brought you salsa. It’s a little unconventional, but I think you’ll like it. It’s zingy. And for you, Factory Burrito Grande, no cheese, no sour cream, no ugly consequences from your lactose intolerance. Bon appétit."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hang on. Black beans, not pinto beans?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Double guacamole?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Of course."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No cilantro?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Nope."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Lettuce shredded, not chopped?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yep."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You understand why I’m doing this to you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I do."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’ll be all. That was fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "How long can he keep this up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I heard about this professor at MIT who melted down, bought a van, and spent the rest of his life as a mobile dog groomer."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "He never went back to the university?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Only to shampoo Professor Chambourg’s shih tzu."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Sheesh."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I bet if we all chipped in, we could buy Sheldon a van."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "But he’s afraid of dogs."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, that’s the only thing wrong with that plan."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, guys, sorry you had to wait, but we are swamped. What’s this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon took our order."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon doesn’t work here."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, honey, not to complain, but we were starting to think you didn’t either."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(drops tray. A nearby table claps)",
+      "text": "Is that really necessary? Good Lord. The interference pattern in the fracture. The motion of the wave through the molecular structure. I’ve been looking at it all wrong. I can’t consider the electrons as particles. They move through the graphene as a wave. It’s a wave! The moment to applaud would be now. Troglodytes."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon, where are you going? Aren’t you going to clean this up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m sorry. I don’t work here."
+    },
+    {
+      "type": "scene",
+      "text": "The roller disco."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Happy now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m on a cloud. Swing me. (Howard swings Raj several times.)"
+    },
+    {
+      "type": "scene",
+      "text": "The ball pit, presumably earlier."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, come here."
+    },
+    {
+      "type": "direction",
+      "text": "(Sheldon once again keeps popping up his head and shouting “Bazinga” as Leonard flails around trying to catch him.)"
+    }
+  ]
+}

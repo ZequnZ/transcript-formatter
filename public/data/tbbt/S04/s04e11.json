@@ -1,0 +1,1231 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 4,
+  "episode": 11,
+  "title": "The Justice League Recombination",
+  "url": "https://bigbangtrans.wordpress.com/series-4-episode-11-the-justice-league-recombination/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Water Demon."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Ice Dragon."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Lesser Warlord of Ka’a."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Not so fast. Infinite Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Infinite Sheldon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, Infinite Sheldon defeats all other cards and does not violate the rule against homemade cards because I made it at work."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Do you understand why people don’t want to play with you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, although it’s a question I’ve been pondering since preschool."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, your copy of Science magazine was in my mailbox."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, thanks."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Mm-hmm."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Check it out, all about planets this month."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s an atom."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Agree to disagree. That’s what I love about science, there’s no one right answer."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, you and Zack again, huh?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, yeah, me and Zack again."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Were we here earlier?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, we should, we should go."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Ah, not yet. I want to talk science with the science dudes."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, and the science dudes want to talk science with you. What do you want to talk about, rocks, dinosaurs, our friend the beaver?"
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "You know, I saw this great thing on the Discovery Channel. Turns out that if you kill a starfish, it’ll just come back to life."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Was the starfish wearing boxer shorts? Because you might have been watching Nickelodeon."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "No, I’m almost sure that it was the Discovery Channel. It was a great show. They also said dolphins might be smarter than people."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "They might be smarter than some people."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Well, maybe we can do an experiment to find out."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, that’s easy enough. We’d need a large tank of water, a hoop to jump through, and a bucket of whatever bite-sized treats you find tasty."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "I don’t get it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "A dolphin might."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Oh, I see. You guys are inferring that I’m stupid."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s not correct. We were implying it. You then inferred it."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Let’s go."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know, for a group of guys who claim they spent most of their lives being bullied, you can be real jerks. Shame on all of you. (Closes door)"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What the hell did I do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(Opens door again)",
+      "text": "You laughed."
+    },
+    {
+      "type": "scene",
+      "text": "The same."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You think Penny’s right? Were we bullying Zack?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, I know bullying. He left here unswirlied and his ass crack was underpants-free."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "And nobody drew a penis on his forehead."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That happened to you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "First day of cricket camp. They drew it so the testicles were my eyes."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know, I think we might owe the guy an apology."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So go apologize."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You started it, we just piled on."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What would I even say?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Zack, I’m sorry you’re stupid. Have a Milk Dud."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "A Milk Dud?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, Milk Duds, with their self-deprecating name and remarkably mild flavour, are the most apologetic of the boxed candies."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I got a better idea. We’re all responsible. I say we all go. Come on, who’s with me? Free comic books to anyone who comes with me. I might get punched. You really want to miss that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Junior Mints are pretty apologetic."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re embarrassing yourself."
+    },
+    {
+      "type": "scene",
+      "text": "At Penny’s door. Leonard knocks three times."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, we came to talk to Zack. Hey, Zack."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "What do you want?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Listen, uh, the stuff we were saying before, we were just kidding around."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "No, you weren’t. You were making fun of me."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Come on, that’s what we do. We give each other a hard time. Hey, Sheldon, you look like a praying mantis."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s very hurtful."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "See?"
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "I don’t know, it still wasn’t very nice."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Milk Dud?"
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Oh, I love Milk Duds. Okay, we’re cool."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(to Raj)",
+      "text": "Junior Mints."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "You guys want to come in and have a beer?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, we’re on our way to the comic book store."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Leonard’s buying."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Really? I haven’t been to a comic book store in literally a million years."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Literally? Literally a million years?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Don’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "You want to go with ’em?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Okay, see you later."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wait, w-w-wait-wait-wait, you’re ditching me to go look at comic books?"
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Are you mad at me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’m not happy."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Milk Dud?"
+    },
+    {
+      "type": "scene",
+      "text": "The comic book store."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Wow, this place is awesome. Where do they keep the Archies?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "In the bedrooms of ten-year-old girls, where they belong."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Oh, no, you’re thinking old-school Archie. It’s much more sophisticated now. Like, there’s two universes, and Archie’s married to Betty in one and Veronica in the other. Midge is even breaking up with Moose."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "About time, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "You guys finally chip in for a bodyguard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, no. Oh, this is Zack. He’s a friend of ours. Zack, this is Stuart. He owns the store."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Wow, lucky you."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Yeah, I work 70 hours a week and average a dollar sixty five an hour."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Sweet."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Is that sarcasm?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Uh, no, it’s an indictment of the American education system."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "The Archies are over here."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Yippee."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "So are you guys coming to my New Year’s Eve costume party?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Of course. We’re coming as the Justice League of America."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Switching it up from last year when we came as the Justice League of America."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "To that point, it occurs to me that we might have an opportunity to finally snare Best Group Costume if we shore up our weak link, which is clearly Leonard as Superman."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, I got new boots this year. Guaranteed to add three inches."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s sad. Let’s ask ourselves, is there anyone we know who would make a more manly and convincing son of Krypton?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Than than Leonard in high-heeled boots? Howard’s mother in high-heeled boots?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I was thinking specifically of the gentleman over there moving his lips as he enjoys the latest exploits of Betty and Veronica."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Zack?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "He is the only person we know with actual muscles."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You can’t replace me with Zack."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why not? Penny did it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, she seems happier. Why wouldn’t we be?"
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Score. I got an Archie, Betty and Veronica, and a Jughead. All set for my weekend number twos."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Congratulations. Zack, how would you like to be Superman?"
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "I don’t know, sounds like a lot of responsibility."
+    },
+    {
+      "type": "scene",
+      "text": "The stairwell."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Fine, if Zack’s going to be Superman, I want to be Green Lantern."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "But I’m Green Lantern."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You can be Aquaman."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I don’t want to be Aquaman. He sucks. He sucks underwater. He sucks fish pee."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Excuse me, I believe Aquaman uses his telepathic powers to request the fish do their business elsewhere."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Hey, babe."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’m still mad at you."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Well, you won’t be when you hear the great news."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What great news?"
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "We’re going to a costume party at the comic book store on New Year’s Eve, and you get to be Wonder Woman."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Complete with bulletproof bracelets and lasso of truth. Invisible plane sold separately."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wait, why me? Wh-Why can’t your girlfriend be Wonder Woman?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "She and her lab team are under quarantine. Seems at the Christmas party they were doing Jell-O shots out of petri dishes that used to contain yellow fever."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, what about your friend Amy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Amy Farrah Fowler doesn’t believe in wearing costumes. She isn’t the free spirit I am."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, well, forget it. I’m not spending my New Year’s Eve at a comic book store wearing a Wonder Woman costume."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "direction": "(after Raj whispers to him)",
+      "text": "He says he’ll wear it if you’ll be Aquaman."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment. Leonard is dressed as Green Lantern, Sheldon as The Flash."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "We’re going to be late. I’m pacing nervously."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re jogging."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "This is how the Flash paces."
+    },
+    {
+      "type": "direction",
+      "text": "Leonard; Just chill out, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m not Sheldon. I’m the Flash. And now I’m going to the Grand Canyon to scream in frustration. I’m back."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m Batman."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I hardly think so. The real caped crusader calls his crime-fighting cohorts when he’s running late."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I had to walk. I couldn’t get Raj on the back of my scooter."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’ve said this before, and I’ll say it again. Aquaman sucks."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Look up in the sky. It’s a bird. It’s a plane. I forget the rest."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right. Let’s get this thing over with."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m sorry. But in what universe is Wonder Woman blonde?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Relax. No one’s going to be looking at her hair. Ow! I mean, ow."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Hold on. The costume came with a black wig. Where is it, babe?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No. I’m not wearing it. It looks stupid."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Come on. We’re trying to win a contest here."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Forget it. I’m not wearing the wig."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Penny, there’s no I in Justice League."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, actually."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Don’t. He’s making our case."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Okay, babe. Uh, kind of embarrassing me in front of my friends."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay. You know what? I changed my mind. I’m not going."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Looks like someone else is going to have to be Wonder Woman."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s door."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Babe, open up."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’m not talking to you."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Then who are you talking to? Babe?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock) Penny, (Knock) Penny, (Knock) Penny, (Knock) Penny, (Knock) Penny, (Knock) Penny, (Knock) Penny, (Knock) Penny, (Knock) Penny, (Knock) Penny, (Knock) Penny, (Knock) Penny, (Knock) Penny, (Knock) Penny, (Knock) Penny, (Knock) Penny, (Knock) Penny, (Knock) Penny, (Knock) Penny, (Knock) Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What the hell is wrong with you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m the Flash. I just knocked 30,000 times."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay. What do you want, Sheldon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I understand why you’re upset."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Really?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes. You’re afraid that costume makes you look fat."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No. Wait, wait, does it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Don’t worry. Wonder Woman was an Amazon. And Amazons tend to be very beefy gals."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Good-bye, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But they’re not blonde, so put on your wig. Hello?"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Stupid Aquaman."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "If it makes you feel any better, when I was dating Penny, she used to flip out on me all the time."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Whoa. You dated Penny?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "She didn’t tell you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "She told me she dated a guy named Leonard. Who would have thought it was you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Who else would it be?"
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "I don’t know. Somebody bigger and, yeah, sure. Why not you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I may have failed."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, I guess we just go without a Wonder Woman."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "I don’t want to go without Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, great. No Superman, no Wonder Woman? All we’ve got is a skinny Flash, an Indian Aquaman, a nearsighted Green Lantern, and a teeny, tiny Dark Knight."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Obviously, we’re no longer a Justice League. We have no choice but to switch to our Muppet Baby costumes."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Ooh, I call Kermit."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m Kermit. You’re Scooter."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, man. Scooter sucks. He’s the Aquaman of the Muppet Babies."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, we can still make this work. Leonard, you talk to Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What makes you think I can convince her?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You got her to have sex with you. Obviously, your superpower is brainwashing."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, let me see if I understand this. You want me to convince my ex-girlfriend to go to a costume party with her new boyfriend just so we can win a stupid prize?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes. And make her wear the black wig. Good luck."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment. Knocking."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Go away, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh. Go away, Leonard."
+    },
+    {
+      "type": "direction",
+      "text": "Leonard; Come on, let me just talk to you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It’s open."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’m not going to that party, Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, listen. You don’t have to wear the wig. At this party, we’re gonna win first prize just by showing up with a girl."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It’s not the wig."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Did I do something? I mean, I tried to be friends with Zack, like you said, which believe me, was difficult, given how you and me used to be, you know, you and me, and now you and him are you and him."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, look. We’re not really me and him."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Then what are you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I don’t know. I only started seeing Zack again so I wouldn’t be alone on New Year’s Eve. How pathetic is that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Not as pathetic as dressing up like this and going to a comic book store on New Year’s Eve."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You make a cute Green Arrow."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Green Lantern."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Like there’s a difference."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "There’s a big difference. Arrow. Lantern."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Whatever. Look, if Zack and I had just gone to a regular club or a party, it would have been fine, but this, with the costumes, and you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What about me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Nothing. Let’s go to the party. (Puts on wig) How do I look?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Um, I guarantee you’ll be the prettiest girl there."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "direction": "(outside the door)",
+      "text": "Okay, the good news is, we have a Wonder Woman."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What’s the bad news?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Superman probably isn’t getting laid tonight."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Aw, damn."
+    },
+    {
+      "type": "scene",
+      "text": "The party."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "And the award for best group costume goes to Justice League of America number three!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thank you! Thank you so much!"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Okay. Okay, ten seconds to midnight."
+    },
+    {
+      "type": "dialog",
+      "character": "All",
+      "text": "Ten, nine, eight…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, wait! I have a speech."
+    },
+    {
+      "type": "dialog",
+      "character": "All",
+      "text": "Seven, six…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Stop counting!"
+    },
+    {
+      "type": "dialog",
+      "character": "All",
+      "text": "Five, four, three…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "This is my moment, dag nab it!"
+    },
+    {
+      "type": "dialog",
+      "character": "All",
+      "text": "Two, one! Happy New Year!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m not going to say another word until you people settle down. I’m waiting."
+    },
+    {
+      "type": "scene",
+      "text": "The street."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "That was a great party. We should dress like this all the time."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Are you high?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re being a bully."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Check it out. Those guys are breaking into that car."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What should we do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "We’re the Justice League of America. There’s only one thing we can do. Turn around and slowly walk away."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "direction": "(after a moment’s thought)",
+      "text": "Nah. Hold up."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Look, I know our winter thermostat setting is 72 degrees, but I’m a little warm, so I’m going to turn it down."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(as The Flash, runs to the Grand Canyon)",
+      "text": "Good Lord, how you frustrate me, Leonard Hofstadter! (Runs back) Fine."
+    }
+  ]
+}

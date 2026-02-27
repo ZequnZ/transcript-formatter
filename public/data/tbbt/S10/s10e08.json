@@ -1,0 +1,1111 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 10,
+  "episode": 8,
+  "title": "The Brain Bowl Incubation",
+  "url": "https://bigbangtrans.wordpress.com/series-10-episode-08-the-brain-bowl-incubation/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "Amy’s lab."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "How much will it hurt?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It’s just a tiny skin sample. You saw me do it to myself."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "On a scale of one to ten, where one is a pebble in your shoe and ten is the monkey you thought was your pet biting your face off."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "A two."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Eating a whole Altoid?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, if I’m gonna synthesize a neural network from our skin cells, I need to harvest them. Now, I’ve done this dozens of times, but if you’re too scared you don’t have to."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, this is for science. I can be brave for science."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, jiminy, that’s cold."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Just think how happy you’ll be in a few weeks when I’ve converted our skin cells into functional brain cells."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, just warn me before you do it."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Okay. Three, two, and we’re done."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You tricked me. You didn’t say one."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It didn’t hurt, did it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, but three, two and we’re done is incomplete. You know those things bother me. It’s like hearing da-da-da-da-da-dah without yelling…"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Okay, fine, one."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thank you. Now yell charge and we can get out of here."
+    },
+    {
+      "type": "scene",
+      "text": "The telescope room."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, my God, I just got it. Fun onions, Funyuns. Hold on. Is that a wobble? Yes. That’s definitely a gravitational wobble."
+    },
+    {
+      "type": "dialog",
+      "character": "Cleaner",
+      "text": "Uh, sorry, I could come back."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, no, it’s okay. I just found a wobble."
+    },
+    {
+      "type": "dialog",
+      "character": "Cleaner",
+      "text": "Oh, do I need a mop?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s a gravitational wobble. It could be a sign of an extrasolar planet that may contain life and someday be named after me."
+    },
+    {
+      "type": "dialog",
+      "character": "Cleaner",
+      "text": "Oh, well, if it has life, maybe it already has a name, huh?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, but it’s probably difficult to pronounce."
+    },
+    {
+      "type": "dialog",
+      "character": "Cleaner",
+      "text": "What is your name?"
+    },
+    {
+      "type": "direction",
+      "text": "Raj; Rajesh Ramayan Koothrappali."
+    },
+    {
+      "type": "dialog",
+      "character": "Cleaner",
+      "text": "You think it would be more difficult than that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Good point. And you are?"
+    },
+    {
+      "type": "dialog",
+      "character": "Cleaner",
+      "text": "Oh, uh, Isabella Maria Concepcion."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, well, nice to meet you."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "Nice to meet you, too. You know, I have to say, based on the candy wrappers and the bags of junk food I see in this trash, working here was ten years old."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, please, show me a ten-year-old who knows to dip Tootsie Rolls in Nutella."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "Bueno, um, I’m just going to empty your waste paper basket and then I’ll get out of your way."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, please, allow me. That’s a lot of empty calories."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You’re welcome."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "Okay, uh, okay, I have to go."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "Good luck with your, um, space exploration."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Thank you. Good luck with your future endeavours."
+    },
+    {
+      "type": "scene",
+      "text": "Amy’s lab."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Did it work? Are they brain cells yet?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "If you’d give me a minute, I’ll tell you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, just let me look. Oh, my goodness. I see quivering black lines. Those must be neurons, oh, they’re so thick and beautiful."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Those are your eyelashes, move. Well, Sheldon, I see astrocytes. Our combined skin cells are now a primitive neural network."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I have such a profound sense of creation. I, it’s like when I hatched sea monkeys, except that this is from my DNA, so this is like me monkeys."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "These cells come from both of us."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, but us monkeys doesn’t pop. Oh, oh, oh, oh, wait, we monkeys, there you go. Hey, when can we start running tests on it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No reason we can’t start right now."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What stimulus should we introduce it to first? Light, sound, temperature, oh, oh, let’s"
+    },
+    {
+      "type": "direction",
+      "text": "expose it to images of me and you and see who it likes better."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, this is a rudimentary collection of neurons. I mean, it’s remarkable, but it’s still limited in what it can do."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I understand. She’s the mean one, I’m the fun one."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Huh, they screwed up and gave us steamed broccoli."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, no, that’s mine."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Really? The last green thing I saw you eat was a Skittle."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, I can’t eat like a ten-year-old all the time."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You’re dating somebody, who is it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What? What are you talking about?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You only watch what you eat when you’re afraid you might have to take your shirt off."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, she’s right. As long as I’ve known you, you’ve always been self-conscious about your cleavage."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "That’s because you keep trying to stick pencils in it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right, fine, don’t tell us."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "There’s nothing to tell."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "How’s that broccoli?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s gross but I have to eat it because I met somebody."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Bam. Thank you. What’s her name?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Isabella."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, did you meet her at work?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yes, in the telescope room."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, so she’s an astronomer?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yes, which is why she was in the telescope room. Yes, this is all making sense. Good."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, that’s great, Raj. You must have so much in common."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Mm-hmm."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So, when do we meet her?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No, no, this is brand new. We haven’t even been on a proper date yet."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, well, good luck with it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "How come you never eat broccoli?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m married, I don’t have to be attractive."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon and Amy’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You know, most people don’t realize this technique has actually been around for a few years."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Still, I can’t believe you can turn ordinary skin cells into functioning brain cells."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, I turned this one into a functioning boyfriend, so sky’s the limit."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Look, look, here I am standing next to the incubator. Uh, here is a microscopic view of the cells."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Look at that, put them in a tiny Flash T-shirt and it’s you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Aw. Yeah, this little guy can already recognize electronically transmitted images 20% faster than any other sample in Amy’s lab."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I’m running out of ways to act excited."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "So, enough about us, how are things going with you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Great, the doctor said the baby’s head is facing down now."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Good, you know, in case the exit isn’t clearly marked."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, I have to say, it is nice to share this experience with someone who’s on the same journey. Although right now ours is testing off the charts while yours is floating around in its own waste."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Are you actually comparing my human baby to your brain in a bowl?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I didn’t make you waddle up four flights of stairs for the heck of it."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You do realize my baby has functioning organs and can recognize voices."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, but ours can recognize a specific data stream among background noise."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Mine has a fully developed immune system."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Ours doesn’t need an immune system because it lives in a state-of-the-art German incubator."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, that’s enough."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay, fine. Let’s just agree that both creations are special in their own way and it is foolish to try and compare them. Although, we didn’t need to have sex with Howard for ours, so we win."
+    },
+    {
+      "type": "scene",
+      "text": "A washroom at the university."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "This is fun. I have never cleaned a toilet before."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "You’re kidding."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No, I grew up with a house full of servants and now I have a cleaning lady who is a lovely woman who I have great respect for."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "It’s okay, you’re allowed to have a cleaning lady."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, good, because she also walks my dog, buys my groceries and cuts my hair."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "I think that’s called a mommy."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Uh, so forgive me, forgive me for being nosy, but is, is there a wedding ring under those pretty rubber gloves?"
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "No, not for many years."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, so, you are unencumbered?"
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "Just me and my son."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I love kids, how old is he?"
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "Nineteen."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "That’s a cute age. They can do so many things."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "He’s studying to be a lawyer at UCLA."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "That’s wonderful. A lawyer, my sister’s a lawyer. Look at that, we have something in common."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "Yeah, I guess we do."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Maybe there are other things we have in common. Come dinnertime, do you enjoy eating food?"
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "Ay, Rajesh, I think you’re very sweet, but I work two jobs and I don’t have time for dating."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, sure. I understand. Yeah, I’m very busy, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "Oh, please don’t take it personal, I think you’re a very nice man."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I think you’re very nice as well."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "Thank you for helping me. Good night, Rajesh."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, yes. Oh, okay. Uh, Good night. I don’t know, maybe it’s the fumes from the urinal cakes, but I feel like something is happening between us."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "Good night, Rajesh."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay. I’ll leave. But just know, every time I come in here, I’ll be thinking of you."
+    },
+    {
+      "type": "scene",
+      "text": "Amy’s lab."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Would you look at that? The image we gave it was 45% white noise, and it still managed to reconstruct it."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’ve never seen results like this before."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, we need to stop for magnets on the way home, this is going right on the fridge."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Aren’t you glad you participated in this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I am. And you realize what the next step is?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Set up a second culture and try to replicate our results."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Uh, no. We lock that door, lower our underpants a little and make a baby."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Make a baby? What are you talking about?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Clearly the combination of our DNA is exceptional. Our child could be the next step in the evolution of mankind. We’ll be able to get into any preschool we want!"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, I’m not ready to have a baby."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, yes, you are. I track your cycle. For the next 36 hours you’re as fertile as a manure-covered wheat field."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Wow. I, I can actually feel the egg crawling its way back up."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t understand. I thought you’d be thrilled to procreate with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Not right now."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I see what’s happening here. You’re playing hard to get."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’m not playing anything. We’re not making a baby today."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Very well. Oops, how clumsy of me. You know what? Let me get that. Hey. Where are you going? I, did you even look at my bottom?"
+    },
+    {
+      "type": "scene",
+      "text": "The telescope room."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Welcome."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "What is this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, well, you said you didn’t have time to go out for dinner, so I thought we could have one right here."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "Oh, Rajesh."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, come on, we’re in the telescope room. It’ll be like dining under the stars. You see this, uh, double zero? When it says zero one that means it’s twinkling. Sometimes it takes a while."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "Rajesh, this is so sweet, but you, you know I’m working."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "That’s why I already cleaned up in here and all the other rooms in the hall."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "Well, I suppose that gives me a little time."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, please sit. I tried to cook you a meal from your homeland."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "Oh, really? You made Cuban food?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "That depends, do they have Mexican food in Cuba?"
+    },
+    {
+      "type": "scene",
+      "text": "The stairwell."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Now, when he said make a baby, is it possible he meant out of Legos?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No. He was explicit. Needlessly and freakishly explicit."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why does he need a baby? He’s already hairless and smells like talcum powder."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Could you two really have some sort of super-intelligent child?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, there is a genetic component, but that doesn’t guarantee anything."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s true. Sheldon’s father once picked a fight with a cactus."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, but that’s just his Earth parents. We don’t know anything about the ones that sent him here."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, we know they were smart enough to send him away."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hey, you’re talking about the person I love and have been avoiding for the past three hours. Oh, man."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Ooh, Sheldon gonna get some."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, have fun with whatever nightmare’s behind door number two."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Would you care for a brandy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I don’t think so."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Good choice, it’s disgusting."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, please stop trying to seduce me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Who’s trying to seduce you? After a long day I always turn on smooth jazz and spray deer musk on my inner thighs."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I thought it smelled like a petting zoo in here."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Anything you’d like to pet? Not my hair. There’s a lot of goop in it."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Okay, I’ve had enough."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Amy, come back. I don’t know how to open the oysters."
+    },
+    {
+      "type": "scene",
+      "text": "The telescope room."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "So, um, what surprised you the most when you first came to America?"
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "Well, I suppose how much people care about Oprah’s favourite things."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I thought that, too. But then I got my first waffle maker and never questioned her again."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "You know, I do have some time off this Sunday if you’d like to…"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey! I saw your car… Oh, sorry. Am I interrupting?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Uh."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "It’s okay. Uh, I should get back to work."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hi. Howard Wolowitz."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "Oh. Isabella Concepcion."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, yeah, the astronomer. Raj told us about you. Hey, free toilet paper."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "You told him I was an astronomer?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Uh."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "I understand. Time to go."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No, p-please don’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "It’s okay, Rajesh, I’m a grown woman. I don’t have to waste my time with someone who’s embarrassed by me."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I can keep this, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Isabella. Isabella wait, wait, let me explain."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "If you are embarrassed by what I do, why did you pursue me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m sorry. Honestly, I didn’t think your job would bother me, but I guess it did. And I hate myself for that. But there’s a lot of things about me that would totally embarrass you."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "I doubt that."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, prepare to be mortified. I let my dog eat food out of my mouth, not because she likes it but because I do. Also, I know they’re pretty, but I’m scared of butterflies."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sorry, just passing through. I think this fell off your cart."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Come on. What do you say? Let me make it up to you."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "You’re very persistent."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s my one move."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "Okay. This Sunday night, you may take me to dinner at a nice restaurant."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Great. Where would you like to go?"
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "Your choice. It can be Pakistani food if you like."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Excuse me, but I’m Indian."
+    },
+    {
+      "type": "dialog",
+      "character": "Isabella",
+      "text": "And now you know how it feels."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So, were you turned on even a little bit?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It was like being hit on by Rat Pack Pee-wee Herman."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m sorry, is that a yes?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Amy, I didn’t want it to come to this, but you have left me no choice but to employ the most passionate, seductive dance known to man. The flamenco."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "For God’s sake, you’re ridiculous."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You guys are aroused, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "That was a close one."
+    }
+  ]
+}

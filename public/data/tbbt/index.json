@@ -1,0 +1,1210 @@
+{
+  "series": "The Big Bang Theory",
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Pilot Episode",
+          "file": "S01/s01e01.json"
+        },
+        {
+          "episode": 2,
+          "title": "The Big Bran Hypothesis",
+          "file": "S01/s01e02.json"
+        },
+        {
+          "episode": 3,
+          "title": "The Fuzzy Boots Corollary",
+          "file": "S01/s01e03.json"
+        },
+        {
+          "episode": 4,
+          "title": "The Luminous Fish Effect",
+          "file": "S01/s01e04.json"
+        },
+        {
+          "episode": 5,
+          "title": "The Hamburger Postulate",
+          "file": "S01/s01e05.json"
+        },
+        {
+          "episode": 6,
+          "title": "The Middle Earth Paradigm",
+          "file": "S01/s01e06.json"
+        },
+        {
+          "episode": 7,
+          "title": "The Dumpling Paradox",
+          "file": "S01/s01e07.json"
+        },
+        {
+          "episode": 8,
+          "title": "The Grasshopper Experiment",
+          "file": "S01/s01e08.json"
+        },
+        {
+          "episode": 9,
+          "title": "The Cooper-Hofstadter Polarization",
+          "file": "S01/s01e09.json"
+        },
+        {
+          "episode": 10,
+          "title": "The Loobenfeld Decay",
+          "file": "S01/s01e10.json"
+        },
+        {
+          "episode": 11,
+          "title": "The Pancake Batter Anomaly",
+          "file": "S01/s01e11.json"
+        },
+        {
+          "episode": 12,
+          "title": "The Jerusalem Duality",
+          "file": "S01/s01e12.json"
+        },
+        {
+          "episode": 13,
+          "title": "The Bat Jar Conjecture",
+          "file": "S01/s01e13.json"
+        },
+        {
+          "episode": 14,
+          "title": "The Nerdvana Annihilation",
+          "file": "S01/s01e14.json"
+        },
+        {
+          "episode": 15,
+          "title": "The Porkchop Indeterminacy",
+          "file": "S01/s01e15.json"
+        },
+        {
+          "episode": 16,
+          "title": "The Peanut Reaction",
+          "file": "S01/s01e16.json"
+        },
+        {
+          "episode": 17,
+          "title": "The Tangerine Factor",
+          "file": "S01/s01e17.json"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "The Bad Fish Paradigm",
+          "file": "S02/s02e01.json"
+        },
+        {
+          "episode": 2,
+          "title": "The Codpiece Topology",
+          "file": "S02/s02e02.json"
+        },
+        {
+          "episode": 3,
+          "title": "The Barbarian Sublimation",
+          "file": "S02/s02e03.json"
+        },
+        {
+          "episode": 4,
+          "title": "The Griffin Equivalency",
+          "file": "S02/s02e04.json"
+        },
+        {
+          "episode": 5,
+          "title": "The Euclid Alternative",
+          "file": "S02/s02e05.json"
+        },
+        {
+          "episode": 6,
+          "title": "The Cooper-Nowitzki Theorem",
+          "file": "S02/s02e06.json"
+        },
+        {
+          "episode": 7,
+          "title": "The Panty Pinata Polarization",
+          "file": "S02/s02e07.json"
+        },
+        {
+          "episode": 8,
+          "title": "The Lizard-Spock Expansion",
+          "file": "S02/s02e08.json"
+        },
+        {
+          "episode": 9,
+          "title": "The White Asparagus Triangulation",
+          "file": "S02/s02e09.json"
+        },
+        {
+          "episode": 10,
+          "title": "The Vartabedian Conundrum",
+          "file": "S02/s02e10.json"
+        },
+        {
+          "episode": 11,
+          "title": "The Bath Item Gift Hypothesis",
+          "file": "S02/s02e11.json"
+        },
+        {
+          "episode": 12,
+          "title": "The Killer Robot Instability",
+          "file": "S02/s02e12.json"
+        },
+        {
+          "episode": 13,
+          "title": "The Friendship Algorithm",
+          "file": "S02/s02e13.json"
+        },
+        {
+          "episode": 14,
+          "title": "The Financial Permeability",
+          "file": "S02/s02e14.json"
+        },
+        {
+          "episode": 15,
+          "title": "The Maternal Capacitance",
+          "file": "S02/s02e15.json"
+        },
+        {
+          "episode": 16,
+          "title": "The Cushion Saturation",
+          "file": "S02/s02e16.json"
+        },
+        {
+          "episode": 17,
+          "title": "The Terminator Decoupling",
+          "file": "S02/s02e17.json"
+        },
+        {
+          "episode": 18,
+          "title": "The Work Song Nanocluster",
+          "file": "S02/s02e18.json"
+        },
+        {
+          "episode": 19,
+          "title": "The Dead Hooker Juxtaposition",
+          "file": "S02/s02e19.json"
+        },
+        {
+          "episode": 20,
+          "title": "The Hofstadter Isotope",
+          "file": "S02/s02e20.json"
+        },
+        {
+          "episode": 21,
+          "title": "The Vegas Renormalization",
+          "file": "S02/s02e21.json"
+        },
+        {
+          "episode": 22,
+          "title": "The Classified Materials Turbulence",
+          "file": "S02/s02e22.json"
+        },
+        {
+          "episode": 23,
+          "title": "The Monopolar Expedition",
+          "file": "S02/s02e23.json"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "The Electric Can Opener Fluctuation",
+          "file": "S03/s03e01.json"
+        },
+        {
+          "episode": 2,
+          "title": "The Jiminy Conjecture",
+          "file": "S03/s03e02.json"
+        },
+        {
+          "episode": 3,
+          "title": "The Gothowitz Deviation",
+          "file": "S03/s03e03.json"
+        },
+        {
+          "episode": 4,
+          "title": "The Pirate Solution",
+          "file": "S03/s03e04.json"
+        },
+        {
+          "episode": 5,
+          "title": "The Creepy Candy Coating Corollary",
+          "file": "S03/s03e05.json"
+        },
+        {
+          "episode": 6,
+          "title": "The Cornhusker Vortex",
+          "file": "S03/s03e06.json"
+        },
+        {
+          "episode": 7,
+          "title": "The Guitarist Amplification",
+          "file": "S03/s03e07.json"
+        },
+        {
+          "episode": 8,
+          "title": "The Adhesive Duck Deficiency",
+          "file": "S03/s03e08.json"
+        },
+        {
+          "episode": 9,
+          "title": "The Vengeance Formulation",
+          "file": "S03/s03e09.json"
+        },
+        {
+          "episode": 10,
+          "title": "The Gorilla Experiment",
+          "file": "S03/s03e10.json"
+        },
+        {
+          "episode": 11,
+          "title": "The Maternal Congruence",
+          "file": "S03/s03e11.json"
+        },
+        {
+          "episode": 12,
+          "title": "The Psychic Vortex",
+          "file": "S03/s03e12.json"
+        },
+        {
+          "episode": 13,
+          "title": "The Bozeman Reaction",
+          "file": "S03/s03e13.json"
+        },
+        {
+          "episode": 14,
+          "title": "The Einstein Approximation",
+          "file": "S03/s03e14.json"
+        },
+        {
+          "episode": 15,
+          "title": "The Large Hadron Collision",
+          "file": "S03/s03e15.json"
+        },
+        {
+          "episode": 16,
+          "title": "The Excelsior Acquisition",
+          "file": "S03/s03e16.json"
+        },
+        {
+          "episode": 17,
+          "title": "The Precious Fragmentation",
+          "file": "S03/s03e17.json"
+        },
+        {
+          "episode": 18,
+          "title": "The Pants Alternative",
+          "file": "S03/s03e18.json"
+        },
+        {
+          "episode": 19,
+          "title": "The Wheaton Recurrence",
+          "file": "S03/s03e19.json"
+        },
+        {
+          "episode": 20,
+          "title": "The Spaghetti Catalyst",
+          "file": "S03/s03e20.json"
+        },
+        {
+          "episode": 21,
+          "title": "The Plimpton Stimulation",
+          "file": "S03/s03e21.json"
+        },
+        {
+          "episode": 22,
+          "title": "The Staircase Implementation",
+          "file": "S03/s03e22.json"
+        },
+        {
+          "episode": 23,
+          "title": "The Lunar Excitation",
+          "file": "S03/s03e23.json"
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "The Robotic Manipulation",
+          "file": "S04/s04e01.json"
+        },
+        {
+          "episode": 2,
+          "title": "The Cruciferous Vegetable Amplification",
+          "file": "S04/s04e02.json"
+        },
+        {
+          "episode": 3,
+          "title": "The Zazzy Substitution",
+          "file": "S04/s04e03.json"
+        },
+        {
+          "episode": 4,
+          "title": "The Hot Troll Deviation",
+          "file": "S04/s04e04.json"
+        },
+        {
+          "episode": 5,
+          "title": "The Desperation Emanation",
+          "file": "S04/s04e05.json"
+        },
+        {
+          "episode": 6,
+          "title": "The Irish Pub Formulation",
+          "file": "S04/s04e06.json"
+        },
+        {
+          "episode": 7,
+          "title": "The Apology Insufficiency",
+          "file": "S04/s04e07.json"
+        },
+        {
+          "episode": 8,
+          "title": "The 21 Second Excitation",
+          "file": "S04/s04e08.json"
+        },
+        {
+          "episode": 9,
+          "title": "The Boyfriend Complexity",
+          "file": "S04/s04e09.json"
+        },
+        {
+          "episode": 10,
+          "title": "The Alien Parasite Hypothesis",
+          "file": "S04/s04e10.json"
+        },
+        {
+          "episode": 11,
+          "title": "The Justice League Recombination",
+          "file": "S04/s04e11.json"
+        },
+        {
+          "episode": 12,
+          "title": "The Bus Pants Utilization",
+          "file": "S04/s04e12.json"
+        },
+        {
+          "episode": 13,
+          "title": "The Love Car Displacement",
+          "file": "S04/s04e13.json"
+        },
+        {
+          "episode": 14,
+          "title": "The Thespian Catalyst",
+          "file": "S04/s04e14.json"
+        },
+        {
+          "episode": 15,
+          "title": "The Benefactor Factor",
+          "file": "S04/s04e15.json"
+        },
+        {
+          "episode": 16,
+          "title": "The Cohabitation Formulation",
+          "file": "S04/s04e16.json"
+        },
+        {
+          "episode": 17,
+          "title": "The Toast Derivation",
+          "file": "S04/s04e17.json"
+        },
+        {
+          "episode": 18,
+          "title": "The Prestidigitation Approximation",
+          "file": "S04/s04e18.json"
+        },
+        {
+          "episode": 19,
+          "title": "The Zarnecki Incursion",
+          "file": "S04/s04e19.json"
+        },
+        {
+          "episode": 20,
+          "title": "The Herb Garden Germination",
+          "file": "S04/s04e20.json"
+        },
+        {
+          "episode": 21,
+          "title": "The Agreement Dissection",
+          "file": "S04/s04e21.json"
+        },
+        {
+          "episode": 22,
+          "title": "The Wildebeest Implementation",
+          "file": "S04/s04e22.json"
+        },
+        {
+          "episode": 23,
+          "title": "The Engagement Reaction",
+          "file": "S04/s04e23.json"
+        },
+        {
+          "episode": 24,
+          "title": "The Roommate Transmogrification",
+          "file": "S04/s04e24.json"
+        }
+      ]
+    },
+    {
+      "season": 5,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "The Skank Reflex Analysis",
+          "file": "S05/s05e01.json"
+        },
+        {
+          "episode": 2,
+          "title": "The Infestation Hypothesis",
+          "file": "S05/s05e02.json"
+        },
+        {
+          "episode": 3,
+          "title": "The Pulled Groin Extrapolation",
+          "file": "S05/s05e03.json"
+        },
+        {
+          "episode": 4,
+          "title": "The Wiggly Finger Catalyst",
+          "file": "S05/s05e04.json"
+        },
+        {
+          "episode": 5,
+          "title": "The Russian Rocket Reaction",
+          "file": "S05/s05e05.json"
+        },
+        {
+          "episode": 6,
+          "title": "The Rhinitis Revelation",
+          "file": "S05/s05e06.json"
+        },
+        {
+          "episode": 7,
+          "title": "The Good Guy Fluctuation",
+          "file": "S05/s05e07.json"
+        },
+        {
+          "episode": 8,
+          "title": "The Isolation Permutation",
+          "file": "S05/s05e08.json"
+        },
+        {
+          "episode": 9,
+          "title": "The Ornithophobia Diffusion",
+          "file": "S05/s05e09.json"
+        },
+        {
+          "episode": 10,
+          "title": "The Flaming Spittoon Acquisition",
+          "file": "S05/s05e10.json"
+        },
+        {
+          "episode": 11,
+          "title": "The Speckerman Recurrence",
+          "file": "S05/s05e11.json"
+        },
+        {
+          "episode": 12,
+          "title": "The Shiny Trinket Maneouvre",
+          "file": "S05/s05e12.json"
+        },
+        {
+          "episode": 13,
+          "title": "The Recombination Hypothesis",
+          "file": "S05/s05e13.json"
+        },
+        {
+          "episode": 14,
+          "title": "The Beta Test Initiation",
+          "file": "S05/s05e14.json"
+        },
+        {
+          "episode": 15,
+          "title": "The Friendship Contraction",
+          "file": "S05/s05e15.json"
+        },
+        {
+          "episode": 16,
+          "title": "The Vacation Solution",
+          "file": "S05/s05e16.json"
+        },
+        {
+          "episode": 17,
+          "title": "The Rothman Disintegration",
+          "file": "S05/s05e17.json"
+        },
+        {
+          "episode": 18,
+          "title": "The Werewolf Transformation",
+          "file": "S05/s05e18.json"
+        },
+        {
+          "episode": 19,
+          "title": "The Weekend Vortex",
+          "file": "S05/s05e19.json"
+        },
+        {
+          "episode": 20,
+          "title": "The Transporter Malfunction",
+          "file": "S05/s05e20.json"
+        },
+        {
+          "episode": 21,
+          "title": "The Hawking Excitation",
+          "file": "S05/s05e21.json"
+        },
+        {
+          "episode": 22,
+          "title": "The Stag Convergence",
+          "file": "S05/s05e22.json"
+        },
+        {
+          "episode": 23,
+          "title": "The Launch Acceleration",
+          "file": "S05/s05e23.json"
+        },
+        {
+          "episode": 24,
+          "title": "The Countdown Reflection",
+          "file": "S05/s05e24.json"
+        }
+      ]
+    },
+    {
+      "season": 6,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "The Date Night Variable",
+          "file": "S06/s06e01.json"
+        },
+        {
+          "episode": 2,
+          "title": "The Decoupling Fluctuation",
+          "file": "S06/s06e02.json"
+        },
+        {
+          "episode": 3,
+          "title": "The Higgs Boson Observation",
+          "file": "S06/s06e03.json"
+        },
+        {
+          "episode": 4,
+          "title": "The Re-Entry Minimization",
+          "file": "S06/s06e04.json"
+        },
+        {
+          "episode": 5,
+          "title": "The Holographic Excitation",
+          "file": "S06/s06e05.json"
+        },
+        {
+          "episode": 6,
+          "title": "The Extract Obliteration",
+          "file": "S06/s06e06.json"
+        },
+        {
+          "episode": 7,
+          "title": "The Habitation Configuration",
+          "file": "S06/s06e07.json"
+        },
+        {
+          "episode": 8,
+          "title": "The 43 Peculiarity",
+          "file": "S06/s06e08.json"
+        },
+        {
+          "episode": 9,
+          "title": "The Parking Spot Escalation",
+          "file": "S06/s06e09.json"
+        },
+        {
+          "episode": 10,
+          "title": "The Fish Guts Displacement",
+          "file": "S06/s06e10.json"
+        },
+        {
+          "episode": 11,
+          "title": "The Santa Simulation",
+          "file": "S06/s06e11.json"
+        },
+        {
+          "episode": 12,
+          "title": "The Egg Salad Equivalency",
+          "file": "S06/s06e12.json"
+        },
+        {
+          "episode": 13,
+          "title": "The Bakersfield Expedition",
+          "file": "S06/s06e13.json"
+        },
+        {
+          "episode": 14,
+          "title": "The Cooper/Kripke Inversion",
+          "file": "S06/s06e14.json"
+        },
+        {
+          "episode": 15,
+          "title": "The Spoiler Alert Segmentation",
+          "file": "S06/s06e15.json"
+        },
+        {
+          "episode": 16,
+          "title": "The Tangible Affection Proof",
+          "file": "S06/s06e16.json"
+        },
+        {
+          "episode": 17,
+          "title": "The Monster Isolation",
+          "file": "S06/s06e17.json"
+        },
+        {
+          "episode": 18,
+          "title": "The Contractual Obligation Implementation",
+          "file": "S06/s06e18.json"
+        },
+        {
+          "episode": 19,
+          "title": "The Closet Reconfiguration",
+          "file": "S06/s06e19.json"
+        },
+        {
+          "episode": 20,
+          "title": "The Tenure Turbulence",
+          "file": "S06/s06e20.json"
+        },
+        {
+          "episode": 21,
+          "title": "The Closure Alternative",
+          "file": "S06/s06e21.json"
+        },
+        {
+          "episode": 22,
+          "title": "The Proton Resurgence",
+          "file": "S06/s06e22.json"
+        },
+        {
+          "episode": 23,
+          "title": "The Love Spell Potential",
+          "file": "S06/s06e23.json"
+        },
+        {
+          "episode": 24,
+          "title": "The Bon Voyage Reaction",
+          "file": "S06/s06e24.json"
+        }
+      ]
+    },
+    {
+      "season": 7,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "The Hofstadter Insufficiency",
+          "file": "S07/s07e01.json"
+        },
+        {
+          "episode": 2,
+          "title": "The Deception Verification",
+          "file": "S07/s07e02.json"
+        },
+        {
+          "episode": 3,
+          "title": "The Scavenger Vortex",
+          "file": "S07/s07e03.json"
+        },
+        {
+          "episode": 4,
+          "title": "The Raiders Minimization",
+          "file": "S07/s07e04.json"
+        },
+        {
+          "episode": 5,
+          "title": "The Workplace Proximity",
+          "file": "S07/s07e05.json"
+        },
+        {
+          "episode": 6,
+          "title": "The Romance Resonance",
+          "file": "S07/s07e06.json"
+        },
+        {
+          "episode": 7,
+          "title": "The Proton Displacement",
+          "file": "S07/s07e07.json"
+        },
+        {
+          "episode": 8,
+          "title": "The Itchy Brain Simulation",
+          "file": "S07/s07e08.json"
+        },
+        {
+          "episode": 9,
+          "title": "The Thanksgiving Decoupling",
+          "file": "S07/s07e09.json"
+        },
+        {
+          "episode": 10,
+          "title": "The Discovery Dissipation",
+          "file": "S07/s07e10.json"
+        },
+        {
+          "episode": 11,
+          "title": "The Cooper Extraction",
+          "file": "S07/s07e11.json"
+        },
+        {
+          "episode": 12,
+          "title": "The Hesitation Ramification",
+          "file": "S07/s07e12.json"
+        },
+        {
+          "episode": 13,
+          "title": "The Occupation Recalibration",
+          "file": "S07/s07e13.json"
+        },
+        {
+          "episode": 14,
+          "title": "The Convention Conundrum",
+          "file": "S07/s07e14.json"
+        },
+        {
+          "episode": 15,
+          "title": "The Locomotive Manipulation",
+          "file": "S07/s07e15.json"
+        },
+        {
+          "episode": 16,
+          "title": "The Table Polarisation",
+          "file": "S07/s07e16.json"
+        },
+        {
+          "episode": 17,
+          "title": "The Friendship Turbulence",
+          "file": "S07/s07e17.json"
+        },
+        {
+          "episode": 18,
+          "title": "The Mommy Observation",
+          "file": "S07/s07e18.json"
+        },
+        {
+          "episode": 19,
+          "title": "The Indecision Amalgamation",
+          "file": "S07/s07e19.json"
+        },
+        {
+          "episode": 20,
+          "title": "The Relationship Diremption",
+          "file": "S07/s07e20.json"
+        },
+        {
+          "episode": 21,
+          "title": "The Anything Can Happen Recurrence",
+          "file": "S07/s07e21.json"
+        },
+        {
+          "episode": 22,
+          "title": "The Proton Transmogrification",
+          "file": "S07/s07e22.json"
+        },
+        {
+          "episode": 23,
+          "title": "The Gorilla Dissolution",
+          "file": "S07/s07e23.json"
+        },
+        {
+          "episode": 24,
+          "title": "The Status Quo Combustion",
+          "file": "S07/s07e24.json"
+        }
+      ]
+    },
+    {
+      "season": 8,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "The Locomotion Interruption",
+          "file": "S08/s08e01.json"
+        },
+        {
+          "episode": 2,
+          "title": "The Junior Professor Solution",
+          "file": "S08/s08e02.json"
+        },
+        {
+          "episode": 3,
+          "title": "The First Pitch Insufficiency",
+          "file": "S08/s08e03.json"
+        },
+        {
+          "episode": 4,
+          "title": "The Hook-Up Reverbration",
+          "file": "S08/s08e04.json"
+        },
+        {
+          "episode": 5,
+          "title": "The Focus Attenuation",
+          "file": "S08/s08e05.json"
+        },
+        {
+          "episode": 6,
+          "title": "The Expedition Approximation",
+          "file": "S08/s08e06.json"
+        },
+        {
+          "episode": 7,
+          "title": "The Misinterpretation Agitation",
+          "file": "S08/s08e07.json"
+        },
+        {
+          "episode": 8,
+          "title": "The Prom Equivalency",
+          "file": "S08/s08e08.json"
+        },
+        {
+          "episode": 9,
+          "title": "The Septum Deviation",
+          "file": "S08/s08e09.json"
+        },
+        {
+          "episode": 10,
+          "title": "The Champagne Reflection",
+          "file": "S08/s08e10.json"
+        },
+        {
+          "episode": 11,
+          "title": "The Clean Room Infiltration",
+          "file": "S08/s08e11.json"
+        },
+        {
+          "episode": 12,
+          "title": "The Space Probe Disintegration",
+          "file": "S08/s08e12.json"
+        },
+        {
+          "episode": 13,
+          "title": "The Anxiety Optimisation",
+          "file": "S08/s08e13.json"
+        },
+        {
+          "episode": 14,
+          "title": "The Troll Manifestation",
+          "file": "S08/s08e14.json"
+        },
+        {
+          "episode": 15,
+          "title": "The Comic Book Store Regeneration",
+          "file": "S08/s08e15.json"
+        },
+        {
+          "episode": 16,
+          "title": "The Intimacy Acceleration",
+          "file": "S08/s08e16.json"
+        },
+        {
+          "episode": 17,
+          "title": "The Colonization Application",
+          "file": "S08/s08e17.json"
+        },
+        {
+          "episode": 18,
+          "title": "The Leftover Thermalization",
+          "file": "S08/s08e18.json"
+        },
+        {
+          "episode": 19,
+          "title": "The Skywalker Incursion",
+          "file": "S08/s08e19.json"
+        },
+        {
+          "episode": 20,
+          "title": "The Fortification Implementation",
+          "file": "S08/s08e20.json"
+        },
+        {
+          "episode": 21,
+          "title": "The Communication Deterioration",
+          "file": "S08/s08e21.json"
+        },
+        {
+          "episode": 22,
+          "title": "The Graduation Transmission",
+          "file": "S08/s08e22.json"
+        },
+        {
+          "episode": 23,
+          "title": "The Maternal Combustion",
+          "file": "S08/s08e23.json"
+        },
+        {
+          "episode": 24,
+          "title": "The Commitment Determination",
+          "file": "S08/s08e24.json"
+        }
+      ]
+    },
+    {
+      "season": 9,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "The Matrimonial Momentum",
+          "file": "S09/s09e01.json"
+        },
+        {
+          "episode": 2,
+          "title": "The Separation Oscillation",
+          "file": "S09/s09e02.json"
+        },
+        {
+          "episode": 3,
+          "title": "The Batchelor Party Corrosion",
+          "file": "S09/s09e03.json"
+        },
+        {
+          "episode": 4,
+          "title": "The 2003 Approximation",
+          "file": "S09/s09e04.json"
+        },
+        {
+          "episode": 5,
+          "title": "The Perspiration Implementation",
+          "file": "S09/s09e05.json"
+        },
+        {
+          "episode": 6,
+          "title": "The Helium Insufficiency",
+          "file": "S09/s09e06.json"
+        },
+        {
+          "episode": 7,
+          "title": "The Spock Resonance",
+          "file": "S09/s09e07.json"
+        },
+        {
+          "episode": 8,
+          "title": "The Mystery Date Observation",
+          "file": "S09/s09e08.json"
+        },
+        {
+          "episode": 9,
+          "title": "The Platonic Permutation",
+          "file": "S09/s09e09.json"
+        },
+        {
+          "episode": 10,
+          "title": "The Earworm Reverberation",
+          "file": "S09/s09e10.json"
+        },
+        {
+          "episode": 11,
+          "title": "The Opening Night Excitation",
+          "file": "S09/s09e11.json"
+        },
+        {
+          "episode": 12,
+          "title": "The Sales Call Sublimation",
+          "file": "S09/s09e12.json"
+        },
+        {
+          "episode": 13,
+          "title": "The Empathy Optimisation",
+          "file": "S09/s09e13.json"
+        },
+        {
+          "episode": 14,
+          "title": "The Meemaw Materialisation",
+          "file": "S09/s09e14.json"
+        },
+        {
+          "episode": 15,
+          "title": "The Valentino Submergence",
+          "file": "S09/s09e15.json"
+        },
+        {
+          "episode": 16,
+          "title": "The Positive Negative Reaction",
+          "file": "S09/s09e16.json"
+        },
+        {
+          "episode": 17,
+          "title": "The Celebration Experimentation",
+          "file": "S09/s09e17.json"
+        },
+        {
+          "episode": 18,
+          "title": "The Application Deterioration",
+          "file": "S09/s09e18.json"
+        },
+        {
+          "episode": 19,
+          "title": "The Solder Excursion Diversion",
+          "file": "S09/s09e19.json"
+        },
+        {
+          "episode": 20,
+          "title": "The Big Bear Precipitation",
+          "file": "S09/s09e20.json"
+        },
+        {
+          "episode": 21,
+          "title": "The Viewing Party Combustion",
+          "file": "S09/s09e21.json"
+        },
+        {
+          "episode": 22,
+          "title": "The Fermentation Bifurcation",
+          "file": "S09/s09e22.json"
+        },
+        {
+          "episode": 23,
+          "title": "The Line Substitution Solution",
+          "file": "S09/s09e23.json"
+        },
+        {
+          "episode": 24,
+          "title": "The Convergence Convergence",
+          "file": "S09/s09e24.json"
+        }
+      ]
+    },
+    {
+      "season": 10,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "The Conjugal Conjecture",
+          "file": "S10/s10e01.json"
+        },
+        {
+          "episode": 2,
+          "title": "The Military Miniturization",
+          "file": "S10/s10e02.json"
+        },
+        {
+          "episode": 3,
+          "title": "The Dependence Transcendence",
+          "file": "S10/s10e03.json"
+        },
+        {
+          "episode": 4,
+          "title": "The Cohabitation Experimentation",
+          "file": "S10/s10e04.json"
+        },
+        {
+          "episode": 5,
+          "title": "The Hot Tub Contamination",
+          "file": "S10/s10e05.json"
+        },
+        {
+          "episode": 6,
+          "title": "The Foetal Kick Catalyst",
+          "file": "S10/s10e06.json"
+        },
+        {
+          "episode": 7,
+          "title": "The Veracity Elasticity",
+          "file": "S10/s10e07.json"
+        },
+        {
+          "episode": 8,
+          "title": "The Brain Bowl Incubation",
+          "file": "S10/s10e08.json"
+        },
+        {
+          "episode": 9,
+          "title": "The Geology Elevation",
+          "file": "S10/s10e09.json"
+        },
+        {
+          "episode": 10,
+          "title": "The Property Division Collision",
+          "file": "S10/s10e10.json"
+        },
+        {
+          "episode": 11,
+          "title": "The Birthday Synchronicity",
+          "file": "S10/s10e11.json"
+        },
+        {
+          "episode": 12,
+          "title": "The Holiday Summation",
+          "file": "S10/s10e12.json"
+        },
+        {
+          "episode": 13,
+          "title": "The Romance Recalibration",
+          "file": "S10/s10e13.json"
+        },
+        {
+          "episode": 14,
+          "title": "The Emotion Detection Automation",
+          "file": "S10/s10e14.json"
+        },
+        {
+          "episode": 15,
+          "title": "The Locomotion Reverberation",
+          "file": "S10/s10e15.json"
+        },
+        {
+          "episode": 16,
+          "title": "The Allowance Evaporation",
+          "file": "S10/s10e16.json"
+        },
+        {
+          "episode": 17,
+          "title": "The Comic-Con Conundrum",
+          "file": "S10/s10e17.json"
+        },
+        {
+          "episode": 18,
+          "title": "The Escape Hatch Identification",
+          "file": "S10/s10e18.json"
+        },
+        {
+          "episode": 19,
+          "title": "The Collaboration Fluctuation",
+          "file": "S10/s10e19.json"
+        },
+        {
+          "episode": 20,
+          "title": "The Recollection Dissipation",
+          "file": "S10/s10e20.json"
+        },
+        {
+          "episode": 21,
+          "title": "The Separation Agitation",
+          "file": "S10/s10e21.json"
+        },
+        {
+          "episode": 22,
+          "title": "The Cognition Regeneration",
+          "file": "S10/s10e22.json"
+        },
+        {
+          "episode": 23,
+          "title": "The Gyroscopic Collapse",
+          "file": "S10/s10e23.json"
+        },
+        {
+          "episode": 24,
+          "title": "The Long Distance Dissonance",
+          "file": "S10/s10e24.json"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1006 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 5,
+  "episode": 19,
+  "title": "The Weekend Vortex",
+  "url": "https://bigbangtrans.wordpress.com/series-5-episode-19-the-weekend-vortex/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The stairwell"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, want to spend some time playing the new Star Wars game this weekend?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, I don’t know. I kind of promised myself I’d get off the computer, be more physically active. Get some exercise."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You’re about to walk up three flights of stairs."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Good point, I’m in."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You know what would be great? Let’s do it like the old days."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You mean, are you talking gaming marathon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah. Start Saturday morning, go 48 hours, sleeping bags, junk food."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Turn off our phones so our moms can’t call."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It would be like our World Of Warcraft a few years ago when the neighbours called the cops on us."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "They called the cops because of the smell. They thought we were dead."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "We were badass back in the day."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "All right, let’s do it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "48 hours of Star Wars gaming."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s on like Alderaan."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, Sheldon, clear your weekend. Starting Saturday morning, Star Wars< marathon"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Woo-hoo!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Movies or video games? Or board game? Or trading card games? Or Lego’s? Or dress up? Or comic books? Or dramatic readings of novelizations? Yes to all!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We are going to play the online game."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The online game? Bully!"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Gentlemen, as much as I’m sure Sheldon would enjoy playing intergalactic make-believe, he and I have other plans. We are attending my Aunt Flora’s 93rd birthday party."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Just tell her I can’t come."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "She’ll be disappointed if we don’t show up."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "She’s 93. She won’t be disappointed for very long."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No, hang on. I followed all the protocols set forth by you in the relationship agreement. I made a written record request 72 hours in advance. I checked the tyre pressure on the car. I even contacted the Centres For Disease Control to find out what shots they recommend for travel to Orange County. FYI, it’s none."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Amy, the relationship agreement was not designed for either one of us to get our way."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You use it to get your way."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I use it to get the right way. The fact that the right way is also my way is a happy coincidence."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You gave me your word. You’re coming with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We’ll miss you, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, well, who wants to spend the whole weekend, running around a bunch of pretend planets battling made up monsters. That’s for babies."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, but it’s got lightsabres."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, please, Amy! It’s got lightsabres!"
+    },
+    {
+      "type": "scene",
+      "text": "The comic book store."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hello Stuart."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Hey Sheldon. Help you with anything?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes. I’m attending a party this weekend, for a 93-year-old woman. Can you recommend a gift?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Uh, I don’t know. Could put a tennis ball on the end of Excalibur. Make a pretty badass cane."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Do you supply the the tennis ball?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Then no. What else?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Hmm. Oh, have this collectors edition Batman utility belt. Maybe she can use it as a wearable pill caddy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, she’d just look silly wearing that without the rest of the costume."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "I’m sorry Sheldon, that’s it. That’s all I got."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, it’s not your fault. I’ve been to the model train store. I’ve been to Radio Shack. This woman is impossible to shop for."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’d make fun of Sheldon for having girl problems if I wasn’t in shock that Sheldon has girl problems."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, Leonard, go ahead and mock. Like my daddy always said, Shelly, women aren’t anything but flippin’ pains in the bottom."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s what your father used to say?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I took out the bad words and the yeehaw, but you get the gist."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Look, if you don’t want to go to the party, just don’t go. You’re a grown man. Act like one. Tell Amy you want to spend the weekend having a sleepover and playing video games with your friends. Maybe she’ll dig it. Women like a firm hand on the tiller."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I can never find the tiller. I got a book; it didn’t help."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, I always thought if I were ever enslaved, it would be by an advanced species from another planet, not some hotsy-totsy from Glendale."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Now, I downloaded an app that might be helpful in this situation. (Phone makes whip sound)"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re right. I’m smart as a whip. I should be able to figure this out."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, listen, I kind of made plans with the guys this weekend, but then I wondered, because we’re in this relationship-beta-test, if I should have asked you first. Then I thought if I did check with you first, you’d think that I was taking things to seriously. And then, then I got a nosebleed."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You don’t have to check with me. Do whatever you want."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh. I guess I was hoping for a different reaction, but okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Really, what were you hoping for?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know, maybe that you’d be a little upset, and then you’d realize that I’m a stallion that has to run free. And that would turn you on a little."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, I’m an actress. Ask me again."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Do you mind if I spend the weekend playing video games with the guys?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Whu… the entire weekend? You mean I wouldn’t see you at all? But I ju… No, no, I knew what I was getting into. You can’t put a saddle on Leonard Hofstadter. Oh, my, is it getting hot in here? Ay, papi."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Ay papi? What is that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "An acting choice."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh. So you chose that when you become turned on, you turn into Speedy Gonzalez?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Choo got a problem with that, papi?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh-uh."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Penny! (Knock, knock, knock) Penny! (Knock, knock, knock) Penny!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sorry, Stallion. Your weird friend Giraffe is here."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hello, Penny. I just stopped by to bring you this gift."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Gummy bears? Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Now that you’re in my debt, please manipulate Amy into releasing me from my commitment to attend her aunt’s tedious birthday party."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Not a chance."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right. I thought the candy might not be enough so let me up the ante. These are Cooper Coupons. These are for various things I can do for you. Um, oh, this one is for one free grammar check. Uh, you could use it for emails, letters, tattoos, what have you. Um, oh, this is fun one. This is an afternoon with me at the California Science Center, where I point out their mistakes."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Keep an eye on those expiration dates, I’ve been burned more than once."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right, sweetie, I’m not going to get involved in your relationship."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, come on. It’s just a simple favour. Now, when’s the last time I asked you to do something for me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yesterday. You made me look in your ear to see if there was a ladybug in it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "When is the last time I asked you to do something that wasn’t a medical emergency?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yesterday. You made me look in your ear to see if there was a ladybug in it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, then, I have no choice but to go on to plan B."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What’s that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m going to run around outside with a wet head and try to catch a cold."
+    },
+    {
+      "type": "scene",
+      "text": "Amy’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Good morning."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I think you’re really going to enjoy yourself today. Not only do you get to meet my relatives, but since my aunt’s nursing home is catering the party, all of the food is incredibly soft. It’s like a vacation for your teeth."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You sure you’re okay with this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes. I decided to find a way that I could have this experience and enjoy it."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Thank you. That means a lot to me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, don’t thank me. Thank wireless technology. I realized, I can go to your aunt’s awful party and still spend the whole day gaming with my friends."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, my relatives are going to want to talk to you, and you’re going to be sitting there playing a game? Isn’t that a little rude?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I got that covered. Headset. I won’t hear a word the old geezers are saying."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You know, if playing that game is more important to you than honouring your commitment to me, and you don’t mind me showing up at a party all by myself after I’ve already told everybody I’ll be bringing somebody, then, fine. Go home and play your game."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thanks. Ooh, listen, I wouldn’t mind a piece of birthday cake, provided the old gal’s candle blow is clean and dry."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Here you go. I’ve got everything we’ll need for the big game. Low fat turkey jerky, low-carb beer, 100-calorie snack packs."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You pick up a Y chromosome while you were there? You might be short one."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, I plan on levelling up in the game, not my swimsuit size, thank you very much."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Gentlemen, the game offers us a choice between playing for the Republic and the light side, or the Sith Empire and the dark side."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, we’re always the good guys. In D&D, we’re lawful good, in City Of Heroes, we’re the heroes, in Grand Theft Auto, we pay the prostitutes promptly and never hit them with a bat."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Those women are prostitutes? You said they were raising money for stem cell research."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, guys, I got a surprise."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, if it’s yoghurt that helps ladies poop, I think Raj beat you to it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No. Bernadette’s going to be playing with us. So, that’s pretty cool, huh? Right? Sure it is, yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What, you invited your girlfriend? This is supposed to be our weekend."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I had no choice. Last night, she said, why don’t we go out for brunch tomorrow and then maybe the Arboretum. And I said, well, no, I promised the guys I was going to play a video game with them all weekend. And she said, that sounds like fun, can I come, too? And then I didn’t answer for a second, and then she said, well, do you not want me to come? And then I bought her a new laptop and the game, and she’s parking the car right now."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Is the whip sound app contextually appropriate here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, it is, but I think you might’ve waited too long for it to be funny. (Whip sound) I was wrong, it’s still funny."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, good. Hah-hah!"
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Amy, what’s wrong?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "My boyfriend’s a jerk."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, I know he didn’t cheat on you, so what happened?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I had to go to my aunt’s party all by myself, and everybody was like, where’s this boyfriend you’re always talking about? Is he real, or did you make him up like Armin the miniature horse breeder?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Who’s Armin the miniature horse breeder?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "The pretend boyfriend I invented to get my family off my back. It unravelled quickly when I couldn’t answer the question how’d you two meet?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I would have thought at a miniature horse show."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, that’s good."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Mm."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I panicked and said Woodstock. I just wanted to show Sheldon off to my family."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sure, I get that. I mean, he’s your first boyfriend and all."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Not just my first boyfriend, he’s the best boyfriend. I mean, think about it. I’m dating Sheldon Cooper."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yes. On purpose."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "He’s handsome, he’s lanky, he’s brilliant, and his skin has that pale, waxy quality."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, sickly is the new sexy."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Mm. You know, Amy, sometimes when you’re in a relationship with someone you really care about, the sucky part is, it leaves you open to getting hurt."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Do you ever worry about Leonard doing that to you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That’s hilarious. No."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Get that guy! Get that guy! Pew! Pew! Pew! Pew!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Dr. Rostenkowski, it may interest you to know that saying pew, pew, pew isn’t as effective as pressing your blaster key. In the same way that saying whee doesn’t make the land speeder go."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Pew!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Raj, Imperial Troopers on your tail."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Got him. When Gandhi advocated his philosophy of non-violence, I bet he didn’t know how much fun it was killing stuff."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "All right, I think we got them all. Let’s divide up the loot."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Ooh, look at this pretty purple robe I just got. You should put on yours and then we’ll match."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "But I worked hard to get this armour."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Sorry, I just thought it’d be nice if people knew we were a couple."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Fine, I’ll change. (Whip sound)"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hah-hah!"
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I don’t think I want to play a game."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, come on. They’re playing one across the hall, we should, too. Okay, we are gonna take turns bouncing a quarter off the table, and if it goes into this cup, the other person has to drink. Then you get to go again…"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Like that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wow. Yeah, b-beginner’s luck. So, now I will drink this entire cup of beer, and you will go again and we can… uh… all right. So, yeah, okay, now I’m gonna drink this entire cup and then I’m going to drink another one… Okay, seriously, stop. What the hell?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Spent a lot of my childhood throwing coins into wishing wells hoping for friends. At a certain point, you start doing trick shots just to keep things interesting."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Whoa, whoa, give me a second to catch up here. Hold on. (Sound of cheering)"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "That’d be my boyfriend. Happier playing his dopey Star Trek game with his friends than hanging out with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wars."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Star Wars. They get all cranky when you mix the two up."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What’s the difference?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "There’s absolutely no difference."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "How do I get him to treat me better?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right. Let me give you a little girlfriend 101. Usually the first move out of the gate is you withhold sex, but that will work better after Sheldon hits puberty. So, I’d say give him the silent treatment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No, he loves that."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hmm."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Our record for sitting in a room together and not speaking to each other is six-and-a half hours. He said it was a magical evening."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right, then we’re gonna have to go with an oldie but goodie, making a scene."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I don’t think I’d be good at that."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That’s why you’re lucky to have me. Back in Omaha, there are two different restaurants I’m not allowed into. Both Chili’s."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Bernadette, remember, your character’s the healer in our group. You’re in charge of healing all of us, not just Howard."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I can’t help it. My Howie Wowie has an owie."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That is the most sickeningly sweet thing I have ever experienced. And I am sipping Kool-Aid through a Red Vine."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "direction": "(bursting in)",
+      "text": "Sheldon Cooper, I’ve got a bone to pick with you, and I’m about to do it in front of all your friends."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, you pick that bone. You pick that bone clean!"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’m gonna publicly shame you, and then sit back as societal pressure compels you to modify your behaviour."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Ooh, burn!"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "And if you don’t start treating me better, I’m leaving you for a miniature horse breeder named Armin."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Armin who?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Armin… damn it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon, she wanted to show you off to her family, and you stood her up, okay? Look at this adorable, smushy face. Smush, smush, smush, smush."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You’re hurting me."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, Sheldon hurt you."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Before; now it’s you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I think I understand. You’re the one person who can say Sheldon Cooper is your boyfriend, but that rings hollow if you can’t lord him over others in the flesh. I forget what I bring to the party and what I take away when I leave. Please accept these valuable Cooper Coupons as restitution."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon, she doesn’t want your stupid…"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Ooh, Science Center. Redeeming. Let’s go."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well played, Amy Farrah Fowler. Let me get my coat. (Whip sound) Oh, grow up, Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "But e-excuse me, I have something to say. None of you may realize it, but I was very much looking forward to this weekend. It was gonna be like the old days, the four of us hanging out playing video games before you guys all got girlfriends. Do you have any idea what it’s like to be the only one without a girlfriend? Even if I get one someday, I’ll still be the guy who got a girl after Sheldon Cooper!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "And that’s how a girl makes a scene. I’m sorry, sweetie. You’re right. You deserve your weekend. Come on, Amy, let’s go."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What about the Science Center?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’ll let you hold my hair while I throw up."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Rain check."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I’m gonna go, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’ll miss you."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I’ll miss you."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’ll miss you more."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "No, I’ll…"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Just leave! Okay, now. This is the way it’s supposed to be. Men together, fighting the forces of evil."
+    },
+    {
+      "type": "dialog",
+      "character": "All",
+      "text": "Hear! Hear!"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I can’t believe this is only 64 calories."
+    },
+    {
+      "type": "scene",
+      "text": "Some time later. The guys are asleep."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz",
+      "direction": "(off)",
+      "text": "Howard Joel Wolowitz! I’ve been worried sick for two days, and I know you turned off your phone! You open up this door right now because I’ve had it up to here! I have been to the morgue and the hospital, and I spent the last half hour walking up these ferkakta stairs!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That’s my ride, got to go. (Whip sound)"
+    }
+  ]
+}

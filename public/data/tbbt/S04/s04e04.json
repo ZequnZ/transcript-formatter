@@ -1,0 +1,1364 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 4,
+  "episode": 4,
+  "title": "The Hot Troll Deviation",
+  "url": "https://bigbangtrans.wordpress.com/series-4-episode-04-the-hot-troll-deviation/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The Cheesecake Factory."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m telling you, if xenon emits ultraviolet light, then those dark matter discoveries must be wrong."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, well, if we lived in a world where slow-moving xenon produced light, then you’d be correct. Also, pigs would fly, my derriere would produce cotton candy, and The Phantom Menace would be a timeless classic."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, you’re so arrogant. If you were a superhero, your name would be Captain Arrogant. And you know what your superpower would be? Arrogance."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re wrong again. If my superpower were arrogance, my name would be Dr. Arroganto."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "direction": "(laughs)",
+      "text": "I love watching Raj and Sheldon try to work together."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, it’s like if Alien and Predator decided to go partners in a Jamba Juice."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Has it occurred to you you’re missing the big picture? If you look at neutron scattering data…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, Penny? Penny?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What’s up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Nothing. I just wanted to make Raj stop talking."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "direction": "(after Raj whispers to him)",
+      "text": "No, no, no. He won. Suck it up."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, I’d ask you guys if you want dessert, but I know Sheldon doesn’t eat dessert on Tuesdays. And even if Raj wanted something, he couldn’t tell me. Howard won’t order anything, but he will come up with some sort of skeevy comment involving the words pie or cheesecake. And Leonard’s lactose intolerant, so he can’t eat anything here without his intestines blowing up like a balloon animal."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hang on a second. I could have the fruit platter."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You want the fruit platter?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Does it have melon on it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, I can’t eat melon."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, Howard, heads up. Your ex-girlfriend just came in for her shift."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "When was the last time you saw her?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, not since we broke up. Wow. How am I going to play this? Sophisticated and relaxed? Friendly, noncommittal? Cold and distant? (Hides under table)."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Hi, guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hello. I see you decided to go with pathetic and frightened."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s one of his best moves."
+    },
+    {
+      "type": "scene",
+      "text": "Howard’s bedroom. Howard enters in a silk dressing gown, puts on romantic music and sets up mood lighting. Gets onto bed."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So, my dear, we meet again."
+    },
+    {
+      "type": "dialog",
+      "character": "Katee Sackhoff",
+      "text": "Hello, Howard. I’ve missed you."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’ve missed you, Katee Sackhoff."
+    },
+    {
+      "type": "dialog",
+      "character": "Katee Sackhoff",
+      "text": "One question."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Anything."
+    },
+    {
+      "type": "dialog",
+      "character": "Katee Sackhoff",
+      "text": "Why am I wearing my Battlestar Galactica flight suit in bed?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Why are you in bed with me? If we start to question this, it all falls apart."
+    },
+    {
+      "type": "dialog",
+      "character": "Katee Sackhoff",
+      "text": "Sorry. Oh, ravish me, Howard. My loins ache for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, if you insist."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz",
+      "direction": "(off)",
+      "text": "Howard, have you seen my girdle?!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, Ma!"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz",
+      "text": "I can’t find it, and I’m late for my Weight Watchers meeting!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Maybe it committed suicide! Leave me alone! Now, where were we?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I believe you were about to rip off my uniform with your teeth."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Bernadette? What are you doing here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Katee Sackhoff",
+      "text": "Well, if I had to guess, I’d say I’m here because you saw me earlier this evening, and you’re still hung up on me."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, I’m not."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Clearly you are. Otherwise, based on past experience, we’d be done by now."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, I’m a little confused here."
+    },
+    {
+      "type": "dialog",
+      "character": "George Takei",
+      "text": "Oh, my. Can I help?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Not that kind of confused."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What’s George Takei doing here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Katee Sackhoff",
+      "text": "Howard, do you have latent homosexual tendencies?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, of course not."
+    },
+    {
+      "type": "dialog",
+      "character": "George Takei",
+      "text": "So you say. Yet, here I am."
+    },
+    {
+      "type": "dialog",
+      "character": "Katee Sackhoff",
+      "text": "George, let me ask you something. How did you deal with being typecast as a science fiction icon?"
+    },
+    {
+      "type": "dialog",
+      "character": "George Takei",
+      "text": "It’s difficult. You try and stretch as an actor, do Strindberg, O’Neill, but all they want is, Course laid in, Captain."
+    },
+    {
+      "type": "dialog",
+      "character": "Katee Sackhoff",
+      "text": "Tell me about it. It’s frackin’ frustrating."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Wait. Katee, why are you leaving?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "She’s leaving because you really want to be with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz",
+      "text": "Howard, I found my girdle! It was in the dryer!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Great, Ma!"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz",
+      "text": "I think it shrunk! I’m spilling out like the Pillsbury Doughboy here!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "And with that mental picture, I think we’re done for the evening."
+    },
+    {
+      "type": "scene",
+      "text": "The university cafeteria."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You know, you never told me what happened between you and Bernadette."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I did a stupid thing."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, I guessed that."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It was the kind of thing that makes it kind of hard to face her now."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That covers anything from farting in bed to killing a homeless guy. Oh, my God. You ran over a hobo."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No. Stop asking."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "All right, fine. So you want to get back together with her, but you’re too ashamed to face her because of whatever it is you did."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "In a nutshell."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay. Well, how about this? Kidnap Bernadette from the opera wearing a creepy mask so she doesn’t know it’s you."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Now, you see, I don’t know if you’re kidding or not."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You’re being unreasonable. Why can’t I have a desk?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Our collaboration is a work of the mind. We don’t need desks."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You have a desk."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Correct."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "But I can’t have one."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re two for two."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why can’t he have a desk, Sheldon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, Lord, will this day never end? As I’ve explained repeatedly to Dr. Koothrappali, whose ability to comprehend the American idiom fails him when it’s convenient, there’s absolutely no money in my budget for additional office furniture."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, but there’s money for a drawer full of Red Vines, a marshmallow shooting rifle, and a super executive ant farm with glow-in-the-dark sand?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, what if he buys his own desk?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, what if I buy my own desk?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s ridiculous."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Because…"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yes?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s my office."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, all right. He can buy his own desk."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "And I can put it in your office?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, you really want to dot the I’s and cross the T’s, don’t you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why would you want a glow-in-the-dark ant farm?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "They do some of their best work at night."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment. Penny is gathering laundry."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(picking up a top and sniffing it)",
+      "text": "Ah, it’s okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(voice)",
+      "text": "(Knock, knock, knock) Penny? (Knock, knock, knock) Penny? (Knock, knock, knock) Penny? (Penny opens door. Howard is stood outside with a hand-held voice recorder.) Penny?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Would you have opened the door if you knew it was me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Not since I found out the teddy bear you gave me had a webcam in it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I just have a question. Does Bernadette ever talk about me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, absolutely."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "She does?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, sure. Just yesterday, she asked, why is Howard hiding under the table?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "She saw that, huh?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, no, not at first. Right after I pointed it out."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Let me ask you something else. Is she seeing anybody?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh, not that I know of. Hey, while we’re on the subject, why did you guys break up anyway?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, I’d rather not say."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Howard, if you want my help, I’ve got to know what happened."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "But it’s embarrassing."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, that’s what I’m counting on. Spill."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay. Well, you know World of Warcraft?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Um, the online game? Sure."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, did you know that the characters in the game can have sex with each other?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, God. I think I see where this is going."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Her name was Glissinda the Troll. Bernadette walked in on me while we were doing the cyber-nasty under the Bridge of Souls."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, you’re right. That is so embarrassing."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Would you talk to her?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Bernadette or the troll?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Bernadette. She was so mad at me, she wouldn’t even listen to my side of the story."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, what was your side?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, for all we know, Glissinda the Troll wasn’t even a real woman. I mean, she could’ve been a 50-year-old truck driver in New Jersey."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Really? And that didn’t make her feel better?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Will you talk to her, see if there’s any chance at all we could get back together?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, gee, Howard, I really don’t want to get in the middle of this."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No. Why would you? I’m just another lonely nerd, living with his mother, trying to find any scrap of happiness he can. You know, maybe to make up for the fact that his dad left him when he was 11."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, I will think about it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You know, I’ve always blamed myself for him leaving. I always thought it was because I wasn’t the son he wanted."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, I said I’d think about it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I wasn’t athletic, yeah, I was kind of sickly."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, fine. Look, look, I’m calling her now! See?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Thank you."
+    },
+    {
+      "type": "scene",
+      "text": "A corridor at the university."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So anyway, Howard asked Penny to talk to Bernadette, and she did, and Bernadette agreed to meet him for a cup of coffee."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "One question."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why on earth are you telling me all this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know. Sometimes your movements are so lifelike, I forget you’re not a real boy."
+    },
+    {
+      "type": "direction",
+      "text": "(Sheldon opens his office door. It bangs against a desk. Inside, Raj is sat behind a huge, ornate antique wooden desk in an enormous antique swivel chair.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You said I could buy a desk."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "This isn’t a desk. This is a Brobdingnagian monstrosity."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Is that the American idiom for giant, big-ass desk?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s actually British."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Can you say it again for me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Brobdingnagian."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "One more time?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Brobdingnagian."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Now three times fast?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Brobdingnagian, Brobdingna… How did you even get it in here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "That’s for me, Ramon, Julio, Jesus and Rodrigo to know and you to find out."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, you’ve made your point. A fine prank, very amusing. Now get it out."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I have three brothers and two sisters, Sheldon, I can do this all day."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, if you’re not going to remove it, I’ll remove it for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Knock yourself out."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Help me move my desk."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No. It’s too Brobdingnagian."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why do you even want this here? Its size is completely disproportionate to its purpose."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, seeing as its purpose was to piss you off, I’d say it’s spot-on."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, I see what’s going on. This is the opening salvo in what will be an escalating series of juvenile tit-for-tat exchanges. Well titted."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Stand by for my upcoming tat."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, Sheldon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No. See what I did there? I turned it around."
+    },
+    {
+      "type": "scene",
+      "text": "The Cheesecake Factory"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Sorry, I had to clock out."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, no, that’s okay. How have you been?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Okay. You know, busy, school, work. You?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Same. I took a scuba-diving course over the summer, but it turns out I’m terrified of the ocean."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Too bad."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You wouldn’t know anybody who wants to buy a wet suit, boy’s large? Yeah, forget it. Not important. So, are you seeing anyone?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Well, to be honest, I…"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, how are we doing over here? Can I get you something to drink?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Not for me, thanks."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I’m okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Are you gonna want to order food?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Maybe later."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So, are you seeing anybody?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That’s what I told him when he asked me. I hope that’s not out of line."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "No, it’s fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Penny, can we have a little privacy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh. I’m sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What about you, have you been seeing anybody?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, you know how it is with guys. I mean, we have needs and…"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "So you’ve been seeing other girls?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, not real girls."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Does that mean slutty trolls?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know, you look thirsty. I brought you some iced tea."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It’s passion fruit, new on the menu."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I know. I work here. Penny: Oh, sorry. Yeah, you’re right. Doy. So, Howard, trolls, yay or nay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Isn’t there somewhere else you can be?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Not where I can hear you guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, fine. I’ll admit, there are dark, sordid little corners of the Internet where the name Wolowizard is whispered in hushed tones. But the only reason I go there, the only reason I’ve ever gone there is because I don’t have a real woman in my life. You happy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, that’ll hold me for a while."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Howard, you did have a real woman. I was right there in the next room while you were clicking that troll’s brains out."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, but we weren’t, I-I mean, you and I never…"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Had sex?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Well, whose fault was that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Complimentary nachos! You enjoy. Never had sex? Wow."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What do you mean, whose fault was that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Well, we could’ve been having sex, but you never made the move."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I didn’t think you wanted me to make the move."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Howard, a girl doesn’t go out with a man like you, with your looks, your fancy patter and your tight hoochie pants if she’s not expecting him to eventually make the move."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Really?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Really."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Son of a bitch."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, this is a little awkward, but my manager says I can’t actually give nachos away. So, just take that when you’re ready."
+    },
+    {
+      "type": "scene",
+      "text": "University corridor."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, we had a really great talk, and we’re gonna start seeing each other again."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, congratulations. Have you broken it to the troll yet?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Did Penny tell you about that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No. Steve Patterson told me."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "The greasy old fat guy in Facilities Management?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "How’d he know about it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "He’s Glissinda the troll."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "direction": "(voice)",
+      "text": "Sorry, dude, the thermostat’s on my side of the room, so it stays Mumbai hot in here until you turn off that stupid Indian music!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(voice)",
+      "text": "I’ll turn off the music when you get rid of that salmonella-ridden parakeet!"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "direction": "(voice)",
+      "text": "Oh, too bad! Sheldon’s pathologically afraid of birds! Hey, look, Sheldon! Birdie, birdie, birdie!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(voice)",
+      "text": "That’s it! Prepare for marshmallow death!"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "direction": "(voice)",
+      "text": "Eat flaming Nerf! (Imitates gunfire)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So anyway, that’s great news about you and Bernadette."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah. I think I’m gonna take her to miniature golf."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Ah. Well, I guess for you guys that’s like regular golf."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Short jokes? Really? You’re, like, a quarter of an inch taller than me."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, and don’t you forget it."
+    },
+    {
+      "type": "scene",
+      "text": "Bernadette’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I had a good time."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Me, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Katee Sackhoff",
+      "text": "Kiss her good night. All right, now a little tongue."
+    },
+    {
+      "type": "dialog",
+      "character": "George Takei",
+      "text": "Hold on there. We’ve only just rekindled the romance. Let’s not sully the moment with the exchange of saliva."
+    },
+    {
+      "type": "dialog",
+      "character": "Katee Sackhoff",
+      "text": "Don’t listen to him. She wants it. Tongue. Luh-luh-luh-luh-luh. See? Now make the move."
+    },
+    {
+      "type": "dialog",
+      "character": "George Takei",
+      "text": "Mm-mmm. Too soon."
+    },
+    {
+      "type": "dialog",
+      "character": "Katee Sackhoff",
+      "text": "Trust me, she’s ready. Make the move."
+    },
+    {
+      "type": "dialog",
+      "character": "George Takei",
+      "text": "No, no, no. A lady wants to be wooed, courted slowly."
+    },
+    {
+      "type": "dialog",
+      "character": "Katee Sackhoff",
+      "text": "How would you know?"
+    },
+    {
+      "type": "dialog",
+      "character": "George Takei",
+      "text": "I read."
+    },
+    {
+      "type": "dialog",
+      "character": "Katee Sackhoff",
+      "text": "Listen to me, Howard, it’s time. Make the move, now."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Mm! What are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You said, well, the move, remember?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, not now. We’re starting a new relationship. I need to get to know you again."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, you don’t. It’s me. The lusty charmer with the fancy patter and the hoochie pants."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Be patient, we’ll get there."
+    },
+    {
+      "type": "dialog",
+      "character": "George Takei",
+      "text": "Told you."
+    },
+    {
+      "type": "scene",
+      "text": "University corridor."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, God, what’s that smell? (Knocks on Sheldon’s door. Sheldon answers in a gas mask). Oh-ho-hoo!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What are you doing in there?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m making hydrogen sulphide and ammonia gas. Just a little experiment in pest control."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s not gonna work, dude, I grew up in India, an entire subcontinent where cows walk in the street, and nobody has ever had a solid bowel movement."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, we’ll just see how long you can hold out."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, we’ll just see how your noxious gas fares against my cinnamon-apple-scented aroma therapy candles."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Didn’t you say you’re making hydrogen sulphide gas?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Isn’t that flammable?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Highly. Oh, dear. (Explosion)"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "This is not over."
+    }
+  ]
+}

@@ -1,0 +1,1233 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 2,
+  "episode": 23,
+  "title": "The Monopolar Expedition",
+  "url": "https://bigbangtrans.wordpress.com/series-2-episode-23-the-monopolar-expedition/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The apartment. Leonard is working on a whiteboard."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, boy."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I can’t comment without violating our agreement that I don’t criticize your work."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Then what was oh, boy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Great restraint on my part."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "There’s nothing wrong with the science here."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Perhaps you mean a different thing than I do when you say science."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "direction": "(making a change)",
+      "text": "Okay, how’s that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You actually had it right in the first place. Once again, you’ve fallen for one of my classic pranks. Bazinga! Well, now here’s a peculiar e-mail. The president of the university wants me to meet him at his office tomorrow morning at 8 a.m."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It doesn’t say. It must be an emergency. Everyone at the university knows I eat breakfast at eight and move my bowels at 8:20."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes, how did we live before Twitter? I guess you’ll find out what it is in the morning."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s 14 hours away. For the next 840 minutes, I’m effectively one of Heisenberg’s particles, I know where I am or I know how fast I’m going, but I can’t know both. Yet how am I supposed to carry on with this huge annoying thing hovering over my head?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, I know the feeling."
+    },
+    {
+      "type": "scene",
+      "text": "Outside Leonard’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Leonard. (Knock, knock, knock) Leonard. (Knock, knock, knock) Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, it’s two o’clock in the morning."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why is everybody keep telling me what time it is?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Everybody?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You, the president of the university, his wife, their sullen teenage daughter. That entire family is fascinated by what time it is and whether people know it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You went to President Seibert’s house in the middle of the night?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "He didn’t respond to my e-mail, his phone number is unlisted. Tell me what my other option was."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You could have waited until morning. I know, look who I’m talking to."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Do you remember the grant proposal I submitted to the National Science Foundation to detect slow-moving monopoles at the magnetic North Pole?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hardly a day goes by when I don’t think about it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Aw, how nice. Well, a space opened up at the last minute on the NSF expedition to the Arctic Circle."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Wait a minute. He offered to send you to the North Pole?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes. In fact, he was quite enthusiastic. He said, “Frankly, if I could send you tonight, I would.”"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, well, do you want to go?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Of course not. I’m a theoretical physicist, a career I chose in no small part because it’s indoors, but if I’m able to detect slow-moving magnetic monopoles there, I will be the scientist to confirm string theory. People will write books about me. Third-graders will create macaroni-art dioramas depicting scenes from my life."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sure, maybe a tableau of me trying to pummel you to death."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Sarcasm?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Maybe."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m on the horns of a dilemma. Can you imagine me, Sheldon Cooper, at the North Pole?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Easy peasy, I’m doing it right now."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m not good with cold, Leonard. How often have we had to leave a movie theatre because I got a headache from drinking the Icee too fast? I can’t go."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, then don’t go."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "How can you say that? The scientific opportunity of a lifetime presents itself and my best friend says don’t go."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "All right, then go."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Listen to you. How can I possibly go?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, what are the words I can say right now to end this conversation and let me go back to sleep?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Odd, President Seibert posed the exact same question."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "How was it resolved?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It wasn’t. His wife set their dogs on me and rendered the question moot."
+    },
+    {
+      "type": "scene",
+      "text": "The stairwell."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Just imagine. If he says yes, we’ll have an entire summer without Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "We could play outside."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "We could sit on the left side of the couch."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I could use the bathroom at 8:20."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Our dreams are very small, aren’t they?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Good news, gentlemen, I have tentatively accepted…"
+    },
+    {
+      "type": "dialog",
+      "character": "All",
+      "text": "Yeah! Woo-hoo!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "…the invitation to join the Arctic Expedition."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s not gonna be the same without you."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Godspeed."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thank you, but your sentiments may be premature."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Ooh, I don’t like where this is going."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I would like to propose that the three of you accompany me."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "To the North Pole?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Is this just so we won’t touch your stuff while you’re away?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’ll admit that was a concern. But the fact is, I’ll need a support team. And the three of you are my first choice."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Really?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, there are others who might be more qualified, but the thought of interviewing them gave me a stomach ache. Now, I know I’m proposing an enormous undertaking, so why don’t you take a few moments to discuss it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "We’re not really gonna go to the North Pole with him, are we?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(voice)",
+      "text": "I’m still within earshot! You may want to wait for my door to close."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "We’re not really gonna go to the North Pole with him, are we?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hang on. Let’s talk about it. This is a National Science Foundation expedition. I don’t know how we can turn it down."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Easy. Instead of saying, no, we don’t want to go on an NSF expedition, say, no, we don’t want to spend “three months stuck in a cabin in the Arctic Circle with an anal nutbag.”"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "But if we were part of the team that confirmed string theory, we could drink for free in any bar in any college town with a university that has a strong science program."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Howard, this is big science. You could be the engineer who builds the equipment that puts us on the cover of magazines."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I could also be the engineer who builds the crossbow that kills Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You still might get on a magazine."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So you guys are seriously considering this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "And you think you can put up with Sheldon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, I’m a Hindu. My religion teaches that if we suffer in this life we are rewarded in the next. Three months at the North Pole with Sheldon and I’m reborn as a well-hung billionaire with wings!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, gentlemen, have you reached a decision?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m in."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Me, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, damn it. Peer pressure. Fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Excellent. And just an FYI, as I am the expedition’s team leader, protocol dictates that be phrased fine, sir. But don’t worry, there will be a briefing."
+    },
+    {
+      "type": "scene",
+      "text": "Outside Penny’s door."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "(Knock, knock, knock) Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "(Knock, knock, knock) Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "(Knock, knock, knock) Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "(Knock, knock, knock) Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "(Knock, knock, knock) Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "(Knock, knock, knock) Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What do you want?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I need access to the Cheesecake Factory’s walk-in freezer."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Now, honey, I already told you, the hamburger meat is fresh and stored at a safe temperature."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. This is to train for a three-month expedition to the magnetic North Pole."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t know how that sentence could possibly confuse you, but to elaborate, I’m going to the Arctic Circle with Leonard, Wolowitz and Koothrappali."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You’re all going?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "For three months?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Excuse me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Is that a yes or a no on the freezer? The woman has the attention span of a gnat."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon says you’re going to the North Pole."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah. Pretty cool, huh?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah. I’m just a little surprised you didn’t tell me."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, well, it all happened kind of fast, and we had to get physicals and buy thermal underwear and study up on, you know, snow and stuff. Sorry, I was gonna tell you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, hey, no, you don’t have to apologize. There’s no reason you have to tell me. I was just, you know, surprised."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, yes, you were busy, you were surprised, all very fascinating. Now where do we stand on the freezer?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Is he serious?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Actually, it would help."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right, I’ll see what I can do. So, three months at the North Pole. Wow, that is awesome."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m sorry, but at what point do you put this see what you can do plan into action?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Just a warning, Sheldon, the freezer locks from the outside."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Did she seem upset to you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. Did she seem upset to you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, good, I got it right. Are you upset?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "A little bit."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Two for two. I’m on fire."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I mean, I know she’s not my girlfriend or anything, but wouldn’t you think she’d feel a little bad that I’m going to be gone for the whole summer?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That feels like a bonus question. I’m going to stop here while I’m ahead, but I’ve had a great time."
+    },
+    {
+      "type": "scene",
+      "text": "Inside the cheesecake factory freezer."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Alright, now the purpose of this drill is to acclimate us to the use of tools in extreme temperatures such as we will face in the Arctic Circle."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Where are your tools?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(pointing at his brain)",
+      "text": "Right here. All right, team, open up your practice kits. As the university did not permit me to bring the actual equipment we’ll be using to the Cheesecake Factory, because apparently I’m “ridiculous,” I’ve provided substitutes which will exercise your fine motor skills. Leonard, you will be doing a series of complex mathematical problems on a vintage Casio model 1175 calculator watch I received when I won the Earth Science medal in 3rd grade. Treat it with respect. Raj, you will be painting sideburns and a Van Dyke on a six-inch figurine of Legolas the elf. Now, remember, a Van Dyke is a goatee without a moustache. Wolowitz, you will be completing a series of delicate surgical procedures on the classic children’s game, Operation. To begin with, you will remove funny bone for two hundred dollars."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "For this I went to MIT."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And begin."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I think I swallowed some paint!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I can’t press any of the buttons with my gloves. Oh, son of a bitch!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Adversity is to be expected. Continue."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, boy, am I gonna get sued."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, I can’t do this."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Me either."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Gentlemen, use your imagination. Innovate. Did Han Solo let Luke Skywalker freeze to death on the ice planet of Hoth? No. He cut open a tauntaun and used its internal body heat to warm him up."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You heard the man. Hold him down and I’ll cut him open."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hang on, I know I don’t possess the tools of leadership, but I don’t understand why we can’t assemble the equipment inside the hut and then take it outside."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I hadn’t thought of that. I guess we’re done here."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment kitchen."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Here, drink slash eat this."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What is it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s hot chocolate with a stick of butter."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Because in the frigid temperatures in the Arctic, we need to consume at least 5,000 calories a day just to maintain our body weight."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, you know I can’t eat butter. I’m lactose intolerant."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Way ahead of you, that’s an “I Can’t Believe It’s Not Butter” stick."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "direction": "(on his webcam)",
+      "text": "But mummy, all the other guys are going to the North Pole."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Koothrappali",
+      "text": "I don’t care what the other guys are doing. If the other guys jumped in the Bay of Bengal and tried to swim to Sri Lanka, would you follow them?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "If you were standing behind me nagging, I might."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "Don’t talk back to your mother. This trip is much too dangerous, Rajesh."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No, it’s not. Howard, tell them."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Doctor and Mrs. Koothrappali, namaste. I understand your concern, but if it’ll make you feel any better, my mother is fine with me going, and this is a woman who kept a safety rail on my bed until I was 17."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Koothrappali",
+      "text": "So, she has no problem with her son being eaten by a walrus?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s very unlikely, Mrs. Koothrappali. If Raj dies, it’ll be from frostbite, gangrene, acute sunburn or being ripped to shreds by a fifteen hundred pound polar bear."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Ma, I’m putting you on speakerphone with Raj’s parents. Can you tell them that you’re okay with me going to the Arctic?"
+    },
+    {
+      "type": "direction",
+      "text": "Howard’s Mother: Arctic? I thought you said Arkansas!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I didn’t say that. You never listen to me!"
+    },
+    {
+      "type": "direction",
+      "text": "Howard’s Mother: He doesn’t tell me anything! He lives a secret life because he’s ashamed!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(arriving)",
+      "text": "Hey, Leonard, can I talk to you for a sec?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sure, but let’s go out here where there’s a little less yelling and guilt. What’s up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, I got you a little going away present."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, a blanket."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, no, no, no, not just a blanket. See, it has sleeves. Yeah! So, you can, you know, be all snoodled up while you do your science stuff."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, wow, cool."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, I’m gonna miss you. (She hugs him for a long time) See you later."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Bye."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Koothrappali",
+      "text": "I told you no. Why don’t you believe me?"
+    },
+    {
+      "type": "direction",
+      "text": "Howard’s Mother: ‘Cause it doesn’t make sense to me! How can it be that in the entire country of India, there isn’t one Outback Steakhouse?!"
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon’s bedroom. Sheldon is asleep. There is a knock on the door."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, Sheldon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I want a cookie, Meemaw."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, it’s me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But Meemaw just made cookies."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Listen, I don’t know if I can go on the expedition."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t think I can go to the North Pole."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay, Leonard, I know you’re concerned about disappointing me but I want you to take comfort from the knowledge that my expectations of you are very low."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, that’s very comforting."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Comforting is a part of leadership. It’s not a part I care for, but such is my burden."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Terrific, it’s just that I don’t think Penny wants me to go."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Assuming that’s a valid reason not to go, which it isn’t, how do you know this? Did she say it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Not exactly. But she said she was gonna miss me and she gave me this."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What is it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s a blanket with sleeves."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, that’s clever. Let me see if I understand this correctly. Her missing you is an emotional state you find desirable?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes, obviously."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right. Well, given that missing you is predicated on you leaving, logic dictates you must leave."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes, okay, but I’m gonna be gone for three months. What if she doesn’t miss me that long and she meets someone else?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "She does have a short attention span."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, I can’t go."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard, you may be right. It appears that Penny secretly wants you in her life in a very intimate and carnal fashion."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You really think so?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Of course not. Even in my sleep-deprived state, I’ve managed to pull off another one of my classic pranks. Bazinga!"
+    },
+    {
+      "type": "scene",
+      "text": "Outside Penny’s door. Leonard is knocking."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, Leonard, what time is it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s 7 a.m. I’m sorry it’s early, but we’re leaving soon, and I needed to talk to you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What did you mean when you said you’re going to miss me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Um, I don’t know. You’ll be gone and I’ll notice."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "direction": "(indicating the blanket)",
+      "text": "Okay, well, um, what about this? What does this mean?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wine, credit card and late night television are a bad combination."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "All right, fine. What about that really long hug? What did that mean?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That wasn’t a long hug."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It was at least five Mississippis. A standard hug is two Mississippis tops."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Leonard, I don’t know what to tell you. It was just a hug."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Glad we cleared that up."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I guess I’ll see you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, have a safe trip."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thank you. Bye."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, bye. (Penny closes door. To herself) Means I wish you weren’t going."
+    },
+    {
+      "type": "scene",
+      "text": "The North Pole."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Damn it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We’re out of ice."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, men, we begin initial assembly and deployment of the testing equipment starting tomorrow at 0700 hours, but until then, you are all off duty. I suggest you keep the shenanigans to a minimum as medical help is 18 hours away by dogsled."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What are you working on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Crossbow."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, guys, can I just say something? How about we take a moment to think about where we are right now? This is literally the top of the world. Only a handful of people in all of human history will ever see what we are going to see."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "He’s right."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, wow."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It is remarkable."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "So, who’s up for a movie?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Good idea, what do you think? Ice Station Zebra or John Carpenter’s The Thing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I say double feature."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Dinner’s ready!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What are we having?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Reconstituted Thai food."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Did you bring the dehydrated low-sodium soy sauce?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Check."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Freeze-dried spicy mustard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Check."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Flash-frozen brown rice, not white?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, oh, sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Not to worry. I hid it. Bazinga! You’re in my spot."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "There’s no time for a crossbow. Find me an icicle."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Three months. This is gonna be great!"
+    }
+  ]
+}

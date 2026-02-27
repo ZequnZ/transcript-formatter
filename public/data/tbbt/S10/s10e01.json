@@ -1,0 +1,1428 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 10,
+  "episode": 1,
+  "title": "The Conjugal Conjecture",
+  "url": "https://bigbangtrans.wordpress.com/series-10-episode-01-the-conjugal-conjecture/",
+  "lines": [
+    {
+      "type": "direction",
+      "text": "Sceme: Leonard and Penny’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard? Leonard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You realize you and I could become brothers."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We’re not gonna be brothers. We’re not gonna be stepbrothers. Go to sleep."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I hope you’re right. ‘Cause a grown man living with his brother and his brother’s wife is weird."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Go to sleep."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay. Do you think your father’s doing unspeakable things to my mother?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Are you saying that because the things are unspeakable?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Your parents are old. Anything unspeakable was finished by 9:30. Go to sleep."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Very well."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m sorry if this stuff is gonna make the ceremony awkward."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "God, I thought my brother fresh out of jail was gonna make everyone uncomfortable, but now this."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hey, if you want me to sleep you’re gonna have to stop talking."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, I’m gonna go pick up my family. Like an hour and half, two hours, depending on traffic."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, drive safe."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, hey, and do yourself a favour, all right? When Beverly gets here, do not bring up last night. All right? As far as you’re concerned, you don’t know anything, you didn’t see anything. I want you just to play dumb."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It was nice of her to show us playing dumb with an example."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What? Oh. Hi. Okay, hey there, I got, I’m sorry, I got to go now."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Penny, wait."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "I wanted to thank you for going through all the trouble of planning a second wedding ceremony for me, but unfortunately I cannot attend."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, why? What’s wrong?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Whuh, are we still doing the dumb thing? Okay, why, what’s wrong?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "I just cannot stay here while your father goes out of his way to humiliate me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, golly, however did he humiliate you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Stop it, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Do I say stop what, or just throw in the towel?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "I don’t see why I should have to watch your father parade around with some bible-thumping bumpkin."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, excuse me, that is my mother you’re talking about, however accurately."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, Beverley, aren’t you overreacting a little? All we know is they shared a cab and had a nightcap."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And turned their phones off."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Not helping, buddy. Mother, Penny and I really want you to be part of this. Please stay."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, plus if you leave, Alfred will know he got under your skin."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Well, we can’t have that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know, also, if they did have coitus, we’ll all be needing a skilled psychiatrist."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s kitchen."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It is funny when you think about it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Maybe to you. You didn’t get a $500 traffic ticket."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Because you were driving like a lunatic."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, if thinking secret government agents are chasing you makes you a lunatic, then, yeah, okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj (doorbell rings)",
+      "text": "Oh, I’ll get it."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "It didn’t help that you couldn’t walk a straight line when the cop pulled you over."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I have performance anxiety. You of all people should know that."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Air Force Officer",
+      "text": "I’m looking for Howard Wolowitz."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Howard Wolowitz?"
+    },
+    {
+      "type": "dialog",
+      "character": "Air Force Officer",
+      "text": "I have the right address, don’t I?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Address?"
+    },
+    {
+      "type": "dialog",
+      "character": "Air Force Officer",
+      "text": "Is he here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Um, no."
+    },
+    {
+      "type": "dialog",
+      "character": "Air Force Officer",
+      "text": "Do you know where I can find him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "May I ask what this is about?"
+    },
+    {
+      "type": "dialog",
+      "character": "Air Force Officer",
+      "text": "No, you may not."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Very well."
+    },
+    {
+      "type": "dialog",
+      "character": "Air Force Officer",
+      "text": "Have him call me."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard (off)",
+      "text": "Raj, who’s at the door?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "That’s not him."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, I can’t wait for you to meet everyone. I told them all about you."
+    },
+    {
+      "type": "direction",
+      "text": "Susan (Penny’s mother): Like what? Do they know about your brother?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh, not everything, just, like, the jail and drugs part."
+    },
+    {
+      "type": "dialog",
+      "character": "Susan",
+      "text": "Why would you do that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Susan",
+      "text": "The world doesn’t need to know our problems."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, Mom, I’m sorry, but…"
+    },
+    {
+      "type": "direction",
+      "text": "Wyatt (Penny’s father): Hey, look, they got Walgreens here, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Susan",
+      "text": "You really think it’s helpful to change the subject, Wyatt?"
+    },
+    {
+      "type": "dialog",
+      "character": "Wyatt",
+      "text": "Just trying to make this a happy trip, dear."
+    },
+    {
+      "type": "dialog",
+      "character": "Susan",
+      "text": "Well, quit it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So, uh, Randall, can’t believe after all these years you finally get to visit me in California."
+    },
+    {
+      "type": "direction",
+      "text": "Randall (Penny’s brother): Well, good thing I was a non-violent offender, otherwise I couldn’t have left the state."
+    },
+    {
+      "type": "dialog",
+      "character": "Susan",
+      "text": "All right, that’s enough jail talk."
+    },
+    {
+      "type": "dialog",
+      "character": "Randall",
+      "text": "Penny knows where I was, she sent me cigarettes."
+    },
+    {
+      "type": "dialog",
+      "character": "Susan",
+      "text": "You sent your brother cigarettes?"
+    },
+    {
+      "type": "dialog",
+      "character": "Wyatt",
+      "text": "He was cooking and selling crystal meth, Susan, I think we can let the cigarettes slide."
+    },
+    {
+      "type": "dialog",
+      "character": "Susan",
+      "text": "Stop trying to be the cool dad, you have a shirt with our cat’s picture on it."
+    },
+    {
+      "type": "dialog",
+      "character": "Wyatt",
+      "text": "Anyway, we’re here, slugger."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s kitchen."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That’s great, now they know where I live."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What are you talking about? They’ve always known where you live."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Yeah, if you want to go off the grid, you have to move out of your mother’s house."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Can we take a moment to discuss that I just lied to the government for you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah. I would not have done that for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Howard, please just call the man, see what he wants."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "All right, all right."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, make sure you tell him that you weren’t home when he came by and that your Indian friend gave you the message the moment you stepped through the door."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yes, hello. Uh, this is Howard Wolowitz for Colonel Richard Williams."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, I take it back, don’t mention me."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hi, Colonel Williams, how can I help you? What? Oh, uh, yes, he is from India. No, I don’t know his immigration status. Relax, I’m still on hold. Speaking. Okay, sure, I can meet with you on Thursday. Caltech is fine. Yeah, and may I ask what this is about? I may not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "That’s what he said to me."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Here you are, Mother."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m glad you decided to stay. It’s gonna be special for Penny and me to share this with you."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "I can’t wait for this day to be over."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, special, like that. (Knock on door) That’s them. Please don’t make things any more awkward than they already are."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, so less or equally awkward, got it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, guys, come on in."
+    },
+    {
+      "type": "dialog",
+      "character": "Alfred",
+      "text": "Oh, thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Mary",
+      "text": "Good morning."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Morning."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Alfred",
+      "text": "How is everyone today?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Good, and you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Alfred",
+      "text": "Good, good."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Good."
+    },
+    {
+      "type": "dialog",
+      "character": "Mary",
+      "text": "I’m good, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Good."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So, did you defile my mother or not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mary",
+      "text": "Sheldon. You’re being rude."
+    },
+    {
+      "type": "dialog",
+      "character": "Alfred",
+      "text": "If I may, I can assure you, your mother and I did nothing more than share a cab and a conversation."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Did that conversation include the phrase your genitals are a joy to behold?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mary",
+      "text": "That’s enough."
+    },
+    {
+      "type": "dialog",
+      "character": "Alfred",
+      "text": "Look, I promise you, neither I, nor anyone, has ever said that."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You don’t know his girlfriend very well."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Or what a joy it is to behold my genitals."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right, you guys, uh, get settled in, then we’ll go across the hall and say hi to everyone."
+    },
+    {
+      "type": "dialog",
+      "character": "Randall",
+      "text": "You know, It’s hard to believe I’ve never met Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Wyatt",
+      "text": "Well, he probably buys his illegal drugs from a local vendor."
+    },
+    {
+      "type": "dialog",
+      "character": "Susan",
+      "text": "Not funny, Wyatt."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I thought it was really funny."
+    },
+    {
+      "type": "dialog",
+      "character": "Wyatt",
+      "text": "Thanks."
+    },
+    {
+      "type": "dialog",
+      "character": "Susan",
+      "text": "Well, fine, if everyone wants to make jokes about our problems, then I can, too. Knock, knock. Who’s there? Our family is an embarrassment."
+    },
+    {
+      "type": "dialog",
+      "character": "Randall",
+      "text": "That’s not much of a joke."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay. Listen, Mom, I know you’re nervous, but I promise you, no one is gonna judge you or this family."
+    },
+    {
+      "type": "dialog",
+      "character": "Susan",
+      "text": "Oh, I’m sorry. It’s just we’re meeting Leonard’s parents for the first time, and, and they’re academics and, and intellectuals, and I don’t want them thinking we’re white trash."
+    },
+    {
+      "type": "dialog",
+      "character": "Randall",
+      "text": "Well, what colour trash do you think they’ll believe?"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Mary",
+      "text": "How could you think that I would spend the night with a man I just met?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "A man named Jesus convinced you to build a church in Africa. You’re kind of a sucker."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, nothing happened, right? It’s over. Until we get married a third time, you guys will never have to see each other again."
+    },
+    {
+      "type": "dialog",
+      "character": "Alfred",
+      "text": "Well, you know, actually that’s not the case. Mary may visit me in New York."
+    },
+    {
+      "type": "dialog",
+      "character": "Mary",
+      "text": "Mm-hmm. And he’s never been to Texas."
+    },
+    {
+      "type": "dialog",
+      "character": "Alfred",
+      "text": "Maybe we meet halfway."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What? In the Chattahoochee National Forest in Georgia? I can’t be the only one that knows that’s halfway."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "You’re not seriously going to visit each other."
+    },
+    {
+      "type": "dialog",
+      "character": "Alfred",
+      "text": "And why wouldn’t we?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Oh please, you’re just saying this to antagonize me."
+    },
+    {
+      "type": "dialog",
+      "character": "Alfred",
+      "text": "Oh, not at all. Mary happens to be a wonderful woman. And if it antagonizes you, that’s just a bonus."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Mary, I’m sorry you’re in the middle of this."
+    },
+    {
+      "type": "dialog",
+      "character": "Mary",
+      "text": "No, no, nothing to be sorry about. I genuinely like your father."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What? But he’s a mediocre academic. And according to Beverley, his sexual prowess is sub-par. He’s basically Leonard with a bigger prostate."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Are you saying that my dad’s not good enough for your mom?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, while also getting in a solid dig at you. Pretty efficient, huh?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "This is ridiculous. I’m going across the hall."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But why should you get to go and leave me here with your bickering parents?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Fine, then you go."
+    },
+    {
+      "type": "dialog",
+      "character": "Mary",
+      "text": "Well, I don’t want to stay here with her. I’ll go."
+    },
+    {
+      "type": "dialog",
+      "character": "Alfred",
+      "text": "I’ll go with you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That still leaves me here with him."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hang on, hang on. We’re smart, we can figure this out. Okay, so: Mary and Beverley can’t be together. Uh, Alfred and Beverley can’t be together. Leonard and I can’t be together. Now, I could be with Alfred but I don’t like his face. Oh, here. I’ve got it."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Who’s ready for a wedding?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Great, now I have to start all over."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Wyatt",
+      "text": "So how’s the world of pharmaceuticals treating you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Pretty good. I actually just got assigned a much better territory."
+    },
+    {
+      "type": "dialog",
+      "character": "Susan",
+      "text": "See what happens when you work hard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Randall",
+      "text": "Hey, she just sells drugs. I had to make ’em."
+    },
+    {
+      "type": "dialog",
+      "character": "Susan",
+      "text": "Okay, that’s enough. No more drug talk for the rest of this trip."
+    },
+    {
+      "type": "dialog",
+      "character": "Wyatt",
+      "text": "I’ll drink to that."
+    },
+    {
+      "type": "dialog",
+      "character": "Susan",
+      "text": "Haven’t you had enough?"
+    },
+    {
+      "type": "dialog",
+      "character": "Wyatt",
+      "text": "Penny drinks more than I do."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, I learned from the best."
+    },
+    {
+      "type": "dialog",
+      "character": "Wyatt",
+      "text": "Aw."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Aw."
+    },
+    {
+      "type": "dialog",
+      "character": "Susan",
+      "text": "Very nice, Wyatt. And you wonder why this one turned out the way he did."
+    },
+    {
+      "type": "dialog",
+      "character": "Randall",
+      "text": "You see what I’ve gotta put up with."
+    },
+    {
+      "type": "dialog",
+      "character": "Susan",
+      "text": "What you’ve gotta put up with? Why did you have to go to jail?"
+    },
+    {
+      "type": "dialog",
+      "character": "Randall",
+      "text": "It’s called getting caught, Mother."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Wyatt",
+      "text": "Hey, there he is."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Susan",
+      "text": "Oh, Leonard. It’s so nice to see you again."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, you, too. Hey, everyone, this is my mother, Beverley."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Susan",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Randall",
+      "text": "We are not white trash."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Are you excited to see your son walk down the aisle?"
+    },
+    {
+      "type": "dialog",
+      "character": "Alfred",
+      "text": "Yes, I am. I’m just feeling a little guilty about all the trouble I’ve caused."
+    },
+    {
+      "type": "dialog",
+      "character": "Mary",
+      "text": "Oh, so am I."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You made God sad today, Mom."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, they haven’t done anything wrong. I think it’s nice they’re hitting it off."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, that’s still no reason to rush into anything. I mean, look at us. We took things remarkably slow. You and I, we didn’t even hold hands for two years."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It was a lot hotter than it sounds."
+    },
+    {
+      "type": "dialog",
+      "character": "Alfred",
+      "text": "You’re a patient young lady."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hey, hey. She’s mine, take a cold shower, grandpa."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s kitchen."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Why wouldn’t that colonel say what the meeting’s about? It has to be bad news."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Calm down, okay? Try not to think about it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That’s really stupid advice."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You know that hurts my feelings."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Calm down, try not to think about it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Why do I bother talking to you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, come on. What’s the worst that could come of this meeting?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I don’t know. They take the invention away, and I get nothing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, that’s not so bad. You know what happened to the scientists that worked on the Manhattan Project? The government forced them to move to the desert. They had to live in secret, and when Oppenheimer objected to what they made him do, they destroyed his reputation."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What’s the point of that story?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I just read a book about Oppenheimer, seemed like a chance to show off. (Howard laughs) There he is, there’s my happy Hebraic homeboy. Yeah, that’s the smile I’m gonna remember when you’re living in the desert and I’m living with your wife."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "So, what do you do for a living?"
+    },
+    {
+      "type": "dialog",
+      "character": "Randall",
+      "text": "Mommy, you want to take this one?"
+    },
+    {
+      "type": "dialog",
+      "character": "Susan",
+      "text": "Um, Randall’s in between jobs."
+    },
+    {
+      "type": "dialog",
+      "character": "Randall",
+      "text": "And court appearances."
+    },
+    {
+      "type": "dialog",
+      "character": "Wyatt",
+      "text": "It’s nice to meet the woman who raised this fine young man. I’m looking forward to meeting his father."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Prepare to be disappointed."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "And he can’t wait to meet you, too. Can I get anyone a drink?"
+    },
+    {
+      "type": "dialog",
+      "character": "Wyatt",
+      "text": "Well, I could use another beer."
+    },
+    {
+      "type": "dialog",
+      "character": "Susan",
+      "text": "You’re done. He’s done."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey. Is everyone getting to know each other?"
+    },
+    {
+      "type": "dialog",
+      "character": "Randall",
+      "text": "Not at all."
+    },
+    {
+      "type": "scene",
+      "text": "The wedding ceremony."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Nice to see you again, Dr. Hofstadter. I’m, uh, Leonard’s friend, Stuart."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Nice to see you, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Hi, I’m Stuart."
+    },
+    {
+      "type": "dialog",
+      "character": "Alfred",
+      "text": "Oh, I’m Alfred. Leonard’s father."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Oh. Oh, hi. Uh, I’m sorry, did you two want to sit together?"
+    },
+    {
+      "type": "dialog",
+      "character": "Together",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "I was wondering why the front row was available."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Okay, I think we’re ready."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why do people cry at weddings?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mary",
+      "text": "They’re practicing for what’s coming later."
+    },
+    {
+      "type": "dialog",
+      "character": "Susan",
+      "text": "Thank you for cleaning yourself up for your sister’s wedding."
+    },
+    {
+      "type": "dialog",
+      "character": "Randall",
+      "text": "Thank you for my new teeth."
+    },
+    {
+      "type": "dialog",
+      "character": "Wyatt",
+      "text": "Welcome to the family, Leonard. Don’t lend your new brother-in-law money."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "We’re here today to celebrate love."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Urgh."
+    },
+    {
+      "type": "dialog",
+      "character": "Alfred",
+      "text": "Sigh louder, no one heard you."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Really, I can move."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Not just Leonard and Penny’s love, but the love we have for them, as well as each other."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Speaking of love, STDs among the elderly are skyrocketing."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Love is patient, but it’s not gonna put up with all the side chatter, so let’s knock it off."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "At least she’s yelling at someone else for a change."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Howard."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, I understand everyone’s a little tense today, so I am just gonna get to the important stuff. Leonard, standing here with you in front of our family and friends is bringing up a lot of feelings. Like what a good idea it was to elope the first time. But also how incredibly happy you make me. Thank you for marrying me. Hopefully for the last time."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Penny, as a scientist, my job is to figure out why things happen. But I don’t think I’ll ever understand how someone like me could get to be with someone like you. You know, maybe I don’t"
+    },
+    {
+      "type": "direction",
+      "text": "need to understand it, I just need to be grateful. I love you, Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Anybody have anything snarky to say about that? Didn’t think so."
+    },
+    {
+      "type": "dialog",
+      "character": "Alfred",
+      "text": "I’d like to say something. Beverly, I know that we don’t bring out the best in each other."
+    },
+    {
+      "type": "direction",
+      "text": "But something wonderful did come from our relationship. That young man right there."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "I couldn’t agree more."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "That’s beautiful."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Thank you. All right, let’s continue."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, excuse me, I need to say something to someone pretty special, and I just can’t wait any longer."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It’s happening."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard, you and I have our ups and downs. But I have always considered you my family. Even before the recent threat of our parents fornicating like wrinkly old rabbits. I don’t always show it, but you are of great importance to me. Both of you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Okay. I now pronounce you husband and wife. And weird other husband who came with the apartment."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Thank you for taking us to the airport."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, I’m just thrilled we’re all getting along for a minute."
+    },
+    {
+      "type": "dialog",
+      "character": "Alfred",
+      "text": "Yeah, me, too. Beverly, I’m sorry if I upset you."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Water under the bridge, Alfred. Leonard, why don’t you get into the carpool lane?"
+    },
+    {
+      "type": "dialog",
+      "character": "Alfred",
+      "text": "Well, that’s a solid line. He can’t cross that."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s okay. I can make it over."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "No, no, let’s plod along. It’ll make your father feel more comfortable."
+    },
+    {
+      "type": "dialog",
+      "character": "Alfred",
+      "text": "What makes me comfortable is knowing I don’t have to wake up tomorrow morning and see your sour face."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Do the world a favour, and don’t wake up tomorrow morning."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That was almost a minute."
+    },
+    {
+      "type": "scene",
+      "text": "Amy’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Mary",
+      "text": "There’s a lot of traffic. Are we gonna be okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You’ll be at the airport an hour before your flight."
+    },
+    {
+      "type": "dialog",
+      "character": "Mary",
+      "text": "Good. Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Plenty of time for you to meet another geriatric boy toy."
+    },
+    {
+      "type": "dialog",
+      "character": "Mary",
+      "text": "Hey. I will not have you be disrespectful to me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes ma’am."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, you’re mother’s an attractive woman. You need to get use to the fact that men are going to be interested in her."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, and you need to drive the car and mind your business."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I will not have you be disrespectful to me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What, you’re not my mother."
+    },
+    {
+      "type": "dialog",
+      "character": "Mary",
+      "text": "Don’t you be disrespectful to her."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes ma’am."
+    },
+    {
+      "type": "dialog",
+      "character": "Mary",
+      "text": "You’ll get there. You’ve just gotta put some zing on it."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Susan",
+      "text": "Penny, I don’t know what I was worried about. You’re friends are just lovely."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, thanks, Mom."
+    },
+    {
+      "type": "dialog",
+      "character": "Susan",
+      "text": "Although that Sheldon is a bit peculiar."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Is he? I never noticed."
+    },
+    {
+      "type": "dialog",
+      "character": "Wyatt",
+      "text": "He reminds me of that turkey we had who drowned looking up at the rain."
+    },
+    {
+      "type": "dialog",
+      "character": "Randall",
+      "text": "Cops, cops, be cool."
+    }
+  ]
+}

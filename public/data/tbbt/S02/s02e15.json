@@ -1,0 +1,1172 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 2,
+  "episode": 15,
+  "title": "The Maternal Capacitance",
+  "url": "https://bigbangtrans.wordpress.com/series-2-episode-15-the-maternal-capacitance/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The apartment. The guys are playing Rock Band. Sheldon is on guitar, Howard drums and Raj singing. They are performing the Red Hot Chili Peppers “Under the Bridge”. As Raj gets into the song, Penny enters and his singing turns into a squawk."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Fellas, please."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Penny, come on, we were just finding our sound."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You found it. It’s the sound of a cat being run over by a lawn mower."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "direction": "(entering on the phone)",
+      "text": "I’m really very busy. Is there any way that we can put this off until I have more time to prepare? Of course. But, uh, you understand my trepidation."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What’s that about?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Not a clue."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Can’t we just postpone it till the spring? Maybe next summer?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "This should be fairly easy to deduce. He’s holding the phone to his left ear. Ears do not cross hemispheres, so he’s using the analytical rather than the emotional side of the brain, suggesting that he has no personal relationship with the caller."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, I didn’t realize it had been so long. Sure, I guess there’s no other choice but to just go ahead and do it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "He’s referring to an activity he has done before. It’s unpleasant and needs to be repeated. This suggests some sort of invasive medical test, like perhaps a colonoscopy."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Aren’t there any other options? There’s not a lot of room, it’s gonna be uncomfortable."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, yes. Yeah, I’m definitely going with colonoscopy."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, bye. My mother’s coming to visit."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "How about that, you were right."
+    },
+    {
+      "type": "scene",
+      "text": "The lobby. Penny finds a woman studying the lift."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It’s out of order."
+    },
+    {
+      "type": "dialog",
+      "character": "Woman",
+      "text": "Yes, I can read the sign, I’m just pondering the implications."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I think it implies that the elevator doesn’t work."
+    },
+    {
+      "type": "dialog",
+      "character": "Woman",
+      "text": "Again, I can read the sign. But the sign and the tape are covered with a layer of dust, which indicates that the elevator has been non-functional for a significant amount of time. Which suggests either a remarkable passivity among the, I assume, 24 to 36 residents of this building based on the number of mailboxes and given typical urban population density or a shared delusion of functionality."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You must be Leonard’s mother."
+    },
+    {
+      "type": "direction",
+      "text": "Leonard’s Mother: Oh, I don’t know if I must be, but yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh, I’m Penny. I’m his neighbour."
+    },
+    {
+      "type": "direction",
+      "text": "Leonard’s Mother: Oh, Dr. Beverley Hofstadter."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, nice to meet you."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Oh, you’re a hand shaker. Interesting."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh, why don’t you come with me. I’ll walk you to the apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Oh, all right. Would you like to exchange pleasantries on the way?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, sure, I guess."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "All right, you start."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay. You know, I’ve always been curious. What was Leonard like when he was little?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Oh, I think you mean young. He’s always been little."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Right, okay. What was he like when he was young?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "You’ll have to be more specific."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, um, okay, like, five or six. Five."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Oh, well, at that age he was well enmeshed in what Freud would call the phallic stage of psychosexual development. An outmoded theory, of course, but the boy did spend most of his waking hours with a tight grasp on his penis."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, Leonard mentioned you were a psychiatrist."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Well, that is one of my degrees. My primary field is neuroscience."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, well, I’m an actress."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What do you mean why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Well, there are studies that suggest that many who go into the performing arts suffer from an external locus of identity."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, I don’t know what that means."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Well, it means you value yourself only as others value you, which is often the result of unmet childhood emotional needs."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, well, I had a wonderful childhood."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Tell me about it."
+    },
+    {
+      "type": "direction",
+      "text": "Slight time shift."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I know my dad wanted a boy. I just, I tried being good at sports, but I hated getting dirty!"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "And then, I’m assuming, you entered adolescence."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh-huh, he called me Slugger until I got my first training bra, and then he just stopped playing catch with me. I wasn’t Slugger anymore. Your mother’s here!"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "If you want to have intercourse with that girl, find out what kind of cologne her father wore."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Good to see you, Mother."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Here’s your tea, Mother."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Oolong?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Loose, not bagged?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Steeped three minutes?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Two-percent milk?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Warmed separately?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "One teaspoon sugar?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Raw sugar?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "It’s cold."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’ll start again."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I have the same problem with him. My theory is that his lack of focus stems from an over-developed sex drive."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Oh, I don’t know where he would’ve gotten that. Aside from a pro forma consummation of our marriage, his father and I only had intercourse for the purposes of reproduction."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That seems a fairly efficient arrangement."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Yes, we think so. We’ve both done papers on it. Mine from the neuroscientific point of view and his from an anthropological. Mine, of course, was the only one worth reading."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Of course. I would very much like to read about your sex life."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Well, it’s all online or you can order it from the Princeton University Press."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Here’s your tea, Mother. So, what are you guys talking about?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The frequency with which your parents had intercourse."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Swell. If you’re lucky, maybe she’ll show you the PowerPoint presentation."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "I’m sorry, it’s on my other laptop."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Aw…"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, Mother, what’s new?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "You’ll have to be more specific."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "All right. Uh, what’s new with you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Oh, well, I’ve been having some fascinating menopausal symptoms recently."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Maybe something less personal."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Oh. Your Uncle Floyd died."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, my God. What happened?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "His heart stopped beating. I have to urinate."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What a remarkable woman."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah I, I thought you guys might hit it off."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I envy you your childhood."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I hate to tell you, but the only warm memories I have of my childhood are of my Uncle Floyd."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re clearly misremembering. Your mother is brilliant, analytical, insightful, and I’m betting she never hit you with a Bible because you wouldn’t eat your Brussels sprouts."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, you don’t give your mother enough credit. She’s warm, she’s loving, she doesn’t glue electrodes to your head to measure your brain waves while potty training."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You were lucky. When I was a kid, if I wanted an EEG, I had to attach my own electrodes."
+    },
+    {
+      "type": "scene",
+      "text": "The university cafeteria."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So, Dr. Hofstadter, Leonard rarely talks about his incredibly successful brother and sister."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Please, don’t go there, Howard."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I understand that unlike Leonard, they’re at the top of their respective fields."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Boy, you suck."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Well, Leonard’s younger brother, Michael, is a tenured law professor at Harvard, and his sister just successfully grew a human pancreas in an adolescent gibbon."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So, she’s close to curing diabetes?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Why else would you grow a pancreas in a teenaged gibbon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Wow, you must be very proud."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Why? They’re not my accomplishments. I have to urinate."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why are you doing this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You know the rules. You brought your mom to work, you must suffer."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard, I had no idea your siblings were so much more successful than you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, you’re like the Jar Jar Binks of the Hofstadter family."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, meesa think yousa lookin’ so so sad."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You know, rather than mock me, my friends might realize that this is difficult and try to help me through it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Nope, I think mocking you is more fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Next time, don’t yousa bring mama to work. Okee-day?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That was fast."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Oh, the middle stall was occupied. I’ll have to try again later."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s totally understandable. In bladder voiding, as in real estate, it’s location, location, location."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "So, where were we?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Howard lives with his mother and Raj can’t speak to women unless he’s drunk. Go."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "That’s fascinating. Selective mutism is quite rare. On the other hand, an adult Jewish male living with his mother is so common it borders on sociological cliché."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It’s just temporary, I pay rent."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "He lives in the same room where his bassinet was."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "You know, both selective mutism and an inability to separate from one’s mother can stem from a pathological fear of women. It might explain why the two of you have created an ersatz homosexual marriage to satisfy your need for intimacy."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Say what? (Raj whispers in his ear) That’s basically what I just said."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You brought your husband to work, you know the rules. Meesa thinking yousa looking pretty sad now too, betcha, betcha."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Leonard, it’s one o’clock, weren’t you going to show me your laboratory at one o’clock?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "There’s no hurry, Mother, tell them more about their secret love for each other."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "But it’s one o’clock, you were going to show me your laboratory at one o’clock."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Her reasoning is unassailable. It is one o’clock."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Fine. Let’s go. I think you’ll find my work pretty interesting. I’m attempting to replicate the dark matter signal found in sodium iodide crystals by the Italians."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "So, no original research?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Well, what’s the point of my seeing it? I could just read the paper the Italians wrote."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Just for the record, we’re not in an ersatz homosexual relationship."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, then why didn’t you say that to her?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Why is it always my responsibility?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s not always your responsibility. I swear, this is the same thing you did at the comic book store last week."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I can’t believe you’re bringing that up."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I didn’t bring it up. You did."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "We’ll talk about this later."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You always say that, but we never do."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You went to the comic book store without me.7"
+    },
+    {
+      "type": "scene",
+      "text": "Outside Penny’s door."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You got alcohol?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Your mom still here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yep."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Come on in. Wait, wait, she’s not gonna come here looking for you, is she?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, relax. She took Sheldon to the hospital to get a brain scan."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, my God. What happened?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Nothing. Mother likes looking at brains and Sheldon likes getting his brain scanned."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Geez, what a fun couple."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "She’s only been here a day and a half and I’m seriously considering alcoholism as a new career path."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, I talked to her for five minutes yesterday and I’ve been half bombed ever since."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You can’t let her get into your head."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "My head, what about yours?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s too late for me. My head is her summer house."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "She was right, you know. The locus of my identity is totally exterior to me."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, yeah, there she is. Hi, Mom."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I mean, do you know where I was all morning? Auditioning with 50 other blondes for some stupid antidepressant commercial. And for what? So I’ll finally get my daddy’s approval?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Did you get the part?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, they said I was too perky."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, you want to talk about not getting love from a parent. You know what I used to do when I was little to have some sensation of human contact?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, you grabbed your penis and wouldn’t let go. Your mother told me."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Of course she did. Anyway, that’s not what I was gonna say. When I was ten years old, I built a hugging machine."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "A hugging machine?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah. I got a dressmaker’s mannequin, I stuffed it with an electric blanket so it would be warm, and built two radio-controlled arms that would hug me and pat my back."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, that is so sad."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You know what the saddest part was?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "My father used to borrow it."
+    },
+    {
+      "type": "scene",
+      "text": "The stairwell."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Your scan data will be very elpful to my research. You have a remarkable brain."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I know. Although I’ve always hated how my right frontal lobe looks in pictures."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Common complaint among men. Nothing’s ever big enough, except when they get a tumour. Then you never hear the end of it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’d love to see a scan of your brain sometime."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Oh, I’ll send you a link, but its physiology is fairly unimpressive."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I can’t believe that."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Your unwillingness to accept empirical evidence suggests an attempt at flattery."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "My apologies. I’ve been living with your son too long. Gotten into some bad habits."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Understandable."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Can I make you a cup of tea?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "I doubt it, but if anyone has a chance, it’s probably you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I feel very comfortable around you."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "I feel very comfortable around you, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s surprising because I generally don’t feel comfortable around, well, anyone."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Nor I."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What are the odds that two individuals as unique as ourselves would be connected by someone as comparatively workaday as your son?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Is that a rhetorical point or would you like to do the math?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’d like to do the math."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "I’d like that, too."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment. Penny and Leonard are doing tequila shots."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, now this time…"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh-huh."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You’re gonna lick the salt off my neck, do the shot, and then bite the lime."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m sorry, I didn’t hear anything after lick."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Neck, shot, lime. (Leonard starts licking her neck. He is there a long time) Okay, shot, lime."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Right. Ah! Where’s the lime? (Penny has the lime in her mouth) Oh, okay, we’re sharing."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So, what do you think?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "I’m very tempted. I’m just not sure it’s appropriate with my son’s roommate."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Normally, I’d feel the same way. But based on everything I’ve observed about us, I can’t help but speculate we’d be very good together."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "True. I’ve had a similar observation. It’s certainly something I could never do with my husband."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I was hesitant the first time I tried it, but I experienced an unanticipated and remarkable release of endorphins. It’s quite satisfying."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "I see what you’re doing. You’re appealing to the neuroscientific researcher in me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You see right through me, don’t you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Only when you’re in a CAT scanner."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s bedroom. Penny and Leonard are in bed."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "This is actually gonna happen."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Honey, shush, shush, shush, shush, shush."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You shush, I’m happy, I want to talk about it. You know what my mother would say about this? She would say because you were not loved by your father and I was not loved by my mother, that having sex is our way of making up for the intimacy we didn’t get as children."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why would you bring that up right now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know. Foreplay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So you’re saying you’re not having sex with me, you’re having sex with your mother?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Ummm, I’m gonna go with “no.”"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That is the sickest thing I’ve ever heard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Come on, you’re trying to have sex with your father, and I’m okay with that."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s front door."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Get out!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "She said shush. I should have shushed. (Enters apartment. Sheldon and Beverley are inside duetting on Journey’s “Any Way You Want It” on Rock Star.)"
+    },
+    {
+      "type": "scene",
+      "text": "The hallway."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "All right, Mother. Um, have a nice flight."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "That’s not really in my control, is it? Oh, uh, yes (gives him a very uncomfortable hug.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(coming out of her apartment)",
+      "text": "Oh, good morning."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Morning."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Look, I was just coming over to talk to you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You don’t have to. Ever."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Gotcha."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Good-bye, Mother."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Good-bye, Leonard. So, Slugger, shall we pick up where we left off last time?"
+    },
+    {
+      "type": "direction",
+      "text": "Slight time shift."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(in tears)",
+      "text": "I mean, my mom could’ve just said, “Bob, get over it, she’s a girl, move on.” But she didn’t. Not one word."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Interesting. Would you be willing to fly to New Jersey and discuss your relationship with your parents during a brain scan?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Would it help?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Well, it would help me."
+    }
+  ]
+}

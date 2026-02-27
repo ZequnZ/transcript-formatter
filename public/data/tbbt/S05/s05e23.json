@@ -1,0 +1,1081 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 5,
+  "episode": 23,
+  "title": "The Launch Acceleration",
+  "url": "https://bigbangtrans.wordpress.com/series-5-episode-23-the-launch-acceleration/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "Howard’s laboratory. The phone rings. Howard puts it on speaker."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Howard Wolowitz."
+    },
+    {
+      "type": "dialog",
+      "character": "Voice",
+      "text": "Hey, Howard. Dave Roeger here at NASA. We need to talk about your upcoming mission."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yes, yes, I’ve been doing my push-ups. I’m still stuck at nine, but that’s going all the way down with no one holding me."
+    },
+    {
+      "type": "dialog",
+      "character": "Roeger",
+      "text": "That’s great, uh, but that’s not why I called. We’ve run into a bit of a snafu. Your Soyuz capsule failed the pressurization test, so bottom line, mission’s been scrubbed."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "direction": "(Picks up receiver)",
+      "text": "You’re kidding. So what does that mean? Uh-huh. Uh-huh. Boy, I got to tell you, I’m really disappointed. This was my dream ever since I was a little kid. Okay, well, uh, thanks for the call. Yep, you, too. (Puts down phone.) Yes! Thank you! Oh! Oh! I’m not gonna die in space! I’m gonna die the way God intended, in my late 50s, with a heart full of pastrami."
+    },
+    {
+      "type": "scene",
+      "text": "A suit shop."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(off)",
+      "text": "I’m going to need a larger shirt. This one’s a little tight under the arms."
+    },
+    {
+      "type": "dialog",
+      "character": "Assistant",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Do you think maybe it’s tight because you’re wearing long underwear?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, of course that’s why it’s tight."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "All right, let me rephrase the question. Why are you wearing long underwear?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re kidding. Shouldn’t the question be why aren’t you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, it should be: why are you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard, these rental tuxedos have been worn by hundreds of sweaty strangers. I don’t like my own sweat touching my skin, how do you think I feel about theirs?"
+    },
+    {
+      "type": "dialog",
+      "character": "Assistant",
+      "text": "Why don’t you slip this on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Said the hangman offering a noose."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, that wasn’t as entertaining as when he rents bowling shoes, but it was right up there."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, that’s it. My orders have been rescinded. I am officially no go to space."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m sorry, Howard, but I got to tell you, I’m a little relieved you’re not going."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Come on, you were gonna go up in a rocket designed in the 1960s by the Russians."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, so?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "When was the last time you were at Best Buy and you heard someone say, ooh, check out this Blu-ray player, it must be good, it was built in Russia”?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, their technology isn’t that bad."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "When you come back to Earth in a Soyuz capsule, you free-fall from space at 500 miles per hour, and the only thing that slows you down is a little parachute that pops out right before you crash into the ground. And the whole thing was designed by the same brilliant minds who were unable to capture Rocky and Bullwinkle."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "All right, well, whatever. I wasn’t worried."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You weren’t?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Let me explain the difference between you and me. You watch Star Trek. I live it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, please. I don’t remember the episode of Star Trek where the guy never goes to space and brags about it in a tuxedo store."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Make all the jokes you want, but there’s only one of us here brave enough to almost do what I almost did."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Ah, much better."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You must be burning up."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "A little. But not more than your urethras will be after whatever’s in those pants swims up them. Well, I cut quite the dashing, yet hygienic figure, don’t I? I look like the Flash about to get married. Oh! A tissue! A tissue! Oh, good Lord!"
+    },
+    {
+      "type": "dialog",
+      "character": "Assistant",
+      "text": "Uh, where’s he going?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "He keeps emergency Purell in the car."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Keys! Keys! Keys!"
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s door."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Before I come in, you should know, I have gas. (Holds up gas canister)"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "For the record, not your worst opening line."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Check it out. It’s the gas I use in my free-electron laser to support high voltages. But it also has an interesting secondary use. Here. Breathe this in."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "B-Before I do it, if you’re a cop you have tell me, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Just try it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay. (In weirdly low voice) What’s it supposed to… Oh, my God, this is so freaky!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "direction": "(in low voice)",
+      "text": "You’re a mean one Mr. Grinch."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay. Me, me, me. Ready? (Low voice) Leonard, I am your father."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I have never been more attracted to a woman who sounds like a man in my life."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, Mm. Hey, you know how we’ve been taking things slow?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Mm-hmm."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, I’ve been thinking, and maybe I’m ready to take things a little faster."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, great."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Mm-hmm."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "And I promise, after waiting four months, fast is what you’re gonna get."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know, just-just one thing. Look, we’re in a really great place right now, and I don’t want to do anything that will make stuff all weird again."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So we won’t let it get weird."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay. Oh, and just a heads-up, mm, since the last time you saw me naked, I got a Cookie Monster tattoo. The acceptable responses when you see it are awesome or nothing."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What about (inhales gas, in low voice) Cookies!"
+    },
+    {
+      "type": "scene",
+      "text": "Amy’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Amy? (Knock, knock, knock) Amy? (Knock, knock, knock) Amy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Seven o’clock, right on time."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s not an accident. I waited outside your door for twenty minutes."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, dinner’s almost ready."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I must say, I was surprised you chose to spend our date night in your apartment. As I mentioned, the Pasadena City Council is debating longer crosswalk times, and later, the LEGO store is having a midnight madness sale. You ask anyone, that’s a hot date."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Tempting choices, but I have something special planned for tonight."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What can be more special than having an adequate amount of time to cross the street on your way to buy a tiny LEGO Indiana Jones?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "With our friends moving forward in their relationships, I’ve decided that we should make progress in ours as well."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, dear Lord. Two years ago, we didn’t even know each other, and now I’m in your apartment after dark. How much faster can this thing go?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I had a feeling you’d be reluctant, which is why I’m going to dip into my neurobiological bag of tricks."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, you brain monkeys kill me. Dip away."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I have devised an experiment that I believe will increase your feelings for me in an accelerated time frame."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And how do you propose to do that? Uh, hope you’re not thinking about some sort of LSD thought control. Because there’s only one mind-expanding drug that this man enjoys, and that’s called school."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Human beings form emotional attachments as they grow up. In your case, to your mother, superheroes, et cetera. I’m going to attempt an experiment that will get you to transfer those feelings to me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, seems what’s on the menu tonight is malarkey with a big side of poppycock."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "We’ll see. Let’s start with a little romantic dinner music, shall we?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Super Mario Bros. theme?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I see what you’re doing. You’re attempting to build on the work of Ebbinghaus by triggering an involuntary memory of me playing that game, admittedly the happiest 600 hours of my childhood, but it won’t work."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Fine. There’s no reason we still can’t have a lovely dinner. Why don’t you have a seat."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Da-da-da da-da dum, boink, boink."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "May I offer you something to drink?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know I don’t drink."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Not even strawberry Quik?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I love strawberry Quik. It’s my favourite pink fluid, narrowly beating out Pepto-Bismol."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, I know. I think it will go nicely with what I have prepared for dinner."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Spaghetti with little pieces of hot dog cut up in it!"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Just like your mommy used to make."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh yummy, yummy! We should do this more often. Uh-oh."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m sorry. I did, I crossed a line. I didn’t mean to!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Who says something like that right in the middle of sex?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know, it just came out. People say weird things during sex all the time."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, well, they sure as hell don’t say that."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It was the heat of the moment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, the heat of the moment is, ooh, yeah, just like that, not will you marry me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m sorry. Just, just give me another chance."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why, so you can crawl under the covers and go, hey, baby, want to go look for houses in neighbourhoods with good schools?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Again, I’m sorry. You know, with Howard and Bernadette getting married, I got caught up in a little wedding fever. I take it back."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You can’t take something like that back. I mean, what are we even supposed to do now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, at some point, we’ll look back and this is going to be a funny story. Why don’t we just start doing that now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You’re kidding."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No. Hey, do you remember that time when I proposed to you in bed? And you were all, like, what are you doing? That was so funny. So funny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It’s not funny."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Give it a minute. Is that a little smile I see there? I should go."
+    },
+    {
+      "type": "scene",
+      "text": "Howard’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, I was thinking. For our first dance at the wedding, what if we learn the final number from Dirty Dancing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You’re kidding."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, come on. How cool would that be? Me running into your arms, you lifting me up into the air."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, you’re in a good mood."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, well, why wouldn’t I be? You know, I’m marrying the girl of my dreams, and I finally got my mother to agree not to come on our honeymoon. (Phone rings) Oh, hang on. Oh, it’s NASA. Wolowitz. Oh! Hi, Dave. What’s up? No kidding. Really? Well, that’s great news. Great, great news. All right, I’ll watch my e-mail for the details. Okay, talk soon."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What’s so great?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It looks like I’m going into space after all."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, Howie, that’s wonderful!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Uh-huh, wonderful. Yay."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What happened? I thought they cancelled your mission."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Th-They did. But NASA really wants my telescope up on the space station, so they’re putting me on an earlier launch."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "When?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "A week from Friday."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What? We’re getting married that Sunday."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You’re right. I, I can’t go to space. I have to get married, and no one can say that’s not a good reason. I’ll call him back."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Wait. I don’t want to be the one who stands in your way."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, too bad, you already did. It’s a done deal. Oh, well. But I forgive you."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "No. That’s not how I want to start our marriage, killing your dream. We’ll have the wedding when you get back."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "But what about all the plans and the guests?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "We’ll call them. Although my dad’s gonna go a little nutso over losing his deposits."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You’re right, he is! Your dad’s gonna be furious. There’s no way he’s gonna let us postpone this wedding. Well, we tried."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I’ll talk to him. He won’t say no to his little girl."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No. I, uh, I should talk to him, man to man."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "But, Howie, my dad can be a bully. He’s gonna make you cancel your space flight."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "We can only hope… that he doesn’t."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment. Sheldon and Leonard are playing three dimensional chess."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Bishop to queen four, level two. Check."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, knight takes bishop. You all right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Are you? You left your queen exposed from above, you trapped your knight in the corner, and you keep sighing and saying, why me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Very well. Can I ask you a question about women?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We got you that book last year. Wasn’t everything in there?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, I’m having a relationship problem with Amy. And by the way, that book gave me nightmares."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, if it makes you feel any better, I screwed things up pretty good with Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Look at us, Leonard, engaging in the social convention of men bellyaching about their ol’ ladies."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I guess we are. So, what’s going on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Believe it or not, Amy has embarked on a campaign to increase my feelings for her by making me happy."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m sorry, that must be very difficult for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s awful. This morning, she arranged for me to be an Amtrak junior conductor for the day. It, it’s usually only open to children. She got them to make an exception."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Shame on her."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "They let me blow the whistle, Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "She’s good."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I know. And it gets worse. Her efforts are causing me to have affectionate feelings for her at inappropriate times."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You mean, like in bed or in the shower?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No! Would you please stop referencing that infernal book? For example, this morning, I was calculating the random motion of virtual particles in a vacuum, when suddenly the particles morphed into an image of Amy’s dandruff gently cascading down onto her pale, slightly hunched shoulders. Oh, what has that vixen done to me, Leonard? And how do I make it stop?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, if you had a physical relationship, I’d say propose during sex. Turns out that’s a real mood killer."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I assume we’re talking about you now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So, that’s how this works? I complain, and then you complain, and no one offers any solutions?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Pretty much."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, no wonder the women are winning."
+    },
+    {
+      "type": "scene",
+      "text": "Bernadette’s father’s house."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Mr. Rostenkowski, are you busy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "I’m just looking at some old pictures. Come on in."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Family pictures, or… holy crap, that’s a dead person."
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "Last murder case before I retired. How many bodies do you see there? Careful, it’s a trick question."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m not sure."
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "Nah, you’ll never get it. It’s a fraction."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "How about that. Anyway, sir, I need to talk to you about something."
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "Walnut?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, thank you. I’m allergic."
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "Oh, sure. My partner used to have that. He’s dead now."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "From nuts?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "Nah, his wife shot him. But she was nuts, so in a way."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Nice story. Anyway, the reason I wanted to talk to you is NASA has moved up my launch to the International Space Station."
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "Yeah, so?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So, the date is going to conflict with me marrying your daughter. Now, I know what you’re going to say, I made a commitment to Bernadette and to your family and I’ve got a hell of a lot of nerve coming in here and demanding that we postpone this thing. Well, message heard and understood. Mission cancelled. Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "Where are you going?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m sorry. May I be excused?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "No, you may not. Let me tell you something. When I first met you… You just gonna stand there?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m sorry, I didn’t know, is this going to… Well, I should sit… May I be seat… Well, I’ll just sit."
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "When I first met you, I didn’t like you."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m aware of that, sir."
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "But then you and I had some time together."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Uh-huh."
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "It did not get better."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Right, right."
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "That silly Beatle haircut and you riding around on a red Vespa, and you still living at home with your mother. To be honest, I thought Bernadette chose you to punish me. But then I heard about your astronaut thing, and I realized I judged you too fast. Maybe you are the right guy for my little girl."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, I am. And just so you know, I’d still be an astronaut, even if I didn’t go to space. I’ve got an I.D. Card and a NASA golf shirt."
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "No, no, you got to go. You can’t turn down an opportunity like this."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "But what about the wedding and all the money you put down for the reception?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "You let me worry about that. You go up to that space station, and you make me proud."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Um, okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "You got a problem with that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "All right, look, I’m gonna level with you. I’m terrified about going into space. What if I don’t make it back?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "It’s gonna be okay, son."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You really think so?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "Of course. A pretty girl like Bernadette, she’ll find a new guy."
+    },
+    {
+      "type": "scene",
+      "text": "The stairwell."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey. Off to work?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Have a nice night."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, you, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Penny, just, wait. I’ve been thinking about what I said when we were in bed the other night."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, I’ve been thinking about it, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I noticed you never answered me."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You’re right. (Kisses him) No."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, follow-up. Are we still dating?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yep."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Is it still weird ’cause I proposed?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yep."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I have a couple more quick questions. Do you want to call me from the car?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I played that pretty well. (Enters apartment. Amy, dressed as a Vulcan starfleet officer, is examining Sheldon.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hello, Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "We’re playing doctor. Star Trek style."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m in hell, Leonard. Don’t stop."
+    },
+    {
+      "type": "direction",
+      "text": "Teleplay: Bill Prady, Steve Holland & Maria Ferrari"
+    },
+    {
+      "type": "direction",
+      "text": "Story: Chuck Lorre, Steven Molaro & Jim Reynolds"
+    }
+  ]
+}

@@ -1,0 +1,1360 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 2,
+  "episode": 4,
+  "title": "The Griffin Equivalency",
+  "url": "https://bigbangtrans.wordpress.com/series-2-episode-04-the-griffin-equivalency/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The apartment. Leonard is sorting out Chinese food."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Let’s see, Raj was the Kung Palo Chicken."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’m the dumplings."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yes, you are."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Creepy, Howard."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Creepy good or creepy bad?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Who was the Shrimp with Lobster Sauce?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That would be me. Come to Poppa, you un-kosher delight. (To Penny) I’m not necessarily talking to the food."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sit over there."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(entering, to Penny who is in his spot)",
+      "text": "Sit over there. Baby wipe?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What do you have…."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard and Howard together",
+      "text": "Don’t! Don’t! Don’t!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’ll tell you why."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard and Howard",
+      "text": "O-o-o-oh!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I had to sanitize my hands because the university replaced the paper towels in the rest rooms with hot air blowers."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I thought the blowers were more sanitary?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard and Howard",
+      "text": "Why? Don’t!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hot air blowers are incubators and spewers of bacteria and pestilence. Frankly it would be more hygienic if they just had a plague infested gibbon sneeze my hands dry."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "direction": "(entering excitedly)",
+      "text": "Hey guys, I just got the most amazing new… (spots Penny) ew-ew-ew"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Gosh, Raj, do you think you’ll ever be able to talk in front of me without being drunk? (Shakes head.) Okay, well, I’ll just, um, go eat by myself."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Penny, you don’t have to do that."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, it’s okay, between (indicates Raj) him not talking, (indicates Sheldon) him talking and… (indicates Howard) him, I’m better off alone, so, (to Raj) goodbye you poor strange little man (gives him a kiss and exits.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "She’s so considerate."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So what’s your news?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Remember that little planetary object I spotted beyond the Kuiper belt?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh yeah, two zero zero eight NQ sub seventeen."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Or as I called it, Planet Bollywood. Anyway, because of my discovery, People magazine is naming me one of their thirty under-30 to watch."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard and Howard together",
+      "text": "Well, wow, that’s incredible."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Excuse me. Thirty what, under thirty what, to watch what?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Thirty visionaries under thirty years of age to watch as they challenge the preconceptions of their fields."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If I had a million guesses I never would have gotten that."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s pretty cool, they’ve got me in with a guy who’s doing something about hunger in Indonesia, and a psychotherapist who’s using dolphins to rehabilitate prisoners, and Ellen Page, star of the charming independent film Juno."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, I’d so do her."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’d do the dolphins."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Do I get an honourable mention for designing the telescope camera mounting bracket you used."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Sorry, it’s not part of my heartwarming and personal narrative, in which a humble boy from New Delhi overcame poverty and prejudice and journeyed to America to reach for the stars."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Poverty? Your father’s a gynaecologist, he drives a Bentley."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s a lease."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m confused. Was there some sort of peer review committee to determine which scientists would be included?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Peer review? It’s People magazine. People picked me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What people?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "The people from People."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, but exactly who are these people? What are their credentials, how are they qualified, what makes accidentally noticing a hunk of rock that’s been traipsing around the solar system for billions of years more noteworthy than any other scientific accomplishment made by someone under thirty?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Boy, I bet Ellen Pages friends aren’t giving her this kind of crap."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Are you proud of yourself?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "In general, yes."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon’s office. He is making annotations on his board."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, there’s my missing neutrino. You were hiding from me as an unbalanced charge, weren’t you, you little subatomic Dickens?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "direction": "(entering with Howard)",
+      "text": "Hi Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Here, look, look, I found my missing neutrino."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, good, we can take it off the milk cartons."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, we’re going to go apologise to Raj and invite him out to dinner."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Apologise, for what?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, he came over last night with some pretty good news, and we weren’t very supportive."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I sense you’re trying to tell me something."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You were a colossal ass-hat."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh! No, I beg to differ. Of the three of us, I was by far the most supportive."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Really, do tell."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "How will Raj ever reach true greatness if his friends lower the bar for him? When I was eleven, my sister bought our father a “world’s greatest dad” coffee mug, and frankly the man coasted until the day he died."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, let’s try it this way, what if the People magazine thing is the best Raj is ever going to achieve?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I had not considered that."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Come on."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I often forget other people have limitations. It’s so sad."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "He can feel sadness?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Not really, it’s what you and I would call condescension."
+    },
+    {
+      "type": "scene",
+      "text": "Outside Raj’s office."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "And when we go in there, let’s show Raj that we’re happy for him."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But I’m not."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well then fake it. Look at me, I could be grinding on the fact that without my stabilizing telescope mount he never would have found that stupid little clump of cosmic schmutz, but I’m bigger than that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Fine, what do you want me to do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Smile. (He does, exaggeratedly.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh crap, that’s terrifying."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We’re here to see Koothrappali, not kill Batman."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Try less teeth. (Does. It isn’t much better.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Close enough, come on. (Knocking and entering.) Hi Raj."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey guys, what’s up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "We just wanted to invite you out to dinner tonight."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Celebrate your thirty under thirty thing. Right Sheldon? (He smiles.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s very nice of you, I would like that."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehauser",
+      "direction": "(entering)",
+      "text": "Hello boys."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Dr Gablehouser."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehauser",
+      "text": "Dr Koothrappali."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Dr Gablehauser."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehauser",
+      "text": "Dr Hoffstadter."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Dr Gablehauser."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehauser",
+      "text": "Dr Cooper."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Dr Gablehauser."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehauser",
+      "text": "Mister Wolowitz. Boys, I’ve got a question for you. Who in this room discovered a star?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Actually, 2008 NQ sub 17 is a planetary body."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehauser",
+      "text": "I’m not talking about you, I’m talking about me. You, my exotic young friend are my star."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, you didn’t discover him, you merely noticed he was here, much like he did with 2008 NQ sub 17."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, sorry. (Smiles)"
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehauser",
+      "text": "Well, we’ve got to get you into a better office, something more suited to your status."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Really, you don’t have to go to any trouble."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehauser",
+      "text": "How about if I put you in Von Gerlick’s old office?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’d rather have Fishbine’s, it’s bigger."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehauser",
+      "text": "Done."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Wait a minute, I called dibs on Fishbine’s office the day he started showing up at work in his bathrobe."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "He gets a new office, I can’t even get paper towels in the men’s room?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Damn, this is hard. (Smiles)"
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehauser",
+      "text": "Let me ask you something, what do you think the business of this place is?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "direction": "(after he, Sheldon and Howard whisper to each other)",
+      "text": "Science?"
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehauser",
+      "text": "Money."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Told you."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehauser",
+      "text": "And this boy’s picture in People magazine is going to raise us a pile of money taller than… well, taller than you (ruffling Howard’s hair.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I have a master’s degree."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehauser",
+      "text": "Who doesn’t? Dr Koothrappali, have you ever had lunch in the President’s dining room?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I didn’t even know there was a President’s dining room."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehauser",
+      "text": "It’s the same food as the Cafeteria, only fresh. Come on little buddy."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, big buddy. See you tonight guys. (They leave.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You can stop smiling now."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Aaaah!"
+    },
+    {
+      "type": "scene",
+      "text": "A restaurant."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "So anyway, after a fantastic lunch I was whisked off to the People magazine photo shoot… have any of you boys ever been to a photo shoot?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s fantastic, apparently the camera loves me and I it. They shot me in front of a starry background where I posed like this. (Stares into space.) They’re going to digitally add a supernova, they say it’s the perfect metaphor for my incandescent talent."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Right, a ball of hot flaming gas that collapses in on itself. (Leonard nudges him. He smiles. Phone rings.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Excuse me. Oh, it’s my assistant Trevor. Go for Koothrappali. Uh-huh."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "They gave him an assistant? If I want a new pen I have to go to the bank with wire cutters."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(still smiling)",
+      "text": "Have we at this point met our social obligations?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Not yet."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, just put it on my calendar but start thinking of a reason why I can’t go, alrighty? Koothrappali out. God bless that boy, I don’t know what I’d do without him."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You just got him this afternoon."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yes, but I’m finding that having a lackey suits me."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "A lackey?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, I’m sorry, is that politically incorrect? In India we just call them untouchables."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Almost."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Speaking of untouchables, I’ve got great news for you guys. People magazine is having a reception this Saturday, and I managed to get you invited."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, gee, thanks."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, you’re welcome. Of course, I couldn’t get you into the VIP section, because, you know, that’s for VIPs, and you guys are just, you know, Ps."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "There’s a tribe in Papua New Guinea where, when a hunter flaunts his success to the rest of the village they kill him, and drive away evil spirits with a drum made of his skin. Superstitious nonsense of course, but one can see their point. (Smiles)"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(bringing another grasshopper)",
+      "text": "Here you go, Raj, you might want to drink this one slowly."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, so, Saturday night, can I count on my posse?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Gee, I’d love to Raj, but I can’t make it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, okay, Leonard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, uh, no I… the… no."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Sheldon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I can make it, but I won’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What are you guys talking about?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, there’s a reception for my magazine article on Saturday."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "And you guys aren’t going? I can’t believe you, Raj is celebrating a tremendous accomplishment and you’re not even going to be there to support him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "A tremendous accomplishment would be if the planetary body he discovered were plummeting toward Earth and he exploded it with his mind."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That would be cool. I’d go to that reception."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Come on, this is huge, Raj is going to be in People magazine. And he didn’t even have to knock up one of the Spears sisters."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Would you like to go with me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Of course I would, I would be honoured."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Really? Cool."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Shame on you guys. (Leaves)"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Look at that. I got a date with Penny. I can’t believe it took you a whole year."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Now. (They all get up and leave. Raj looks around himself, then leans over to the next table.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, buddy. I’m going to be in people magazine."
+    },
+    {
+      "type": "dialog",
+      "character": "Charlie Sheen",
+      "direction": "(turning round)",
+      "text": "Yeah, call me when you’re on the cover."
+    },
+    {
+      "type": "scene",
+      "text": "Outside Penny’s door. Raj in a suit knocks on the door with his foot as he has a glass of champagne in both hands. He drinks one. Penny opens door, she is dressed up also."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, Raj, look at you!"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I know, I am resplendent like the noonday sun, am I not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Um, yeah, starting with the champagne a little early aren’t you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It was in the limo. They sent a limo. I have a limo. I just love saying limo. Here, sip on this while you’re getting ready."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, I’m ready."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "That’s what you’re wearing."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Um, yeah, why what’s wrong with it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Nothing, I was just hoping for something a little more, you know, redonkulous."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, well, this is all the donkulous you’re gonna get."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okey dokey, let’s roll. Alright, it’s time to raise the roof. Oo-ooh, oo-ooh."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(to Leonard who is just coming up the stairs)",
+      "text": "Hey Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Dude."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You look very nice."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj and Penny together",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh, come on, good night Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Good night."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, Leonard, did you see my limo downstairs."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s bigger than the house my grandfather grew up in."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Terrific."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It has more food too."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Alright, come on, come on."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "direction": "(leaving, singing)",
+      "text": "I’m coming up so you better get this party started."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "direction": "(entering apartment)",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, good news, you don’t have to sulk about Penny any more, look, there are hundreds of Croatian women just waiting for you to contact them."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Anythingforagreencard.com?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’ll lend you my user name, it’s wealthybigpenis."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re joking."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, you gotta make it easy for them, they’re just learning English."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Pass."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So you’re just going to sit around here and mope while Penny is out with Doctor Apu from the Kwik-e-Mart?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s not a date, and that’s racist."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It can’t be racist, he’s a beloved character on the Simpsons."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Let’s just eat so I can get to bed. With any luck tonight will be the night my sleep apnoea kills me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Did you remember to ask for the chicken with broccoli to be diced not shredded?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Even though the menu description specifies shredded?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Brown rice, not white?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Did you stop at the Korean grocery and get the good hot mustard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Did you pick up the low sodium soy sauce from the market?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re welcome."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What took you so long?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Just sit down and eat."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Fine. (Opens carton. Shows it to Leonard in disgust.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Alright, it’s shredded, what do you want me to do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I want you to check before you accept the order."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Were you distracted by the possibility that Koothrappali might have intercourse with Penny tonight?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "He’s not going to have intercourse with Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Then there’s no excuse for this chicken. You know, this situation with Koothrapali brings to mind a story from my childhood."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh goody, more tales from the panhandle."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s Northwest Texas, I’m from East Texas, the Gulf region, home to many Vietnamese shrimpers."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Do the shrimpers feature in your story?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. Anyway, when I was eight, a Montgomery-Ward delivery van ran over our cat, Lucky."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Lucky?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, Lucky."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "He’s irony impaired, just move on."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, dead cat named Lucky, continue."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "While others mourned Lucky, I realised his untimely demise provided me with the opportunity to replace him with something more suited to my pet needs. A faithful companion that I could snuggle with at night, and yet would be capable of killing upon telepathic command."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So, not a puppy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Please, no, nothing so pedestrian. I wanted a griffin."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "A griffin?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, half eagle, half lion."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "And mythological."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Irrelevant. See, I was studying recombinant DNA technology and I was confident I could create one, but my parents were unwilling to secure the necessary eagle eggs and lion semen. Course my sister got swimming lessons when she wanted them."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sheldon, not that we don’t all enjoy a good lion semen story, what’s your point."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "My point is, if Koothrappali is moving on to a new life of shallow, undeserved fame, perhaps this is an opportunity to create a better cohort."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You want to breed a new friend?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s one option, but who has the time? But consider this, the Japanese, they’re doing some wonderful work with artificial intelligence, now, you combine that with some animatronics from the imagineers over at Disney, next thing you know, we’re playing Halo with a multi-lingual Abraham Lincoln."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sheldon, don’t take this the wrong way, but, you’re insane."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That may well be, but the fact is, it wouldn’t kill us to meet some new people."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Uh, for the record, it could kill us to meet new people. They could be murderers, or the carriers of unusual pathogens, and I’m not insane, my mother had me tested."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "If we do get a new friend, he should be a guy you can trust. A guy who has your back."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "And he should have a lot of money, and live in a cool place down by the beach where we could throw parties."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "He should share our love of technology."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "And he should know a lot of women."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, let’s see, money, women, technology, okay we’re agreed, our new friend is going to be Iron Man."
+    },
+    {
+      "type": "scene",
+      "text": "Raj’s apartment. Raj is heard singing in a drunk voice through the door. He enters with his arm around Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Welcome to the Raj Mahal."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yes, it’s very nice, goodnight Raj."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No, wait, the evening’s not over."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yes it is."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No, it’s time to put on some R. Kelly and suck face."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, wow, is the evening over."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "direction": "(as a ringing noise is heard)",
+      "text": "Wait, wait, that’s my mummy and daddy calling from India. I want you to meet my parents."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wait, meet them."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "direction": "(inhales deeply, picks up laptop, presses a button. His mother and father appear on the screen)",
+      "text": "Hello mummy and daddy, good to see you. I’m not drunk."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Koothrappali",
+      "text": "Why would you say that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Just making conversation. Mummy, daddy, I want you to meet my new squeeze, Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I am not your squeeze. There is no squeezing."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "I can’t see her, centre her in the frame."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Here you go, cute huh?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Koothrappali",
+      "text": "She’s not Indian."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "So, she’s not Indian, the boy’s just sowing some wild oats."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, no, there’s no sowing, no squeezing, and no sucking face."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Koothrappali",
+      "text": "What if he gets her pregnant. Is this little hotsy-totsy who you want as the mother of your grandchildren."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What right do you have to pick who I can have children with?"
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "Look, Rajesh, I understand, you’re in America, you want to try the local cuisine. But trust me, you don’t want it for a steady diet."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Now you listen to me, I am no longer a child, and I will not be spoken to like one. Now if you’d excuse me, I have to go throw up."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Koothrappali",
+      "text": "What’s wrong with him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I don’t know, maybe it’s the local cuisine. Okay, well, it’s nice to meet you, just gonna set you on down over here, and I’m going to leave so, Namaste. (Leaves, then almost immediately returns) And FYI, you’d be lucky to have me as a daughter-in-law."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "She’s feisty. I like that."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment. She is in her bathrobe. A note slides under the door."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(opening door to find Raj outside)",
+      "text": "Raj, what are you doing. (He hands her the note). No. No notes. If you have something to say to me, say it."
+    },
+    {
+      "type": "direction",
+      "text": "Raj (tries several times. Finally, in a high pitched squeak): Sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, sweetie, it’s okay. (She hugs him. As she does, Leonard exits his apartment to see Penny, in bathrobe, hugging Raj who is apparently about to leave. As she goes back inside, Raj turns, smiles, and puts both thumbs up. Leonard turns, with an upset look, to Sheldon who is standing behind him. Sheldon gives him his exaggerated smile.)"
+    }
+  ]
+}

@@ -1,0 +1,1274 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 9,
+  "episode": 12,
+  "title": "The Sales Call Sublimation",
+  "url": "https://bigbangtrans.wordpress.com/series-9-episode-12-the-sales-call-sublimation/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m glad to see you made it safely. How’s your hotel?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "direction": "(on Skype)",
+      "text": "It’s not the best Best Western I’ve been to, but I’d say it’s the third best Best Western I’ve been to."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I know how you feel. The Best Buy by my house is only the third best Best Buy. They have the best buys, but having the best buys isn’t the only thing that makes a Best Buy the best Best Buy."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What makes a best Best Buy the best Best Buy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Mm, that’s a great question. I like when they’re next to a Chipotle."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Okay, well, I should unpack."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right. Enjoy the neurobiology conference."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I will. I wish you were here."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "At a neurobiology conference? What a mean thing to say."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Okay, I’m glad you’re not here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Aw, you always know just what to say after I tell you what to say."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Good-bye, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Bye. Oh, good news, gentlemen. Amy’s at a conference this weekend, which means I’m available to be entertained, hmm. As today’s youth might put it, who wants to get their Sheld-on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Bernie and I are getting the house ready for the remodel. We could always use an extra pair of hands."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That sounds awful. Raj?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Uh, I’ve got time booked in the telescope room all weekend scanning for rogue planets. You’re more than welcome to join me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s the one to beat. Leonard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, if anything, I’m trying to get my Sheld-off."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, then it looks like we have a winner. Congratulations."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, I should warn you, it’s just looking at data for hours and hours on a computer screen."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Uh, stop selling it, kid. You won."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "How was your day?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, not good. Still couldn’t get in to see Dr. Gallo."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "A doctor? Well, I hope you’re not contagious. I’ve got a weekend in the telescope room I’ve been excited about for almost three minutes."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’m not sick. It’s for work. There’s this doctor who refuses to see any sales reps. I’ve been trying to get in for months."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, did you try wearing the shirt I said was inappropriate for work?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, the doctor’s a woman, but yes, because you never know."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What kind of doctor is she?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Um, a psychiatrist. Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, what if you make an appointment as a patient? Then you’ll get to talk to her."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, they already know I’m a pharmaceutical sales rep."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh. What if Leonard made an appointment and tried to lay some groundwork for you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That’s interesting."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m not gonna make a fake appointment with a psychiatrist. What would I say is wrong with me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Low self-esteem."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Social anxiety."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Sexual insecurity."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "None of that is true."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh, denial. See, sweetie, the list goes on and on."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s just crazy. How would my going in there even help you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I don’t know. You could talk to her, and maybe if it comes up, you could ask if she’s heard about the drug."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What if I get caught?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Fear of failure."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Lack of confidence."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Kind of a wuss."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Fine, I’ll do it. But not because of them, because I love you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Pushover."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Spineless."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Still hasn’t bought milk even though I told him two days ago."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That was incredible."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "It was. I just wish Stuart wasn’t around so we didn’t have to be so quiet."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I know. It’s not like he returns the favour when he watches his Japanese porn cartoons."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart (knocking)",
+      "text": "You guys got a minute, or are you still cuddling?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What is it, Stuart?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Can I come in?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hang on. Should I send him away?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "No, it’s okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Thanks, Bernie."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What’s up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Uh, well, I know the remodel is coming up, so I thought I’d make it easy on you guys and find my own place."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Wow. I thought I was done getting lucky tonight."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "So, when are you thinking of moving?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Uh, actually, I already found an apartment, so in a couple of days."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh. Okay. Sorry to see you go?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Okay, well, thank you guys for everything. I, I really appreciate it."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": ": You’re very welcome."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Hmm."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Hmm, I just have never been in this room while you’re awake."
+    },
+    {
+      "type": "scene",
+      "text": "The telescope room."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Uh, making sure the telescope’s camera is white-field balanced."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hmm. What are you doing now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Still making sure the telescope’s camera is white-field balanced."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I see. How about now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Now I’m making sure the telescope’s camera is white-field balanced and wishing you had a colouring book."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I can be helpful. Give me something to do. You know, my father took me to work once, and in ten minutes I figured out who’d been stealing from the cash register. It was my father. Yeah, Dad lost his job, but Mr. Hinckley gave me a Fudgsicle."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Fine, you want something to do? There’s about six months of data on this hard drive. Why don’t you go through it and see if you can spot any patterns or anomalies."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yep, I’m on it. Hey, look at that, an Indian guy outsourcing a computer job to a white fella."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, okay, whatever it takes to keep you busy for a few hours."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Found one."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No, you didn’t. There are millions of data points there."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But, look, an optical transient."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, maybe that is something. How did you find that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It wasn’t difficult. You know how when you see prime numbers, they appear red, but when they’re twin primes, they’re pink and smell like gasoline?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh. I guess I’m a special boy. You know, sometimes when a boy is special, he gets a Fudgsicle. Which, by the way, tastes like the speed of light."
+    },
+    {
+      "type": "scene",
+      "text": "Dr Gallo’s office."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thank you for seeing me on such short notice."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Gallo",
+      "text": "Ah, it’s my pleasure. I’m curious, are you related to Dr. Beverly Hofstadter?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, she’s my mother. You know her?"
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Gallo",
+      "text": "No, not personally, but I have read all of her books."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, then you know her better than I do."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Gallo",
+      "text": "Well, I’m not so sure about that. But I can tell you I do not agree with her theories on child rearing at all."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Really? Any chance you find them cold, cruel and unsuitable for innocent little boys who just want to be happy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Gallo",
+      "text": "Well, I didn’t want to say it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, no, say it. Sing it. Rent a plane, write it in the sky."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Gallo",
+      "text": "Sounds like you’re holding on to quite a bit of anger towards her."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, no, I, I’ve worked through a lot of that stuff, I’m better now."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Gallo",
+      "text": "Mm. Good for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Do you know she never let me celebrate my birthday because being born was her achievement, not mine?"
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Gallo",
+      "text": "That’s heartbreaking."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Right? To this day, I send her a card every year with a little money in it."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s house."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You know, once we get the house back to ourselves, we can be romantic in any room we want."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Great. I can finally show you where the laundry room is."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Boy, who would’ve thought when you asked me to move in and help take care of your mom, I’d still be here two years later?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No one."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Nobody thought that."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Well, that’s it."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I guess so."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "This is weird."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah. A grown man moving into his own apartment. Crazy times. See ya."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Ignore him. He’s just using humour to express how happy he is."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "It’s okay. I know he loves me."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Sure he does. Well, let us know when you’re all settled in."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "I will. And I really can’t thank you guys enough."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Our pleasure."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Bye."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Goodbye."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "He’s gone. Let’s start in the garage."
+    },
+    {
+      "type": "scene",
+      "text": "The telescope room."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, so once we receive the next image and compare it to the ones we’ve already collected, we’ll know what it is that we found."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Ooh, perhaps it’s a Heliosheath scintillation."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It could be a trans-Neptunian object."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Maybe it’s a new planet."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Unlikely, but it could be a dwarf planet."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, as long as it has a healthy gravity and all its moons, I’ll be happy."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, the final image is coming in. And the object we discovered is…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Come on, Daddy needs a livable planet he can rule with an iron fist."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "A medium-sized asteroid."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s it? How common. That’s the chicken fingers on the menu of space."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I kind of like chicken fingers."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, me, too. I was stuck for a metaphor."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Come on, a medium-sized asteroid is still an interesting discovery."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I suppose it could end up on a collision course with Earth and destroy life as we know it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You dream different than me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It is kind of cute."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, it is. And you know we get to name it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "We better choose a name no one can make fun of. Sir Frederick William Herschel didn’t do Uranus any favours."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, how’d it go?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, great. Dr. Gallo is terrific. You know, I, I’ve always been insecure that no one cares about what I have to say, but she made me see…"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, no one cares. Did you help me out or not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, now, what I’m hearing is that you feel that I sometimes take too long to express myself, and you wish I’d be more succinct."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You’re only hearing that because I cannot roll my eyes any louder."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "All right, well, after we talked about my issues with my mother, nothing too deep, just how she ruined my life, I told her about you and your drug. She said she’d be happy to meet you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Really? Oh, you’re the best husband ever."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So you’ll go to the Doctor Who convention with me next week?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I guess."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, I actually did hear your eyes roll that time."
+    },
+    {
+      "type": "scene",
+      "text": "Stuarts former bedroom in Howard and Bernadette’s house."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Boy, when was the last time Stuart cleaned this place?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No kidding. Oh, okay, I’m about to suck something up. What do you think this object sounds like?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Howie, I don’t want to play Lego, Toenail or Pill anymore. So, what do you think we should do with this room?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, I was thinking a home theatre or a gaming room, you know, like a man cave."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Why can’t it be a woman cave?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "As long as it has a home theatre, a video game system and you’re not allowed in it, you can call it whatever you want."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I’m being serious."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, what do you think we should do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I don’t know, maybe a home office or, oh look. The teddy bear Stuart won the night we took him to the fair."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh. He was so excited."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Yeah. You know, no matter how hard they tried, they could not guess his age."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’ll give it to him next time I see him."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Have you heard from him since he left?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No. You’d think he would’ve called once he got settled in."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Hmm. Maybe he’s busy."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Too busy to call? He wasn’t too busy to binge-watch Hot in Cleveland with my Hulu password. What is happening? Are we missing him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "No, that’s not what this feeling is. Is it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Of course not. He drove us crazy. Like when you were gonna make that pie and Stuart ate all the blueberries."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "And he tried to deny it, but his teeth were all purple."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That was pretty cute."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Yeah. Ew, we are missing him!"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "So I was thinking, maybe we can come up with a name for the asteroid by combining our names."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s a great idea. I’ve got it. We’ll call it Cooper."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "How is that both our names?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Koo from Koothrappali and per from Cooper."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, s-so it’s, like, Kooper with a K?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Nah, you’re right, that’s dumb."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, Leonard, great news. We discovered a medium-sized asteroid together."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Wow, that’s amazing. I’m in a pretty great mood today myself."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay. Guess we’re gonna talk about you now."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, we are, because Dr. Gallo made me realize that I’m a worthwhile person and that my feelings matter."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I learned that for free from a cat poster, but good for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay, back to me. I discovered an asteroid, and now I get to name it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Wait, what happened to us?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Now, this isn’t about us, this is about what’s best for the asteroid."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, what are you thinking of naming it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I haven’t settled on anything yet."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "We haven’t settled on anything yet."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, way to go, Cat Poster. You hang in there."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You know what’d be nice? Name it after your girlfriends. Show them how much you care."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "That is a great idea."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s perfect. It appears romantic, but it’s really just a rock in space that gets me out of Valentine’s Day forever."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "So, uh, what were you thinking? Combine their names?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I like it. Yeah, we’ll take the A-M from Amy and, uh, the Y from Emily."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "That’s just Amy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Exactly. See how well we work together?"
+    },
+    {
+      "type": "direction",
+      "text": "Scene Dr Gallo’s office."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "And in double-blind studies, Placinex proved extremely effective in treating all kinds of anxiety. Actually, funny story, the boys in the lab were worried about getting FDA approval for Placinex. They started taking it, stopped worrying."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Gallo",
+      "text": "Got it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh, do you have any questions?"
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Gallo",
+      "text": "Just one."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Mm-hmm?"
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Gallo",
+      "text": "When you made your husband pretend to be a patient so you could get access to me, what were you thinking there?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I just meant a question about the drug."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Gallo",
+      "text": "Yeah, I know what you meant. Let’s put that aside for a minute and talk about why you married Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I don’t wanna."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Gallo",
+      "text": "Here is a man raised by an overbearing woman who completely dominated every aspect of his formative years. Do you think he’s perpetuating that relationship by seeking out a partner like you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know, I used to wear tank tops a lot. That was a big selling point."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "direction": "(on Skype)",
+      "text": "Hi, Sheldon. What’s up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Good news. You’re an asteroid."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Uh, please tell me what to say next."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Perhaps I should explain. While working with Koothrappali, we discovered an asteroid, and I named it after you."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh. Sheldon, thank you. That’s so romantic. But what about Rajesh? He was okay with you choosing the name?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, it took a little negotiating, but I wore him down. Uh, we get the asteroid, and if you and I have children, they all have to be named Rajesh."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "All of them?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Even the girls."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Okay, I think I know what to say now."
+    },
+    {
+      "type": "scene",
+      "text": "Dr Gallo’s office."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "How can I not sound like his mother when our entire bedroom is filled with Star Wars toys? I mean, have you ever had sex with a stuffed Wookiee watching you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Gallo",
+      "text": "I went to college in the ’70s. It was a hairier time. I’m gonna say yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know, if anything, he’s turning me into his mother. Before I did pharmaceutical sales, I was an actress. You know, I was pretty good. You know, girl-next-door type, but hot. Doable."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Gallo",
+      "text": "Hmm."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "And not only am I Leonard’s mother, but we have this man-child living with us named Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Gallo",
+      "text": "Oh, Leonard talked a lot about him. I wasn’t sure if he was real."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, he’s as real as the fine I get when I use too much toilet paper."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Gallo",
+      "text": "Wow, you really do have a lot on your plate."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I do. You know, Leonard’s right. Talking to you is really helping."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Gallo",
+      "text": "Oh, I’m glad. You know, you might also benefit from a prescription for anxiety."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, if you think it’ll help. Oh, just don’t make it Placinex. I do not need sudden fits of homicidal rage."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "direction": "(on Skype)",
+      "text": "I miss you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I miss you as well."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s house."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I can’t believe I miss Stuart."
+    },
+    {
+      "type": "scene",
+      "text": "Dr Gallo’s office."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I guess I just miss when life was simpler."
+    },
+    {
+      "type": "scene",
+      "text": "A street. Leonard is skipping ropes with some young girls."
+    },
+    {
+      "type": "dialog",
+      "character": "Girls",
+      "text": "Go, Leonard! Go, Leonard! Go, Leonard! Go, Leonard!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Remember, girls, you decide what makes you happy, not your emotionally withholding mothers."
+    },
+    {
+      "type": "dialog",
+      "character": "Girls",
+      "text": "Go, Leonard! Go, Leonard! Go, Leonard! Go, Leonard! Go, Leonard!"
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s bedroom. Howard and Bernadette are asleep."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "I really miss this."
+    }
+  ]
+}

@@ -1,0 +1,1350 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 9,
+  "episode": 1,
+  "title": "The Matrimonial Momentum",
+  "url": "https://bigbangtrans.wordpress.com/series-9-episode-01-the-matrimonial-momentum/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "A Wedding Chapel."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So, what package are you thinking?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Mm, this one comes with music and flowers. Oh, they even stream the whole thing live on the Internet."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why would we want that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "‘Cause there’s a lot of gorgeous blondes out there who don’t believe they can land a short, nearsighted scientist. Let’s give them hope."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Whatever. Put us on the Internet. I’ve always wanted a wedding with a comment section."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "If you’re not into this, we can do it another time."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No. No, I want to. Look, we’ve put this off long enough. Let’s do it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Aw. That’s exactly what you said the first time we slept together. (Phone) Oh, excuse me. Sheldon. Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard, have you gotten married yet?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No. Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Good. Don’t do it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Some important new information has come to light. Women are the worst. I thought it was paper cuts, but I was wrong. No piece of paper ever cut me this deep."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What happened now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Amy has ended our relationship."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, no. Seriously?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What’s going on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Amy broke up with Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "She did?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Is Penny crying?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, of course not. They thrive on our suffering."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Buddy, I’m so sorry. Is there anything I can do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes. If I ever talk about going out with a girl again, roll your eyes at me like I do to you when you say dumb things."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, uh, okay, just because you’re going through this with Amy doesn’t mean that all women are bad."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Whatever."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(on phone)",
+      "text": "Hey, I just heard about you and Sheldon. Are you okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Not really. Can you come over?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh, actually I’m in Vegas. Leonard and I are about to get married."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hold on. You’re getting married and you didn’t invite me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, it was kind of a spur-of-the-moment thing."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Wow. Hope I can catch the bouquet from here."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Amy, don’t be like that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why did I just hear Amy’s name?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Penny’s on the phone with her."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Did she say anything about me? Never mind. I don’t care. Well, if you care, you can find out and tell me. Just don’t be shocked when you find out that I don’t care."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, will you relax? You’re not missing anything special."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "She’s upset. Look, it’s gonna be a great wedding. Look at you in your little suit."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Amy’s upset? Is it about me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, I think it’s because we’re eloping."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Your marriage is causing her pain? Yeah, great, I take it back. Go ahead and do it. Yay for love."
+    },
+    {
+      "type": "scene",
+      "text": "Outside Amy’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh. What are you doing here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "When last we spoke, you said you needed time."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, it’s only been 11 hours."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The Lord of the Rings trilogy was nearly 11 hours. I made you watch that, you said it was an eternity."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, when I’m ready to talk, I’ll let you know."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Very well. You seem to be headed somewhere. May I walk with you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sure."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Boy, I’m glad we’re going out again."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "We’re not back together."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why? Is there someone else? Just couldn’t wait for that first notch on your bedpost, could you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "If you must know, I’m going to Howard and Bernadette’s to watch the wedding."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And who’s this guy you’re taking?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "There’s no guy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, you’re going to a wedding alone? That’s sad."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’m not gonna be alone. I’ll be with my friends."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Your friends? Well, I think you mean my friends. And why wasn’t I invited to this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Maybe because the two of us being there would make them feel awkward."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "We make everyone feel awkward. That’s our thing."
+    },
+    {
+      "type": "scene",
+      "text": "The Wedding Chapel."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "They’re running a little behind. Should be pretty soon."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, if you’re hungry, there’s a breakfast buffet at the strip club next door."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Thanks, but I don’t like glitter on my scrambled eggs."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t think the strippers prepare the meal, but okay. Look, it’s not how I pictured it either, but I’m still glad we’re doing it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Me, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You sure?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "And you promise you’re okay with everything from the car?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, my God, would you stop bringing it up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re right. I’m sorry. We have the rest of our lives to dredge stuff up from the past and fight about it. So what do you think? Should we run next door and grab a bite?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What if they call our names?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, don’t worry. They gave me this vibrating coaster."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, and the fairy tale continues."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s House."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Thank you for doing this."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Our pleasure. You feeling okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "We were together for so long, I honestly don’t know what I’m feeling."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, that’s understandable. You forgot. It’s called happy."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Howard."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m not saying anything bad. Just that she was in love with her captor and somehow managed to escape from his dark and crazy dungeon."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "I know what you’re going through. My, my, my last breakup was pretty tough."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh. What was her name?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Hey, it’s a true story. I don’t need the third degree."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "For God’s sake, Sheldon, what are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I didn’t want to come in. I was told it would make everyone feel uncomfortable. So I’ll just stay out here and pretend that I don’t have to go to the bathroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Howard, do something."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m on it."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, you being here might not be making things better."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I see. And is that why everybody was invited but me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "They didn’t invite everybody but you.Bernadette invited me, and Stuart lives here."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Who wants hot cinnamon rolls?"
+    },
+    {
+      "type": "scene",
+      "text": "The Wedding Chapel."
+    },
+    {
+      "type": "dialog",
+      "character": "Official",
+      "text": "So, when you hear the music, that’s your cue. Any questions?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, the package that we paid for said the aisle was supposed to be strewn with rose petals."
+    },
+    {
+      "type": "dialog",
+      "character": "Official",
+      "text": "Where are the rose petals?!"
+    },
+    {
+      "type": "direction",
+      "text": "Female Voice We’re out"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You know what? It’s fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Female Voice",
+      "text": "We can use the potpourri from the bathroom!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Really, we’re good."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yup, just want to get married."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Official",
+      "text": "Great. I’ll see you two up there."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "This is it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I know."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I love you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I love you, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Female Voice",
+      "text": "Was that a yes or no on the potpourri?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We’re good."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s House."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Raj, you’re probably wondering why Amy and I aren’t showing any affection to one another."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Didn’t even crack the top ten."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, you should know that she recently broke up with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I said I needed time to think."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m sure you guys will figure something out."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You hear that? Raj is devastated."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Sheldon, shh. The wedding’s starting."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I see what’s happening. Sides are forming. Well, if Bernadette’s on Amy’s team, I pick Howard."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m not taking sides."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Fine, I guess I’m stuck with Raj."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Really?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "At least you got picked."
+    },
+    {
+      "type": "scene",
+      "text": "The Wedding Chapel."
+    },
+    {
+      "type": "dialog",
+      "character": "Official",
+      "text": "Before I go any further, have either of you prepared your own vows?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No. You wrote vows?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, I don’t have any. You’re kind of making me look bad."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s okay. I don’t have to say them."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, no, no, go ahead. I’ll come up with something mushy, you’ll cry, we got this."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Penny, we are made of particles that have existed since the moment the universe began. I like to think those atoms travelled 14 billion years through time and space to create us, so that we could be together and make each other whole."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wow."
+    },
+    {
+      "type": "dialog",
+      "character": "Official",
+      "text": "Penny?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Right. Um, okay. Leonard, I mean, you’re not only the love of my life. I mean, you’re my best friend, and, you’ve got a friend in me. You got troubles. I got ’em, too. There isn’t anything I wouldn’t do for you. We stick together, and we can see it through, ’cause you’ve got a friend in me."
+    },
+    {
+      "type": "dialog",
+      "character": "Official",
+      "text": "Is that the song from Toy Story?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "He loves that movie."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I do."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s house."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Aw, that was beautiful."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah. I mean, not like our wedding beautiful."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "No, we totally won."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Amy, I don’t understand, are we broken up or not? It’s like you can’t make up your mind."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It’s because you’re not giving me any space to think."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, you should think fast, because men can sire offspring their entire lives, but those eggs you’re toting around have a sell-by date."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You know what, Sheldon, you’ve made this really easy. You’re immature, you’re selfish, you just insulted me to my face. I don’t need any more time to think. We’re broken up."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Amy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Will someone take me home?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah. Come on, I’ll give you a ride."
+    },
+    {
+      "type": "direction",
+      "text": "Official (voice from computer) …symbolizes your eternal love. I now pronounce you husband and wife."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "We did it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, I’m so glad you guys could watch."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "We’ll say it was beautiful in the comment section."
+    },
+    {
+      "type": "scene",
+      "text": "Hotel corridor."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, no, no. Hang on. I believe I’m supposed to carry you across the threshold."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Can you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Who do you think carries Sheldon to bed when he falls asleep in front of the TV?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, let’s do it. You gonna make it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Nicely done."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thank you. Finally, there’s a Mrs. Hofstadter who isn’t disappointed in me."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, the night is still young."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Everything all right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah. I guess."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Just tell me."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It’s just, when we were kissing, I couldn’t help but picture you with that other girl."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, no. No, come on. I have a friend in you. You said so."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You’re right. Just forget it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah. Okay, listen. If you’re imagining that it was sexy, it wasn’t. We, we were both drunk, and she smelled like an ashtray. The boat was moving a lot, so I chipped her tooth."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Did you feel guilty?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, she had dental insurance."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Did you feel guilty after kissing her?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes. I felt guilty as soon as it happened. I feel guilty every time I see her."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What do you mean, every time you see her?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What do I mean? Boy, that’s a toughie."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You still see her?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, no, not socially. But, you know, just at work."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You work with her? How could you not tell me that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I wanted to tell you in the car, but you told me to stop talking"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, okay. So you’re saying this is my fault?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, of course not. Okay, look, instead of fighting, why don’t we dim the lights, um, get naked and make a baby? I was trying to lighten the mood. It’s not easy. You try it."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(on phone)",
+      "text": "Hello, Mother."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Shelly! How’s my baby doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I just wanted to let you know that you can remove Amy from your nightly prayers. Unless you’re open to praying for a beehive to fall on her head."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Oh, what’s going on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "She broke up with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Oh, Shelly."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, I’ll be okay. But I think that I’d like to send the ring back to you."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Well, let’s not be hasty. Are you sure it’s over for good?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s over for me. I’m done with women. Like when I swore off Pop Rocks. They both hurt you on purpose."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "You want to tell me what happened?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Are you going to say it’s all part of God’s plan?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Good chance."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Then no, thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Well, honey, don’t send it back yet. Your sister’s married, and I’m not letting your brother give my grandmother’s ring to that whore he’s dating."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wasn’t Mary Magdalene a woman of ill repute?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "When your idiot brother redeems mankind, he can date whoever he wants."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s house."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I know it hurts now, but it’s gonna get better."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Everything’s gonna be okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "You’ve got so much to offer."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Any man would be lucky to have you."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "That’s true."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I just hope I did the right thing."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "I’m sure you did. Maybe that’s the problem, you always do the right thing. Maybe it’s time to do the wrong thing."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Like you’re doing right now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Exactly."
+    },
+    {
+      "type": "scene",
+      "text": "The stairwell."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I asked you over and over if you were okay. Why would you go through with the wedding if you weren’t?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I thought I was okay, but it turns out I’m not."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, listen, I may not have been entirely faithful, but you, you are not easy to lift."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wow. Well, marriage must agree with you. Well, you are just glowing."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m not glowing. I’m upset."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, whatever it is, it agrees with you."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(outside)",
+      "text": "Knock, knock, knock, Penny? Knock, knock, knock, Penny? Knock, knock, knock, Penny?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What’s this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard told me what happened, so I took it upon myself to make you a hot beverage."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh. That’s so sweet of you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah. I know. Turns out, being sweet isn’t enough to keep a girl these days. I blame Madonna."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’m sorry to hear about you and Amy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I’m sorry about Leonard. Thought I raised him better than that."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know, it’s bad enough what happened, but then he tried to hide the fact that he sees her all the time at the university."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "He does? Who is it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Some girl named Mandy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Mandy Chao?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, you don’t need to worry about her. She’s brilliant and attractive. She can do way better"
+    },
+    {
+      "type": "direction",
+      "text": "than Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That’s great."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wait a minute. I know this may sound far fetched, but I’m on the market now. You know, if I dated Mandy, that would teach both Leonard and Amy a lesson."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That’s ridiculous."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, you’re right. I could never be with a woman whose self-esteem was so low she’d be with Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’m with Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, I know. Forever. Who would have believed these things would happen to us?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Right? I can’t believe Amy actually went through with it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hang on. You knew that she was going to end it with me? Did you try and stop her?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I told her to be true to herself and do what makes her happy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Do what makes her happy? She plays the harp and her car is paid for. How much happier can she be?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, look, it’s not my fault that she thought you were a bad boyfriend."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I see. Well, I think I’ll be going."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, no, no, no. We are done here. Would you mind opening the door and then angrily slamming it behind me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sure."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thank you. And slam it hard, because I am pretty steamed."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s house."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "direction": "(on phone)",
+      "text": "All right, Leonard, hang in there. Talk to you tomorrow."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What happened? They just got married."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I don’t know. It’s a mess. They had a huge fight in Vegas."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Think they’ll break up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I don’t know. Sounds pretty bad. Penny’s back in her apartment all by herself."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Really?"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Would you like to hear another reason why men are better than women?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sure, let’s make it an even hundred."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You would never kiss me and make me say I love you and then break up with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I wouldn’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And you know why? ‘Cause you’re a man. The champagne of genders."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, I may be a man, but I think I’m the one that screwed up on this one."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, well, and you admit it, like a man. All you hear women say is, I’ll just have a salad. You know? Where’s my lip gloss? I think this element should be called radium. That last one was Madame Curie."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I figured that out."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know what? She was kind of an honorary man. She had a penis made of science."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Can’t believe I’m spending my wedding night with you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Really? I never imagined it any other way."
+    }
+  ]
+}

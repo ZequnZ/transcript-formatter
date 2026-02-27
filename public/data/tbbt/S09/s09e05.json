@@ -1,0 +1,1058 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 9,
+  "episode": 5,
+  "title": "The Perspiration Implementation",
+  "url": "https://bigbangtrans.wordpress.com/series-9-episode-05-the-perspiration-implementation/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "Howard’s workshop."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, ready for lunch?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, one sec."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Is that the prototype drive system for the high-G rover?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, Bernadette got me a Fitbit so she can track how much I’m exercising."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’ll teach her to care about your health."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, I can’t wait to see the look on her face when I die young."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "When was the last actual exercise you got?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "The other day, when she tried to put that Fitbit on me and I ran away from her."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "According to a recent study, simply thinking about exercise, even while sitting still, can have physical benefits. For all you know, I could be exercising right now."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Are you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Nah, I’ll do it tomorrow."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It wouldn’t be the worst thing if we were more active."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You make an excellent point. Ooh, I think I’m getting a runner’s high."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Look at all these activities the university has. Rock climbing club, archery, flag football."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Had me at flag, lost me at football."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, I think it’s great you guys want to get more exercise, but do you really think sports is the right choice for you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What are you saying? We’re not coordinated enough to play sports?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, Leonard, sweetheart, you twisted your ankle playing Scrabble."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I got a triple-word score with a double letter Q. If that’s not a time to bust out the scrabble dance, what’s the point of having one? Hey, Barry Kripke started a fencing club."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Interesting. Sword fighting does hold a certain elegant appeal. And I would imagine it meets many of our personal criteria for a sport."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s indoors, so no sunscreen."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No throwing, no catching, no running."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No gym shorts that can be yanked down."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Or worse, up."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Preach."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And as an added bonus, the word touché comes from fencing. It would be our only opportunity to use it in a non-metaphorical sense."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What about a game of tag on a French schoolyard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Ah, touché."
+    },
+    {
+      "type": "scene",
+      "text": "The comic book store."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Thanks for coming by."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Sure. So how can we help?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Well, I know more women are buying comics than ever, but for some reason, I, I can’t get ’em in here."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right, well, what have you tried so far?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Uh, I’ve, I’ve been stocking more female-oriented titles. Uh, in the bathroom, I folded the end of the toilet paper into a triangle. And, uh, you are now sitting in the official breastfeeding area."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Really? In a comic book store?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Oh, don’t worry. I, I’ve got a camera right up here, so I could watch from the counter and make sure guys aren’t being pervs. Anyway, so what do I got to do to, to get you in the door?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, for starters, you might want to rethink some of this artwork. I mean, this woman’s actually on a leash like a dog."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Well, you don’t know the backstory. Maybe she kept jumping up on the couch."
+    },
+    {
+      "type": "scene",
+      "text": "The gym."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I feel cool. Like Puss in Boots."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I always wanted to be a swashbuckler when I was a kid."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Technically, swashbuckler is a combination of two terms. Swash referring to the sound of the sword. Swash. And then buckler meaning a small shield, which you don’t have."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "We can still be swashers."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well said, Puss."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Gentlemen, welcome to the fencing cwub. Before we start, I just want to warn you, fencing isn’t a joke. I hope you’re not here because you think it’s going to be wike Star Wars."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s not why we’re here."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, I’m here because I think it’s gonna be like Game of Thrones."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "And maybe a little Princess Bride."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Ooh, ooh, I forgot about Princess Bride. That’s my answer."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Well, sowwy to disappoint you, but fencing is a sewious spowt. If you’re not wiwwing to put in the effowt, you might as well just weave now."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "We’re not afraid of physical activity."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah. I already ran 18 miles today."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Awwight. Let’s begin with some fundamentals. This is the en garde position. Feet are in an L. Heels in a stwaight wine. Elbow is about a fist from the wib cage. Notice my dominant weg faces fowward."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, dear."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "What’s wong, Cooper?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I’m not sure I have a dominant leg. They’re both pretty submissive."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "When you’re in a public restroom, which foot do you flush the toilet with?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Right. Always right."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "He’s a righty."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Okay, show me en garde. Good. Knees bent, swightwy over the toe. Non-sword hand up for bawance."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, God, I am going to feel this tomorrow."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "The first move is called an advance. You move your fwont foot fowward, heel to toe. Back foot fowwows. So fwont foot fowward, heel to toe. Back foot fowwows. Now you twy. Advance. And advance. And advance."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "This is easy. I didn’t need to wear a cup."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Good. The next move is called a wetweat. Step back. Back foot first, toe to heel. Fwont foot fowwows. On thwee."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Excuse me, Barry?"
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "When can I stab one of my friends?"
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "In fencing, we don’t call it a stab. We call it a touch."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Uh, yes, I’m aware. But if I say I want to touch one of my friends, I’ll get called into Human Resources."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Okay, on thwee, Cooper and Koothwappawi advance, the other two wetweat. One, two, thwee. Vewy good. Switch it up. One, two, thwee. Switch again. One, two, thwee. (Phone rings) Excuse me. Can I call you back? No, I’m teaching a cwass. Sure. Sure. An hour, tops. Yeah. Okay. Okay. Yeah. Okay. Thanks. And one, two, thwee."
+    },
+    {
+      "type": "scene",
+      "text": "The comic book store."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Have you thought about advertising directly to females?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Hmm, okay. Well, alright, what if I put up a sign in the window that said women, come in. Don’t be afraid."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, have you read the online reviews for this place?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Eh, the Internet’s so negative. I try to avoid it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right, well, Heather H says, the owner stared at me the whole time and didn’t blink once. Kelly M says, the creepy guy who runs it asked me out, then called himself stupid before I could say no. Jessica K says, I told the weird owner that I liked his shirt. He took it off and gave it to me."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "See? Negative."
+    },
+    {
+      "type": "scene",
+      "text": "The gym."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "With your foil extended, kick your fwont weg up and push off with your back weg. Now you twy. And again. And again."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Look at us. We’re like the Rockettes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "En garde, Leonard. Prepare yourself for a rigorous touching."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "My name is Inigo Montoya. You killed my father. Prepare to die."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "My name is Inigo Montoya. You killed my father. Prepare to die."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I thought you were Puss in Boots."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, yeah, right. Sorry. My name is Puss in Boots. You killed my father. Prepare to die."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m looking forward to him teaching us glove-slapping."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know, when my honour is insulted, and I need to challenge someone to a duel by slapping them across the face with my glove."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "When was your honour insulted?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "My last physical."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Again, that doctor didn’t insult your honour. Just checked your prostate."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "My name is Little Orphan Annie. You killed my father. Prepare to die."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "My name is Darth Vader. I am your father. Prepare to die."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Ah, this is fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, good. It’s nice to see your mind off Amy."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "What’s going on with Amy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Not that it’s any of your business, but she broke up with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Weawwy? Good to know."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Good to know? What’s that supposed to mean?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh. I hate to say it, but it sounds like he’s interested in her."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, that’s unacceptable."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, buddy, I get that you don’t like it, but it’s not really up to you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, but he’s dumb, and his face is dumb."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Look, even if it’s not him, Amy’s probably going to date someone at some point."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You really think so?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Of course. She deserves to be happy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "How dare you."
+    },
+    {
+      "type": "scene",
+      "text": "Later."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Listen, I should warn you that maybe asking Amy out isn’t a good idea."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Barry, a word?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "And now the crazy version of what I just said."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If you intend to pursue Amy, you leave me with no choice but to put a stop to it."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "And how are you gonna do that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "By challenging you to a duel."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "You’ve had one wesson. I’ll destwoy you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That is why the duel will take place at high noon, three years from today. If you’re worth your salt as an instructor, I should be ready by then. Yeah, and be warned. I’m going to touch you all over."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Wow. That, that was crazier than I thought."
+    },
+    {
+      "type": "scene",
+      "text": "The comic book store."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "All right, I’m not saying it’s true, but let’s, let’s consider for a moment that possibly I’m the problem."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You are."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You can say it."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Okay, fine. What, I mean, what can I do? I get so nervous around women."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, you’re talking to us now. I mean, you don’t seem nervous."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Well, that’s ’cause I’m doing that trick where you imagine the audience is naked. By the way, thumbs up, ladies."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Do you not hear how creepy that sounds?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "It was a joke."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Was it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "No, I’m still doing it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay. Don’t be offended, but, what went wrong with you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "I, I guess I assumed at this point in my life, I would be married or in a relationship, or even have a pet that didn’t run away or kill itself."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "That really happened?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "I mean, I can’t say for sure, but I swear that rabbit looked me right in the eye before it hopped in front of that car. Anyway, the longer I’m alone, the more desperate I get."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Stuart, believe it or not, I understand. You know, before I met Sheldon, I was alone for a really long time. I was so desperate for people to like me, when I met these guys, it took everything in my power to hide my insecurity."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Okay, we’re all feeling it. Yes, I’ll go out with you."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Suddenly, the rabbit thing makes sense."
+    },
+    {
+      "type": "scene",
+      "text": "A sports bar."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m surprised you wanted to go to a sports bar, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Look at this blister. Like it or not, we’re athletes now. Besides, a bar is where I belong. I’m having female problems."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "If you’re cranky and retaining water, I have a theory."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sheldon, instead of focusing on Amy dating other guys, maybe you should start thinking about dating another girl."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s ridiculous."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Why? You never thought you’d end up in a relationship, and then you met Amy. Maybe there’s someone else out there for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "True, but Penny’s married, and so is Bernadette. And your girlfriend has red hair and white skin, which really rubs up against my clown phobia."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Maybe you should consider women who aren’t in serious relationships with your closest friends?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "There’s that prostate doctor, but I’m still mad at her. Oh, there’s a woman. I’ll make her my girlfriend."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Whoa, whoa. Walking up to a strange woman in a bar usually doesn’t work."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re forgetting something. Ladies love jocks."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "How many sips of that beer did he have?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Three."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, boy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Excuse me. I’m recovering from a recent breakup, and I’m told asking out another woman might make me feel better. And as Ash Ketchum said to Pikachu, I choose you."
+    },
+    {
+      "type": "dialog",
+      "character": "Woman",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s a Pokémon reference."
+    },
+    {
+      "type": "dialog",
+      "character": "Woman",
+      "text": "I don’t know what that means."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, we gave it a shot. How about you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Older woman",
+      "text": "I’m married, and I’m her grandmother."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Ah, what might have been. And you, give my regards to Barnum and Bailey."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Stuart took that rejection like a pro."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, he knew he was on the breast cam."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I don’t have much experience turning men down. It wasn’t so much fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, you get used to it. Some guys you have to turn down over and over."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "And sometimes we marry them anyway."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "direction": "(Phone text sound)",
+      "text": "Huh. Well, this is weird."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Barry Kripke just asked me out."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh. Look at you, two guys in one day."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I told you things would change if you plucked your eyebrows."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What did he say?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hi, how are you? I was wondering if you’d like to get a drink after work sometime."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, what are you gonna do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I don’t know. I guess I assumed that I would eventually date other people, but this is happening so fast."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What can it hurt?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, I was hoping the next person I dated would be a little less like Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You mean, not a scientist?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I think she means not a weirdo."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Are you attracted to him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I don’t know."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right, well, what happens if you imagine him naked?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, I don’t have to imagine it."
+    },
+    {
+      "type": "scene",
+      "text": "The stairwell."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I smell funny. I taste salty."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re just sweaty from exercise."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And kind of delicious. I wonder how many licks it would take to get to the centre of me."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I know it only takes one doctor’s finger."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We should let you guys talk."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You don’t have to leave."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Look at me go."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Uh, Bernadette, you’re my ride."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Walk."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "How have you been?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m doing all right. I tried fencing today."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "How’d that go?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It was pretty easy. And I think my background in mathletics helped. Barry Kripke was there. I should let you know that he expressed interest in asking you out."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, actually, he, he already did."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay. But don’t get too attached to him. in two years, 364 days, he’s a dead man."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I said no."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Interesting. I asked two women out today, and they both said no."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I didn’t know you were interested in dating."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’ve been told it’s a good way to move on."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh. Okay. Anyway, um, it’s nice to see you. You look good."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thanks. And I taste good too."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s kitchen."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Howie?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What’s up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Why does your Fitbit say you ran 174 miles yesterday?"
+    }
+  ]
+}

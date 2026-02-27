@@ -1,0 +1,1299 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 4,
+  "episode": 13,
+  "title": "The Love Car Displacement",
+  "url": "https://bigbangtrans.wordpress.com/series-4-episode-13-the-love-car-displacement/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The Cheesecake Factory"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey. So you guys ready to order?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Since we come in every Tuesday night at six o’clock and order the same exact thing, and it’s now six oh eight, I believe your question not only answers itself but also stands alongside such other nonsensical queries as who let the dogs out? and, uh, How are they hanging?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay. So, the usual, with extra spit on Sheldon’s hamburger."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Penny, a moment? Do you have plans this weekend?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, gee, Amy, I’m sorry, I’m actually pretty busy this weekend."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Probably serving food that was ordered today."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "That’s too bad. I was hoping you could be my plus-one at the Institute of Interdisciplinary Studies’ symposium on the impact of current scientific research on societal interactions."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "The what?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s an annual science conference. We’ve all been invited to speak."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh. Oh, okay, well, you know, like I said, I have plans, so."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Shame. Since you’re my best friend, I thought it would be a good bonding opportunity."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’m your best friend?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Don’t you read my blog?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, don’t feel bad. I never read Leonard’s, and I used to sleep with him."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Do you know anybody else who would appreciate an all-expense-paid spa weekend at a four-star resort in Big Sur?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, I really, I’m sorry, free what? Sorry, what, what?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I think her weekend just opened up."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wait, wait, just to be clear, when you guys say spa, does that mean the same thing as when regular people say it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Pretty much. Except we keep our shirts on in the sauna."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know, it is going to be difficult, but I’m going to cancel my plans so I can do this for my bestie."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Please don’t touch my breasts."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I, I wasn’t going to."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "All right. I just want to establish boundaries."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Boy, this is great. I haven’t had a vacation in ages."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "In order to take a vacation, one first has to work."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know, for a smart guy, you really seem to have a hard time grasping the concept, don’t piss off the people who handle the things you eat."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "That does seem to be a valid principle."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I trust Penny will adhere to the Official California Restaurant Workers’ Solemn Oath of Ethics and Cleanliness.”"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I don’t believe there’s any such thing."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You lied to me?"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Good morning. If I could have everyone’s attention, please? I know we’re all eager to get on the road to Big Sur, so if we focus, I’m sure we can get through this orientation in under a half an hour. Then it’s just Q&A, quiz, safety drills, pose for commemorative group photo and we’re off."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Don’t worry. Just sit next to me during the quiz, and you can copy my answers."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Raj? What are you doing? I don’t think so. You’ve had your allotted six ounces. The first bathroom break isn’t until the Denny’s located near Bakersfield, which is approximately two and half hours away. Remember, people, we’re only as strong as our weakest bladder."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "direction": "(after Raj whispers to him)",
+      "text": "Nobody cares about your Kegel exercises."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right. We have seven people, and two cars. In the lead car, driven by Leonard, will be myself, Amy Farrah Fowler and Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Yes! He had you in the other car, but I got you upgraded."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yay!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "She made the case that if we break down in the middle of nowhere, your Nebraska backwoods skills and brawny hands will give us the best chance to survive in the wild."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Brawny?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "They’re bigger than mine."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Red Leader to Red Five, come in. Red Leader to Red Five, come in. Howard, you promised."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "direction": "(voice)",
+      "text": "Fine. &nbsp;Red Five to Red Leader. What do you want now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s eleven fifteen. I’m requesting your quarter-hourly location update."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Still right behind you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Copy that, Red Five. Radio contact is sufficient. No need to extend your middle finger."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So, Amy, I’ve been wondering, are you and Sheldon going to be sharing a room?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No, we discussed it. We decided we didn’t want to jeopardize our relationship by getting to know each other too well."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Indeed. Nothing sours a friendship more than over-familiarity with someone’s toilet routine."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I can vouch for that."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Not you, him."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh. Thanks."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Although yours was an eye-opener."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Don’t worry, Penny. You’re my plus-one. You’ll bunk with me. And FYI, travel makes me constipated, so I’m the ideal hotel roommate."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Terrific. Are we there yet?"
+    },
+    {
+      "type": "scene",
+      "text": "Bernadette’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I hope we get there in time to see the keynote address."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Really? You want to see the keynote?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Yeah, it sounds fun. Super bacteria: global apocalypse or exciting research opportunity?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Actually, I was thinking we could go straight to the room and take a nap."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Really? And miss the keynote?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "We can watch it later on C-SPAN. Besides, I was really looking forward to you and me napping together in the hotel."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Well honey, if you’re that tired, why don’t you just take a nap here in the car?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, see, it’s not…"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Hang on. It’s Leonard. Hi, Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "direction": "(voice)",
+      "text": "Yeah, hi. Listen, I just got a text from Raj. He wanted me to tell you that when Howard says nap, he means sex."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh. Thank you, Raj."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Are you an element in the actinoid series?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. Amy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Are you usually radioactive when found in nature?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Are you in the lanthanoid series?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Amy, it’s Penny’s turn. Penny?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh, I don’t know. Are you food?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s not apropos. We’ve already established I’m found in the periodic table."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, it’s a table, right? I mean, why can’t there be food on it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I knew she wasn’t lead car material."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Who elected you Road Trip God?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It was a late-night vote. We were all exhausted, and he was threatening to filibuster. It’s not technically Road Trip God, it’s Travel Supervisor."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Although Road Trip God does have a certain ring to it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I don’t understand why you people just let him bully you like this. Someone should stand up to him. What’s he going to do?"
+    },
+    {
+      "type": "scene",
+      "text": "Bernadette’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I can’t believe you let him kick me out of the car."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What could we do? He’s the Travel Supervisor."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Don’t worry, Penny. This is a better car anyway."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah. It’s the Love Car."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Should I ask?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "direction": "(singing)",
+      "text": "They say we’re young and we don’t know, we won’t find out until we grow."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "direction": "(singing)",
+      "text": "Well, I don’t know if all that’s true, ’cause you got me, and, baby, I got you."
+    },
+    {
+      "type": "dialog",
+      "character": "Together",
+      "direction": "(singing)",
+      "text": "Babe, mm da-da, da-da, da-da, I got you, babe, da-da, da-da, da-da, I got you, babe…"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Red Leader, I’m really sorry."
+    },
+    {
+      "type": "scene",
+      "text": "The hotel."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard and Bernadette",
+      "direction": "(singing)",
+      "text": "I got you, babe."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I missed you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know what? I missed you, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Very tall and powerfully built man",
+      "text": "Bernadette?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, my God, Glenn!"
+    },
+    {
+      "type": "dialog",
+      "character": "Glenn",
+      "text": "Great to see you!"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Are you here for the conference?"
+    },
+    {
+      "type": "dialog",
+      "character": "Glenn",
+      "text": "Yeah, I’m doing a global warming panel."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, good for you. Uh, Glenn, this is my boyfriend Howard."
+    },
+    {
+      "type": "dialog",
+      "character": "Glenn",
+      "text": "Oh. Nice to meet you."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hi. Ow. Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Glenn",
+      "text": "You’re a lucky man. Bernie’s a great gal."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yes. Bernie sure is."
+    },
+    {
+      "type": "dialog",
+      "character": "Glenn",
+      "text": "Well, I got to run. The panel’s tomorrow morning. It’s called, Remembering Snow: A Look Back."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I’ll try to catch it."
+    },
+    {
+      "type": "dialog",
+      "character": "Glenn",
+      "text": "Oh, great. Bye."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Bye."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, Bernie?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Yeah?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Please tell me he’s your gay cousin."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "No. He was one of my professors in college."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh! That’s a relief."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Then we went out for a year. Come on, let’s check in, so we can take that nap."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "direction": "(after Raj whispers to him)",
+      "text": "No, it’s not necessarily proportional. Shut up!"
+    },
+    {
+      "type": "scene",
+      "text": "Howard’s hotel room."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That green bag is Dr. Cooper’s. Here’s an extra five. Make him wait. Oh. Right to the nap, huh? Okay? Uh, so, this Glenn guy. You say you went out with him for, like, a year."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Do we really need to talk about my old boyfriend now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No. I guess not. What is he, like, six-four, six-five?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Six-seven."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Probably has a hard time finding a suit that fits."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Is something bothering you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No. It’s just…"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m just thinking. If you had sex with that guy, I mean, there’s nothing I can do here that will make any kind of impact."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Howard, it’s not a contest. I love you. I want to be with you."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, great, love you, too, but, if it were a contest, I wouldn’t have a chance, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You can’t think that way."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yep. Loser."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Howard, stop it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sorry. I just never figured that a guy like me going out with a girl like you would ever have to compete with a guy like that."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Wait a minute, a girl like me? What’s that mean?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m… I…"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Are you saying you don’t think I’m hot enough to go out with a guy like Glenn?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No! No, I’m saying exactly the opposite."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I’m too hot to go out with a guy like Glenn?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, let’s go with that."
+    },
+    {
+      "type": "scene",
+      "text": "Amy’s hotel room."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "direction": "(exiting bathroom)",
+      "text": "Still nothing. Remind me to try again in an hour."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Will do."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "So, girl talk?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Um, sure. What do you, what do you got in mind?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Do you subscribe to the Freudian theory of penis envy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Um, I never really thought about it. Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sometimes I think it might be nice to have one."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Really?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Not for sex, for convenience. You can’t deny that, by comparison, our internal plumbing is extremely high maintenance."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Again, I’ve never given it much thought."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "We have time now. Think about it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(knock on door)",
+      "text": "Oh, good. Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Can I stay here tonight?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah. Why, what happened?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Howard’s a complete and total ass."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, yeah, that. Come on in."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Thanks. I’ll sleep on the floor."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Not necessary. Penny and I are perfectly comfortable sharing a bed."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "We are?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Of course, we’re best friends."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, right, right, the blog."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Word of warning, though. I’m prone to night terrors, so if I wake up kicking and screaming, don’t panic. Just pin me down and stroke my hair, and I’ll be fine."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s room."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, can I stay here tonight?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Shh-shh-shh-shh. Sheldon’s asleep. What’s going on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, Howard’s a complete and total ass, Bernadette’s in my bed, and no matter how much you stroke Amy’s hair, she bites."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Never mind. Can I stay here or not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, sure."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, how do you wanna do this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, I’m not getting in bed with him."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, it is a little like getting into Dracula’s coffin."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "We’re just gonna have to make the best of this."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, when you say make the best of it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sleep."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Right. So we’ll just call the middle here the Neutral Zone."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "The what?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Star Trek. You know, the Neutral Zone between the Federation and the Romulan Empire."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, okay. Just like old times."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Of course, sometimes the Federation and the Romulans would enter the Neutral Zone to negotiate a temporary truce."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sweetie, let me put this in a way you’ll understand. From the waist down, my shields are up."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Got it, got it. We can do all kinds of stuff from the waist up, you know?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Go to sleep."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Good night."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Please tell me you’re not having coitus."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "We are not having coitus."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Can you guarantee that it won’t happen at any time during the night?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No."
+    },
+    {
+      "type": "scene",
+      "text": "Raj’s room."
+    },
+    {
+      "type": "dialog",
+      "character": "TV Announcer",
+      "text": "Next on Turner Classic Movies, Bridget Jones’s Diary."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, my God, I’m crying already."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Raj? (Knock, knock, knock) Raj? (Knock, knock, knock) Raj? I need to sleep here tonight."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Howard is a complete and total ass, Bernadette is in Penny’s bed, Amy bites, and Penny may or may not have coitus with Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay. Come on in."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s room."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Leonard, are you asleep?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I really appreciate you letting me stay here tonight."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sure, no problem."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I know it’s kinda weird."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "True dat."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "True dat?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’ve gotten a lot more street since we broke up."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Right. Still mad at me about that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No. No, I understand. I got too intense, you had to back off."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’ve gotten a lot better at that, you know. I’ve dated four different women since we broke up and I didn’t tell any of them that I loved them and wanted to have their babies."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Good for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, good night."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Good night. You know, maybe it wouldn’t be the worst idea in the world to violate the Neutral Zone for just one night. Oh!"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, Leonard, Sheldon kicked me out of the room, gave me your key."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Penny’s here. (Raj whispers to him) No, we don’t want to watch Bridget Jones’s Diary!"
+    },
+    {
+      "type": "scene",
+      "text": "A conference room."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Good morning and welcome to Science and Society. I’m Dr. Sheldon Cooper, BS, MS, MA, PhD, and ScD. OMG, right? Perhaps that joke was a little too hippie-dippy for this crowd. All right then, we’ll begin with opening remarks. Miss Rostenkowski, would you like to start us off by discussing your assessment of science’s responsibility to society?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Sure. I think all branches of science have to move cautiously these days. It’s not just giant nuclear weapons that can destroy the world. As a microbiologist, I can tell you even the tiniest organisms can still tear you a new one."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Interesting. I think what you might need to know about my colleague is that though she claims her field of interest is tiny organisms, she certainly has spent her fair share of time around what we can assume was pretty massive weaponry."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I think Mr. Wolowitz needs to keep in mind that the past is the past. But he should know that I am the kind of girl who could get all the giant missiles she wants."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Are we talking about women wanting penises? Because I’d like to weigh in."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Dr. Koothrappali, would you care to join the conversation?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Certainly. I’d like to raise two points. Number one, I think they are talking about penises. And number two, these mimosas are kicking my little brown ass."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’d like to kick your little brown ass."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What did I do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, I don’t know. Maybe when you walk into a hotel room and you see a guy getting back together with his girlfriend, you should consider doing something other than crawling into the adjoining bed."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I did. You said no Bridget Jones."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(voice)",
+      "text": "We weren’t getting back together! It was a one-time thing!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Excuse me. We’re not taking comments or questions from the audience just yet."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(voice)",
+      "text": "Oh, shut up, Sheldon!"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hi, bestie."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(voice)",
+      "text": "Yeah, hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, why don’t we see if we can bring this back to topic."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Let me ask you something, Bernie."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I guess not."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "How would you feel if you met my ex-girlfriend and she was like Angelina Jolie?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, come on, Howard, be realistic."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What, I’m not hot enough for Angelina Jolie?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’d like to weigh in here. No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, why don’t we open it up to Q&A from the audience?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(voice)",
+      "text": "Yeah, I have a question. Is there anybody who can get me the hell out of here and back to Los Angeles tonight?"
+    },
+    {
+      "type": "dialog",
+      "character": "Glenn",
+      "direction": "(voice)",
+      "text": "I’m driving back to L.A. tonight."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Um, Penny, that’s Glenn. Glenn, that’s Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No!"
+    },
+    {
+      "type": "scene",
+      "text": "Bernadette’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon (voice)",
+      "text": "Red Leader to Red Five. Red Leader to Red Five. Anybody up for a little game? I spy with my little eye, a nonferrous metal. (Howard throws walkie-talkie out of window)"
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Must be out of range."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Leonard, can I ask you a question?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sure."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Are you bothered by the fact that your former girlfriend left the symposium with what is probably the most beautiful man I’ve ever seen in my life?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No. Why do you ask?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Because we’re going 120 miles per hour."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, if no one’s going to guess, I was spying the aluminium rims on the police car we passed a few miles back."
+    }
+  ]
+}

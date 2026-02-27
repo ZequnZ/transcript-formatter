@@ -1,0 +1,1283 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 10,
+  "episode": 18,
+  "title": "The Escape Hatch Identification",
+  "url": "https://bigbangtrans.wordpress.com/series-10-episode-18-the-escape-hatch-identification/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Aw, man, did you see this post from Raj?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What? Is it another video of him and his dog Lady-and-the-Tramping some spaghetti?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No. He can’t afford his apartment, and he’s asking if anyone knows of a cheap place to live. I want to say India, but it seems mean."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What’s so funny?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Raj is looking for a cheap place to live, and I wrote India."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Don’t post that, be supportive."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Maybe you should be supportive of my hilarious jokes. Fine, what should we do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "We’re smart. I’m sure we can think of something."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You want to let him live here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, we’re smarter than that."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon and Amy’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I know our apartment’s small, but I think we can make room."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No, Sheldon. We are not getting a life-size Spider-Man statue."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We do have Sheldon’s old room. If he really needs a place to stay, I guess we should offer it to him."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You’re a good friend."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Am I still a good friend if I wait and hope that Howard offers him a place to live first?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You’re an even better husband."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I know if the roles were reversed, he would do it for me."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Where would he stay? We already have Stuart."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, we can make some space in the garage. Maybe put a cot out there, get him a space heater, maybe a hot plate."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "That sounds awful."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Let’s hope he thinks so, too."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon and Amy’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "For the last time, no Hulk, no Batman, no life-size statues."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wow. I’m starting to think you didn’t mean it when you said you wanted to spruce up the place."
+    },
+    {
+      "type": "scene",
+      "text": "Raj’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj (answering phone)",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, uh, so we’ve been talking, and if you need a place to stay, we’d be happy to fix up the garage for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "That would be amazing. I was literally just looking at my moving boxes, trying to pick one to live in."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I know it’s not ideal, but you’d have plenty of space for your furniture, and there’s this cool button that makes an entire wall go up and down."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I cannot thank you enough."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It is our pleasure. (beep, beep, beep) Hey, can you hold on one sec? Hello?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, buddy, you still looking for a place to live?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Uh, yeah. Why do you ask?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You know, we have the extra bedroom, and if you need it, it’s yours."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, my God, that’s so generous."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s the least we can do."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I really appreciate it. Uh, can you hold on one second? Hey, so, Howard, what’s the bathroom situation gonna be?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, there’s a sink out there, that takes care of half your problems."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "But I can use the downstairs bathroom, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah. We barely use it, so it’ll be like it’s yours."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Cool, cool, yeah, yeah, hold on one second."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, what’s it like sharing a bathroom with Penny? Is there hair everywhere? Does she use your loofah?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t have a loofah."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, well, if I move in, you can’t use mine. Hold on a second. Hey, Howard, uh, how’s the Wi-Fi in the garage?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I don’t know. Why are you asking all these questions?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, to be honest, Leonard’s on the other line, and he offered me their spare bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Great. Go live there."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "But you made the garage sound so fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I just didn’t want you to feel bad about it. Unless Leonard’s apartment also has a raccoon that chews its way in on cold nights, go there."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "One second. Okay, I think we’re close. How do you feel about a mini-fridge in my room?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, pal, you want to live here or not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, uh, hi, Penny. Yes, please."
+    },
+    {
+      "type": "scene",
+      "text": "The lobby."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hi, uh, Penny, this circular is addressed to occupant, but with our apartment switch, it’s unclear whether it’s yours or mine."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What’s it for?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Roofing."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, it’s yours."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay, thanks. Just throw it out. Speaking of occupants, I’m given to understand Raj will be moving into my old room."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, for a little while."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What about his dog?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "She’ll be in her crate, it’s not a big deal."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I suppose that’s acceptable."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, Sheldon’s getting a little better with dogs. He even took a picture with Pluto at Disneyland."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If real dogs gave me buttons, I’d like them, too. Well, I think it’s very nice that you’re helping out our friend."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "And I think it’s nice that you’re taking whatever medication Amy’s clearly giving you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And what is that supposed to mean?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, it’s like that science thing. For every action, you have a gigantic and annoying reaction."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Just when I thought you couldn’t get any hotter."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Mm-hmm."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If you’re implying that I’d have some problem with him moving into my room, you’re wrong. Raj is in a difficult financial situation, and I’m glad that he’s making changes to improve it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Do not adjust the dosage. You nailed it."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Don’t listen to them. What’s weird is that Penny almost got a science fact right."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I mean, it’s unfair; people just assume I’m going to be upset by Raj moving into my old room."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "But you are, aren’t you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I’m outraged."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Talk to me. Tell me what’s going on."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, that’s been my room since before I met Leonard, and now someone else is going to be living in it. And that someone else is not me. And you know how I feel about people who aren’t me."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "There are a lot of memories wrapped up in that room. For me, too. The first time you told me you loved me was in that room."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wrong. We were standing outside my room in the hallway."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "And there is the love of which I speak."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I realize it’s irrational, but with Raj moving in there, I’m feeling a bit replaced."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, this isn’t an easy time for him. He’s losing his apartment, he’s in debt, he’s probably humiliated."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, probably. But until we know for sure, how can I feel better?"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Can I get anyone anything at all?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Raj, you don’t have to serve us."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s the least I can do for helping me carry my stuff up."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It was really no problem."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Not for you, box of towels."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Anyway, thanks again."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, look at that. You’ve got a Raj, we’ve got a Stuart. Maybe we should take them both to the park and let them run around together."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know. Yours looks like he has worms."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon and Amy’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You ready to go?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All set."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What’s that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "A housewarming gift for Raj."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, a bunch of fake snakes better not spring out of it, ’cause that was a lousy anniversary present."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s nothing like that. I just, I thought about Raj’s situation, and I had a change of heart. You know, and regarding your gift, you said surprise me, and, boy, did I. Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Perfect timing. Food’s ready."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Uh, wait, before we eat, I have a little welcome to the building gift for Raj."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wait, is anything gonna jump out of that."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No. I already asked."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Thank you, Sheldon. It’s a blank notebook."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I had some of my best ideas in that room, and I’m sure you will, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "He also never had sex in that room. That’s something else to look forward to."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "This means a lot."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I know this is a difficult time for you. You’re losing your apartment, you’re in debt, and you just, you must be humiliated."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, good grief. She is such a stickler for citing sources. Those were Amy’s words."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I know, I know, good grief was originally said by Charlie Brown, geez."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You’re right, I am humiliated. Thanks for pointing it out. You’re such a jerk."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Can you believe this guy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Everyone",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I thought that was gonna break the other way."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Come on, Sheldon. Maybe we should just eat at our place."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Fine. You took my room. You turned my friends against me. I hope you’re happy."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What do I have to be happy about? My life’s a wreck."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "How come he can say it and I can’t?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Just keep walking."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon and Amy’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley (on skype)",
+      "text": "Hello, Sheldon. What a pleasant surprise. How are you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Honestly, I’ve been better. Do you have time? Leonard says you’re very busy these days."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Oh, I just say that because he prattles. What’s going on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, our friend Raj moved into my old room, and it’s brought up a lot of negative feelings for me."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Mm. Well, what do you think the loss of your room represents?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Beverley, you know I hold you in high esteem. Can we skip the part where you pretend not to know the answer, and get to the part where you tell me the answer?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Very well, but, uh, if you don’t mind, I’d still like to pause for effect. Now, you’ve recently moved in with Dr. Fowler, yes?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I have."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Clearly, your old room represents an escape hatch, and without it, you’re forced to confront the terrifying reality of being trapped in a relationship with Amy forever."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I hadn’t thought about that."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "And don’t start thinking about it now."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Hello, Amy. Your defensiveness may indicate similar insecurities about your relationship with Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "That’s not true."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "She said defensively."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "This isn’t about me and Sheldon. This is about Rajesh moving in with Leonard and Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Interesting. They’ve found a need to take yet another room mate. Seems they’re avoiding some harsh realities themselves."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I had no idea all our relationships were such a disaster. Boy, you’re good."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "That is the word on the street, dear."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Maybe moving in was a bad idea. I haven’t been here one day, I’m already causing problems."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You didn’t do anything. It’s Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You didn’t do anything, it’s Sheldon. That’d make a nice needlepoint pillow."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So, relax. We’re happy to have you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Thank you, but how do I know you’re not saying that just to be nice?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Do you actually pay for that haircut?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "That’ll do it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hey, Raj, I owe you an apology. Look, could you please put your dog on a leash?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Sheldon, she’s fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, then at least hold her still so I can pretend she’s stuffed. Raj, I let my emotions get the best of me, and I unfairly took it out on you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Thank you. I appreciate that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, I can’t take all the credit. I spoke with Leonard’s mother, and she made me feel better."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know who you talked to, but that wasn’t my mother."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Beverly pointed out that I’m experiencing insecurities in my relationship with Amy, in the same way that Leonard and Penny are in their relationship."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What are you talking about? We’re fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, you’re fine as long as you have a buffer living with you to distract from your marital problems. It used to be me. Now it’s Raj and his attack Tribble. Anyway, I’m sorry for everything. Oh, and FYI, if you cry while they’re fighting, they’ll take you to McDonald’s."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley (on skype)",
+      "text": "Hello, Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why are you saying we have marital problems? We don’t have marital problems."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "I see. You must be yelling at me out of wedded bliss."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Look, just because we took our friend in does not mean that Penny and I are afraid to be alone."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, this is a special circumstance."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Sheldon mentioned you tried to get your brother to live with you, as well."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, well, a circumstance can happen twice and still be special."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Do you agree with that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, now that you point it out…"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Are you kidding me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We do seem to keep finding room mates."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Now you’re taking her side?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Dear, I would never come between you and Leonard. That’s for your parade of room mates to do."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Howard? Howard? It’s me, it’s just me."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What are you doing here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, I texted you, but you didn’t respond. Leonard and Penny were arguing."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Not on my watch."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "It’s fine. It’s just Raj. You can hit him with the bat, but it’s fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "And if my heart stops, just let me go."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m sorry, guys. Sheldon was upset, Leonard and Penny were fighting, I just wanted to go some place where I wasn’t causing problems."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’ll say it again. India."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Can I just stay in the garage?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Don’t do that. We’ll make up the couch for you and figure out something in the morning."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Come on, I’ll get you some sheets. Then I’ll see if I can beat my high score on the blood pressure machine."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Never should’ve had all these kids so close together."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon and Amy’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I can’t sleep."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What’s wrong?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Beverley believes I unconsciously consider my old room an escape hatch."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Is that bothering you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes. I don’t care for unconscious thoughts. My brain and I are best friends. It should tell me everything."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I mean, how it relates to our relationship, not the bromance between you and your brain."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What if she’s correct? Doesn’t that say something troubling about us?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I don’t know. I just think you’re the kind of person who likes a contingency plan."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That is true. Did you know I figured out in which order I would eat all my friends in the event of an apocalypse?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You need to stop hanging out with your brain so much. It’s not a good influence."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s living room."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "If you’re looking for spare change, I already cleaned it out."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, didn’t think this is where my life would be."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Me, either. I’m in a bedroom and you’re on a couch. I’m actually winning."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You know, we’re both down on our luck. Maybe you and I should try to get a place together."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Okay, listen to me. There is no reason to leave here. This is great. Everyone’s nice. It’s comfortable. If all goes according to plan, this is my retirement home."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Wouldn’t you feel better about yourself if you were more independent?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Better than I feel in their steam shower? I don’t think so."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon and Amy’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Penny would be the entree. Then Leonard’s basically a cheese course. And because I love you, you’re dessert."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I want to say aw, but I’m gonna say ew."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s living room."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No, you see, I’m doing this so I can stop being spoiled and, you know, grow as a person."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Good for you. This sandwich has six dollars worth of ham in it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Don’t you even feel a little bad sponging off your friends?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Hey, look, I went to art college, I tried to make it as a graphic artist, a comic book artist, and you know what I got for my efforts? A visible rib cage. I’m not kidding. You could see my heart beating."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, no offence, but I didn’t go to art school. I have a PhD in astrophysics."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Oh, great, it’ll be easier for you to look up at the stars without a roof over your head."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Morning."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Did you know Raj moved out last night?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What? Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Leonard and Penny, I’m sorry for all the trouble I’ve caused. I went to stay at Howard’s. PS Cinnamon’s with me, but if you feel like messing with Sheldon, tell him she’s loose in the building."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I feel terrible."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Should we go bring him back?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, you’re the one worried having someone live with us is a sign of problems."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, that was just because my mother got in my head. It’s like being possessed, but instead of Satan it’s, actually, it’s the same thing."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right, so we’ll ask him to come back."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, great."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Don’t you want to get dressed first?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Just one second. Help, Cinnamon’s loose in the building."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon (off)",
+      "text": "Amy, quick, lock the door."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s living room."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "We’re so sorry if we made you feel uncomfortable. We really weren’t fighting about you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I just never want to be a burden on my friends."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Me, either. Don’t want to be a burden. Hey, is that the baby? I’ll go check."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You are not a burden, and we want you to come back and stay with us."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "But I also upset Sheldon, and he’s not gonna want to come over if I’m there."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "More reasons for you to stay."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Halley’s fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You know she’s at my parents’ house, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "And she’s having the time of her life."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "If you ever want to change things up, you’re always welcome here."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Just not in our bedroom, you dumbass."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I appreciate it, but I think staying with Leonard and Penny makes more sense for everyone."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Then it’s settled."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "And just so you know, it’s only temporary. I’m not gonna get too comfortable."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Good. Nobody needs a mooch living in their house forever."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Hey, that’s no way to talk about your baby."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon and Amy’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know what? I’m proud of us. Yeah, with Penny and Leonard taking in Raj, and Stuart living with Howard and Bernadette, we’re the only couple of our social group who doesn’t need to fill the holes in their relationship with a third party."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Yup, we’re killin’ it."
+    }
+  ]
+}

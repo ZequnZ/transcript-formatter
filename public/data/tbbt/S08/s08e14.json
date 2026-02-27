@@ -1,0 +1,1211 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 8,
+  "episode": 14,
+  "title": "The Troll Manifestation",
+  "url": "https://bigbangtrans.wordpress.com/series-8-episode-14-the-troll-manifestation/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So, tell me about your day, how’s it going with the particle detector?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Wow, you remember that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, I listen to what you say. You’re building a particle detector using superfluid helium."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You know, when you talk like that, I want to take you right here on this table."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "And you know from past experience this table cannot support both our weight. So, how’s the detector going?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, it’s tricky working with superfluids. Whatever container you put them in, they kind of creep up the sides and crawl out all on their own."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Kind of like Sheldon’s ant farm."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Exactly, except you don’t have a lunatic running around, yelling, I fed you sugar water, why are you biting me? Come on, this is boring, you really want to talk about this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, I do. I didn’t write superfluid helium on this napkin for nothing."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, well, this is cool. Uh, there’s a thing called superfluid vacuum theory, where empty space is imagined as a superfluid with all of its qualities, viscosity, density, surface tension…"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, if you’re pausing for dramatic effect, I’d keep it moving."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, no. People don’t talk about surface tension. If you imagine our three-space as the surface of an N-dimensional superfluid bubble… This is exciting. This is really exciting. I have to go find Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, well, if you find him, use the kitchen island, that coffee table will not support both of you."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Which means a spherical multidimensional superfluid shows the same negative-energy density as space-time. So what do you think? What do you think? So what do you think?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hmm."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What? Is it wrong? Have you seen it somewhere else?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hmm."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I know this isn’t my area, and I could never do the math like you can, but could this be something?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, you could have set Newton’s gravitational constant to one. And, ugh, the whole thing reeks of blueberry. You know I can’t stand these scented markers."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No one told you to taste them. Come on, is, is this good or not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s good."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Really?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I like it. I think you’re on to something."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You do? You’re not messing with me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Not at all. In fact, I have got something for just such an occasion. I was starting to think I might never get a chance to give it to you. Good job."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re giving me a sticker?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Not just a sticker. That is a sticker of a kitty saying me-wow."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m not a preschooler."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Fine, I’ll take it back."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I earned this. Back off."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re still awake?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "For a man whose last observation was our universe may be the surface of a multidimensional supercooled liquid, you’re still awake seems like quite the sophomore slump."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You worked out all the math."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I did more than work out all the math. I wrote a paper."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You wrote a paper on my idea?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I wrote a paper on our idea."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "When did my idea become our idea?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "When I mixed it with Sheldony goodness and cooked it in the Easy-Bake oven of my mind."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "This is good. Our idea is really good."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, the lightbulb in this oven is ridiculously bright."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You know, if no one’s thought of this, yet, this could be a big deal."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Only way we’ll know for sure is if we post it online to the pre-print server. I have it ready to go, but I wasn’t gonna do it without you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Wow, it’s all happening so fast. Should we just sleep on it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "We could, but we always run the risk of someone else beating us to the punch."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re sure it’s good?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "My name is right on there with yours. That is a surefire mark of quality. That might as well say directed by Joss Whedon."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, partner, let’s do it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Come on. Click the mouse with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "One, two three."
+    },
+    {
+      "type": "dialog",
+      "character": "Together",
+      "text": "Click."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, we did it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, we did, my friend."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Is your tongue blue?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t want to talk about it."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Okay, movie night, what do you want to watch?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Whatever happened to that ape movie you were in?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, God. Probably nothing. I think I saw the director twirling a sign outside the Verizon store."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Search for it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What, no, why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "‘Cause it would be fun to watch."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It would be humiliating."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Well, now we have two reasons."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "They have it."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Please, can we watch it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Please?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Fine, but I’m telling you, it’s terrible."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Have you even seen it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Well, maybe it turned out better than you think."
+    },
+    {
+      "type": "dialog",
+      "character": "Voice on TV",
+      "text": "Bananas, get your fresh bananas."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Ho-ho, it really didn’t."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s laboratory."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, this is superfluid helium. Put this in your mouth, your tongue will freeze and break off."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Does it smell like blueberries?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Then we’re probably okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, your paper got mentioned on the Quantum Diaries physics blog."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Really? What’d they say?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Uh, it’s basically a summary of the theory, but there’s a bunch of positive comments on the message board."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Let me see, let me see. One calls it insightful and innovative. We’re insightful and innovative."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, nice to meet you, Mr. Insightful."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, the pleasure is mine, Mr. Innovative. Uh, another one says the concept shows some real out-of-the-box thinking. Do you hear that, Mr. Out-Of-The?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I do, indeed, Mr. Box-Thinking."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "How are you today, Mr. Can-You-Believe-These-Jack-Asses?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Just dandy, Mr I-Wish-I-Was-Better-At-Improv."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Read another one."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, okay. Uh, the analogy between space-time and a supercooled fluid is either meaningless or false. I wish this blog would devote itself to real science instead of wasting our time with crackpot wannabe theoreticians in a rush to publish."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Who wrote that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s anonymous, and user name General Relativity."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I’m responding to it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, don’t lower yourself to their level."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Look, I am simply going to defend our work, scientist to scientist. And failing that, suggest that his mother enjoys a string of both human and non-human lovers."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, my name’s on that paper, too. There’s no upside to doing this."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "He just left another comment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What does it say?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Upon review, I’ve changed my mind about the Cooper-Hofstadter hypothesis that space-time is like a superfluid. In fact, it’s inspired me to come up with my own theory. Maybe space-time is like two clowns with their heads in a bucket, much like Cooper and Hofstadter."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Can I respond now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Do it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You mess with the bull, you get the horns. I’m about to show this guy just how horny I can be."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Somebody else do it."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(on television)",
+      "text": "Doctor, please help me. I think I might be turning into a killer gorilla."
+    },
+    {
+      "type": "dialog",
+      "character": "Doctor",
+      "text": "Why do you think you’re turning into a killer gorilla and not just a regular gorilla?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(on television)",
+      "text": "Because regular gorillas are vegetarians, and I just bit the fingers off your receptionist."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, we’ve seen plenty."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "No, give me the remote."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Careful. She’ll bite your fingers off."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, well, I’ve been poking around the internet, and I think I found something we’ll enjoy watching even more."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What is it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, just a video of Bernadette in a beauty pageant."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Okay, I learned my lesson. Making fun of people is wrong."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I haven’t learned my lesson. Play it. Play it."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "direction": "(on screen)",
+      "text": "Hi. I’m Bernadette Maryann Rostenkowski from Yorba Linda, California."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You look like a talking cupcake."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "direction": "(on screen)",
+      "text": "And you should pick me for Miss California Quiznos 1999, because I want to (singing) tell you what I want, what I really really want, l tell you what I want, what I really really want, I wanna, I wanna, I wanna, I wanna Really, really, really be Miss California Quiznos 1999."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Play it again. Play it again."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Did he respond yet?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hmm. No, not yet."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, maybe we shouldn’t have sunk to his level."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It wasn’t that bad."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Read it back one more time."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "My good sir, we are neither crackpots nor wannabes. In fact, we are experts in our fields. And while you hide behind your anonymity, we stand behind our paper. And later tonight, your mother."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "And you don’t think that’s too rough?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "We’re just standing behind her. It’s not like we’re gonna say boo and scare her."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "How could you not tell us you were in beauty pageants?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "‘Cause it’s embarrassing."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It is; it truly is."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Yeah, well, Amy writes Little House on the Prairie fan fiction about herself and posts it on the Internet."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Why? What did I do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Sorry, I had to get the spotlight off me, and tearing down other women is part of my pageant training."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay. We are reading that right now."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No, please don’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "We got embarrassed tonight. Come on."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "But it’s personal."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why? Is it about you and Sheldon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, my God, it’s about her and Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It’s not about me and Sheldon. It’s about a young woman in the 1800s named Amelia, and the time-traveling physicist named Cooper she falls in love with."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Please show us?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Please?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know I’m gonna read it either way."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Good luck finding it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Amelia and the time-trav… found it. It was just past dawn on the prairie, and like every morning, Amelia prepared to do her chores. Except something about this morning felt different."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Why? Why did it feel different?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Maybe it was the first whisper of winter in the air, or maybe it was the unconscious handsome man with porcelain skin and curious clothing she was about to discover lying in the field. A man who would open her mind to new possibilities and her body to new feelings."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You know, there was a time when I was alone and had no friends. I’m starting to miss that."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "He still hasn’t responded. What’s taking him so long?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Do you really want him to write back?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, I do. Then no matter how he responds, I am going to destroy him with a picture of a bored cat saying oh, really?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Me-wow."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’ve, uh, created some other user accounts so I can post positive comments about their paper."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "This wee li’l bairn of a theory nearly blew my kilt off."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No. You have to read it how Dr. Angus McDougal of the University of Edinburgh would. This wee li’l bairn of a theory nearly blew me kilt off."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "He wrote back. Cooper and Hofstadter resorting to juvenile attempts at humour is proof they have nothing to back up their ridiculous paper. It should come as no surprise given they work at Cal Tech, essentially a technical school, where even the physicists are basically engineers. Engineers? Do you know how insulting that is?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Guys, this person’s just going out of their way to get a rise out of you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, but it’s still so aggravating."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, well, all the other comments said really nice things. Focus on those."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah. Dr. Dmitri Plancovik of Moscow University said dis paper great, I love it more than wodka."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "See? Better with the accent."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And send."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What did you write?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m done hiding from bullies. I’m taking this into the real world."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What does that mean?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I told him we’ll meet him face-to-face anytime, anywhere."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Are you crazy? You don’t know who this person is. Delete that."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Come on, Sheldon!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, okay, okay, calm down. (Skype tone) It’s him. He’s trying to video chat. Perhaps I shouldn’t have taken this into the real world."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, really?"
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "“Time travel? I don’t understand,” said Amelia. Cooper stared at her. ‘Which word don’t you understand, time or travel?”"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Wow, even in your fantasies Sheldon’s kind of exhausting."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "He’s like that in the beginning, so she can change him. It’s called good writing. And wishful thinking."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It stung Amelia when he spoke to her this way. In her little one-room schoolhouse, she was always the smartest student, regularly besting the boys in her class, but this was no boy in front of her, this was a man."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Here we go."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Cooper told Amelia about all the strange and incredible things the future would hold, like computers and living past 30. He asked her if she had any questions. All she longed to ask was if his heart was beating as fast as hers, but she was too afraid to hear the answer."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, Amelia."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So instead she asked if, in the future, Montana ever became a state."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "In the 1800s that was considered flirting."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m so sick of people being mean on the Internet."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, I think the anonymity makes everyone feel like they can say things they’d never say to your face."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Interesting. I can’t think of a single thing I wouldn’t say to someone’s face."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Never noticed that about you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You know what? At least you guys did something. You know, you, you had a theory, you wrote a paper, you made an actual contribution. All guys like this do is just stand on other people’s work."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "He’s right. I say we call this person back. We’ve got no reason to hide."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "All right, do it. Call him. Let’s find out what this loser’s ever accomplished."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Click it with me. One, two, three, click."
+    },
+    {
+      "type": "dialog",
+      "character": "Stephen Hawking",
+      "text": "Well, hello there."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Professor Hawking?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stephen Hawking",
+      "text": "Oh, brother, you should see the look on your faces."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You really didn’t like our paper?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stephen Hawking",
+      "text": "I like your paper very much. The premise is intriguing."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Then why are you attacking us?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stephen Hawking",
+      "text": "If you were sitting in a chair for 40 years, you’d get bored, too. Anyway, got to go. I promised to help the neighbour kid with his maths homework. Ciao."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Stephen Hawking liked our paper. Said the premise is intriguing."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Good to see you again, Mr. Stephen-Hawking Liked-Our-Paper."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "And you as well, Mr. Our-Premise-Is-Intriguing."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "How do you do, Mr. I’ll-Admit-That’s-Pretty-Cool?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, you keep setting me up for failure."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "With a heavy heart, Amelia stood before the newly repaired time machine. She regretted giving Cooper the part he needed."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Because she wanted him to give her the part she needed."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Okay, that’s enough."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What? No, I really want to know what happens, and Bernadette really, really, really wants to know what happens."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You’re just making fun of me."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I was just kidding. I’m sorry. And the story’s really good."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, it is. Does he stay? Do they kiss? Does she find out about Montana?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Please?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Fine. As Cooper prepared to depart, tears filled Amelia’s eyes. He took her hand in his and said, “I can’t stay, but I will never forget you.” He brushed his fingers against her cheek, then quickly stepped into the machine. “Please don’t go,” she whispered. But it was too late. The engine hummed to life."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "But they didn’t even kiss."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "She turned away, wiping her eyes. She couldn’t bear to watch her one chance at true love disappear forever. Then she felt a strong hand on her shoulder spin her around. It was Cooper."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "“What about the future?” asked Amelia. He looked deeply into her eyes and whispered, “There is no future without you.” He pulled her in close. She began to tremble all over. She felt his warm breath…"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You will not believe what Stephen Hawking just said."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Get out!"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Not now!"
+    },
+    {
+      "type": "scene",
+      "text": "An 1800’s house."
+    },
+    {
+      "type": "dialog",
+      "character": "Amelia",
+      "text": "Is the water warm enough?"
+    },
+    {
+      "type": "dialog",
+      "character": "Cooper",
+      "text": "Given the fact that you took the time to build a wood fire, draw the water from the well and heat it, it would be rude to complain. But since you asked, it’s a little nippy."
+    },
+    {
+      "type": "dialog",
+      "character": "Amelia",
+      "text": "I can fix that. I couldn’t help but notice your unusual undergarments."
+    },
+    {
+      "type": "dialog",
+      "character": "Cooper",
+      "text": "They’re not undergarments. They’re Underoos. Where I come from, they’re known as underwear that’s fun to wear."
+    },
+    {
+      "type": "dialog",
+      "character": "Amelia",
+      "text": "And what’s the significance of the spider?"
+    },
+    {
+      "type": "dialog",
+      "character": "Cooper",
+      "text": "Oh, that represents Spider-Man. He does whatever a spider can."
+    },
+    {
+      "type": "dialog",
+      "character": "Amelia",
+      "text": "There’s a lot of rhyming in the future, isn’t there?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "direction": "(in bed)",
+      "text": "You’re right. This is even weirder than I thought."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You want me to stop reading?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Are you kidding? No, no."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "As he stood for Amelia to dry him…"
+    },
+    {
+      "type": "dialog",
+      "character": "Amelia",
+      "text": "So, tell me, Cooper, are the ways of physical love different in the future?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, okay, I’m good."
+    }
+  ]
+}

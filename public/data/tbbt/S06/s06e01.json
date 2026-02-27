@@ -1,0 +1,1219 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 6,
+  "episode": 1,
+  "title": "The Date Night Variable",
+  "url": "https://bigbangtrans.wordpress.com/series-6-episode-01-the-date-night-variable/",
+  "lines": [
+    {
+      "type": "direction",
+      "text": "Following a “Previously on The Big Bang Theory” section"
+    },
+    {
+      "type": "scene",
+      "text": "The Comic Book Store."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "So, Howard’s really in space, huh?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Mm-hmm, International Space Station. 250 miles that way."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Right now, Howard’s staring down at our planet like a tiny Jewish Greek god. Zeusowitz."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I must admit, I can’t help but feel a twinge of envy. He can look out the window and see the majesty of the universe unfolding before his eyes. His dim, uncomprehending eyes. It’s like a cat in an airport carrying case."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You know, it’s not exactly glamorous up there. The water that the astronauts drink is made from each other’s recycled urine."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Must be nice. Nobody wants anything that comes out of me."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I wonder what he’s doing right this very second."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Mm, conducting experiments in zero gravity."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Peering through his telescope at the birth of the cosmos."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Whatever it is, we know his life will never be the same."
+    },
+    {
+      "type": "scene",
+      "text": "The International Space Station."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz (off)",
+      "text": "Howard. Can you hear me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I can hear you without the phone,"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz (off)",
+      "text": "Don’t be snippy. I’m just excited to talk to my baby."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m excited to talk to you, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz (off)",
+      "text": "So, what’s this mishegas about you moving out to go live with the little Polish girl?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "How about calling her my wife?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz (off)",
+      "text": "Wives don’t take boys from their mothers."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "They do. That’s why we marry them."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz (off)",
+      "text": "I just hope I’m not dead from a broken heart before you get back."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Ma, please. Everyone from NASA is listening to this phone call."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz (off)",
+      "text": "Good. They should know what a horrible son you are."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, Ma, great talking to you. Gotta go. Well, space is ruined."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment. Penny is bleaching Amy’s upper lip."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "This is so exciting. Soon, my upper lip will be the same fake blonde as my beautiful best friend."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, this is my natural hair colour. Now. So, does Sheldon have anything special planned for you tomorrow night?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, yes. According to the Relationship Agreement, on the anniversary of our first date, he must take me to a nice dinner, ask about my day and engage in casual physical contact that a disinterested onlooker might mistake for intimacy."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That’s hot. You kids better use protection."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "How long does this stay on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Just a couple of minutes. You’ve really never done this before?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Once in high school, but I dozed off and woke up with second-degree chemical burns on my face."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, my gosh, that’s awful. The other kids make fun of you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No, I had a cover story, I told everyone it was herpes. So, how’s everything going with you and Leonard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh, I don’t know, it’s still kind of weird. We haven’t really recovered since he proposed to me in the middle of sex."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, boo-hoo. If Sheldon proposed to me during sex, my ovaries would grab on to him and never let go."
+    },
+    {
+      "type": "scene",
+      "text": "The university cafeteria."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard, where do you stand on the anthropic principle?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Interesting question. On the one hand, I always thought…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You don’t even know what it is, do you? The anthropic principle states that if we wish to explain why our universe exists the way it does, the answer is that it must have qualities that allow intelligent creatures to arise who are capable of asking the question. As I am doing so eloquently right now."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I know what the anthropic principle is."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Of course. I just explained it to you. Now, where do you stand on it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Where do you stand on it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Strongly pro."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Then I believe that God created the world in six days, and on the seventh he made you to annoy me."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, wait, Raj, where do you stand on the anthropic principle?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m all for it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Attaboy!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, hang on. Why do you believe that he knows what it is and I don’t?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, Leonard. Let’s not take a saw to the branch we’re sitting on, shall we?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, uh, if you guys are free tonight, I heard about a spa where you soak your feet n a pool full of little fish that eat all the dead skin right off them. I don’t need to tell you in Los Angeles, sandal season is year round."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Actually, I’m hanging out with Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, okay. Sounds like it’s me and you, Sheldon. How about we sic some guppies on those puppies?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "As I’ve stated before on numerous occasions, the only sea creature I would even consider being eaten by is the Kraken, because the last words I would hear are “Release the Kraken.” That never gets old. “Release the Kraken!” Oh, chills. Besides, I’m having dinner with Amy."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, okay. I’ll just go home and be alone. Which is cool. I eat alone, I sleep alone, I cry alone, so, cool."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Darn. If you weren’t busy, I’d ask you to join us."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Really? I can come? Thanks."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, are you sure you want to be bringing Raj on your date night with Amy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, absolutely. I have a contractual obligation to provide Amy with conversation and casual physical contact, but nowhere is it specified that I can’t outsource that to an Indian."
+    },
+    {
+      "type": "scene",
+      "text": "The International Space Station"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette (on webcam)",
+      "text": "Howie? Howie?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, there’s my beautiful bride. Can you see me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I can. How are you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m amazing. I mean, this is even better than I dreamed. I look out the window, and it’s all so unbelievable."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Good for you. I just had a seemingly endless dinner with your mom."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, yeah? That’s nice."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "It was. Until I found out you never told her we’re not gonna live with her. Let’s talk about that for a minute."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, look, this pen is floating. How crazy is that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You said you told her, but you never did!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, okay, I know you’re upset, but let me share something I’ve learned since I got here. You realize how small your problems are when you’re looking down on them from space. Now, come on, that’s got to make you feel better."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "How clear is the image of me on that screen?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Pretty clear."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Do I look like I feel better?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I mean, it’s not, like, HD quality."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Listen, mister, you’re gonna talk to your mother and you’re gonna fix this, or that thing I said I was gonna do to you the minute you got home, you can do to yourself."
+    },
+    {
+      "type": "dialog",
+      "character": "Dimitri",
+      "text": "Like he’s been doing since he got here."
+    },
+    {
+      "type": "scene",
+      "text": "A restaurant."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, this place is so romantic."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I’m glad you like it. Raj picked it out."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, when you see him, tell him I say thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Tell him yourself."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yoo-hoo! Over here!"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I don’t understand. What’s he doing here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I invited him."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "On our date? Sheldon, that’s not okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, it is. There’s a loophole in the Relationship Agreement."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You found a loophole?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Sorry I started without you. I’m a little nervous. It’s been a long time since I’ve been on a date."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I can’t believe I bleached my moustache for this."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You should go to my girl. She’ll knock out those sideburns for free."
+    },
+    {
+      "type": "direction",
+      "text": "Later."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You know, Amy, I don’t even think you and I have had a real conversation. Let’s use tonight to get to know each other a little better. You start."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Go home."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I don’t understand."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, how could you do this? It’s our second anniversary."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s your anniversary? Oh, my God, I had no idea. Amy, please, let me make this right."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "My pleasure. Waiter? A bottle of champagne and three glasses. Oh, boy, isn’t this romantic?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I hope that’s a rhetorical question, because I have no clue."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "This is great. What’s the occasion?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No occasion. You know, things have been a little weird between us, so I wanted to throw together a fun night just for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That is so sweet."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I got all your favourites. Beer, wings, sliders. We can watch the football game. I even painted my stomach."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Go Sports?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, in case you were in the mood for baseball, I didn’t want to look ridiculous."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "This is awesome. I love it!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Good, I’m glad."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Gosh, I worked my ass off today. This is exactly what I needed."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Great. Just relax and enjoy. Tonight is all about you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Ah, thank you!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, where exactly are we in this relationship?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, come on. I just told you I had a hard day."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re right, I’m sorry. Let’s watch the game."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Great."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I just know the longer we wait to talk about it, the weirder it gets."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sweetie, can I just be the girl tonight?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Absolutely. You’re the girl, I’m the guy. Now, you watch your football game while I make you a little plate here."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Thank you. (Knock on door)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, I’ll get it. Go sports."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hello-lo-lo."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What are you doing here? I thought you were out with Sheldon and Amy."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I was, but it’s their anniversary and I didn’t want to be a third wheel, so I figured I’d come over here and hang out with you and Penny on your date."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, it’s not really a great time. Penny and I have some things we need to talk about."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, we don’t! Come on in!"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Sweet!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I can’t believe I shaved my stomach for this."
+    },
+    {
+      "type": "scene",
+      "text": "The International Space Station"
+    },
+    {
+      "type": "dialog",
+      "character": "Dimitri",
+      "text": "Hey, Froot Loops. You got a phone call."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Who is it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Dimitri",
+      "text": "A woman who says she’s your mother but sounds like your father."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, Ma. You know, we could see each other if you turn on the computer."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz (off)",
+      "text": "I’m not going near that fakakta thing. I’ll catch a computer virus."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You can’t catch a computer virus."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz (off)",
+      "text": "Oh, so now you’re an astronaut and a doctor?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What do you want, Ma?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz (off)",
+      "text": "Your wife says you have something important to tell me."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, here it is. Bernadette and I are starting a life together and…"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz (off)",
+      "text": "Oh, God! You are gonna leave me."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Ma…"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz (off)",
+      "text": "It’s okay. Your father left me, you left me, I guess I’m just the kind of person people like to leave."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It’s not definite. I’ll talk to Bernadette."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz (off)",
+      "text": "Don’t bother. I’ll just go sit in a hole in the ground so I’m no trouble when I die."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Stop it, Ma. I’m sure I can get Bernie to come around."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz (off)",
+      "text": "I knew it. I knew she was behind this. You listen to me, if you want to be a man you can’t let a woman tell you what to do."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Dimitri",
+      "text": "Oy. I can’t believe these people won the Cold War."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Now, can we please change the subject?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz (off)",
+      "text": "Fine. Explain why you’ve been gone so long and I haven’t gotten a single letter. Not even a lousy postcard."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You know, I’m growing to like American football."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, it’s fun, isn’t it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, it’s not the balls-to-the-wall action of badminton or cricket, but hey, what is?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right, who’s ready for another beer?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m good."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No, thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Girls."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, I’m having the nicest time. You guys are like family to me. You know that, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s great. Get out."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What? Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Penny and I have some issues we need to talk about."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh pish on your issues. You guys are fine. Yes, you hit some bumps along the way. I mean, Penny, you’ve always known how this man has felt about you, but you made him grovel for affection."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, hold on…"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Now, don’t blame yourself. He was a groveller from way back. But the point is, the two of you got past it. And, Leonard, you go and propose to this poor girl in the middle of sex? That was some weak tea, dude."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Some people might say it was romantic."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, no. But yet, here you two are, still together. And that’s even after you and I had our crazy naked night."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That’s enough."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m just saying that after everything you’ve been through, you get to look into each other’s eyes and say “I love you.” And that’s beautiful."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Actually, to this day, she’s never really said it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, Penny. That’s ridiculous. You know you love him. You, you look him in the eyes and you say it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Raj."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh come on, you know you want to say it. Say it. Say you love him. Say it!"
+    },
+    {
+      "type": "scene",
+      "text": "The hallway. Raj is ejected from the apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I really thought she would say it."
+    },
+    {
+      "type": "scene",
+      "text": "The restaurant."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Have I ever told you you’re like a sexy praying mantis?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Every time you drink alcohol."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You know what’s wonderful about the praying mantis? They devour their mate."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Your point being?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Dessert is served."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I just had cobbler."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You know what? I’m done with this."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "W-Where are you going?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’m leaving."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You can’t leave. I need you."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes. You’re my ride."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, you either say something meaningful and from the heart, or you and I are done."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right. Please. Amy, when I look in your eyes and you’re looking back in mine, everything feels not quite normal, because I feel stronger and weaker at the same time. I feel excited and, at the same time, terrified. The truth is, I don’t know what I feel, except I know what kind of man I want to be."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, that was beautiful."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I should hope so. That’s from the first Spider-Man movie."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’ll take it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Good. Now, I assume we’re splitting the cheque?"
+    },
+    {
+      "type": "scene",
+      "text": "The Comic Book Store."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, Stuart."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Oh, hey. I was actually just about to close up."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, I’m sorry. I’ll leave."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "No, no. It’s okay. Hang out."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You sure?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Yeah, you’re my first customer today."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "All right. Great."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "I’m, uh, having a nightcap. You want to join me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What are you drinking?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Coffee liqueur in a Chewbacca mug. I call it a sad-tini."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Perfect for the night I’m having. Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Hmm. Nice not to drink alone."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Amen to that. Sometimes I pour a little chardonnay into my dog’s water bowl."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "You’re kidding."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "She’s kind of a mean drunk, but what are you gonna do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Cheers."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Cheers."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "A little music?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Sure. Mmm. Bossa nova. You listen to that with your hips as well as your ears."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Mmm."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh. Something about latin music just makes me feel like I’m on a white sand beach in Rio."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Yeah. The sun, the waves, the beautiful bodies, tanned and glistening with sweat."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I should go."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Uh, thank you for the drink."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "No problem."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, Stuart."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Yeah?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Do you want to hang out tomorrow night, maybe grab a bite to eat or catch a late movie?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Yeah, I-I’d like to, but I’m a little tight on funds."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No problem. My treat. I’ll swing by after work."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "I could do worse."
+    },
+    {
+      "type": "scene",
+      "text": "The International Space Station"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Aw, that’s such good news, Howie. Thank you for telling her."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, I’m a grown man. I’m gonna live with my wife. My mother’s just gonna have to learn to make do on her own."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Was she upset?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Who can tell? She yells everything. She might have been upset. She might have been hungry."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Thanks for fixing it. I love you."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I love you, too. Sweet dreams. I’ll talk to you tomorrow?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Good night, Rocket Man."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "To infinity and beyond, baby."
+    },
+    {
+      "type": "dialog",
+      "character": "Dimitri",
+      "text": "Loops. You realize you just lied your ass off to your wife and your mother."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I know."
+    },
+    {
+      "type": "dialog",
+      "character": "Dimitri",
+      "text": "What are you gonna do when you get back to Earth?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, I’m never going back."
+    }
+  ]
+}

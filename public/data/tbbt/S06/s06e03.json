@@ -1,0 +1,1050 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 6,
+  "episode": 3,
+  "title": "The Higgs Boson Observation",
+  "url": "https://bigbangtrans.wordpress.com/series-6-episode-03-the-higgs-boson-observation/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "Webcam conversation between Bernadette’s Office and the International Space Station"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, Bernie."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Hey, how’s my little astronautie hottie?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, I guess. It’s just, being cooped up in this tin can for weeks on end is starting to get to me."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Well, hang in there. You just have a couple more days to go, and then you’ll be home."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I know."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I got to get back to work. I love you."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Love you too. Hey, Bernie? Before you go, can you do something for me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What do you want me to do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, here it is. I really miss gravity. Can you drop something so I can watch it fall?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Really, you’re serious? Okay. (Drops a pencil)"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, baby, you’re killing me."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment. Penny enters, carrying a box."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Ugh. Hey, Sheldon? Hi. This came for you today. It’s from your mom."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, thank you, Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "M-hmm."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, wait, here. For your troubles."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, boy, a whole dollar. Now, I can quit my paper route. So, what’s in it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Mmm, doesn’t matter. Half the time, he just ends up playing with the box."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, it’s journals and research papers I wrote as a child."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Aw, how cute. Is this like a diary?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, that’s my potty training journal."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Really, your potty training journal?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah. And forgive my crude penmanship. I didn’t start typing until I was six."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "August 7, 8:42 a.m. This is humiliating. What was wrong with diapers?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "There are some charts in the back where I kept track of shape, colour and consistency."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, disgusting."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, what’s disgusting is he’s still keeping track."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why do you need all this stuff?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, no, no, no."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sorry!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I am glad you asked. Are you familiar with the Higgs boson?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Of course, it is, it’s been in the news. And it’s a very famous boson."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Nice try. Now, in 1964, Dr. Peter Higgs, accomplished self-promoter and physicist, he wrote a paper postulating the existence of a subatomic particle called the Higgs boson. Now, initially the paper was rejected, but recently, he was proven right, and now he’s on the fast track to win a Nobel prize."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, that’s basically what I said."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, the point is Higgs is being celebrated for work he did 50 years ago, so that got me thinking, perhaps I’ve already hit upon the idea that will win me my Nobel prize."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I didn’t know they gave Nobel prizes for making boom-boom in the potty."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You really think there’s some kind of scientific discovery in here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, this box only covers my work through nursery school. There’s a good deal more to come. I didn’t really hit my academic stride until I cut out that time-suck known as playing outdoors."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, you’re going to spend hours and hours combing through all this stuff?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s a good point. My time is much too valuable. You know, perhaps I should find someone to do it for me. You know, someone with a rudimentary understanding of science, but whose real talents lie in menial labour."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Not gonna happen."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, if I didn’t think you could handle it, I wouldn’t be asking."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "If you want help, just hire a grad student."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Maybe I could do it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You, really? You can assess the quality of my work? Okay, um, here. I wrote this when I was five years old."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "A proof that algebraic topology can never have a non self-contradictory set of abelion groups. I’m just a blonde monkey to you, aren’t I?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You said it, not me."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon’s office."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, Ms. Jenson. Uh, before we begin, may I offer you a refreshment? Water, coffee, tea, a marijuana cigarette?"
+    },
+    {
+      "type": "dialog",
+      "character": "Ms Jenson",
+      "text": "No, thanks. I’m fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Now, are you sure? Everyone’s smoking them. I think they’re the best."
+    },
+    {
+      "type": "dialog",
+      "character": "Ms Jenson",
+      "text": "I don’t do drugs."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Excellent, yeah. That was a ruse. They’re not the best. Physics is the best. And by the way, coffee was also an unacceptable choice. All right, so I see here you’re from Des Moines, Iowa. Uh, you’re summa cum laude in theoretical physics from Stanford University. Oh, and two years ago, you had a persistent ear infection. I hope that didn’t cause any hearing loss."
+    },
+    {
+      "type": "dialog",
+      "character": "Ms Jenson",
+      "text": "No, of course not. How did you know about that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I did a comprehensive background check. Medical records, credit reports, criminal history. (Hiding mouth behind book) I trust you paid off those parking tickets."
+    },
+    {
+      "type": "dialog",
+      "character": "Ms Jenson",
+      "text": "Yes, I did."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hearing unimpaired, good."
+    },
+    {
+      "type": "dialog",
+      "character": "Ms Jenson",
+      "text": "Look, Dr. Cooper, I really want this position. It would be an incredible honour to work for a man of your brilliance."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Flattery will not get you this job, Ms. Jenson."
+    },
+    {
+      "type": "dialog",
+      "character": "Ms Jenson",
+      "text": "It’s not flattery if it’s the truth."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, well, thank you. Welcome aboard."
+    },
+    {
+      "type": "scene",
+      "text": "A University corridor."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You talk to Howard lately?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Uh, yeah, last night. He kept making me drop pencils for him. I got uncomfortable. (Entering Sheldon’s office) Hey, Sheldon, hope you’re hungry, they’re serving macaroni and… (spots Ms Jenson) che-ee-ee-ese."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Smooth. Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Ms Jenson",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, aren’t you going to introduce us?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. I have people for that now. You’re up."
+    },
+    {
+      "type": "dialog",
+      "character": "Ms Jenson",
+      "text": "I’m Alex, Dr. Cooper’s new assistant."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Ah, congratulations and may God have mercy on your soul. I’m Leonard. This is Raj."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "It’s nice to meet you. I’m so excited to be working with Dr…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, please reserve chitchat for your breaks, Ms. Jenson. FYI, there will be no breaks."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "I should probably get to work."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "She seems nice."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, you already got a girlfriend. I call dibs."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "All I said was she seems nice."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, well, I love her."
+    },
+    {
+      "type": "scene",
+      "text": "Webcam conversation between Bernadette’s Office and the International Space Station"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Hey, I wasn’t expecting to hear from you today. Everything okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Uh, no, not really."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What’s wrong?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, remember the Soyuz capsule they were sending to bring us home?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Uh-huh."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It’s delayed. We’re gonna be here at least another week. Maybe ten days. It’s the Russians, so you don’t know. They left dogs up here in the sixties."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Come on, Howard. No one’s leaving you up there."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I don’t know how much longer I can take this. I can’t sleep, and zero gravity is giving me crazy acid reflux. I’m down to my last three Tums."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You’re going to be fine. You survived that Weight Watchers cruise with your mom. And they ran out of low-fat ice cream on day two. Just calm down and take a few deep breaths."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, okay. What am I doing? I’m using up all the oxygen. If I die, promise you’ll never have sex with another man."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment. Amy is applying very red lip gloss."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, yeah. I’m a man-eater now."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, for the final touch, this is an eyelash curler. You just place it on your lashes and squeeze it closed."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, I don’t know. Looks like something used by Tinkerbell’s gynecologist."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Who I hope for her sake is not Captain Hook, so… who are you calling?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’m going to video-chat Sheldon. If my new look leads to phone sex, I’m going to have to ask you to leave the room."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "Dr. Cooper’s office."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, hello. Who are you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "I’m Alex, Dr. Cooper’s assistant. Can I help you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’d like to speak to Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "I’m sorry. He’s asked me to hold all calls unless you’re Stephen Hawking, his mother or himself from the future."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "All right. Well, tell him Amy called."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "Last name?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "He knows my last name. I’m his girlfriend. We have a contract and everything. I’ll send you a PDF."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "All right, I will tell him you called."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hmm, that’s weird."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon told me he had a new assistant named Alex. He didn’t mention that Alex was a girl."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Maybe he didn’t notice."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You’re right. I don’t have to worry about Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, you do not."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It’s her I have to worry about."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, Amy, really? She is not going to come on to Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, really? Look at this face (Sheldon’s picture on phone) How can any woman spend eight hours a day alone with this face and not fall in love with it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, for starters, at some point, that face starts talking."
+    },
+    {
+      "type": "scene",
+      "text": "University corridor."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Amy, this is crazy. You have nothing to be suspicious about."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’m not suspicious. I just want to stop in, say hi to my boyfriend and meet his new assistant. (Throwing open Sheldon’s office door) Aha!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Can we go now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hang on. (Rubs Sheldon’s telephone receiver under her armpit)"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Isn’t it obvious? I’m spreading my scent to mark my territory."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Come on, Amy. That is not gonna work."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Really? Because just before you became my best friend, I did this all over your apartment."
+    },
+    {
+      "type": "scene",
+      "text": "The cafeteria."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Has your, uh, assistant said anything about me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, in fact, she has. Uh, her exact words were, what is that guy’s problem?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m in her head. Let the dance begin."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "Here’s your frozen yoghurt, Dr. Cooper."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "This should be fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Half chocolate, half vanilla, side by side, not swirled?"
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Half a teaspoon of sprinkles?"
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "Rainbow, not chocolate."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Two cherries?"
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "One on top, one on the bottom."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Stems removed?"
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "Um, top one, yes. I didn’t check the one on the bottom."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh!"
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "I’m so sorry, Dr. Cooper."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s all right, Alex. I’m not mad at you, I’m just disappointed."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Wait, Alex. Do you want to join us?"
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "Um…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Uh, Alex, a moment. I need a word with Dr. Hofstadter. Do you think it’s appropriate for her to sit with us, given her station?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Given her what?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If I’ve learned anything from British television shows on PBS, it’s that servants dine downstairs with their own kind."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s a kindness, Leonard. Otherwise, you’re cruelly tempting them with a glimpse of a world that’s just beyond their soot-stained fingertips."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, sure. Please join us."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "Oh, okay. Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, Alex, what’s the topic of your dissertation?"
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "I’m looking for Trojan asteroids at Earth’s L-Five Lagrange point."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, that happens to be Dr. Koothrappali’s field of expertise. You two have a lot to talk about."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "Is that true? Is he all right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No. But compared to your boss, he’s the poster boy for sanity."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "It’s okay, I’ve been around scientists all my life. My dad’s an astronomer at SETI."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, SETI, the Search for Extraterrestrial Intelligence. You should introduce him to Sheldon. The search is over."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "So, what kind of research are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "High-energy lasers."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "Ooh. Military?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Not yet, but I can remove unwanted hair from two miles away."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "direction": "(to Penny, on other side of room)",
+      "text": "You were right. I had nothing to worry about. That skank’s your problem, not mine."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "You’re very funny, Dr. Hofstadter."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(choking)",
+      "text": "Cherry stem! Cherry stem!"
+    },
+    {
+      "type": "scene",
+      "text": "Webcam conversation between Bernadette’s Office and the International Space Station"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "How you doing, Howie? You feeling a little better?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, a lot better, thanks. One sec. Listen close, I don’t have a lot of time. I need you to go to my house. In my bedroom, you’ll find a model rocket. I want you to take it and bring it back to your place."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Step two, build a version roughly fourteen stories high. Fill it full of rocket fuel and come get me. I’ll leave the door unlocked."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Howie, honey, maybe you should talk to someone, let them know you’re having a little anxiety."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, no, I’m fine. No anxiety. We should probably talk in code. From now on, frog is me, sandwich means you and lemon means rocket. So, come on, sandwich, build me a lemon ’cause froggy wants to come home."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Look at you, putting on a brave face."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "There’s nothing to be brave about. Everything’s fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Really? I don’t know how much you know about primate behaviour, but Sheldon’s assistant was clearly courting Leonard. Were she a mandrill, she would have bent over and displayed her brightly coloured hindquarters like a big red welcome mat. By the way, you try that at the junior prom, you get kicked out."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, maybe she was flirting with him, but who cares? Look, I don’t even know where my relationship is with Leonard is right now."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "So says your prefrontal cortex. But meanwhile, the limbic system of your brain is calculating that if another woman is attracted to Leonard, it must be because he’s desirable."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, of course he’s desirable. I mean, he’s great. He’s smart, he’s sweet, and, ooh, in the bedroom, whew, let me tell you, he really tries."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "So it does bother you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Fine, it bothers me a little. No. You know what? This is stupid. It doesn’t bother me. Okay, it bothers me. But only because she wouldn’t stop laughing. Leonard is not that funny."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "And there you have it, prefrontal cortex reasoning versus limbic lust. If this were a boxing match, they might call it the thrilla adjacent to the amygdala. If you were a brain scientist, you would be busting a gut right now."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So, how was work today?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Ah, it was all right, I guess. Got to Heimlich a cherry stem out of Sheldon. Caught Raj right in the eye."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh! You’re kidding."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, Raj had to go to the nurse."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wow. Anything else?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Mmm, the nurse is a woman, so he couldn’t talk to her. She had to bring him a Grover puppet so he could point at what hurt."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, is that it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Isn’t that enough? It had the weaponised fruit and a puppet. What more do you want?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(arriving with Alex)",
+      "text": "Oh, good, Leonard, you’re here. Science news. This will interest you. And, Penny, feel free to paint your nails."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What do you got?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I believe Alex may have unearthed the grade school science project that could be my ticket to the Nobel Prize. Behold."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Magnets: What Do They Stick To? If the answer is metal, it’s not exactly groundbreaking."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The original title was “A Rederivation of Maxwell’s Equations Regarding Electromagnetism”” I dumbed it down because some of the more religious people in town were starting to say I was a witch."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "Sheldon thinks the approach in this paper might change the way we calculate ferromagnetic hysteresis."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, it’s about time. I hated the old way. Hi. I’m Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "Alex. Uh, do you work with Dr. Hofstadter?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "In a way. We’ve kind of been involved in a five-year experiment."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "Oh. Well, you’re lucky. He seems very talented. And I’m sure a lot of people want to work with him."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, a lot of people can’t. Uh, hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Where are we going?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "My limbic system wants to take your pants off."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "She seems nice."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Notice people on your own time. We’re working."
+    },
+    {
+      "type": "scene",
+      "text": "Webcam conversation between Bernadette’s Office and the International Space Station"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Hey, Howie, how you feeling?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Better. Much better. The other astronauts held me down, gave me a shot. Oooh. Attention, people of Earth. Tonight, there will be two moons in the sky."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Howie, stop that. NASA’s watching this! Put your pants back on!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Whee! Whee!"
+    }
+  ]
+}

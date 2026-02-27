@@ -1,0 +1,1259 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 7,
+  "episode": 9,
+  "title": "The Thanksgiving Decoupling",
+  "url": "https://bigbangtrans.wordpress.com/series-7-episode-09-the-thanksgiving-decoupling/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "The math is all there. It’s not real."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yes, it is."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah,uh, look, it is scientifically impossible for a person to tip a cow. Even you, with your stocky build and lumberjack shoulders, you couldn’t do it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s horrible. Why would you push a cow over? They’re sacred."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, stop it. I’ve seen you eat, like, a million hamburgers."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, an animal can be both sacred and delicious."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Look, I’m telling you I’ve done it, okay? I clearly remember the cow standing up and then the cow on its side."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Were you drunk?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I was 16 in Nebraska. What do you think?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I think you’re the one who fell over."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That would explain why the sky was also on its side."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Howard. Cow tipping. Real or not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Mmm. I’m gonna say not. That’s just based on me trying to roll my mom over when she’s snoring. Speaking of that big side of beef, uh, she’s invited all of you to Thanksgiving at her house."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Mmm. You know, I’ve been told that a bald refusal of an invitation is rude and one must instead offer up a polite excuse, so I’d love to go, but, unfortunately, that sounds awful."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Come on, it’ll be fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh, we were actually gonna do it here."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Please? Bernadette’s bringing her dad ’cause her mom’s out of town, and I never have anything to say to that guy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, since you put it that way, I’d love to go, but that sounds even more awful."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’d actually be nice to not hear Sheldon complain about my cooking all day."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Uh, excuse me, but every year you prepare a terrible meal and every year I criticize it. Do our traditions mean nothing to you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I want to go."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, me, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m in."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Ugh, fine, I’ll go. But if her food is delicious, Thanksgiving is ruined, and it’s on you."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Do we really have to go to Mrs. Wolowitz’s house?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "We do. And I expect you to be on your best behaviour."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Now I know how the African slaves felt. Being dragged from their homes to labour under the yoke of the white man."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Are you honestly comparing Thanksgiving dinner at Wolowitz’s mom’s with one of the greatest tragedies in the history of mankind?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon, you can have a nice Thanksgiving anywhere. I spent one in Vegas."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You did?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, back when I was dating Zack. It was actually more fun than I thought. We gambled, we went to one of those cheesy wedding chapels, we had a really good turkey dinner. Which was surprising, since we were at a strip club."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Wait, you went to a chapel?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "We had one of those silly fake weddings."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Penny, you know those are real, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, they’re not."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, they are."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, they’re not."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, they are."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "He’s right."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "They’re real."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "But it didn’t seem real."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Let me ask you a question. At any point, was Las Vegas on its side?"
+    },
+    {
+      "type": "scene",
+      "text": "Mrs Wolowitz’s house."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Hi, Dad."
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "Hi, honey."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, you brought beer for everybody."
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "Uh, okay, yeah, it’s for everybody. I really just wanted to have a nice, quiet day at home and watch the game."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You can have a quiet day and watch the game here."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz (off)",
+      "text": "Howard, the medicine’s not working."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard (off)",
+      "text": "You just took it. At least let it reach your first stomach. (entering) Hey, Mike. Let me help you out, there."
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "Thanks. What’s wrong with your mom?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, her gout’s flaring up. Turns out an apple pie a day does not keep the doctor away."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz (off)",
+      "text": "How can one little toe hurt so bad?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Maybe because that little piggy is being crushed by the barn. She should quiet down soon. I gave her enough pain meds to choke a, well, her."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I guess we’re gonna have to do all the cooking."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I have a better idea."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "If you think you’re gonna make me do all this by myself, you’re crazy."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I was gonna make Raj do it all by himself."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, well, that’s a great idea."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No traffic, we’re sailing."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes. Like we’re on a ship. Coming from Africa to America."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, that’s completely inappropriate. You can’t keep comparing yourself to a slave."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, Miss Amy."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I can’t believe you’re married to that idiot."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Ugh, would you stop? We just did it as a goof."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, a goof or not, you’re actually married. You need to get this taken care of."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I will. Why are you making this such a big deal?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, oh, oh, I have a reason. It could be because you said yes to marrying Zack, but every time Leonard’s proposed, he’s gotten a resounding no. Yeah, that’s just off the top of my head."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So how do I undo this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m hoping you can get an annulment. It’s just like it never happened."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Great, well, what do I have to do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It says here you can get an annulment if any of the following conditions are met. Were you unable to consummate the marriage?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hah!Penny? Next."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Is there any evidence of fraud, bigamy, want of understanding?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Want of understanding? What does that even mean?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Ding, ding, ding. We have a winner."
+    },
+    {
+      "type": "scene",
+      "text": "Mrs Wolowitz’s kitchen."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Thanks for saving the day."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Ah, no problem. It wouldn’t be Thanksgiving without an Indian providing the food. Uh, now, where does your mom keep the Crisco?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Um, I don’t know. Probably in a wad in her cheek."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I’ll help Raj in here. Why don’t you go keep my dad company?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "He doesn’t want me in there. I’m the creepy little guy who has sex with his daughter."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Don’t be silly, he loves you."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Does he?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Okay, he cares about you a lot."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Really?"
+    },
+    {
+      "type": "scene",
+      "text": "The living room."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I do crap for you all the time. Get out there."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So your wife’s in Arizona with the grandkids?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "Uh-huh."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You know, my mom’s been to Arizona. She rode one of those mules down in the Grand Canyon. Long story short, they had to shoot it. ‘Cause she’s so fat. I’ll get the door while you finish laughing. Hey, guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Happy Thanksgiving."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It smells wonderful. Is anyone slaving away in the kitchen? Because I, too, know…"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Here. Thank you for having us."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What’s with you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, she’s mad at me because she just found out she’s married to Zack."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Really? That dumb-ass she used to date? That’s hysterical."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I can’t believe I felt bad for opening this in the car."
+    },
+    {
+      "type": "scene",
+      "text": "The kitchen."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You need any help?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Uh, yeah, can you, uh, reach that, uh, gravy boat up there?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Uh, sure."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Great. That makes one of you. Okay, we have a lot to do and not much time to do it. Bernadette, you’re on corn, gravy and yam detail. Amy, you’re on rolls, cranberries and making sure Bernadette stays away from the marshmallows. That’s right, I see you. Okay, if you have any questions, I’ll be over here basting my ass off. Focus is key."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Did you guys know Penny married Zack three years ago?"
+    },
+    {
+      "type": "dialog",
+      "character": "Together",
+      "text": "What?"
+    },
+    {
+      "type": "scene",
+      "text": "The living room."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You ever play football?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "A little in college. You?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No. But I did get tackled in the hallway once. The whole school cheered."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, I found the, uh, court papers that you and Zack need to fill out. I’ll print them when we get home."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "And we can just put this whole thing behind us."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Are you done?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Look, I get it, I screwed up. Is this all we’re gonna talk about the rest of the day?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why are you mad at me? You’re the one that did the stupid thing. I’m just trying to fix it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Ugh, I need some air."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Wuh, Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t know the first thing about women, but I would not follow her."
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "Listen to Stretch."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "How am I the bad guy? She’s the one who married someone else. I’m the victim."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sounds like Zack’s the victim. You’re sleeping with his wife."
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "I’ve kept my marriage together for 35 years. Can I weigh in here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sure."
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "I’m trying to watch the game. Shut up. Oh, how do you not make a first down there?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "They passed against a nickel defence. They should have run it off-tackle."
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "How the hell do you know that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "My father loved football. He always made me watch it before I was allowed to do my homework."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, you’ll be happy to know I just spoke to Zack and he’s willing to sign the court papers. He’s on his way here now."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Wait, you invited him here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "I’m getting ready to weigh in again."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Come on."
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "What do you think they ought to do now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I would throw a quick slant to a wideout, given that the defence is showing blitz."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, I love a good blitz, especially with sour cream. Get it? ‘Cause it sounds like blintz."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz (off)",
+      "text": "Did someone say blintz?"
+    },
+    {
+      "type": "scene",
+      "text": "The dining room."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I just don’t understand why you invited him here today."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Because you wouldn’t shut up about it. When I called him, he had nothing to do, so I just thought it would…"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, guys, I’m trying to cook in here."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, sorry. We’ll keep it down."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No, no, speak up. I’m about to use the blender, and I don’t want to miss anything."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, you might have to cook for one more because she invited Zack."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Ooh!"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "My, my. The plot, like my gravy, thickens."
+    },
+    {
+      "type": "scene",
+      "text": "The living room."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t care for your mother’s bathroom. There’s not an angle to do one’s business without a clown figurine staring at you."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That’s why I sit."
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "Yeah, that’s why. You remember the Thanksgiving game when it snowed in Dallas?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "1993. Leon Lett blew the game in the final seconds and the Dolphins emerged victorious. Then I finally got to do my calculus."
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "I was so pissed, I wanted to shoot my TV."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So was my dad. And then he did."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Anyone need a beer?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Thank God."
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "So, does your dad still live in Texas?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. He died when I was 14."
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "I’m sorry to hear that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So was the man who owned the local liquor store. He cried and cried."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Here you go."
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "Oh, thanks. So, if your dad died when you were 14, you were never old enough to have a beer with the man."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, sir. He did try to give me one for my high school graduation, but I was 11 and my mom said no."
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "Well, you’re having one with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right."
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "To your dad."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I never had a beer with my dad, either."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Do you mind? We’re having a moment here."
+    },
+    {
+      "type": "scene",
+      "text": "The kitchen."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I can’t believe Penny’s married to Zack."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Wonder what she saw in that guy."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I don’t know. He’s sweet, he’s tall, handsome."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Broad shoulders, good hair."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hmm. Wonder what she sees in Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "How’s it going out there?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sheldon and your dad are bonding and completely ignoring me."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I know how you feel. Sheldon ignored me for a week when he got that Roomba vacuum. I kick it when he’s not looking."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What are they doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "They’re drinking beer and watching football."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "So why don’t you do that with them?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "They don’t want me."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What do you mean?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, Sheldon started talking about how his dad isn’t alive any more, and they were toasting, and I tried to tell them about how sad I was when my dad abandoned…"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Zack’s here!"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Stir the gravy."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Sorry. I really want to hear how sad you are. I’ll be back in like five, ten minutes."
+    },
+    {
+      "type": "scene",
+      "text": "The dining room."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sorry she made you come over here on a holiday."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "It’s all right. I didn’t have anything going on. Plus, Penny told me we’re married, and Thanksgiving’s a time to be with family."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, okay, great. Can we just get this over with?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, uh, you guys have to sign here and here. On Monday, we’ll file for the annulment, and this marriage will be over."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "I don’t know if I want to sign it."
+    },
+    {
+      "type": "direction",
+      "text": "Raj, Bernadette and Amy: Ooh."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why won’t you sign it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "I just think splitting up can be rough on kids."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "We don’t have any kids."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Are you sure? ‘Cause you didn’t know we were married until this morning."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, look, Zack, come on. You know neither of us thought this was real. I mean, we were married by an Elvis impersonator."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Of course it was an impersonator. We could never afford a real Elvis."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You married him instead of me? Good call. Sign the papers."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hang on. You know what? You have been a jerk about this all day. You always do this, whenever I mess up, you’re right there to make me feel even worse about it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That is not true."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, we could’ve waited till Monday, signed the papers, this all would have been over."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re the one who invited him here."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, there you go again, just another mistake you’re throwing in my face."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Not cool, bro. I’m starting to think you’re not the kind of guy I want dating my wife."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, well, she’s not gonna be your wife for long."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Oh, no. Are you dying?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’m about to. Sign the paper."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Know what they say, happy wife, happy life. Let’s eat."
+    },
+    {
+      "type": "scene",
+      "text": "The living room."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon (burping)",
+      "text": "Two, three, eight, four, six. (Normal) That’s all I can do without throwing up."
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "That is not what I expected when you said you were gonna burp pie."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz (off)",
+      "text": "Did somebody say pie?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "I don’t know what’s scarier, the bathroom clowns or the woman that put them there."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All I know is you can only fit one of her in a car. And there’s the clown that came out of her. I really didn’t want to come here, but this is shaping up to be one of the best Thanksgivings I’ve had in a long time."
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "Me, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Hey. Howie says you’ve been making fun of him all day. Now, both of you apologize right now."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "She’s so tiny. It’s funny when she’s mad."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "All right, mister, I think you owe Howard and Bernadette an apology."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Perhaps you’re right. I’m sorry for my behaviour. I’ve had alcohol, and it’s caused me to be inappropriate."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "It’s okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Don’t worry about it."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Ain’t she great?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "Mmm."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Now, how’s about you get us a couple of beers?"
+    },
+    {
+      "type": "scene",
+      "text": "The dining room."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Thanks again for cooking."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Yeah, everything was delicious."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, I couldn’t have done it without my two favourite girls. Martha Stewart and Rachael Ray."
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "Hey, Sheldon, what do you say we go outside and throw around the old pigskin?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "This is a Jewish house. I don’t think they have pigskin."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz (off)",
+      "text": "Did someone say pigskin?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, I’m sorry about today. And I promise, next time I get married, it won’t be a joke. It’ll be for love. Or money."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m sorry, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Don’t be. It’s my fault. I was a terrible husband. I was never around."
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "I know I’m hard on you, but you’re not the worst son-in-law in the world."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Mike, that’s the nicest thing you’ve ever said to me."
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "Well, I’m drunk."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I just vomited on a lot of clowns."
+    }
+  ]
+}

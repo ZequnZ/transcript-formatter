@@ -1,0 +1,1075 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 9,
+  "episode": 10,
+  "title": "The Earworm Reverberation",
+  "url": "https://bigbangtrans.wordpress.com/series-9-episode-10-the-earworm-reverberation/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "Sheldon’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Sheldon Cooper’s descent into madness, day two. It’s 2:25 a.m., and I feel the urge to urinate. My normal urination time is 7:10 a.m., but here I am, in the middle of the night, struggling to keep my mind sharp and my pajamas dry. It’s only a matter of time before my tenuous grasp on reality fades. I suppose I should pee while I still know what a toilet is."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment. 2 days earlier."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Since when do you hum songs?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What are you talking about?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You were just humming."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Are you sure? Sometimes when my brain really gets moving, it makes noise."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "How does your brain feel about calculating the surface tension of the domain walls?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Let’s see. Hey, I was humming. One point for Hufflepuff. What song is that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, hum it again. Is that the SpongeBob song?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(singing)",
+      "text": "Who lives in a pineapple. Nope."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Whatever. Can we just get back to this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I feel like I know what song that is, but I can’t put my finger on it. (Singing) My country, ’tis of thee. No."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s just an earworm. It’ll come to you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay. (Singing) R-E-S-P-E-C-T. No."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Is this what we’re doing the rest of the night?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(singing)",
+      "text": "I’m surprised you have to ask."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(on phone)",
+      "text": "Hello, yes, I was hoping you could help me. What song is this? La, la, la, la, la, la, la. You don’t know? Well, how dare you call yourselves a Rock and Roll Hall of Fame? My goodness. Do you sing along to the greatest hits of Elvis Presley with that mouth? Well, they were no help at all."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Which is crazy, since rock and roll is all about good customer service."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah. So you have a song stuck in your head. It happens to everybody."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I’m not everybody. I have an eidetic memory. I should be able to remember what song this is, but I can’t. Something’s wrong with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I told you if we were patient, he’d figure it out for himself."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I was always afraid this day would come. This might be the first step of my descent into madness, where I gradually test the limits of public nudity."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Public nudity?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Eh, that just means going barefoot."
+    },
+    {
+      "type": "scene",
+      "text": "Amy’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "direction": "(voice on phone)",
+      "text": "Hello?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hi, Dave. Uh, it’s Amy."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Oh. How are you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’m fine. How are you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Terrific. And pleasantly surprised to hear from you, given how I acted on our last date."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Yeah, well, we both made mistakes, you know. I took the last breadstick, you gushed over my ex-boyfriend like he was Leonard Nimoy and you were my ex-boyfriend."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "So, to what do I owe the pleasure?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, I was wondering if you’d like to get dinner again sometime."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Yes, please."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Great."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Let me just check my schedule, he said, trying to seem like a man with things on his schedule."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "How ’bout Saturday?"
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Uh, hmm, let me see. Uh, Friday, farmers’ market with Jay Z. Sunday, piano shopping with Elton John. Saturday works."
+    },
+    {
+      "type": "scene",
+      "text": "Howard’s workshop."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh. Did you know, at the United Nations, there’s a Department for Outer Space Affairs?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Really? Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "They exist in case we ever make contact with an alien civilization."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Mm, boy, that’s one of those jobs that’s boring, boring, boring, then, oh, God, where’s the memo with what we do now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, this is cool. So, a few weeks ago I set up a fan page on Facebook for our band and…"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Wait a second. How could you do that without consulting me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s not a big deal. It just took, like, five minutes to set up."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That’s not the point. When we created Footprints on the Moon, we agreed that every band decision would be mutual. Now you’re just trying to take over the whole thing. You know, maybe I should go solo."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "But someone joined our page. We have an actual fan."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "All right. This thing’s bigger than you and me, band’s back together."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "So, listen to what he wrote. Uh, I saw you play at the comic book store. You guys rock. And then there’s an animated smiley face raising the roof like this."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "We did raise the roof that night."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, we totally did."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Why do rock stars do drugs when this feels so great?"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(singing)",
+      "text": "Why can’t I recall this song? This is taking far too long. The urge to bang my head against the wall again and again and again and again and again is strong."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Put on some headphones."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(singing)",
+      "text": "No they make my earlobes sweat."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, sweetie, why don’t you take a break and do something else for a while?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "There was a project I’ve been thinking about starting."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, great. What is it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’ll show you. (Into phone camera) Dear Crazy Future Sheldon, you were driven mad by an earworm. Your mind, once your most trusted asset, is now a sack of parrots and monkeys. So, I’m going to tell you everything you need to know. Uh, first, music is dangerous. The movie Footloose tried to warn us, but we wouldn’t listen. Oh, wait. (Singing) Everyody cut footloose. Nope."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’ll pay a thousand dollars to watch you cut footloose."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "This is Penny. She is your friend. If she offers you food, it’s safe to take it. You probably paid for it, anyway."
+    },
+    {
+      "type": "scene",
+      "text": "Amy’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "So, you’re really going out with Dave again?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Why not? He’s actually a very nice guy."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "But he spent an entire date talking about how much he loves Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "That’s nothing Sheldon hasn’t done before. Dave’s just a big fan of his work. Besides, he said he wouldn’t bring it up again."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Okay. So where’s he taking you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, he’s coming here. I’m actually making dinner."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh. That’s a big step."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It is?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Yeah. You’re inviting him into your home. It’s intimate. It’s where your underpants live."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You know what? Good. I tried to get back together with Sheldon, he shot me down. Dave likes me. Maybe intimate is what I need."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You sure? You’ve never really been with a man. Do you really want to start with one that’s six-foot-seven?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Why not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "‘Cause it’s like taking your driver’s test in a bus."
+    },
+    {
+      "type": "scene",
+      "text": "Howard’s workshop."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Maybe we should post a comment back to our fan and thank him."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What should we write?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "How about, uh, oh, how about, we might be Footprints on the Moon, but your kind words sent us over the moon."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Someday you’re gonna make an amazing grandma."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well what do you want to write?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Something badass, you know, like, thanks for diggin’ our vibe. We’ll keep rockin’ if you keep rollin’."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Dude, if I was wearing a bra, I’d throw it at your head right now."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’ll keep rockin’. You don’t do that."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay. I posted it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So, who is this guy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Let’s see. Uh, his name is Trent Monaco."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Cool name."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah. He’s 24. He’s a deejay. He brews his own beer. He’s got awesome tattoos. Dude, he’s got a hot girlfriend, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Damn. I don’t know if he’s our biggest fan or I’m his. Hey, Trent just liked our comment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "He is so cool. Hey, no hard feelings, but I’m throwing my hypothetical bra at him."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s bedroom. Sheldon is playing his tune on a keyboard in the background."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, my God, he won’t stop."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "How does he keep coming up with new ways to be annoying?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Nobody knows. That’s why he’s number one. Can you please go talk to him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Come on. I take care of him all day long. You do it for once."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Once? Who got the gum out of his hair?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What do you want, a medal? It was your gum."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I love you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Who cares?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(off)",
+      "text": "What are you doing in my room? Stop it. That’s mine. Why are you so strong?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Problem solved."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, yeah, he got a tuba."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Dear Crazy Future Sheldon, this is a thermostat. It controls the temperature of the apartment. The ideal setting is 72 degrees. If you find this too cold, then put on a jacket. A straitjacket, ’cause 72’s the best and you’re crazy. Now, this is your spot. You’re very protective of it. When anyone else tries to sit here, you berate them relentlessly. It sounds mean, but somehow you make it adorable. People are also delighted by your love of pranks. For example, Leonard has no idea what I did to his coffee. It wasn’t replace it with Folger’s crystals, I’ll tell you that much."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, can we please get back to work?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "This is Leonard. He’s your best friend in the world."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "All right, just stop. This is ridiculous."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Sometimes he gets cranky, but you can trust him with your life. And he does more things for you than I can even begin to list."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, no, he’s drinking it."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s house."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Look at this. Trent is rebuilding a vintage motorcycle."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "That is so cool. Old broken things are so much better than new things that work."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Who’s Trent?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, he’s our fan."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Fan of what?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Uh, did you forget? We’re in a band."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You mean because you played one time in the comic book store?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "And at the children’s hospital until they asked us to leave."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, dude, Trent just checked in at the coffee shop on Fair Oaks."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Really? You want to go down there and meet him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Are you stalking him? That’s creepy."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s not creepy. I built a Footprints on the Moon fan page, Trent joined it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "After that, all I did was check out his profile, go back in the archive of his feed until I found his Twitter handle."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "From there, it was easy to find him on Instagram, Snapchat and pretty much track his every movement."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So if you think that’s creepy, you married the wrong guy."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Maybe I should marry Trent."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, like she could get Trent."
+    },
+    {
+      "type": "scene",
+      "text": "Amy’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "This is delicious."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Been a long time since I had a home-cooked meal."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "When you were married, did your wife cook?"
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Not at first, no. But when she began cheating on me with a French chef, she became quite the wiz in the kitchen."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "So, a little silver lining."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "I suppose. Yeah. Nothing takes the sting out of a shattered life like a properly-seasoned bowl of onion soup. How long have you, uh, lived here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Uh, about five years. I’m actually thinking of moving to a better place now that I don’t need to be so close to, well, you know."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "I do. The brilliant physicist that I now know lives in the area, not that I care."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Yeah. Anyway, he doesn’t drive, so, I pretty much had to take him everywhere."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Had to or got to? Sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "My fault. I brought him up."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Yeah. Well, let’s change the subject. No more mentions of you-know-who. That’s a cool train. Where did you get that?"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Bah, bam, bum-bum, bah, bum, bum. This song is never going to stop. Have you ever dealt with something so relentlessly irritating?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s a trick question, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I shouldn’t be surprised. There’s a rich history of brilliant minds descending into madness."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Come on, Sheldon. There are plenty of smart people who don’t have mental problems."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yup, she’s right. For every Newton who had a psychological issue, there’s an Edison who was just a jerk. That could totally be you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Empedocles thought he was a god and jumped into a volcano. And Pythagoras had an irrational fear of beans. Tesla fell madly in love with a pigeon who he claimed loved him back."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Maybe he just had bread in his pocket."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The list extends outside of science. Painters like Van Gogh and Pollock, chess champion Bobby Fischer, Brian Wilson of the Beach Boys. (Clip of Darling by the Beach Boys) I remember the song. It’s called Darlin’ by the Beach Boys. Oh, thank goodness. I’m not crazy. I don’t have to take a pigeon as my bride."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "There goes our shot at him living on the roof."
+    },
+    {
+      "type": "scene",
+      "text": "A coffee shop."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "So, all right, there he is. So, should we introduce ourselves?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No. Let him spot us."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I wonder if he’s listening to our music right now."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Could you imagine? What a cool way for us to meet. He’s playing our song and looks up, and there we are, his favorite two-piece acoustic sci-fi novelty rock band."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "And he’s, all, like, aren’t you the guys from Footprints on the Moo-oo-ooh what is he doing?!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I can’t watch."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s okay. Oh, it’s okay. He’s done."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Why is he looking at it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Eh, no, he’s not going to eat it, is he?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Come on, Trent, you’re better than th-ah."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Ooh!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Let’s just go."
+    },
+    {
+      "type": "dialog",
+      "character": "Trent",
+      "text": "Hey, aren’t you the guys?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Nope."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No, never heard of ’em!"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment. Sheldon is listening to Darlin’"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I wonder why it was this particular song that was stuck in my head."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know. It’s pretty catchy."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Do you even like the Beach Boys?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "They have beach right in the name. What do you think?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, now that you can focus again, what do you say we get back to surface tension of domain walls?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Of course. I’m already seeing a more efficient way of taming the ultravi… I know why the song was in my head."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s about Amy."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, look, I know Amy’s like an old lady, but she’s not old enough to have a song from the sixties written about her."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s about how she made my life better. Consider the lyrics. I was living like half a man. Then I couldn’t love, but now I can. More soul than I ever had. I love the way you soften my life.”"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "She did soften your life, didn’t she?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes. She’s like the dryer sheets of my heart. I have to go."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Aw. Am I like the dryer sheets of your heart?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Better. You’re the lint trap of my love."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Aw."
+    },
+    {
+      "type": "scene",
+      "text": "Amy’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "That’s an interesting tie clip."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Oh, thanks. It’s, uh, Avogadro’s constant. It’s useful for calculating the number of atoms in a substance, or causing regret in anyone who asks about it."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No, I, I think it’s neat. Oh."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Sorry. Sorry. No one’s ever liked the tie clip before, so I just lost all control."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No, it, it’s okay, and we are on a date. I’m, I’m just a little nervous."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Well, no need to be nervous with me. I’m just a harmless giant from a foreign land."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You know, I’m just being silly. I, I don’t know what I’m waiting for."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Amy? (Knock, knock, knock) Amy? (Knock, knock, knock) Amy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "That’s Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "You’re kidding. How’s my hair?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, this, this isn’t a good time."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t care. Amy, there was a song I couldn’t get out of my head. Eventually, I realized the song was about you, and like that earworm, I can’t get you out of my heart. So, what I’m trying to say is, you’re my heartworm. The metaphorical kind, not, not the poodle-killing kind."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "If I may, I believe what he’s saying, in a charming and delightful way, is that he loves you and wants you back. Dave Gibbs, huge fan of your work. Don’t mind me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m, I’m sorry; I didn’t realize you were on a date."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No, it, it, it’s okay. Keep going?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Amy, if you want to be my girlfriend again, I really want to be your boyfriend."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I really want that, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Good. Because I love you."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I love you, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Kiss her, you brilliant fool."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I’ll let you get back to your date."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Get back here."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Okay, then. I’ll, uh, see myself out. Amy, thank you for dinner. Dr. Cooper, pleasure to meet you, sir. Uh, if perhaps sometime you have a spare moment, I’d, uh, love to discuss physics, or shoot the breeze, as you Yanks say. Ah. What a lovely evening."
+    }
+  ]
+}

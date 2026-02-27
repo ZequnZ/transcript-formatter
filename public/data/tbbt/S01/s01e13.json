@@ -1,0 +1,1364 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 1,
+  "episode": 13,
+  "title": "The Bat Jar Conjecture",
+  "url": "https://bigbangtrans.wordpress.com/series-1-episode-13-the-bat-jar-conjecture/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The apartment. Howard is looking at his mobile phone."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Ooh, more details about the new Star Trek film. There’s going to be a scene depicting Spock’s birth."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’d be more interested in a scene depicting Spock’s conception."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, please. For Vulcans, mating, or, if you will, Pon Farr, it’s an extremely private matter."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Still, I’d like to know the details. His mother was human, his father was Vulcan, they couldn’t just conceive."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Maybe they had to go to a clinic. Imagine Spock’s dad in a little room with a copy of pointy ears and shapely rears."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "How come on Star Trek everybody’s private parts are the same. No alien lady ever told Captain Kirk, hey, get your thing out of my nose."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny (entering)",
+      "text": "Hi, can you help me, I was writing an email and the A key got stuck. Now it’s just going “aaaaaaa”."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What did you spill on it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Nothing. Diet coke. And yoghurt. A little nail polish."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’ll take a look at it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Gentlemen, switching to local nerd news. Fishman, Chen, Chowdry, McNair aren’t fielding a team in the university physics bowl this year."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re kidding, why not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "They formed a barbershop quartet, and got a gig playing Knotsbury Farm."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wow, so in your world, you’re like, the cool guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Recognise."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "This is our year! With those guys out, the entire physics bowl will kneel before Zod."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Zod?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Kryptonian villain. Long story."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Good story. (Clasps hands to mouth in shock.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well count me out."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What? Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You want me to use my intelligence in a tawdry competition? Would you ask Picasso to play Pictionary? Would you ask Noah Webster to play Boggle? Would you ask Jacques Cousteau to play Go Fish?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Come on, you need a four person team, we’re four people."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "By that reasoning we should also play bridge, hold up a chuppah and enter the Olympic bobsled competition."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I want tickets to that please."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, what, do I need to quote Spock’s dying words to you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, don’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "The needs of the many."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Outweigh the needs of the few."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Or the one. Dammit, I’ll do it."
+    },
+    {
+      "type": "scene",
+      "text": "The cafeteria."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay. First order of physics bowl business. We need a truly kick-ass team name. Suggestions."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "How about the perpetual motion squad? It’s beyond the laws of physics, plus a little heads up for the ladies."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "The ladies?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Perpetual motion squad, we can go all night."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I like it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t. Teams are traditionally named after fierce creatures, thus intimidating ones opponent."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Then we can be the Bengal Tigers."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Poor choice. Gram for gram, no animal exceeds the relative fighting strength of the army ant."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Maybe so. But you can’t incinerate a Bengal Tiger with a magnifying glass."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Let’s put it to a vote. All those in favour…."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Point of order. I move that any vote on team names should be unanimous. No man should be forced to emblazon his chest with the bengal tiger, when common sense dictates it should be an army ant."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Will the gentleman from the great state of denial yield for a question?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I will yield."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "After we go through the exercise of an annoying series of votes, all of which the gentleman will lose, does he then intend to threaten to quit if he does not get his way?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "He does."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I move we are the Army Ants, all those in favour?"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Good afternoon, and welcome to today’s physics bowl practice round. I’m Penny, and I’ll be your host, because apparently I didn’t have anything else to do on a Saturday afternoon, and isn’t that just a little sad? Gentlemen, are you ready?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Of course."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Fire away. (Raj puts his thumb up.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know, it’s none of my business, but isn’t a guy who can’t speak in front of women going to hold you back a little?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, uh, he’ll be okay once the women are mixed into the crowd. He only has a problem when they’re one on one and smell nice."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, thanks Raj, it’s vanilla oil."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I was actually the one who noticed, okay, let’s just start."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, the first question is on the topic of optics. What is the shortest light pulse ever produced? Dr Cooper."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And of course, the answer is 130 adoseconds."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That is correct."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I knew that too."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Good for you, sweetie. Okay, next question. What is the quantum mechanical effect used to encode data on hard disk drives? Howard."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And of course, the answer is giant magneto resistance."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Right."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, I buzzed in."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But I answered, it’s called teamwork."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Don’t you think I should answer the engineering questions? I am an engineer."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "By that logic I should answer all the anthropology questions because I’m a mammal."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Just ask another one."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay. What artificial satellite has seen glimpses of Einsteins predicted frame dragging? (Raj buzzes.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And of course it’s Gravity Probe B."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, you have to let somebody else answer."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Because it’s polite."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What do manners have to do with it? This is war. Were the Romans polite when they salted the ground of Carthage to make sure nothing would ever grow again?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Leonard, you said I only had to ask questions."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The objective of the competition is to give correct answers, if I know them, why shouldn’t I give them?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Some of us might have the correct answers too."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh please, you don’t even have a PhD."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Alright, that’s it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Howard, sit down."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "maybe we should take a little break."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Good idea, I need my wrist brace, all this button pushing is aggravating my old Nintendo injury."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard (after Raj whispers in his ear)",
+      "text": "I agree."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What did he say?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "He compared Sheldon to a disposable feminine cleansing product one might use on a summer’s eve."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, and the bag it came in."
+    },
+    {
+      "type": "scene",
+      "text": "The same, later. Sheldon is on his laptop. Leonard enters."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard, excellent, I want to show you something."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Can it wait, I need to talk to you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Just look. I’ve designed the perfect uniforms for our team. The colours are based on Star Trek, the original series. The three of you will wear support red, and I will wear command gold."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why do they say AA?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Army Ants."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Isn’t that confusing? AA might mean something else to certain people."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why would a physics bowl team be called anodised aluminium?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, I meant…. never mind. Hey, check it out. I got you a Batman cookie jar!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh neat, what’s the occasion?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, you’re a friend, and you like Batman, and cookies, and you’re off the team."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Howard, Raj and I just had a team meeting."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No you didn’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes we did, I just came from it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay, I don’t know where you just came from, but it couldn’t have been a team meeting because I’m on the team and I wasn’t there, ergo the team did not meet."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, let me try it this way, uh, I was at a coffee klatch with a couple of friends and one thing led to another and it turns out you’re off the team."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Because you’re taking all the fun out of it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I’m sorry, is the winner of the physics bowl the team that has the most fun?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, let me try it this way, you’re annoying and no-one wants to play with you any more."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I see. Well. At this point I should inform you that I intend to form my own team and destroy the molecular bonds that bind your very matter together, and reduce the resulting particulate chaos to tears."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thanks for the heads up."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re welcome. One more thing."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s on, bitch."
+    },
+    {
+      "type": "scene",
+      "text": "The cafeteria."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So who’d he get to be on his team."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "He won’t say. He just smiles, and eats macaroons out of his bat jar."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "He’s using psychological warfare. We must reply in kind. I say we wait until he looks at us, then laugh like, yes, you are a smart and strong competitor, but we are also smart and strong and we have a reasonable chance of defeating you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "How exactly would that laugh go?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hee hee hee hee hee hee hee!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That sounds more like, we are a tall thin woman who wants to make a coat out of your Dalmatians."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Guys, let’s remember that Sheldon is still our friend and my room mate."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So nothing, let’s destroy him."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon (walking past)",
+      "text": "Gentlemen."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hee hee hee hee hee hee hee!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, we’re going to need a strong fourth for our team."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You know who’s apparently very smart, is the girl who played TV’s Blossom. She got a PhD in neuroscience or something."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Raj, we’re not getting TV’s Blossom to join our physics bowl team."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "How about the girl from the Wonder Years?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Gentlemen, I believe I’ve found the solution to all our problems."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We can’t ask Leslie Winkle."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Why? Because you slept together and when she was done with you she discarded you like last night’s chutney?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sometimes you’ve got to take one for the team."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah. Sack up, dude."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Fine. Here I go, taking one for the team. In the sack. Hey Leslie."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Hi guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Leslie, I have a question for you, and it might be a little awkward, you know, given that I…"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hit that thang."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Leonard, there’s no reason to feel uncomfortable just because we’ve seen each other’s faces and naked bodies contorted in the sweet agony of coitus."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "There’s not? Gee, cos it sure sounds like there should be."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Rest assured that any aspects of our sexual relationship regarding your preferences, your idiosyncrasies, your performance, are still protected by the inherent confidentiality of the bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s all very comforting, but if it’s okay, I’d like to get on with my question now."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Proceed."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We are entering the physics bowl and we need a fourth for our team."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "No thanks, I’m really busy with my like sign dilepton super symmetry search."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Dilepton, schmilepton, we need you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, we tried. Just have to face Sheldon mano-e-mano-e-mano. A-mano."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Wait, you’re going up against Sheldon Cooper?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "That arrogant, misogynistic East-Texas doorknob that told me I should abandon my work with high energy particles for laundry and child bearing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "She’s in."
+    },
+    {
+      "type": "scene",
+      "text": "The Physics Bowl."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So, how do you feel? Nice and loose? Come to play? Got your game face on? (The guys look confused.) Are you ready?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, yeah. You know you don’t have to stay for the whole thing."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, no, no, I want to. It sounds really interesting."
+    },
+    {
+      "type": "direction",
+      "text": "Sheldon (entering in his Star Trek themed shirt): Gentlemen."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hee hee hee hee hee hee hee hee."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon. I’m just going to sit down."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, is that your team."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Actually, I don’t need a team, I could easily defeat you single-handedly. But the rules require four, so may I introduce, the third floor janitor, he lady from the lunchroom, and, my Spanish is not good, either her son or her butcher. And what about your team? What rat have you recruited to the SS Sinking Ship?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Hello, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leslie Winkle?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Yeah, Leslie Winkle. The answer to the question, who made Sheldon Cooper cry like a little girl?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, well, I’m polymerised tree sap and you’re non-organic adhesive so, whatever verbal projectile you launch in my direction is reflected off of me, returns on its original trajectory, and adheres to you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Oh, ouch."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Gablehouser",
+      "text": "Okay, if everyone could please take your seats."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Here’s your tee-shirt. (Hands her a tee-shirt with PMS on it. Takes jacket off to reveal similar.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "PMS? It’s a couple of days early, but…"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, it stands for Perpetual Motion Squad."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Oh, right, of course, what was I thinking?"
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "Good afternoon everyone, and welcome to this year’s physics bowl. Today’s preliminary match features two great teams… AA versus PMS."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "All night long, y’all! (Stands and turns round to reveal the back of the tee-shirt which reads “We Can Go All Night”.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "Okay, well let’s jump right in, first question, for ten points. What is the isospan singlet partner of the Pi Zero Meson? (Buzz) PMS?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "The Eta Meson."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "Correct."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Formal protest."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "On what grounds?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The Velcro on my wrist brace caught on my shirt."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "Denied. Alright, for ten points, what is the lightest element on earth with no stable isotope. (Buzz) AA?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And of course, the answer is Technetium."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "Terrific. Next question, what is the force between two uncharged plates due to quantum vacuum fluctuation. (Buzz) PMS?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Sheldon can suck on, the Casimir Effect."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "Correct."
+    },
+    {
+      "type": "direction",
+      "text": "(Time shift)"
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "How does a quantum computer factor large numbers. (Buzz) PMS?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Shor’s Algorithm."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "Correct."
+    },
+    {
+      "type": "direction",
+      "text": "(Time shift)"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "4.1855 times ten to the seventh ergs per calorie."
+    },
+    {
+      "type": "direction",
+      "text": "(Time shift)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Prevost’s theory of exchanges."
+    },
+    {
+      "type": "direction",
+      "text": "(Time shift)"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Lamda equals one over Pi R squared N"
+    },
+    {
+      "type": "direction",
+      "text": "(Time shift)"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "760 degrees celsius, the approximate temperature of the young lady in the front row."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "Mr Wolowitz, this is your second warning."
+    },
+    {
+      "type": "direction",
+      "text": "(Time shift)"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "A sigma particle."
+    },
+    {
+      "type": "direction",
+      "text": "(Time shift)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Yes, assuming the hypothetical planet has a mass greater than the earth."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "Correct. Ladies and gentlemen, I hold in my hand the final question. The score now stands AA 1150, PMS 1175. So, for one hundred points, and the match, please turn your attention to the formula on the screens. Solve the equation."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Holy crap."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What the hell is that."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It looks like something they found on the ship at Roswell."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Come on, think, Leslie."
+    },
+    {
+      "type": "dialog",
+      "character": "Leslie",
+      "text": "Leonard, it’s not going to work if you rush me, you have to let me get there."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re never going to let that go, are you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "Ten seconds. (Buzz) PMS."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sorry, I panicked."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Then guess."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Um, eight. (Gablehouser stares at him.) Point four."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "I’m sorry, that’s incorrect. AA, if you can answer correctly, the match is yours."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "He doesn’t have it. He’s got squat."
+    },
+    {
+      "type": "direction",
+      "text": "(Sheldon looks more and more uncomfortable, so much he is involuntarily twitching.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "AA, I need your answer. (Buzz)"
+    },
+    {
+      "type": "dialog",
+      "character": "Third Floor Janitor",
+      "text": "The answer is minus eight by alpha."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hang on, hang on a second, that’s not our answer. What are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Third Floor Janitor",
+      "text": "Answering question. Winning physics bowl."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "How do you know anything about physics?"
+    },
+    {
+      "type": "dialog",
+      "character": "Third Floor Janitor",
+      "text": "Here I am janitor, in former Soviet Union I am physicist. Leningrad Politechnica. Go Polar Bears."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well that’s a delightful little story, but our arrangement was that you sit here and not say anything, I answer the questions."
+    },
+    {
+      "type": "dialog",
+      "character": "Third Floor Janitor",
+      "text": "You didn’t answer question."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hey look, now maybe you have democracy now in your beloved Russia, but on this physics bowl team I rule with an iron fist. (Makes fist in the air). Ow!"
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "AA, I need your official answer."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well it’s not what he said."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "Then what is it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I want a different question."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "You can’t have a different question."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Formal protest."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "Denied."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Informal protest."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "Denied. I need your official answer."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. I decline to provide one."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "Well, that’s too bad, because the answer your teammate gave was correct."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s your opinion."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "Alright, the winner of the match is…"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hang on. Sheldon, is proving that you are single-handedly smarter than everyone else so important that you would rather lose by yourself than win as part of a team."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t understand the question."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Go ahead."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "The winner is PMS!"
+    },
+    {
+      "type": "direction",
+      "text": "(We Are The Champions by Queen plays as the team celebrate in slow motion and Sheldon puts his head in his hands. The celebration ends with Howard on his knees ripping his shirt in half and waving it round his head before throwing it to the audience.)"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment. Sheldon goes to sit in his spot."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sorry, somebody’s sitting there."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Who?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "My Physics Bowl Trophy!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That trophy is meaningless, I forfeited, therefore you did not win."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I know someone who would disagree."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Who?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "My Physics Bowl Trophy! (In weird voice) “Leonard is so smart, Sheldon who?”"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Alright that is very immature."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re right, I’m sorry. (In voice, waving trophy in Sheldon’s face) I’m not!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny (entering)",
+      "text": "Okay, new contest."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’m settling once and for all who is the smartest around here. Okay, are you ready?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Absolutely."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Bring it on."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay. Marsha, Jan and Cindy were the three daughters of what TV family? (They stare at her.) The Brady Bunch. Okay, Sammy Hagar replaced David Lee Roth as the lead singer in what group?"
+    },
+    {
+      "type": "direction",
+      "text": "Sheldon (after they look at each other in confusion): The Brady Bunch?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Van Halen. Alright, Madonna was married to this Ridgemont High alum. (Pause) Oh my God, Sean Penn!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "How do you know these things?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I go outside and I talk to people. Alright, here, what actor holds the record for being named people magazine’s sexiest man alive?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "William Shatner."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Wait, I don’t think it’s Shatner."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Then it’s got to be Patrick Stewart."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Formal protest."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Alright, singer who sang “Oops I Did It Again.” (Sheldon starts involuntarily twitching again.) Okay, Tweetie Bird, taught he taw a what?"
+    },
+    {
+      "type": "direction",
+      "text": "Sheldon (after they pass a smug look between each other): Romulan."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yes. He taught he taw a Romulan."
+    },
+    {
+      "type": "direction",
+      "text": "(Sheldon and Leonard do a victory hand slide.)"
+    }
+  ]
+}

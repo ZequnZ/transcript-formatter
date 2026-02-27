@@ -1,0 +1,1189 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 8,
+  "episode": 5,
+  "title": "The Focus Attenuation",
+  "url": "https://bigbangtrans.wordpress.com/series-7-episode-05-the-focus-attenuation/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The cafeteria."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, I read that someone invented a way to convert your footsteps into electromagnetic energy so you can charge your cell phone while walking."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We had that idea years ago. How come we never did anything with it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Probably because we left the diagram of it in the restaurant, and none of us wanted to walk back."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I know the real reason you never made progress with that idea. You thought of it September 22nd, 2007. Two days later, Penny moved in, and so much blood rushed to your genitals, your brain became a ghost town."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s not what happened."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I remember it distinctly because I had just composed my annual poem commemorating the anniversary of Dr. Seuss’s death."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No one wants to hear it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why, die. Why did he die? Old, told. I was told he was old."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Penny is not the reason I didn’t pursue that idea."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, really? Since meeting her, what have been your greatest accomplishments?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Easy. Sleeping with Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Getting Penny to go back out with him after she dumped him."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Tricking Penny into getting engaged."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "And a few weeks ago, he almost did a pull-up."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I think someone owes me an apology."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, don’t feel bad. I think we’ve all been distracted since the girls entered our lives."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You admit Amy’s a distraction?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, very much so. Listen to this. This is from two days ago. Hi. Hope you’re having a good day. Who has time for this constant sexting?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, maybe we have lost our focus."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It wouldn’t kill us to get together and brainstorm ideas."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Ooh, we could have one of those retreats."
+    },
+    {
+      "type": "direction",
+      "text": "LeonardLike our own science retreat."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "My cousin has a cabin out in the woods."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m not going to a cabin in the woods. Did you see the movie Cabin in the Woods?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Then we’ll go to a hotel."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "A hotel? Did you see The Shining?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "We could go up to Big Bear and get a house on the lake."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Did you see The Lake House?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Nothing bad happens in The Lake House."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, well, no, not to them. To me. Time traveling mailbox. The only time that traveled was an hour and half of my life down the toilet."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Fine. Then we’ll just stay here and do it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, you didn’t suggest a beach house."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You would go to a beach house?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, good Lord, no, have you seen Jaws?"
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey. So, the guys and I are talking about having kind of a science retreat this weekend. I just wanted to know if that’s okay. You and I had talked about going to brunch on Sunday."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Want to go to Vegas this weekend?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Of course I do."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Bernadette? Girl’s weekend. Vegas. You in?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Hell, yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yes. I’ll check flights."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I’ll check hotels."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’ll check my underpants. I’m so excited, I think I peed."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "They seem okay with it."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey. I didn’t think you’d make it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Why not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, ’cause you have a steady girlfriend now, and we assumed you’d have to stay home to lower the food down to her in the pit."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "For your information, Emily is working tonight."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, one would assume, on getting out of the pit."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, let’s focus. The girls are gone, we have 48 hours. There are no distractions. Let’s change the world."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thinking caps on."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Here we go."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Ooh, this is exciting. We’re innovating. I feel like we’re in the Facebook movie."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh. I never saw that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Really?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh. It’s wonderful, and I swear I’m not saying that because Justin Timberlake is in it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, I have it on Blu-ray. We should watch it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Cool. I’ll make the popcorn."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Guys, in 30 seconds, we went from let’s change the world to let’s watch TV."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m sorry. Is that a no?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay. No. Leonard’s right. We’re here to focus. Didn’t we used to have a list of all our ideas?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I, I think I still have it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I did not get a clear answer. I’m gonna set this down now."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Ah, here it is. Whoa. I haven’t looked at these in years. Robot girlfriend."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Mm, that was mine."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Robot prostitute."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Also mine."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wait. I’m confused. Why would you need both a robot girlfriend and a robot prostitute?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "There’s just some things you don’t do with your robot girlfriend."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Boy, when you met Bernadette, the field of robotics really took a hit."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, let’s just skip all the inventions you can have sex with. All right, no, here we go, ergonomic heated seat cushion."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, it vibrates. Keep going."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You know, let’s just come up with something new."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know, a number of significant innovations have been inspired by science fiction. The, the geosynchronous satellite from Arthur C. Clarke. The Motorola flip phone, that came from Star Trek. And I’ve long suspected that the idea of an African-American president was stolen from the movie Deep Impact."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, the future they show in Back to the Future II is only a year away. A lot of the things in that movie haven’t been invented yet."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "How cool would that be if we could make one of those a reality?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If we could figure out the scientific basis for Marty’s hover board, that would have universal application."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, it’s, it’s possible at absolute zero, but we would have to remove the temperature restrictions."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, I have an idea."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I think I have the same one."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "We got to watch Back to the Future II."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’ll make the popcorn."
+    },
+    {
+      "type": "scene",
+      "text": "A Vegas hotel room."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So, where should we go first?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Ooh. There’s a cover band in the lounge."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Nah."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "But they play Barry Manilow."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "But they’re called Fairly Manilow."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh. Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Great."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Well, what do you want to do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, we’re in Vegas. I want to go downstairs, get a bucket of margaritas, dance until I vomit all over a roulette wheel and watch it go everywhere."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What if we don’t want to vomit?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, you will. That’s why they give you the bucket. Uh-oh."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It’s my boss. They moved my field ride up to Monday."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What does that mean?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It means instead of having a week to study, I only have two days."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "That sucks."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Can you start in the morning?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh, it’s kind of a lot. You know, let me do a little tonight, and I’ll catch up with you guys later."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You sure?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, it’s okay. Go ahead."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "So, um, now that Penny’s not coming…"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "We’re not seeing Fairly Manilow."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Okay."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hold on. Pause. Something doesn’t make sense. Look, in 2015, Biff steals the sports almanac and takes the time machine back to 1955, to give it to his younger self. But as soon as he does that, he changes the future, so the 2015 he returns to would be a different 2015, not the 2015 that Marty and Doc were in."
+    },
+    {
+      "type": "dialog",
+      "character": "Leoanard",
+      "text": "This is Hot Tub Time Machine all over again. If future Biff goes back to 2015 right after he gives young Biff the almanac, he could get back to the 2015 with Marty and Doc in it. Because it wasn’t until his 21st birthday that 1955 Biff placed his first bet."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wait. Whoa, whoa. Is placed right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What do you mean?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Is placed the right tense for something that would have happened in the future of a past that was affected by something from the future?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Had will have placed?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s my boy."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, so, it wasn’t until his 21st birthday that Biff had will have placed his first bet and made his millions. That’s when he altered the timeline."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, but he had will haven’t placed it!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Unlike Hot Tub Time Machine, this couldn’t be more simple. When Biff gets the almanac in 1955, the alternate future he creates isn’t the one in which Marty and Doc Brown ever use the time machine to travel to 2015. Therefore, in the new timeline, Marty and Doc never brought the time machine…"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Wait. Is brought right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Marty and Doc never had have had brought?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know. You did it to me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I’m going with it. Marty and Doc never had have had brought the time machine to 2015. That means 2015 Biff could also not had have had brought the almanac to 1955 Biff. Therefore, the timeline in which 1955 Biff gets the almanac is also the timeline in which 1955 Biff never gets the almanac. And not just never gets. Never have, never hasn’t, never had have hasn’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "He’s right. Also, what kind of name is Biff? Sounds like when you pop open a can of Pillsbury dough. Biff."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, that stuff is so good wrapped around cocktail weenies."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Do you know that the word wiener comes from the German name of the Austrian capital Vienna, or Wien?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Do you know if you look at Austria on a map it actually looks like a wiener?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Guys, what are we doing? We sent the girls away so we could focus."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t think it worked."
+    },
+    {
+      "type": "scene",
+      "text": "A bar in Vegas."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Maybe after this, you’ll be in the mood for some Manilow."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I think after this, I’ll be dead."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Look at us out, while Penny’s in the room studying."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I’m proud of her. This is a great opportunity. It’s nice to see her take it seriously."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It is. But enough about Penny. Let’s talk about us. We’re looking good."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "We are."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Better than good. I mean, look at you. Your body’s bangin’."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Amy."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Don’t Amy me. We’re always talking about how hot Penny is. Come on, scientist to scientist, how big are those Hadron Colliders?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You’re embarrassing me."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, don’t be embarrassed. I’ll show you the divot in my spine."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No, no, it’s okay. I was born with it. If you put a double-A battery in there, it makes my leg kick."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s laboratory."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "All right."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, this is already better. There are far fewer distractions in here."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Plus, this is where our minds are conditioned to focus on work."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, I’ve been thinking about the hover boards, and maybe there’s a way we could use Maglev technology."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Or if we could figure out a way to supercool the materials, we could utilize quantum coupling."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I wonder if anyone’s tried that."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Go online and look it up."
+    },
+    {
+      "type": "direction",
+      "text": "Shortly afterwards."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, I can’t argue with him. It’s right there on the screen. Austria does look like a wiener."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "That’s nothing, dude. Go check out how hung Florida is."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m sure Mrs. Florida’s walking funny. Can we get back to work?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, he’s right. Oh, here’s a thought. What if we use some form of operant conditioning techniques to keep us from getting off topic?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Like behavior modification?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, exactly. Did you know those techniques were used to actually teach pigeons to play ping-pong?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "That cannot be true."
+    },
+    {
+      "type": "direction",
+      "text": "Shortly afterwards."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, it was match point."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Some psychologists perform operant conditioning with punishment. Maybe we can come up with a punishment for straying off topic."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Not getting to see who wins at pigeon ping-pong comes to mind."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "We could snap a rubber band on our wrists every time we get sidetracked."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Mmm, not bad. You know, in medieval times, idle chatter was punished with a device called the scold’s bridle. It’s an iron cage that’s locked around the head and pierces the tongue."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "If only we had one."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I’ll check Amazon."
+    },
+    {
+      "type": "scene",
+      "text": "The hotel room."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Housekeeping."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "We had a complaint about somebody pooping on a party in there."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "It was us the whole time."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Why’d you tell her? It was working."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Was it working?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, I’m so sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You guys look like you’re having fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "We’re having the best time."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Guess who won a hundred dollars playing craps."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That’s a dollar."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Then guess who wildly overtipped a cocktail waitress."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hey, Penny, hey, let’s go. We found a place that has Australian male strippers."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "We want to see if they twirl their junk in the other direction."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That sounds so great. But I have a little more studying to do."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Can you believe this nerd?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Come on, do you want to sit here being a loser, or do you want to watch me climb into an Australian man’s G-string like a baby kangaroo?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right, guys, look, I would love to go out, but I’ve got to get this done, okay? So have fun at the club. And if you get in trouble, find a policeman. And if he’s taking off his pants, he is not a real policeman."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Okay, okay, this is obviously very important to her. Let’s just, we’ll help her study so she can get done quicker. Here, here, I’m gonna quiz you. I’m gonna quiz you. I got your notes. I got your notes. I got your notes. If you want these, they’re gonna be at the strip club."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Aren’t you gonna chase her?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "To the walk-in closet? Sure."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s lab."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, so we agree, whenever someone takes us off topic they get their arm hair yanked off."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "And I really can’t let that happen or the girl who does my eyebrows will think I’ve been cheating on her."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "All right, now, one benefit of quantum coupling…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wait, a question, who decides if someone’s gone off topic?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I think it’ll be pretty clear. If not, we’ll take a vote. Oh, and also…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Ow. We didn’t vote!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We didn’t have to, that was clearly a tangent. Now come on. Back to work. If we’re leaning towards quantum coupling… Aah! Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You said quantum coupling. That made me think of the show Quantum Leap. That’s a tangent and it’s your fault."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That’s ridiculous. Sheldon, I vote that is not a tangent."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thank you. And now I owe you one."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Ow. That was your fault."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Ooh, that is a lot of hair. Ow. And now I’m gonna hear it from Jenny."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Everyone stop. This was a stupid idea. Negative reinforcement isn’t working."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I think you mean positive punishment. Negative reinforcement is the removal of a positive stimulus. It’s a common mistake."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Negative reinforcement is really wrong?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, it’s used incorrectly all the time. Even Bill Murray makes that mistake in the first scene of Ghostbusters."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No way. Not Bill Murray."
+    },
+    {
+      "type": "direction",
+      "text": "Shortly afterwards."
+    },
+    {
+      "type": "dialog",
+      "character": "Bill Murray",
+      "direction": "(on screen)",
+      "text": "I’m studying the effect of negative reinforcement on ESP ability."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Huh. Bill Murray did get it wrong."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Jump ahead to the Stay Puft Marshmallow Man."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard’s right. We can’t just jump ahead. We have to watch the whole movie."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Look. We keep procrastinating. We saw Back to the Future II, pigeons playing ping-pong, a bunch of countries that look like genitals and one guy whose genitals look like Denmark."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, sorry for clicking on that."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s late. We’ve wasted hours. Can we please find it in ourselves to do any amount of work tonight?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But we didn’t see them bust one ghost."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So you’re, you’re saying we should stand here in my lab on a Saturday night and watch the rest of Ghostbusters on a crappy laptop?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "All",
+      "text": "Ghostbusters!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It really does hold up."
+    },
+    {
+      "type": "scene",
+      "text": "The Vegas strip club."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "See? Isn’t this better than a hotel room?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yep. Shake that thing."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Have you ever seen a body so fine?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "We had some pretty hot corpses in my anatomy class, but none of them moved like that."
+    },
+    {
+      "type": "scene",
+      "text": "The hotel room."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Good morning. You want to go to the pool? Come on, you said it yourself, only nerds and losers stay in the room. Wow, it’s bright out. Isn’t it bright? I should probably close these curtains. Nah. Bye."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Would you please close the drapes?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Okay."
+    }
+  ]
+}

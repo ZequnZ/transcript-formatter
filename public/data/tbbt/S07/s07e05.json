@@ -1,0 +1,994 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 7,
+  "episode": 5,
+  "title": "The Workplace Proximity",
+  "url": "https://bigbangtrans.wordpress.com/series-7-episode-05-the-workplace-proximity/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The Cheesecake Factory"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Awkward silence, Sheldon on his phone, no touching. Somebody’s having date night."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It’s actually steamier than it looks. Sheldon’s looking up the phallic symbolism of root vegetables in Renaissance paintings."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, no, I got bored with that. I’m just browsing cuticle scissors on Amazon."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "How do you not tear off his clothes and take him right here on this table?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If you do that, I’ll scream."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, I have some exciting news to tell you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That makes two of us. My new cuticle scissors will be here in one to two business days. Come on, one."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’ve been invited to consult on an experiment at your university for a few months. Isn’t that great? We could have lunch together. We could carpool."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know, riding with Leonard has gotten a little tedious lately. The only car game he ever wants to play is the Quiet Game. And he’s terrible at it, I always win."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "So, you’re okay with this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, why wouldn’t I be?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, this project would have us working in close proximity to one another. And there’s the vulgar adage that one should not defecate where one eats."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "My father used to say that all the time. That and, um, who does one have to orally gratify to get a drink around here? But what does that have to do with you working at the university?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, don’t defecate where you eat means don’t have a romantic relationship in the workplace."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Really?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Huh. Yeah, I always took it literally. That’s why I have never once moved my bowels in this or any restaurant. Hmm."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’m relieved that you don’t have a problem with us working together."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Not as relieved as I’m about to be. It’s a brave new world, little lady."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Are you crazy? You don’t want your girlfriend at work with you. Hell Clam."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why not? Hairy Fairy."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I think it could be romantic. You know, my parents met at his place of work."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Your father’s a gynaecologist."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I know. What started as a pap smear turned into a date. Which turned into her working there, which turned into marriage, which then turned into hatred, which continues to this day. Two-Eyed Cyclops."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Would you please tell him this isn’t a good idea?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, no, I think it’ll be great. Maybe next time he gets conjunctivitis at work, she can hold his head and try to put the drops in his eyes. Giant baby."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s a Raging Ogre."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, I know."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m just saying, I’d never want to work with Bernadette. Can you imagine seeing someone all day long and then you’re supposed to hang out with them after work, too?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hold on. We do that all the time. You and I work together and play together."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, I know, and it drove me into the arms of another woman. Bipolar Bear."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I appreciate your concern, but I won’t be seeing any more of Amy than I already do. I assume we’ll deduct any extra time we spend together at work from our weekly quota."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Please let me be there when you tell her that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why? So you can see the look on Amy’s face when she hears my top-notch idea?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Please, oh, please, just let me be there."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "So, Amy, what are you gonna be working on at Caltech?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’m leading a study to see if deficiency of the monoamine oxidase enzyme leads to paralyzing fear in monkeys."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "If they’re anything like humans, the answer’s yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Wait, you’ve, you’ve done this experiment on humans?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You mean like death row inmates with nothing to lose? No, that would be unethical."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know, not a lot of people know this, but the monoamine oxidase enzyme was discovered by a woman, Mary Bernheim. That’s right, my phone is just as smart as you guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon (off)",
+      "text": "(Knock, knock, knock) Amy, Bernadette, Penny. (Knock, knock, knock) Amy, Bernadette, Penny. (Knock, knock, knock) Amy, Bernadette, Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "He’s never gonna stop doing that, is he?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I don’t mind. I’m hoping to put his love of repetition to good use someday."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hi. Um, I’ve reconsidered. Uh, you can’t work where I work. Enjoy the rest of your evening."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon. I already signed the contract. I cashed a cheque."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Mmm, you are not going to come out of this looking good."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon, I don’t understand. I thought you said you were fine with it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I was. But that was before Howard explained to me how awful it would be if he had to work with his significant other."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "He said what?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Now, don’t be insulted. He just thinks too much of you would be mind-numbingly tedious."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Excuse me, I need to have a chat with my husband."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, well, now, well, keep it short. From what I gather, brevity is your friend. So, are we good here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No, we’re not good here. I am working on this project."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, and you can’t tell her what she can and cannot do."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Last week, you told Leonard he couldn’t wear his Wookie jacket out in public."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That’s different. I’m not going to the mall with someone dressed like a dumb space bear."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, you don’t have to worry about me bothering you. I’ll be in a different building. And we don’t even have to have lunch together."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Really?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Yes. Before all things, I’m a scientist. I’m just there to do my work and, with a little luck, scare the living crap out of some monkeys."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hmm. You sure your mothlike personality won’t be drawn to this blazing fire that is myself?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "More and more sure."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, then, you have my permission."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I didn’t ask for your permission."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Too late. No backsies."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, no, listen to me. Sheldon misunderstood. What I meant was, if we worked together, there’d be too much of me for you, not the other way around."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Howard, if you’re going to lie to your wife, don’t start the sentence with Sheldon misunderstood. That’s a dead giveaway."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Well?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, fine. I did say that, and I think it’s true. I think if we worked together and lived together, we’d get sick of each other."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, but to be fair, he only said the part about him getting sick of you."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "For the love of God, why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What exactly do you think you’d get sick of?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "His only options here are to fake a heart attack or have a real one."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It’s nothing in particular. I…"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Is it my voice? Am I too bossy? What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "My arm is feeling numb."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Nailed it."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "That’s the wrong arm for a heart attack, doofus."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "My point is, I’m sure there are things about me that would drive you crazy if you had to deal with them all day long."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Like looking me in the eye and lying to me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, well, come on, where am I supposed to look when I lie to you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Find somewhere else to sleep tonight."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Bernie…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If it makes you feel any better, Amy and I are fine. I mean, really good."
+    },
+    {
+      "type": "scene",
+      "text": "The cafeteria."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, boys, how was the pyjama party? You guys jump on the bed and sing into hair brushes?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It wasn’t a pyjama party. It was just a couple of bros hanging out, giggling, eating cookie dough and watching Princess Bride."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Please, stop talking."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "As you wish."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I mean, you know, Sheldon, none of this would’ve happened if I hadn’t tried to help you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Uh, it also wouldn’t have happened if, in the early universe, hydrogen was a little more common or a little less common. This is fun. Your turn."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Gentlemen."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Amy."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That was kind of icy. You two okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, we’re fine. As Howard advised, she’s merely respecting our professional boundaries."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Smart. Take relationship advice from a man who spent last night braiding Raj’s hair."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, you make a good point. It would appear I was worried for nothing. Look at her, desperately wishing she was over here at the cool table. Don’t worry, little moth. The flame will come to you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, uh, on the off chance that Bernadette doesn’t call back and apologize, how do you feel about Mexican food for dinner tonight?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I don’t know. Sounds kind of heavy."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "That’s ’cause you always fill up on chips."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "And this is Dr. Gunderson from Stockholm."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Ah, Sweden. Yeah, home of my favourite Muppet and, uh, second favourite meatball. Okay, the Nordic reputation for lack of humour is well-founded. Boy, is his name Gunderson or No-Funderson?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Where are we going with this, Dr. Cooper?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, please, I’m your boyfriend. You call me Sheldon. That’s right, I am in a boy-girl relationship with this cute little lump of wool."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s a physical relationship, too. Hand-holding, hugging, even on hot days. Ow. Okay, here’s a new one. Apparently now we kick each other in the shin under the table. How do you like it when I do it to you? Not so much, huh?"
+    },
+    {
+      "type": "scene",
+      "text": "Amy’s lab."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Test subject D7, aka Betsy, fear response study. Image number one, Frenchman on bicycle carrying baguettes. No visible reaction. Image number two, sousaphone. Still no reaction. Okay. Let’s kick things up a notch. Image number three, crocodile with a mouthful of monkeys. Okay, now we’re talking."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Dr. Fowler?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What do you want, Sheldon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I’m done with work, so… ugh!"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, sorry, sorry, sorry. Sorry, uh, better?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, baguettes. Yes, I like baguettes. What exactly are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Determining baseline fear levels in capuchin monkeys by measuring their response to visual stimuli."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So, goofing off. As I was saying, I’m done with work and Leonard’s not. So good news, you get to take me home. Play your cards right, I’ll let you drive me past the lot where the buses park at night."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I can’t leave now, Sheldon. I’m very busy. Besides, why would I want to do you a favour after the way you treated me in the cafeteria? Image number four, boa constrictor."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What on earth are you talking about? My behaviour in the cafeteria was delightful. Maybe your friend Gunderson needs to head over to IKEA and assemble a sense of humour."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You embarrassed me in front of my colleagues on my first day here. Image number five, kitten in a teacup."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Aw. Embarrassed you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You know what? I don’t have time for this. Find another way home."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m starting to get the sense that you’re angry with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Really? What tipped you off?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Couple things, actually. Your tone of voice, your body language…"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Get out."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, now, that."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Image number six, woman giving birth."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Bleugh!"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s nine o’clock, where you been?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I had to take the bus home. Fell asleep and missed my stop."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, no."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Did you know that Los Angeles has a Little Sri Lanka?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I did not."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I do now. They’re a lovely people. Although terrifying when you wake up face-to-face with them. If you’re hungry, I brought home some mutton and coconut milk."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why’d you get that? You hate lamb."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I was asking for directions. Apparently, there was a communication problem."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I thought Amy was gonna drive you home."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, I thought so, too, but she’s acting very strangely. I was discussing it with a Sri Lankan fellow on the bus, and he hypothesized that a tiger may have recently run across her shadow. Although he may have just been trying to drum up business for his brother-in-law’s witch doctor practice."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, Sheldon, what happened between you and Amy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, can you believe she said I embarrassed her?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But you didn’t even hear the details."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, I’ve known you a long time, and I’m going to tell you this with all the love I can possibly muster. Amy’s right. You’re wrong."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But you don’t even know…"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Doesn’t matter."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But, now, but in my defence…"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Doesn’t matter."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re not listening to my side of it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, fine, Sheldon. What is your side?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well…"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Nope, got to go with Amy on this one."
+    },
+    {
+      "type": "scene",
+      "text": "Raj’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Ooh, shrimp was spicy."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You want a TUMS?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You got the tropical fruit kind?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No, if I buy those, I just go through them like candy."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Tell me about it. One time, I swear I pooped out a stick of chalk. (Knock on door) I’ll get it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Thanks."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I may have overreacted."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, well, I didn’t handle it so great, either."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "It’s just sometimes I feel like you enjoy spending time with your friends more than with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That’s not true."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "It’s not? You spend all day together at work, and then you all hang out at night playing games, going to the comic book store. Last week, you two got a couples massage. So, when you said you wouldn’t want to spend that much time with me, it really hurt my feelings."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, wow. Yeah, no, I get that. I’m so sorry. Starting tomorrow, I am turning over a new leaf. Time with you is my number one priority."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Why tomorrow?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, we’re real close to finishing off the new Batman game."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It is awesome. Uh, you should probably go after her."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Should I go after you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette (off)",
+      "text": "No!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Thanks for getting me in trouble."
+    },
+    {
+      "type": "scene",
+      "text": "Amy’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Amy. (Knock, knock, knock) Amy. (Knock, knock, knock) Amy."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, what are you doing here so late?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I couldn’t sleep because I kept thinking about what happened earlier between us. Also, I had one heck of a bus nap. Oh, speaking of which, do you want some mutton and coconut milk?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I cannot give this stuff away."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What do you want?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Amy, this isn’t easy to say. All relationships are difficult, but even more so when you’re in one with a person who struggles with everyday social interactions. And frankly, who can strike some people as being kind of a weirdo."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, you’re not a weirdo."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I wasn’t speaking about me. I mean, honestly, there’s no telling what will set you off. You know, introducing myself as your boyfriend. Giving you the opportunity to drive me home. Breaking the ice with your colleagues using ethnic humour, the funniest kind of humour."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What’s your point?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "My point is, we’re a couple, and I like you for who you are, quirks and all."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I like you, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I should hope so. I don’t see anyone else banging on this door to put up with your nonsense. Not even a good-bye? You see, that’s the kind of thing that makes people think you’re weird. Poor kid. She just doesn’t see it."
+    },
+    {
+      "type": "scene",
+      "text": "The Cheesecake Factory Bar."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I’m not apologizing to Howard. He can come beg me on his knees."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, too. If I see him at work, I’m just going to ignore him."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right, don’t worry. I talked to Leonard. He is gonna sit the guys down and set them straight."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Laser’s warmed up."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Pull."
+    },
+    {
+      "type": "dialog",
+      "character": "All",
+      "text": "Yeah!"
+    }
+  ]
+}

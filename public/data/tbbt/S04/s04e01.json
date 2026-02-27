@@ -1,0 +1,1293 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 4,
+  "episode": 1,
+  "title": "The Robotic Manipulation",
+  "url": "https://bigbangtrans.wordpress.com/series-4-episode-01-the-robotic-manipulation/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The apartment. A robotic arm is extracting some Chinese takeaway from a bag controlled by Howard."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "And now the kung pao chicken."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Alright."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Smooth."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "And finally, my moo shu pork."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Whoo-hoo!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Ah, there you have it, gentlemen. Our entire dinner unpacked by robot."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "And it only took 28 minutes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Impressive, but we must be cautious."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Today, it’s a Chinese food retrieval robot. Tomorrow, it travels back in time and tries to kill Sarah Connor."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t think that’s going to happen, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No one ever does. That’s why it happens."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(arriving)",
+      "text": "Hey. Is the food here? Ooh. What’s that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That, dear lady, is the Wolowitz Programmable Hand, designed for extravehicular repairs on the International Space Station."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Ah, cool."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Ask me to pass the soy sauce."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, does that come up much on the space station?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Mostly with Asian and Jewish astronauts."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right. Pass the soy sauce."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Coming up. (Starts typing rapidly)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So how’s work?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, it’s not bad. Kind of hungry."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, we all are."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Just wait."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You realize, Penny, that the technology that went into this arm will one day make unskilled food servers such as yourself obsolete."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Really? They’re going to make a robot that spits on your hamburger?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I thought you broke up with her. Why is she here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, here we go. Passing the soy sauce. Put out your hand."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh ha-ha, oh. That’s amazing."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I wouldn’t say amazing. At best, it’s a modest leap forward from the basic technology that gave us Country Bear Jamboree."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, Sheldon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes? (Howard types. The hand puts up two fingers to Sheldon.) Peace?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, not peace. Hang on."
+    },
+    {
+      "type": "scene",
+      "text": "A few moments later."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Does NASA know you’re using that thing as a napkin holder?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You kidding? They still think it’s in a secure locker at JPL."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You stole it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Borrowed. The trick is to carry it out to your car like you own it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(phone gives text alert)",
+      "text": "Excuse me. Oh. Amy’s at the dry cleaners, and she’s made a very amusing pun. “I don’t care for perchloroethylene, and I don’t like glycol ether.” Get it? She doesn’t like glycol ether. Sounds like either. (Taps in reply) L-O-L."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Who’s Amy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "His girlfriend."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon has a girlfriend?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "She’s not my girlfriend."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "How long has this been going on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Four months."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "She’s not my girlfriend."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Are you telling me, for the past four months I have been asking you what’s new and you never thought to go with Sheldon has a girlfriend?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "She’s not my girlfriend."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Ah, du-du-du-du-du. How did they meet?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Raj and I entered Sheldon’s information on a dating site, and it spit out Amy Farrah Fowler."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, my God! Sheldon and Amy."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Or, as we call them, Shamy."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(squeals)",
+      "text": "Shamy. I am so digging the Shamy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, everyone pay attention. Yes, I have a friend named Amy Farrah Fowler. Yes, she is female. Yes, we communicate on a daily basis, but no, she is not my girlfriend."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, well, what do you communicate about?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, my work in physics, her work in neurobiology, and most recently, the possibility of our having a child together."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(spits out drink explosively. Howard types. Robot arm hands Penny a napkin)",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Wait a minute– a child? You never see this girl. You just e-mail and text and Twitter. Now you’re considering having a baby?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Amy pointed out that between the two of us, our genetic material has the potential of producing the first in a line of intellectually superior, benign overlords to guide humanity to a brighter tomorrow."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m guessing that future historians will condemn us for not taking this opportunity to kill Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, I have a question."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You don’t even like people touching you. How are you going to have sex?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why on Earth would we have sex?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, honey, did your mom not have the talk with you? You know, when your private parts started growing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m quite aware of the way humans usually reproduce, which is messy, unsanitary, and based on living next to you for three years, involves loud and unnecessary appeals to a deity."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, God."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, exactly. Consequently, if Amy and I choose to bring new life into this world, it will be accomplished clinically, with fertility experts in a lab with petri dishes. Which reminds me, you have broad hips and a certain corn-fed vigour. Is your womb available for rental?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Still digging the Shamy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Look, Sheldon, before you race off to the fertility clinic, you might want to think about, uh gee, I don’t know, maybe actually spending some time with her."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You mean dating?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I can’t date Amy."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "She’s not my girlfriend."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, look, don’t think of it as dating a girlfriend. Think of it as, uh, getting to know the future mother of your child."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh. I hadn’t considered that. I suppose she will have to have access to our progeny. And you don’t think I can achieve the required intimacy via text messaging?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Probably not."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Huh. It would appear as if the phone companies have been lying to me."
+    },
+    {
+      "type": "scene",
+      "text": "The hallway."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Penny. (Knock, knock, knock) Penny. (Knock, knock, knock) Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You do realize I stand on the other side of the door waiting for you to finish knocking three times."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I know. I can see the shadow of your feet under the door."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, my point is it’s a waste of time."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If you’re looking for an example of a waste of time, I would refer you to the conversation we’re having right now."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What do you want?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’ve decided to take your advice and have arranged to go on a date with Amy Farrah Fowler."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, that’s great. Have fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wait. You have to drive me."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know I don’t drive."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, go ask Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I did. He said, and I quote, ask Penny, it was her cockamamie idea."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Leonard said cockamamie?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Actually, I’m paraphrasing. Having been raised in a Christian household, I’m uncomfortable with the language he used. And to be honest, I’m not entirely comfortable with cockamamie."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, fine. When’s the date?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Now."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hurry. We’re going to be late."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon, did it ever occur to you that I might have other plans?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m sorry. Do you have other plans?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, no, not per se, but…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So this conversation is as pointless as your door-knocking soliloquy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Let me get my cockamamie keys."
+    },
+    {
+      "type": "scene",
+      "text": "Howard’s bedroom. Howard is being massaged by the robot hand."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, God, that feels so good. Yeah, that’s the spot. Oh, baby."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz",
+      "direction": "(off)",
+      "text": "Howard, dinner’s ready!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’ll eat later. I’m busy! Oh, yeah. Just like a real hand. Hmm."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thank you for driving me."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You’re welcome."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I wish you weren’t wearing flip-flops. It’s dangerous to drive in flip-flops."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Sorry. I just don’t want to be yet another flip-flop fatality."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Can I ask you a question?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Given your community college education, I encourage you to ask me as many as possible."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah. Well, my question is, and I’m pretty sure I know the answer, is this your first date?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That depends. Does square-dancing with my sister at a Teens for Jesus Fourth of July Hoedown count as a date?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Then, this is my first date."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay. Well, then, there’s a couple of things you should probably know."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I have a master’s degree and two doctorates. The things I should know, I do know."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "My point is, I know more about dating than you, and if you were as smart as you think you are, you would listen to me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If you know so much, how come I have a date tonight and you have nothing better to do than drive me to it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Fair point."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You know, there’s something I’ve always wondered about Aquaman."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Where does he poop?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What would a toilet look like in Atlantis? How would you flush it? And when you did flush it, where would the poop go?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "direction": "(phone rings)",
+      "text": "Hold that thought. Hey, Howard, what’s going on? What? Hold on, Howard, Howard, slow down. The robot hand is stuck on your what? (To Raj) You’re not going to believe this."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s car. Amy is now in the back seat."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So, um, Amy, Sheldon tells me you’re a neuro something-or-other."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Neurobiologist. Your check engine light is on."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, it’s okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "But the light indicates…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Don’t bother. I’ve wasted many an hour tilting at that particular windmill."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Um, what is that scent you’re wearing? It smells great."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Dandruff shampoo. I have dry scalp."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Ah. Well, your hair looks very nice."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Are you a homosexual?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, no, I was just giving you a compliment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hmm. Would have been more flattered if you were a homosexual."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Guys, how ’bout some music?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, no, I wouldn’t care for that. Amy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No, thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay. Uncomfortable silence it is. Hey, Sheldon, have you told Amy what it was like for you growing up in Texas?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, why don’t you tell her?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right. It was hell."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Any follow up, Amy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I myself grew up in Nebraska. Small town outside of Omaha. You know, nice place, mostly family farms, a few meth labs."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m sorry, how is this better than uncomfortable silence?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I don’t know. I was just trying something."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Muggles."
+    },
+    {
+      "type": "scene",
+      "text": "Howard’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You slipped and fell into a robot hand?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Penis first?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yes. Now, help me!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’d suggest a lubricant, but I have a feeling you fell on some of that as well."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Not funny, Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Really? A robot hand’s got a death grip on your junk, dude. That’s funny, ask anyone."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Please, before my mother walks in, just get this off me!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, let’s see."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, no! Don’t touch, the program is paused."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, then let’s un-pause it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, no! I loaded the wrong program. The hand thinks it’s holding a screwdriver in outer space. If you continue the program, it’s gonna start twisting."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "A-All right, um, how about this. When, when Winnie the Pooh got his head stuck in the honey tree, his friends all grabbed onto him and pulled and pulled."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You do what you want, I’m not touching another man’s honey tree."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "All right, uh, forget pulling. How about we get an electric saw and cut it off?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What? No saws! One circumcision was enough."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "How about an acetylene torch?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, I can’t believe this needs to be said out loud. No pulling, no saws, no torches."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, then what do you want us to do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I…"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz",
+      "direction": "(off)",
+      "text": "Howard, I made cookies for you and your little friends!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That’s great, Mom, thanks!"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz",
+      "direction": "(off)",
+      "text": "I’ll bring them up with some Hawaiian Punch!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Don’t come up here!"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz",
+      "direction": "(off)",
+      "text": "Why not?! Are you ashamed of your mother?!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yes, but that’s not the point! Get me out of here."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You have any ideas, Raj?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Right now, all I can think about is cookies and Hawaiian Punch."
+    },
+    {
+      "type": "scene",
+      "text": "A restaurant."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, here’s another possible topic of conversation. This is a big night for Sheldon. Right, Sheldon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Big night? The winter solstice is a big night. It’s over 14 hours in Southern California."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "That’s an amusing factoid."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, no. My point is, uh, tonight is Sheldon’s first official date. Discuss."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Is this true?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Apparently, a semi-incestuous Teens for Jesus Fourth of July Hoedown didn’t count."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So, um, Amy, what about you? Do you date much?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Once a year. It’s a deal I made with my mother in exchange for her silence on the matter, as well as the occasional use of her George Foreman Grill that seals in the flavour without the fat. How about you, Penny? Do you go on many dates?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh, yeah, I wouldn’t say many. A few. (Sheldon laugh’s strangely). What’s (imitates Sheldon’s laugh)"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Your characterization of approximately 171 different men as a few."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What? Where did you get 171 men?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Simple extrapolation. In the three years that I’ve known you, you were single for two. During that time, I saw 17 different suitors. If we work backwards, correcting for observation bias and postulate an initial dating age of 15…"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Whoa, wait, wait, wait. I did not start dating at 15."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m sorry. 16?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "14."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "My mistake. Now, assuming the left side of a bell curve peaking around the present, that would bring the total up to 193 men. Plus or minus eight men."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Remarkable. Did you have sexual intercourse with all of these men?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Although that number would be fairly easy to calculate."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Based on the number of awkward encounters I’ve had with strange men leaving her apartment in the morning, plus the number of times she’s returned home wearing the same clothes she wore the night before…"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, Sheldon, I think you’ve made your point."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So we multiply 193, minus 21 men before the loss of virginity, so 172 times 0.18 gives us 30.96 sexual partners. Let’s round that up to 31."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, Sheldon, you are so wrong. That is not even close to the real number. I’m gonna need a drink over here."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "This is very interesting. Cultural perceptions are subjective. Penny, to your mind, are you a slut?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No! No! No. Let’s just all finish our dinners, okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "This is an interesting topic. How many sexual encounters have you had?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Does volunteering for a scientific experiment in which orgasm was achieved by electronically stimulating the pleasure centres of the brain count?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I should think so."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Then 128."
+    },
+    {
+      "type": "scene",
+      "text": "A hospital,=."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, come on. Almost there."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Don’t tug. No tugging."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Next time, take your own advice."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Excuse me, could you help us out?"
+    },
+    {
+      "type": "dialog",
+      "character": "Nurse",
+      "text": "My, my, my. What do we have here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I slipped and fell."
+    },
+    {
+      "type": "dialog",
+      "character": "Nurse",
+      "text": "Yeah, we get that a lot. What is this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It’s a robot arm."
+    },
+    {
+      "type": "dialog",
+      "character": "Nurse",
+      "text": "Where’s the rest of the robot?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I only built the arm."
+    },
+    {
+      "type": "dialog",
+      "character": "Nurse",
+      "text": "‘Cause that’s all you needed, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Can you please just help me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Nurse",
+      "text": "All right, all right. Hang on, stay calm. (Over PA system) I need an orderly with a wheelchair. I got a robot hand grasping a man’s penis out here."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You think you could be a little more discreet?"
+    },
+    {
+      "type": "dialog",
+      "character": "Nurse",
+      "text": "I’m sorry, we don’t have a code for robot hand grasping a man’s penis. Why is it hooked up to a computer?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, it’s what controls the arm."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "But it’s frozen."
+    },
+    {
+      "type": "dialog",
+      "character": "Nurse",
+      "text": "Did you try turning it off and back on again?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, you see, it’s more complicated than that. (Nurse switches off computer) No, wait! (The hand lets go) Winnie the Pooh is out of the honey tree."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Now can we have cookies and Hawaiian Punch?"
+    },
+    {
+      "type": "scene",
+      "text": "The stairwell."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You were right. This was a very productive evening. I saw a whole new side of Amy Farrah Fowler tonight."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I did not have sex with 31 guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’ll be happy to check the math, but numbers don’t lie, Penny. In any event, now that Amy and I have spent quality time together, I feel much more confident proceeding to the next stage of our relationship."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "And that is?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Using in vitro fertilization and a surrogate uterus to gift humanity with our progeny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You’re still on that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "In these uncertain times, doesn’t humanity deserve a gift?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, you know what? I’m gonna come at this in a whole new way. Sheldon, if you try to make a baby with Amy in a petri dish, I’m gonna tell your mother on you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s no threat. My mother’s always wanted a grandchild."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Really? Your deeply religious born-again Christian mother wants a test-tube grandbaby born out of wedlock?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Curses."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "If I’d thought of that in the first place, I could’ve saved myself this whole night."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, it’s not that late. You could still go out and look for number 32. Good night."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "direction": "(on phone)",
+      "text": "Hey, Howard, what’s up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’ve decided not to procreate."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, yeah, great. Howard, uh, slow down. What do you mean it happened again?"
+    }
+  ]
+}

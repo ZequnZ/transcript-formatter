@@ -1,0 +1,1161 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 2,
+  "episode": 20,
+  "title": "The Hofstadter Isotope",
+  "url": "https://bigbangtrans.wordpress.com/series-2-episode-20-the-hofstadter-isotope/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hu-u-u-uh…. Hu-u-u-uh!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Problem?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "This is Thai food."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Here we go."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "We don’t have Thai food on Thursday. We have pizza on Thursday."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes, but we all agreed that the third Thursday of every month would be Anything Can Happen Thursday."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well apparently the news didn’t reach my digestive system, which, when startled, has its own version of Anything Can Happen Thursday."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Come on, the whole idea behind Anything Can Happen Thursday is to get out of this rut we’ve been in lately."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Rut? I think you mean consistency. And if we’re going to abandon that, then why even call it Thursday? Let’s call it Quonko Day and divide it into 29 hours of 17 minutes apiece, and celebrate it by sacrificing a goat to the mighty god Ra."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I could go for some goat."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, we agreed we’d do something different tonight."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right. Let’s go to the comic book store."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "We went to the comic book store last night."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Last night was Wednesday. Wednesday is comic book night. Tonight, we’ll be going on Thursday, because it’s Anything Can Happen Thursday."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Way to think outside but pressed right up against the box, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "So what are we going to do tonight?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "If I may proffer a suggestion, in bars all across this great nation of ours, Thursday night is Ladies’ Night. Which means, as the evening progresses, we will get better looking courtesy of 99 cent margaritas and two-for-one Jell-O shots."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Come on, Howard, the odds of us picking up girls in a bar are practically zero."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Really? Are you familiar with the Drake Equation?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The one that estimates the odds of making contact with extraterrestrials by calculating the product of an increasingly restrictive series of fractional values such as those stars with planets, and those planets likely to develop life? N equals R times FP times NE times FL times FI times FC times L?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, that one. You can modify it to calculate our chances of having sex by changing the formula to use the number of single women in Los Angeles, the number of those who might find us attractive, and what I call the Wolowitz Coefficient."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "The Wolowitz Coefficient?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Neediness times dress size squared. Crunching the numbers, I come up with a conservative 5,812 potential sex partners within a 40-mile radius."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re joking."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m a horny engineer, Leonard. I never joke about math or sex."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, what are we waiting for? Let’s bounce, bitches."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re right. It’s Anything Can Happen Thursday, let’s hit the clubs and meet hot women!"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Here we go. Lock up your daughters! We’re going to hit it and quit it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Or we could finish eating and go to the comic book store."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Also a good plan."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Alright, but next Anything Can Happen Thursday, we’re definitely going to a bar."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, absolutely."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You heard that, Ladies’ Night ladies? We’re eventually coming for you!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Fascinating."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh hey, guys, where’re you headed?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "To the comic book store. You’re probably thinking, the comic book store? On a Thursday? Why, I’ve fallen down the rabbit hole and into a land of madness. What you have failed to take into account, Penny, is that this is Anything Can Happen Thursday."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You got me. While you’re there, could pick me up a few comics for my nephew’s birthday?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I think you mean comic books. Comics are feeble attempts at humour featuring talking babies and anthropomorphized pets found traditionally in the optimistically named funny pages."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Leonard, could you pick me up a few comics for my nephew’s birthday?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sure. What does he like?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I don’t know, he’s 13. Just pick out anything."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Just pick out anything? Maybe at the same time we can pick out a new suit for him without knowing his size, or pick out his career for him without knowing his aptitude, or pick out a new breakfast cereal without knowing his fibre requirements or his feelings about little marshmallows."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Spider-Man. Get him Spider-Man."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Amazing Spider-Man, Ultimate Spider-Man, Spectacular Spider-Man, The Marvelous Adventures of Spider-Man, Spider-Man 2099?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Leonard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You know this can go on all night, why don’t you just come with us?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Ugh, that’s what I was trying to avoid."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I forgot Sensational Spider-Man."
+    },
+    {
+      "type": "scene",
+      "text": "The comic book store."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, what a cute, little store. Everybody’s staring at me."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Don’t worry, they’re more scared of you than you are of them."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Unlikely. Here, what about this one for my nephew?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "A superb choice."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, great."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, provided he has already read Infinite Crisis and 52, and is familiar with the re-establishment of the DC multiverse."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What’s a multiverse?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Get her out of here."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Come on, I’ll help you pick something."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "That’s right. She’s with us. Guys like that are so pathetic."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Tell me about it. Look, a new Batman belt buckle."
+    },
+    {
+      "type": "dialog",
+      "character": "Store clerk",
+      "text": "Oh, hey, Leonard. Can I help you find something?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, hey, Stuart. This is Penny. She’s looking for some comic books."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Oh, really. Blink twice if you’re here against your will."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I think we’re fine, Stuart."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Let me know if you need anything."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Thanks. He seems like a nice guy."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You mean for someone who’s into comic books?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, no, no, I just meant for… yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Penny, just because people appreciate comic books doesn’t make them weirdos. Stuart’s a terrific artist. He went to the Rhode Island School of Design."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What about the guy over there in the superhero T-shirt tucked into his sweatpants?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Ah, yeah, that’s Captain Sweatpants. He doesn’t really help the point I’m trying to make."
+    },
+    {
+      "type": "direction",
+      "text": "(Howard and Sheldon are looking through a rack of comic books. Each says “Got it” in turn as they look past each book until they eventually reach the one in the middle when they both together grab the book and shout “Need it!”)"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Let it go, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why should I let it go? I saw it first."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yes, but I saw it from the front."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "A far less impressive feat."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, come on! I need this for my Batman collection."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I need it for my Robin collection."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Rock-Paper-Scissors-Lizard-Spock?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why would I gamble? It’s mine. Let go."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You let go."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, you!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Problem?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, he won’t let go of my comic book."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It’s my comic book!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard, we need a ruling."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, cut it in half?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Excuse me."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Hello again."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hi. What would you recommend as a present for a 13-year-old boy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "A 13-year-old girl. But if you’re dead set on a comic book, try this."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, Hellblazer. What’s this about?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "A morally ambiguous confidence man who smokes, has lung cancer and is tormented by the spirits of the undead."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, if that doesn’t make me the favourite aunt, I don’t know what will. Is this me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Depends. Do you like it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It’s really good."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Yes, that’s you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That’s so sweet, but what if I didn’t like it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "It’d still be you, but I’d feel like an idiot."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t believe it. Stuart’s putting the moves on Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I have got to learn how to draw. Hey!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Once again, defeated by your own prurient interests."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Guys, have you seen Stuart all up in Penny’s business over there?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Nobody’s up in anybody’s business, let’s just buy our stuff and go."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, you’ve got my number, now, give me the picture."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "You drive a hard bargain, but here."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right. So, um, just give me a call."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So, Leonard, how are you enjoying Anything Can Happen Thursday?"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment. Sheldon has the comic book."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Look at that, that’s a dent. Thank you, Howard Ham-Fisted Wolowitz. Did you just shut the TV off in the middle of the classic Deep Space Nine/Star Trek The Original Series Trouble With Tribbles crossover episode?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Apparently so."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Are you ill?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right. Then is it fair to say that you’re experiencing some sort of emotional turmoil over the events involving Penny earlier this evening?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "When did you pick up on that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "A moment ago, when you turned off the TV in the middle of }during the classic Deep Space Nine/Star Trek The Original Series Trouble With Tribbles crossover episode. Would you like some advice?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sure, why not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Then, this is the perfect time to launch a blog with an interactive comments section."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Gee, thanks a lot."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Would you rather I offer my personal insight?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t need any insights. I just want to know why Penny’s more interested in Stuart than me. We’re practically the same guy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I disagree. Stuart is taller, artistic, self-employed and, most significantly, he gets 45 percent off comic books."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re right, I really should be asking strangers on the Internet."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "My original point."
+    },
+    {
+      "type": "dialog",
+      "character": "Scene",
+      "text": "The stairs."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Chinese food, vintage video games. After the nightmare of Anything Can Happen Thursday, this is Friday night the way it was meant to be."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Who’s up for Sheldon-Free Saturday?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(coming out of apartment)",
+      "text": "Oh, hey guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, Penny… and Stuart, hey Stuart."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Hey, guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So what are you kids up to?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh, Stuart has a piece in an art show that’s opening tonight."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "And you guys are going together, great…"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "It is great. Really great. Freaking awesome. What are you guys doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It’s Friday night, that means Chinese food and vintage video games, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Vintage doesn’t even begin to describe what we have planned. Tonight, we are playing the classic 1980 interactive text adventure, Zork. It’s the buggy beta version."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wow, Zork. Well, you guys have fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Yeah, see you guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "See you, Stuart."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, Howard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Take me to a bar with women."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Really?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay! Let me just go inside and slip off my underwear."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, if I get lucky, I don’t want to be caught in my Aquaman briefs."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "direction": "(to Raj)",
+      "text": "Do you…? (Raj checks his underwear) Let’s go."
+    },
+    {
+      "type": "scene",
+      "text": "A bar."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "May I have a grasshopper with a little umbrella, please?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, he may not."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m not sitting here with a guy drinking a grasshopper with a little umbrella."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Fine. I’ll have a chocolate martini."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Wrong again!"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Come on, you know I can’t talk to women unless I’m lit up like the Hindu festival of Diwali."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Look, there are plenty of bars in Los Angeles where you can order grasshoppers and chocolate martinis, but you wouldn’t have to because there are no women in them."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Gotcha. I’ll have a Brandy Alexander."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "All right, the Three Musketeers just became the Dynamic Duo."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Should we talk to some of these women?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It’s way too early in the night for that. See, first we let the lawyers and the jocks thin the herd, and then we go after the weak and the old and the lame."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s your system?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That’s my system. Oh, and if you spot a chick with a Seeing Eye dog, she’s mine."
+    },
+    {
+      "type": "scene",
+      "text": "The stairwell."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh come on. I think it’s nice that Captain Sweatpants showed up to your art opening."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Yeah, it would have been nicer if he hadn’t touched all the cheese."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Um, you know, it’s kind of early. Do you want to maybe come in for some coffee or something?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Oh, gee, it’s a little late for coffee, isn’t it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, you think coffee, means coffee, that is so sweet. Come on, I think I have decaf."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, good, Stuart, I thought I heard your voice. Do you have a moment?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Uh, yeah, I guess."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon, we’re a little busy here, so…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "We’re having coffee."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Isn’t it a little late for coffee?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "It’s okay. She thinks she has decaf."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’ll just go look for it."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "What’s up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I’ve spent the last three hours in an online debate in the DC Comics Batman chatroom, and I need your help."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Oh yeah. Those guys can be very stubborn. What’s the topic?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I am asserting, in the event that Batman’s death proves permanent, that original Robin, Dick Grayson, is the logical successor to the Bat Cowl."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Ooh, Sheldon, I’m afraid you couldn’t be more wrong."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "More wrong? Wrong is an absolute state and not subject to gradation."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Of course it is. It’s a little wrong to say a tomato is a vegetable, it’s very wrong to say it’s a suspension bridge. But returning to the original issue, Dick Grayson became Nightwing, a superhero in his own right. Batman 2 has to be the second Robin, Jason Todd."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Has to be? Has to be? I hope you’re being deliberately provocative."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I found the decaf!"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Oh, great!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, herbal tea for me, please."
+    },
+    {
+      "type": "scene",
+      "text": "The bar."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Barkeep! Alexander me."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "How about those two?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Nah, they’re eating peanuts, and my allergies, one kiss would put me in Cedar-Sinai for a week."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What about the ones in the corner?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Possible, very possible. Do you want the one in the whiplash collar or the one who keeps blinking?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I think Blinky’s cute."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You got it, sir."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Wait, so we just go over there?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, we have a little prep work to do. Put this in your mouth. We walk past them, you stumble a bit. I say, sorry, my friend’s had a little too much, and then I start to pull it out of your mouth and say, a little too much fun. Get it? I mean, they’re laughing, we’re laughing, and then we get them up to about a .15 blood alcohol level, and tell them we’re millionaires."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What else you got?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Depends. Are you willing to sit on my lap and pretend to be a ventriloquist dummy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I can’t sit on your lap, you don’t know the routine."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "I’m sorry, but you’re obviously stuck in a pre-Zero Hour DC universe."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Of course I am. Removing Joe Chill as the killer of Batman’s parents effectively deprived him of his raison d’être."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Okay, you can throw all the French around you want, it doesn’t make you right."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Au contraire."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Plus, you’re forgetting that the Infinite Crisis storyline restored Joe Chill to the Batman mythology."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I am forgetting nothing and I resent your tone."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Okay, look, Sheldon, it’s late and I’ve got to get some sleep."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So, I win."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "No, I’m tired."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So, I win."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Fine. You win."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Darn tootin’, I win."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Penny, I really had a terrific time. Penny?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, no, no, no, don’t wake her. She’ll maul you like a rabid wolverine."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "You know, I don’t think that was decaf."
+    },
+    {
+      "type": "scene",
+      "text": "The bar."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Wait, is this your card or isn’t it? Trust me, this was their card."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I thought you were good at this. You’re always talking about how you go to bars and meet women."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I do, all the time."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, what happened? We’ve been sitting here all night and the longest conversation you’ve had with a woman was when your mom called."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Wow, you’re just going to make me come out and say it, aren’t you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Say what?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You’re weighing me down. I’m a falcon who hunts better solo."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Fine. I’ll sit here. You take flight and hunt."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Don’t be ridiculous, you can’t just tell a falcon when to hunt."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Actually, you can. There’s a whole sport built around it. Falconry."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Shut up. Let’s just get Koothrappali and go. (They turn to see Raj with his tongue down the throat of a “larger lady” by the bar.) Lucky bastard. It’s got to be that stupid accent of his. (To a girl nearby) Hello. I am Sanjay Wolowitz from Bombay. Okay, I’m stumped."
+    },
+    {
+      "type": "scene",
+      "text": "Raj’s apartment. He wakes up clutched in the arms of the large lady. Tries to get away. She clutches him tighter. He shrugs and goes back to sleep."
+    }
+  ]
+}

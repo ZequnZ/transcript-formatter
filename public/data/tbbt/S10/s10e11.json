@@ -1,0 +1,1239 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 10,
+  "episode": 11,
+  "title": "The Birthday Synchronicity",
+  "url": "https://bigbangtrans.wordpress.com/series-10-episode-11-the-birthday-synchronicity/",
+  "lines": [
+    {
+      "type": "direction",
+      "text": "After a “previously on” sequence…"
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s van."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, man, this is really happening. You doin’ okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Here comes another contraction."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Let’s pick it up."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "All right, hold on. I’m gonna drive like we do in India. Get out of my way, you syphilitic dogs."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Stop that, this isn’t India."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Fine. What do one point three billion people know about having babies?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sorry. I know you were just trying to help. I love you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I love you, too. We’re good."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon and Amy’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Amy? Wake up."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What’s wrong?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s midnight. Happy birthday."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon. Okay, you can have this back in the morning."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "This is for you. I was going to wrap it, but touching Scotch tape gives me the heebie-jeebies."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’ll put in on the list with peaches and felt. What is this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "A functional MRI of my brain. I did Sudoku before they took it so I’d be ripped."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I love it. Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And it’s not just an MRI. The orbitofrontal cortex is lit up because I was thinking of you."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "We seem to be moving on to the annual coitus portion of your birthday festivities."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Is that okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I didn’t put on my come-hither plaid PJ’s for nothing."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You hate Scotch tape, but you love Scotch plaid. You are a mystery."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny (off)",
+      "text": "Guys, wake up. Bernadette’s having her baby."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard (off)",
+      "text": "Come on, we’re going to the hospital."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I guess, I guess we should stop."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah. I’m afraid so. Childbirth, looming coitus? This is a banner night for female genitals."
+    },
+    {
+      "type": "scene",
+      "text": "A delivery room."
+    },
+    {
+      "type": "dialog",
+      "character": "Midwife",
+      "text": "Now I see three of you. Do we know the father, or is this some Mamma Mia nonsense?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m the father."
+    },
+    {
+      "type": "dialog",
+      "character": "Midwife",
+      "text": "Okay, Dad, how far apart are the contractions?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No idea. Ask him."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "12 minutes."
+    },
+    {
+      "type": "dialog",
+      "character": "Midwife",
+      "text": "12 minutes? Why are you here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Aren’t we supposed to get here an hour and a half early?"
+    },
+    {
+      "type": "dialog",
+      "character": "Midwife",
+      "text": "This is a hospital, not the airport."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I’m sorry. It’s our first time."
+    },
+    {
+      "type": "dialog",
+      "character": "Midwife",
+      "text": "It’s okay. This little one will be here before you know it. Do we know what we’re having?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, we’re keeping it a surprise."
+    },
+    {
+      "type": "dialog",
+      "character": "Midwife",
+      "text": "Old school. Nice."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Not that old school. He knows."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You see, I was at the doctor’s office, the folder was right there, so I took a peek."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "And talking like this doesn’t make it less creepy."
+    },
+    {
+      "type": "dialog",
+      "character": "Midwife",
+      "text": "Sweetheart, go home. Come back when the contractions are five minutes apart for an hour."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m sorry, that’s ambiguous. Is it five minutes apart starting at the top of the hour, or five minutes apart starting with the first contraction, so essentially, like, 65 minutes?"
+    },
+    {
+      "type": "dialog",
+      "character": "Midwife",
+      "text": "I’m just throwing this out there, but home births are very popular these days."
+    },
+    {
+      "type": "scene",
+      "text": "The stairwell."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon, what took you so long?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wolowitz might hand out cigars. I had to find my bubble gum cigar so I could join in without looking foolish."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Damn, I need my inhaler."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Just don’t smoke."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, I went down the stairs too fast."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny (answering phone)",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Don’t come to the hospital. We’re headed home."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, that was fast. Did she sneeze the baby out?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "We showed up too early. We’ll keep you posted."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, well, we’ll talk to you guys later. Bye. She said not to come. It’s gonna be a while."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, first deliveries can be slow."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m starting to rethink the Flash onesie I bought this kid."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I found it, but it’s empty."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, it doesn’t matter. We’re not going to the hospital now."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Are you sure? I’d really like to."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, should we, uh, head back up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well while we’re all awake, why don’t we go to a diner or something?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, uh, I don’t know. Sheldon, you don’t want to do that, do you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It doesn’t matter what I want. It’s your birthday, you decide."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, my God. It’s your birthday. Let’s do something fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Uh."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "We could go to a bar."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, I can breathe again. Babe, they want to have sex."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, of course. The annual birthday booty spectacular!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s a bit childish, isn’t it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’m sorry, and what flavour is your bubble gum cigar?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Grape. I find it the most mild."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right, well, you two go have fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "If we find my backup inhaler, maybe we can get frisky."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, you sexy, wheezy little man."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s kitchen."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Do you really need to record this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You’ll be happy I did. Okay, little one, here we are back at home because you weren’t quite ready to come out yet. You wanted to make an entrance. I get it. And here’s your daddy. When he tries to tell you he used to be cool, you can see he wasn’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "All right, enough with the camera."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, this is not for me, this is for the baby. Some day she’s gonna want to see this."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m sorry, who’s gonna want to see this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I, I said she, but lot’s of things are she, boats and cars, whales, like thar she blows!"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "You’re doing great."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Raj."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, okay, I’m gonna sign off now. This next part may contain some adult language."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "How could you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "We made it this far without knowing, and you’ve ruined it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, you guys have no idea how hard it is to know something like this and not say it."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "You told me it was a girl, and I didn’t say it."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Raj."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You were supposed to keep that to yourself."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Oh, yeah. I guess it is hard."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon and Amy’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "So, where were we?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I believe we were kissing like randy teenagers, and your nose was whistling ever so slightly."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’m sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, don’t be. You were like a foxy tea kettle."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, shall we start over?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Very well."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What’s wrong?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m not sure. Earlier tonight, things began organically, and now it’s feeling forced, like all the Pirates of the Caribbean sequels."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Okay, that makes sense. I mean, the mood’s a little different now. We, we don’t have to rush."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I know, but just, Leonard and Penny think we’re doing it, and I don’t want to disappoint them."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "And the mood continues to change."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, and also, I don’t want to disappoint you. I, you know, come on, it’s your birthday. I can soldier through this."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hold on. I think I might have a little surprise that might help get things back on track."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Intriguing. Is back on track a hint that it has something to do with trains?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Because if it did have to do with trains, and you were gonna give…"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It’s not about trains."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Not even a cozy sleeper car on the Orient Express?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Stop talking about trains."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Who’s killing the mood now?"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Found the backup inhaler, want to have sex?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, I didn’t until I heard that."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hang on. I’m counting. It’s okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj (off)",
+      "text": "Hello. Howard and Bernadette kicked me out because I told them they’re having a girl. Oopsy, I did it again."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Maybe if we’re quiet, he’ll go away."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You’re gonna have to be quieter than that."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon and Amy’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Can I look yet?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "One second. All right, you can open your eyes. I thought I’d let Harry Potter make things hotter."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wowza."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I got a Gryffindor robe for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What, a Gryffindor sleeping with a Hufflepuff? How scandalous. You naughty girl, you went to the Wizarding World theme park without me."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I did. Am I in trouble?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, you’re in trouble, you went to Wizarding World without me."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Wait, what just happened?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know I’ve been wanting to go."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, do you really want to argue with me on my birthday?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, you’re right. I’m sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Ooh. Happy birthday to me."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj (off)",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Is this about the baby?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No. People just keep kicking me out everywhere I go."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Good. Then you’re used to this."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, Bernadette’s water broke."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Come on, everyone to the hospital."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You have got to be kidding me."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s van."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Just try to relax, we’ll be there any minute. Stuart, stop driving like an old man. Speed it up a little."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "I’m not an old man, I just can’t see at night."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Here comes another one. Hey, Squinty, the gas pedal’s on the right."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "All right, hang on. If you see any pedestrians, just call ’em out."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Howard and Bernadette’s kid might be born on your birthday. How cool is that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": ":21,369 –> 00:12:23,536"
+    },
+    {
+      "type": "direction",
+      "text": "Yeah, but I thought this"
+    },
+    {
+      "type": "direction",
+      "text": "baby was supposed to ruin their sex life, not mine."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "This is not how I imagined this day going, I should be with them right now."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, it is their child."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I know that. But to be fair, I’ve spent nine months helping Bernadette get ready for this baby, and Howard spent five minutes conceiving it. And I’m being generous."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Five minutes? We must be doing it wrong. It took us hours."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "And, and the worst part is that they kicked me out and let Stuart stay."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I understand, but this is a special day for them. Can you just try and let it go?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "She’s right. You know, I just learned Amy went to a theme park without me, but I’m not going to ruin her birthday. I’ll wait, and ruin 24 individual hours sprinkled throughout the year. Boop."
+    },
+    {
+      "type": "scene",
+      "text": "The delivery suite."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Deep breaths, slow breaths."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I’m so thirsty. Give me more ice chips."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Sorry. I thought these were room ice chips. I’ll go get some more."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Uh, Stuart, while you’re out there, don’t come back."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So, what are we gonna name this kid? Now that we know she’s a girl, it kind of ruins my plan for Wally Wolowitz."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "We could name her after your mom."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Debbie? No. She hated that name."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Did she have a middle name?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Melvina."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Let’s keep thinking."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Ah. It sucks that she’s not here."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I know."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hm. She would’ve been the best grandma."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "She did always have candy in her pocket."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah. I was 20 years old before I figured out Tootsie Rolls weren’t naturally warm."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I didn’t know her five minutes and she asked, are you a Milky Way or a Snickers girl?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Thank God you answered right, we wouldn’t be here today."
+    },
+    {
+      "type": "scene",
+      "text": "The waiting room."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s hard to believe Howard’s having a kid."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Yeah. Penny, you’re the one who introduced him to Bernie."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "How many times do I have to say I’m sorry?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s not just Howard and Bernadette. I mean, look how far we’ve all come."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Hmm. You two got married."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon and I are living together."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But if my mom asks, we have bunk beds."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Penny was a struggling actress when we met, and now she’s a successful pharmaceutical rep."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, you don’t have to say struggling every time. You can just say actress."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Howard went to space."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Bernadette got her doctorate."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, Howard and I are working with the government on our quantum gyroscope."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "We’ve all come a long way. There’s a lot to be proud of."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "For God’s sake, just drive in the knife, why don’t you."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "What’s your problem?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, you’re all thinking it, I’m the only one who hasn’t done anything worthwhile."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I was not thinking it. Although, now that you point it out, it is undeniable."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Raj, if it’s any consolation, I’m no better off than I was ten years ago."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, yay, I have a doctorate in astrophysics and I’m every bit as awesome as the pasty-faced owner of a comic book store."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Raj, show some compassion. Those are things that we think but don’t say."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Excuse me."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sorry, Stuart."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Hey, I’m in a hospital and I’m not the patient. I’m fine."
+    },
+    {
+      "type": "scene",
+      "text": "The delivery suite."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Come on, Bernie, breathe. Remember what you learned in birthing class."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I remember thinking this is stupid, and I was right."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Do you want me to get the nurse?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "No. If one more person puts their fingers near my uterus, I’m gonna cross my legs and snap ’em off."
+    },
+    {
+      "type": "scene",
+      "text": "The waiting room."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’ve come to peace with my relationship with my parents. That was a big milestone for me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, speaking of personal growth, I recently tried eating Swiss chard. You know, I didn’t swallow it, but Amy said it counted."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Hey. Still a loser or did you turn things around while you were gone?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know, Raj, honey, you’re being too hard on yourself. When I first met you, you couldn’t even talk to women. I mean, you couldn’t even talk if one was in the room."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, great, now I can say things like I can’t believe you’re breaking up with me, why are you breaking up with me? Yes, I’ll still help you move."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Anyone else want to try?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Uh, yeah, I got something. Raj, not everybody could be a dog owner. Oh, what? Did your doggie break up with you too?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, I bought M&Ms at the vending machine and two bags came out."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I bought the first one, it didn’t fall."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Here."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "She’s here, the baby’s here."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh!"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Congratulations."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "How’s Bernadette?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Tired, but great. They’re both great."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Does the baby have a name yet?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "We have named her Halley."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "– Oh."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, like Halley’s comet."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Exactly. Also like the comet, Bernadette said she’s not gonna have sex with me for another 75 years."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "That’s not a real thing, he’s just joking."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m gonna get back. Thank you for staying up, I can’t wait for Halley to meet her new aunts and uncles and godfather."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Really?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Of course."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You hear that, Stuart? I’ve got a dog and a godchild, you have nothing."
+    },
+    {
+      "type": "scene",
+      "text": "The hospital nursery."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, look at all the babies."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Some will be successful, some may be homeless. It’s fun to think about."
+    },
+    {
+      "type": "direction",
+      "text": "Leonard; I wonder which one’s Halley."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Kind of hard to see the names."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Mm, that one kind of looks like Bernadette."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "They all look the same to me."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Guys, she’s my goddaughter, I think I’ll know when I see her. That one."
+    },
+    {
+      "type": "scene",
+      "text": "The stairwell."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, that was quite a day."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It was. Bernadette had her baby, I made it to Wizarding World, and now it is time to complete your birthday celebration. Hankius pankius."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I was afraid you’d be too tired."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Amy, I just saw a magic train and reported somebody for cutting the line. If that’s not foreplay, I don’t know what is."
+    }
+  ]
+}

@@ -1,0 +1,1243 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 9,
+  "episode": 21,
+  "title": "The Viewing Party Combustion",
+  "url": "https://bigbangtrans.wordpress.com/series-9-episode-21-the-viewing-party-combustion/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The comic book store."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I have a question about Batman. Batman is a man who dresses up like a bat. Man-bat is a part man, part bat hybrid. Now, if Man-Bat dressed up as a man to fight crime, would he be Man-Batman?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, he’d be Bat-Man-Bat."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "But wouldn’t Man-Batman just be a Batman that was bitten by a radioactive man?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "But Batman is a man. You’re talking about a man who would have the powers of a man. That’s just Man-Man."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, isn’t Man-Man just Man?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "But what if Man-Man dressed as a bat?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, that’s just Batman."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, if a man dresses as a bat, that’s Batman, but if Man-Man dresses as a bat, that’s Batman-Man."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So does that answer your question?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I haven’t asked it yet."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "direction": "(checking text on phone)",
+      "text": "Oh, that’s Claire. Got to run."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I thought you were back with Emily."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Uh, actually I’m seeing both of them."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You mean like through their window from behind a bush?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No, I’m actually dating two women. Later."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Really? The guy who for years couldn’t even talk to women is suddenly going out with two of them? How is that possible?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I know. Scientists have tried to reproduce it with computational models, but, in each case, the world blows up."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Seriously, that guy’s dating two women?"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What, why did you get a party sub?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "People are coming over, it looked fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, we’re only watching Game of Thrones. A party sub implies it’s a party."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Your attendance implies it’s not."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I like a party as much as the next man, as long as the next man doesn’t like a party. Oh, by the way, don’t forget, tomorrow is our quarterly roommate agreement meeting."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, Sheldon, we don’t need a meeting every three months."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hmm? Well, it sounds like the kind of thing one would bring up at a quarterly roommate agreement meeting. Lucky for you it’s tomorrow."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, you know what? I’m not going."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, you have to go. It’s Penny’s first time leading the Pledge of Allegiance."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "This meeting is a waste of time. Whether we make the switch from Post Raisin Bran to Kellogg’s Raisin Bran should not require parliamentary procedure."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You realize one of them has sugar on the raisins."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re the only one who eats them."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And yet you get to weigh in. Democracy, it’s pretty cool, isn’t it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m not going, you can’t make me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, we’ll just see about that."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What is the problem?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "He says he’s not coming to the roommate agreement meeting tomorrow."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, why the hell did I memorize the Pledge?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You have fun. I will not be attending."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, fine. We don’t have to have a roommate agreement meeting if you don’t want to."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Of course, it will require a vote. Unfortunately, my official gavel is in my bedroom, but luckily, I have my travel gavel."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re being ridiculous."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "There’s a motion on the floor, I’m ridiculous. Do we have a second? Hmm? Hmm? There is no second. The motion is denied. Next time, make sure you have the votes first. That was embarrassing."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Can you please talk to him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, why are you fighting him on this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Because I am tired of him always getting his way. We don’t need a stupid meeting. We don’t even need a roommate agreement, and I hope that sandwich does cause a party."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, I will still come to your meeting."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I should hope so. Tomorrow’s picture day."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why are you taking his side?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Because it’s important to him, and when we signed the roommate agreement, we made a deal."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You keep talking like that, you’re gonna make colour guard."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s house."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Man, I’m worn out."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I know. Imagine if we were actually moving."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No, it’s just, ever since I started dating Claire and Emily at the same time, it’s exhausting."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You’re exhausted? Try folding every five pages in a pregnancy book so your wife thinks you read it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "But, dude, you’re so lucky. Getting to stay home at night with the woman you love."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I guess I am lucky."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You are, because dating two women, I mean, I can’t even remember the last time I slept in my own apartment. I wake up and I’m like, am I at Claire’s or am I at Emily’s? Is there a third girl I’ve forgotten about? Like, where am I?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Hey, Raj."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, how’s the mommy-to-be?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Good. A little tired."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I feel you. I’ve been dating multiple women."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You sure you don’t want to come watch Game of Thrones with us?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You guys have fun. I’m just gonna snuggle up in bed with a book."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, that sounds great, a bed to yourself. Can’t even remember what that’s like."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Are you up-to-date on Game of Thrones?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Mm, I think so. Dragons, snow zombies, and all the hot guys are dead."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I don’t know. Theon Greyjoy looks pretty good for a guy who had his genitals cut off."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh-oh, somebody’s still pouting."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Leave me alone."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "If it’s because you lost a stick, I know where it went."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Not funny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know you’re gonna make up with him. Can we just skip to that part?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, of course, because I’m the only adult around here."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Really? The only adult?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, that’s right."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Tonight I’ll be watching a show rated M.A., and that stands for mature audiences, buster."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right, you would think the only adult wouldn’t let something silly ruin our entire night."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "And I’d think you’d understand why I’m annoyed."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All this could be avoided if you’d just come to the meeting."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t want to."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, it’s just a meeting. One simple meeting."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Stop saying meeting."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Meeting, meeting, bo-beeting, banana-fana, fo-feeting, fee-fi mo-meeting."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I brought my famous spinach dip."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, Amy, just one second. Meeting."
+    },
+    {
+      "type": "scene",
+      "text": "Howard’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m not sure if I’m hoping for a boy or a girl. I mean, if it’s a boy, I’m gonna have to teach him to play catch. Which means I’m gonna have to google how to play catch. If it’s a girl, I mean, they’re so innocent and you know how guys are."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Totally, guys are the worst. I mean, look at me. I let Emily make me a frittata and I kept the leftovers in Claire’s fridge that night. I’m such a dog."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "There you go again."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m sorry, have I been complaining about it too much?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Actually, what you’re doing is pretending to complain, but really trying to brag."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "How could you say that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, I wish could enjoy a cup of tea without a naked girl bouncing up and down on me."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I never said that."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Don’t you hate it when you can’t remember whose bra it is you found wedged in your couch?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, that I said. But that’s a real problem. You give a girl another woman’s bra, and you will not be having sex with her that night. Maybe the other girl, but not her."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What’s going on with him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, he’s all bent out of shape about having a roommate agreement meeting."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Apparently, perfect attendance isn’t cool any more."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Don’t worry, he’ll come around."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, I get why he’s annoyed."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, then you don’t understand what’s happening. See, Leonard refused to participate in a mandatory quarterly roommate agreement meeting. This is what a generation raised on Bart Simpson looks like."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You love The Simpsons."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I love Lisa Simpson."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, I know how he feels. I never enjoyed our relationship agreement meetings."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wait. You were pretending?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. I don’t believe you. I could tell."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, Sheldon, I never thought re-filing a matter in a standing subcommittee could be so fascinating."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hmm, what do you think?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You don’t know?"
+    },
+    {
+      "type": "scene",
+      "text": "The stairwell."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, did I say something to upset you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, I’m fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Really? Because usually we walk side by side, and I just went up two flights of stairs staring at your bottom."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Just drop it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, I think I see what’s happening here. You’re jealous of me."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, please. What could you possibly have that I would be jealous of?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s not what I have, it’s how many people I’m having it with."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Come on, Sheldon, we’ll watch Game of Thrones over here."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Gladly."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, good, go. You know, it’ll be nice to watch an episode without someone saying, I read the books, don’t get too fond of this character."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s not always because they die. In one case, it’s because they’ve become involved with underground tree people from the dawn of time. Yeah, but I won’t say who it is. It’s Brann."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Wait, what is going on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Leonard’s being a jerk, so we’re gonna watch over here."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Do you guys want to watch with us?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "As long as I don’t have to watch with him."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Fine, I don’t want to watch with you either. I’ll go over here."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Why do you get to pick?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, then you go there."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Don’t tell me where to go."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Howard, just come in here."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, come on, Raj."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Wait, did Amy make her spinach dip?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "She did."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "And I’m gonna eat it all."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So what the hell happened?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, I just ran out of patience with Sheldon’s nonsense."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Tell me about it. I’ve had it with Raj, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You know, like women, men have a monthly hormone cycle. Dips in testosterone can cause irritability."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Interesting. Maybe my male cycle synced up with Raj’s actual period."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "If Sheldon’s testosterone dipped, he’d become a butterfly. (Knock on door) Oh. Maybe someone’s here to apologize."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Hey, Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Stuart."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Uh, is this not a dress-up party?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Was it ever a dress-up party?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Howard, didn’t you tell me it was a dress-up party?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment. Knock on door."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "I was told this is where to go if I’m mad at Howard."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "May I take your cloak?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Thanks. This thing kept getting caught in the chain of my bike."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I’ll catch you up. Uh, Penny is angry at Leonard, Leonard’s angry at me and Penny, I’m angry at Leonard and Amy, Raj is angry at Howard, and I’m angry at George R.R. Martin ’cause there are no new books for me to spoil for Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "So what happened with you and Howard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Says I was talking too much about dating Claire and Emily, and I accused him of being jealous."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "I’m jealous. Closest I’ve come to dating two women was that time I dated one woman."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know how you put up with it. He’s impossible. I mean, holding a meeting to decide what breakfast cereal we should buy."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah. Cap’n Crunch with Crunch Berries, move on."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Anyway, Amy, thank you for sticking up for me."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, I honestly couldn’t care less."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sorry?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, I just took your side ’cause sometimes I get annoyed at how close Sheldon and Penny are."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, they argue all the time. They aren’t that close."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Who’s always comforting him when he’s upset?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Penny, but…"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Who’s the only one who can make him take his medicine when he’s sick?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I try to hide it in his peanut butter, but he spits it out."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Okay. And did you know she has him add things to the roommate agreement so she can get her way and not fight with you about it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Son of a bitch. Why is that funny?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I don’t know. I like the pain of others."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, well, then you’ll enjoy this. Bernadette does the same thing with you and Koothrappali."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, she doesn’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "She defends him all the time."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "She does not."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Who told you to stop making all those Gandhi jokes about him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, she did. And human resources."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Who do you think told Koothrappali to go to human resources?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Son of a bitch."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re, you’re right, it feels good."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "All right, it’s almost game time. Get it? Game of Thrones, game time?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Two women, huh?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(at knock on door)",
+      "text": "Oh, perhaps it’s Amy coming to her senses."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What’s up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You know, you don’t need to use Sheldon to get your way with me in a dumb roommate agreement."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Where’d you get that from?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "From Amy."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Ugh. Amy, why did you tell him that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Because you were defending Sheldon like you always do."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I don’t always defend Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, yes, you do. You know you have a weird brother-sister-Elliott-E.T. relationship with him."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What about your weird relationship with him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s different. I’m like the little girl in Poltergeist and he’s the creepy thing in the TV."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Um, guys? Were there any nuts in that food?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t think so. Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well just a feeling."
+    },
+    {
+      "type": "scene",
+      "text": "A hospital waiting room."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It just said Italian sub. I had no idea mortadella has pistachios in it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Interesting fact, in Italian, the morta in mortadella means death."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I didn’t say fun fact. I’m not a monster."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "He’s gonna be okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Now it’s a fun fact."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Boy, stuff like this really puts things in perspective."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Why are you dressed like that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Oh, uh, Howard thought it’d be funny to tell me it was a costume party."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "That wasn’t nice."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "No, but he almost died, so we’re cool."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You know, if you think about it, tonight was kind of like a real-life Game of Thrones."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "How?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, Howard eating that pistachio was like when King Joffrey got poisoned."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, well, that was murder, this was an accident."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay. But you using Sheldon to do your dirty work is like when Cersei used the King’s Guard to do her bidding."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Cersei uses her body to manipulate men. Penny just takes me to The LEGO Store."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay. Oh, how about this? Stuart’s dressed like a brother of the Night’s Watch, and they don’t have sex."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "There you go."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s true."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Fair enough."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You all right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m fine. Just a little embarrassed I had to be carried down the stairs like a baby. Thanks."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Let’s get out of here."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "That was scary."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, the important thing is I said that big sandwich would ruin everything, and I was right."
+    },
+    {
+      "type": "scene",
+      "text": "The street."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "direction": "(shouting from upstairs window)",
+      "text": "Hey, Jon Snow. How come your horse has a basket on it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "How come your head has your face on it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "They don’t wear bicycle helmets in Game of Thrones. You’re thematically inaccurate, but I applaud your commitment to safety."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Don’t you guys have anything better to do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Better than watching a guy in a fur cloak ride a girl’s bike? Nope."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "That’s it, you just lost bathroom privileges at the comic book store. Horse has a basket on it. Stupid… aaargh!"
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Leonard. (Knock, knock, knock) Leonard. (Knock, knock, knock) Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I never got to ask my question about Batman."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What is it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If Batman were bitten by a radioactive Man-Bat, and then fought crime disguised as Man-Bat, would he be Man-Bat-Man-Bat-Man or simply Man-Bat-Man-Bat-Batman?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Is he still wearing the Batman suit under the Man-Bat suit?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’ll be back."
+    }
+  ]
+}

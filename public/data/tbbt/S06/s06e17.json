@@ -1,0 +1,880 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 6,
+  "episode": 17,
+  "title": "The Monster Isolation",
+  "url": "https://bigbangtrans.wordpress.com/series-6-episode-17-the-monster-isolation/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "(After a “previously on” sequence) A coffee shop"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "So then I went to Cambridge, which was wonderful not only because it’s a good school but because it totally looks like Hogwarts. That’s where I fell in love with astronomy, and now I’m an astrophysicist at Caltech, so I guess you could say, uh, Raj is my name and stars are my game. And rhyming is also my game. So, uh, two games. Uh, anyway, that, that’s enough about me. I want to hear everything about you."
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "I have to go to the bathroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I go to the bathroom, too. Sometimes more frequently than I care to admit. Oh, I’ve had it checked out, it’s nothing. Hmm. This is going great. Mmm, can I have a refill on my chai tea? Yes, I have a good feeling about this. (Girl can be seen sneaking past window and leaving) I should have bought condoms."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hello, I’m Dr. Sheldon Cooper. Welcome to Sheldon Cooper Presents Fun with Flags. My apologies that this episode is coming late. I did shoot one last week, in honour of Black History Month, but I was informed by my roommate that my spot-on portrayal of George Washington Carver could be considered wildly racist. My heart goes out to the members of the African-American community, who, like me, have been kept down by The Man. Now, Fun with Flags is not just for the flag aficionado, it’s also for the flag novice, so, to help me with that, please welcome my friend, neighbour, and flag virgin, yeah, not a real virgin. She’s had coitus many times. Sometimes within earshot of this flag enthusiast. Once while he was trying to watch The Incredibles. Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So, Penny, I understand you would like to learn more about flags."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, I can’t tell you how many times I’ve been at a party where everyone’s talking about flags and I just couldn’t join in."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah. Well, you came to the right place."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh, I’m sorry, can we just pause for a minute?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What’s wrong?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I just think it might look more natural if you talked to me instead of the camera, you know, like, like a real conversation. It’s something we work on in my acting class."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Interesting. A few people in the comments section have said that my delivery is robotic. Perhaps that isn’t the compliment it sounds like."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, let’s try it again, and maybe, this time, you could work on your body language a bit. You know, when you’re all hunched like that, you’re shutting the audience out, but when you’re relaxed and open, you’re inviting them in."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Right. And which one do I want?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Let’s try open."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If our friend, the flag, has taught me anything, it’s to go where the wind takes you. As long as you remain firmly attached to a rigid pole. And, action. So, Penny, what sort of flag questions keep you awake at night?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Um, well, I’m from Nebraska. So what can you tell me about the state flag?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Gosh, Penny, what’d you have for breakfast? A big glass of good question juice? The Nebraska state flag is simply the state seal on a field of blue. Spread your legs, invite them in."
+    },
+    {
+      "type": "scene",
+      "text": "Outside Raj’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m telling you, something’s wrong. I can always feel it when Raj is in trouble."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Geez, how close were you guys before we got married?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Don’t look under that rock. (Knocking) Raj, you okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You in there?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "direction": "(off)",
+      "text": "Go away!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Come on, buddy, open up."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "We’re worried about you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "direction": "(off)",
+      "text": "Oh, just because I’ve stopped going to work and answering my phone you think something bad happened? Maybe something good happened."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Did something good happen?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "direction": "(off)",
+      "text": "Of course not. Nothing good ever happens. (Opens door. He is wearing a stained vest, his hair is unkempt, and he is drinking wine from a bottle.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Whoa."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Nope, just, just, whoa."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "It smells pretty ripe in here. You kind feel it in your eyes."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Raj, what’s going on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I was humiliated by yet another woman."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You didn’t kill her and chop her up, that’s not what we’re smelling, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No. I took her for coffee, and she snuck out the bathroom window to get away from me."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, you poor baby."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I went and looked. It was a high and tiny window. She must have been very motivated."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m sorry. That’s awful, but come on, you got to shake it off."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, you can’t stay in your apartment for the rest of your life."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Why not? With online shopping and overnight delivery, I can get anything I want. Look, I just ordered a case of Dinty Moore beef stew and two live lobsters on Amazon."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Lobsters overnight?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, you’re kidding. Let me see. Well, I’ll be. Look, you can throw in a couple steaks and have a surf and turf."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "The surf and turf sounds good. See if they have corn on the cob."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Guys, we’re trying to get him out of here, not you in."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You’re wasting your time. Just please, leave me alone."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Now what?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "We could go to Red Lobster and talk about it. We’re all thinking it. I just had the decency to wait for him to leave."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "direction": "(on webcam)",
+      "text": "Hello, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hello. How’s the final stage of your nicotine addiction study going?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Fine. Just hold on. Mommy’s on the phone! Sorry. We’ve cut the monkeys down to one cigarette a day, so things are a little intense. Makes me miss my marijuana-abusing flatworms. Those guys were mellow."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Good news. Uh, the latest episode of Fun with Flags is online."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, that’s right. How’d it go with Penny?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Much better than I expected. She even gave me some helpful tips about acting and body language. Watch. Welcome to my world. Not welcome to my world. Welcome. Not welcome."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Subtle, but powerful."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I know. I’m still learning to control it."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Did you tell Penny how helpful she was?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why would I do that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Because she’s your friend, and she did a nice job. I’m sure she’d like to hear it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I didn’t mean now. Hello? Yeah, yeah, you want a cigarette. Well, I’d like a normal boyfriend. Deal with it."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, hi. What’s up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Um…"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You need me to shut the door so you can do your knocking thing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. I didn’t start yet, it’s fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay. So, what do you need?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I was thinking about you helping me out last night (knock, knock, knock) Penny. And I just wanted to tell you (knock, knock, knock) Penny, that the answer to the question, who did a great job? is you, (knock, knock, knock) Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Really?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, you were very natural in front of the camera, and I found your suggestions extremely helpful."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Aw, sweetie, you just made my day."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, my acting class is putting on a play Friday night. I could put you and Amy on the guest list."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, that sounds terrible. Why would I want to do that?"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "direction": "(on webcam)",
+      "text": "That’s right. They’re no good without the lighter."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, so much for your advice on complimenting Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Why? What happened?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "She tried to rope us into going to her acting class to see a play. Don’t worry. Luckily, I had the good sense to drown that kitten in the river."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, that’s very rude. She helped you with your show. The right thing to do is reciprocate by going to see her play."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, so many crazy rules."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "That better be Tootsie Rolls you’re throwing at me!"
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Penny. (Knock, knock, knock) Penny. (Knock, knock, knock) Penny. Oh yeah, much better."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Amy pointed out to me that since you did something nice for me, I’m obligated to do something nice for you. So, yes, I’ll go to your dopey play."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, I don’t want you to go any more."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You should go ’cause you want to go, not because you have to."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, Dear Lord, more rules? Where does it stop? Can I want to go because I have to want to go?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay. Do whatever you want."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, but now, wait. Do whatever I want? Or whatever I have to want?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, for God’s sake, just come to the play."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right. I don’t want to, but at least that makes sense."
+    },
+    {
+      "type": "scene",
+      "text": "The comic book store."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know, I haven’t seen Raj in several days. Is he no longer a part of our social group? And if so, should we be interviewing for a replacement? Perhaps, this time, we go Latin."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "He’s just decided he’s never leaving his apartment again."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, brilliant. I’ve been itching to pull that trigger."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "He’s upset because he can’t get anywhere with women."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Would it help if I gave him some pointers? I’m just funnin’ ya."
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "Hi. I don’t know if you remember me, but I was here the other night at your party."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Oh, yeah, you left with Raj."
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "Uh, yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You’re the one? Okay, let me tell you something. That guy you blew off happens to be my best friend. Okay? He was devastated."
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "Sorry. Can you just give him this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay. But I gotta warn you, Raj is a proud, passionate man. If you go running out on him again, you’re only gonna get, like, three or four more chances before you are history."
+    },
+    {
+      "type": "scene",
+      "text": "Raj’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Come on, she came back. This is good news. You should celebrate."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I don’t want to celebrate."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Not even a little? I mean, we could have a pants party. Go put some on."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Why would I want her number? I don’t want anything to do with this woman."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, come on, Raj."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No, you don’t get it. I want nothing to do with any woman. My heart is stone. From now on, I’m a monk. I renounce all worldly pleasures. Except for lobster. And garlic butter."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Boy, I want to tell you it’s her loss, but you are not making it easy."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You’re, you’re a good friend for trying to help, but, I’ve made my choice."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "All right. Well, I’ll see you around."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "See you. No, wait, take her number. I don’t want the temptation."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I must be strong so I don’t stray from my true purpose, the study of the universe."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "All right. Thanks for ruining lobster for me."
+    },
+    {
+      "type": "dialog",
+      "character": "Scene",
+      "text": "Outside on the street."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Wait! Give me the number! Give me the number! Give me the number!"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, Amy, what’s going on with your addiction study?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sadly, I’m no longer associated with that project."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why? What happened?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Typical bureaucratic nonsense. You can get animals addicted to a harmful substance, you can dissect their brains, but you throw their own faeces back at them and suddenly you’re unprofessional."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m sorry. That I asked."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, let’s get this stupid play over with."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, hang on. Empty your pockets."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You know why. The Nintendo DS. And the PSP. Now the Gameboy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Aw, for Pete’s sake. Can we go now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, is that all of it? (Pulls a Rubik’s cube from his pants.) Just set it down."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Just so you know, this is not a stupid play. A Streetcar Named Desire is an American classic."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s about streetcars? Oh, great. I won’t need this. (Pulls out an etch-a-sketch.)"
+    },
+    {
+      "type": "scene",
+      "text": "Outside Raj’s apartment. The girl from the comic book store knocks on the door."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Just a sec. Oh, who says just a sec? I hate myself. Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Uh, would you like to come in?"
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "Oh, no, I can’t stay."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh."
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "I just wanted to say, I’m sorry for running out of the coffee shop. That wasn’t cool. So, uh, yeah. I’m sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Wait. Can you at least tell me what went wrong? It’s okay. I can take anything. Unless it’s something I did, or said, or am. ‘Cause those are, like, my buttons."
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "No, it’s not any of that. It’s just, I kind of have a hard time around people I don’t know."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Really? Then what were you doing at the comic book store that night?"
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "I’ve been trying to force myself into situations that I’m not comfortable with. I saw the flyer in the store window, and I made myself go in. I don’t even like comic books."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, me neither."
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "Then what were you doing there?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I lied. I love them. I only said that so you’d go out with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "Oh, you don’t want to do that. I’m kind of broken."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "That’s great. I’m broken, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "Oh, no, you’re not."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, I totally am. If it wasn’t for this beer, I couldn’t even talk to you right now. I’m a wreck. There are many things seriously wrong with me. And not quirks, either. Like, diagnosable psychological problems. Maybe brain damage."
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "Well, how do I know you’re not just saying that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Go out with me on one date, and I promise you, you’ll see."
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "Okay. Text me. Bye."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You won’t regret it. I’m the most pathetic guy you’ve ever met. And that, boys and girls, is how it’s done."
+    },
+    {
+      "type": "scene",
+      "text": "The theatre."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(as Blanche DuBois)",
+      "text": "You love her very much, don’t you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Actor",
+      "direction": "(as Mitch)",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I think you have a great capacity for devotion. You’ll be lonely when she passes on, won’t you? I understand what that is."
+    },
+    {
+      "type": "dialog",
+      "character": "Actor",
+      "text": "To be lonely?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "She’s pretty good, huh?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "She is. But when do they get to the part about streetcars?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(as Blanche)",
+      "text": "…when I was a very young girl. When I was 16 years old, I made the discovery, love. All at once, and much, much too completely. It was like you suddenly turned a blinding light on something that had always been half a shadow. That’s how it struck the world for me. But I was unlucky. Deluded."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "She’s remarkable."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "She really is."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Our Penny’s a star."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "How can she remember all those lines, but as a waitress, she can’t remember no tomato on my hamburger?"
+    }
+  ]
+}

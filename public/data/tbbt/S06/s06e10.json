@@ -1,0 +1,1034 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 6,
+  "episode": 10,
+  "title": "The Fish Guts Displacement",
+  "url": "https://bigbangtrans.wordpress.com/series-6-episode-10-the-fish-guts-displacement/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Is anyone else troubled by the Spider-Man theme song?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why would it trouble you? It’s, like, your third favourite cartoon theme song."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It is, right behind do-do-do-do-do Inspector Gadget., and Teenage Mutant Ninja Turtles, heroes in a half-shell."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard and Raj",
+      "direction": "(together)",
+      "text": "Turtle power!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "However, the Spider-Man lyrics posit that Spider-Man, Spider-Man does whatever a spider can."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, so?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I can think of many things Spider-Man can’t do that a spider can. One, crawl in your ear and die. Two, legally leave Guatemala without a passport. Three, have sex with a spider."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "an we change the subject? Spiders give me the jeebie-jeebies."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It’s heebie-jeebies."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I know, but that sounds anti-Semitic. Anyway, I was thinking we could have a little film festival tonight. The theme, movies that killed their franchises."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh. Like Jaws 4, Indiana Jones 4, Daredevil 1."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Miss Congeniality 2: Armed and Fabulous. I mean, you know a movie’s bad when my homegirl Sandy B can’t save it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Penny’s working tonight, I’m in."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Not me. I’m having dinner with Bernadette and her parents."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Fun. We know how much you love that."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It’s torture. Especially with her dad. We have nothing in common."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know what I like to do when I’m forced to speak with those beneath my intellectual station? I bring up an interesting topic, like the difference between Spider-Man and spiders."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Thanks, Sheldon. I’ll try that with my father-in-law."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, you can’t use that one. That’s mine. Uh, try this one for an ice-breaker. Uh, despite popular lore, there is no place in the continental United States, Alaska or Hawaii from which one can dig straight through the centre of the earth and come up in China."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Great, thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Actually, you can’t have that one either. It’s too good. Sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What about you, Sheldon? Do you have any plans tonight?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Sadly, yes. Amy’s taking me to a memorial service. It’s for one of her colleagues who is of Asian descent, so my planned conversational gambit is to casually remark that no matter how deep they dig his grave, he’ll never make his way back to China."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That should lighten the mood."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What can I say? I put the fun in funeral."
+    },
+    {
+      "type": "scene",
+      "text": "Amy’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Amy. (Knock, knock, knock) Amy. Oh, right, funeral. (Knock, knock, knock) (solemnly) Amy."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hello, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m not allowed to wear my Silver Surfer neck tie, but you can wear a bathrobe?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I think I’m too sick to go to the funeral."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re sick? You poor kid. Well, see ya."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, aren’t you gonna take care of me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Me? No. No, I’m not that kind of doctor."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "But our relationship agreement clearly states that when one of us is sick, the other must take care of them."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, no, I see the confusion. No, the intent behind that clause was to force you to take care of me when I’m ill. When you’re feeling better, you’ll think that’s funny."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Never mind. Good night, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Amy. (Knock, knock, knock) Amy. (Knock, knock, knock) Amy. I made a commitment in writing to comfort you in times like this. Additionally, you are my girlfriend, and I care about your well-being."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Thank you, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re welcome. Now let’s get this over with."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So, how have you been?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "Fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Good. Fine is good. How you liking retirement?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "It’s fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m sensing a theme. You ever really think about the Spider-Man theme song? How’s that dinner coming?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I just put it in. It’s gonna be a while."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I like rare chicken. Let’s do this."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You could die."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Death by chicken. That’s a pretty fowl way to go."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs. Rostenkowski",
+      "text": "Here’s another beer, honey."
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So, Mrs. Rostenkowski, you took that trip to the Grand Canyon. How was it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs. Rostenkowski",
+      "text": "It was good."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Had no idea you were the chatty one."
+    },
+    {
+      "type": "scene",
+      "text": "Amy’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "102.2. Exactly what it was half an hour ago. It’s like you’re not even trying to get better."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, you don’t get over the flu in half an hour."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, not with that attitude."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I have to say, I’m finding your bedside manner a little lacking."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m sorry. I just want you to get better as soon as possible. And with that goal in mind, let me ask you a question. Do you believe in the placebo effect?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Of course I do. There have been many studies proving its validity."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Great. Now, this may look like a Tic Tac, but it is really a powerful medication specifically designed to cure your illness as well as freshen your breath."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, this isn’t helping. Why don’t you just let me get some rest."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "How can you sleep? I’m not done making you feel better. I still have to put a cold rag on your head, sing to you and apply VapoRub to your chest."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You, you want to rub something on my chest?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes. All over it."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Maybe we should start with that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Now you’re being a responsible patient. Now, you may notice some tingling."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, I’m counting on it."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, dig in."
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "Hold up. Bless us, O Lord for these Thy gifts which we are about to receive from Thy bounty through Christ our Lord. Amen."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Took the words right out of my mouth."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "So, Dad, have you done any fishing lately?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "I’m going next weekend."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, you like to fish?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sure. I can hear it in your voice."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs. Rostenkowski",
+      "text": "Oh, if he didn’t like it, he wouldn’t go."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You know, I hadn’t thought of that. (To Bernadette, whispering) Help me."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Hey, Dad, maybe you could take Howard fishing sometime. Give you guys a chance to get to know each other better."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, no. We know each other well enough. He’s been talking my ear off all night."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Howie, I think you’d have fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "Fine, you can tag along."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Terrific. My two favorite fellas gone fishin’."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, hang on a second, Bernie. Next weekend, we have that thing."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What thing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You know, the thing."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, that thing. No, I cancelled that thing."
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "All right, it’s settled. You and I are going fishing."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Great. (To Bernadette) Thanks for the help."
+    },
+    {
+      "type": "scene",
+      "text": "The stairwell."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’ve never even been fishing. This is gonna be a disaster."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "If you don’t want to look foolish doing something, you should practice. Do you know how many Beef Wellingtons I made by myself before I invited you guys over? I’ll give you a hint. You can see them here, here and here."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Raj is probably right. You should get someone to give you some pointers."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Do either of you guys know how to fish?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No. But if you catch anything, I know how to steam it in banana leaves."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Come on, we must know somebody who can do manly stuff like this."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "S’up?"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Step one, worms."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Ew!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, right there, ew is one of the things you’re not gonna want to say in front of your father-in-law. It’s right up there with icky and get it away. Now pick one up."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Really?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You’re gonna have to do it when you’re fishing."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What are you waiting for?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I don’t know, for them to die of natural causes."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Just pick up a worm and put him on this hook."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Fine. There."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m no expert, but I think the hook has to go through the worm."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Fine. Sorry, Mr. Worm. Sherm. Sherm the Worm."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, don’t name him. Just jab a hook in his face."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You got this, buddy."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, come on, Howard. Hook that worm."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You can do it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That’s great. Cheerleading, way to man things up."
+    },
+    {
+      "type": "scene",
+      "text": "Amy’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(reading)",
+      "text": "And the control group displayed significantly fewer genetic abnormalities. But, because of flaws in the experimental design relating to environment and diet, they lived inconclusively ever after. The end."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "That was great. Rub my chest again. (Knock at door)"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. I need to get you down for a nap. And for some reason, that VapoRub gets you all fired up. (Opens door)"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "How’s the poor thing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I’m hanging in there. Thanks for asking."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Okay, Amy, I brought you some drugs we were working on in the lab. This is proving really good for congestion, but there’s a slight chance it can make your tears burn like acid, so if you take it, happy thoughts."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Uh, I’m going to draw you a soothing bath. Where’s your bath thermometer?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I don’t have a bath thermometer."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Fine. Then I’m going to draw you a nerve-wracking bath of indeterminate temperature."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "This is a really good expectorant. Although some test subjects reported lactating uncontrollably when they heard music."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Okay, okay, here’s the deal. I don’t need your medicine. I’m not sick."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I don’t understand."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I got better two days ago. It’s just been so nice having Sheldon take care of me."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "So you’ve just been lying to him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "See the stuff in my nose? Rubber cement."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I don’t mean to be judgy, but this is the kind of thing lunatics do."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "All right. I’ll tell him."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(off)",
+      "text": "Amy, would you be strong enough to bathe yourself, or do you need my help?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’ll tell him tomorrow. Mama needs a bath."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Now, let’s assume, by some miracle, you actually catch a fish. You’re going to have to know how to gut it. So, what you’re going to do is you’re going to take your knife, slice him right up the belly. (Howard gags) You want me to stop?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, I’m fine. Keep going."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right. Now, you don’t want to cut too deep into its guts, or the blood will just squirt all over your face. (Howard, Leonard and Raj gag) Oh, my God. What is with you guys?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s not our fault. Our dads never did anything like this with us."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What, never?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "My dad was an anthropologist. The only father-son time he spent was with a 2,000-year-old skeleton of an Etruscan boy. I hated that kid."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Mine just took me to his gynecology office. I got so bored, I’d put vaginal lubricant on the bottom of my shoes and pretend I was ice-skating."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, well, my quality father-son time was spending my adolescence looking out the window waiting for my dad to come back someday."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, okay, Howard wins."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You know, maybe we didn’t have opportunities like this when we were growing up, but right now, there’s a dad that wants to take you on a fishing trip."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You’re right. Oh! I should do this."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Great. Here you go. What you’re going to do is you’re going to stick your thumb down its throat, grab the guts and pull."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Here we go. Oh!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, look, it’s a female. You can see all the eggs. (All the guys gag)"
+    },
+    {
+      "type": "scene",
+      "text": "Amy’s apartment. Amy is dancing to “Walking on Sunshine”. Hears door and turns off stereo."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, Sheldon, am I glad you’re back. Taking a turn for the worst. I think I’m going to need another bath."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m surprised to hear that. See, the other day, I was concerned that you weren’t recovering, so while you were sleeping, I took a cheek swab and had it cultured in the lab."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I got the results back. Have you developed any of the following symptoms? A growing nose, or perhaps a warm sensation in the trouser region? Also known as full-blown liar, liar, pants on fire."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "All right, all right. But I really was sick at the beginning. It’s just been so nice having you take care of me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It hurts that you would lie to me, Amy. I thought our relationship was based on trust and a mutual admiration that skews in my favour."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I feel terrible I did this."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It pains me to say it, but I think some form of penalty is in order, so as to discourage this type of behaviour in the future."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I suppose that’s fair. What do you suggest?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "In a perfect world, I’d lock you in a stockade in the public square. That probably requires a permit."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I could not be allowed to go to the opening of the next Star Trek movie."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, that seems overly harsh. I mean, you gave in to a human weakness, you didn’t kill a man. You know, it’s a tad old-school, but my father was not one to spare the rod when my brother would sneak into his truck and drink his driving whiskey."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Are you saying you want to spank me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t want to. But it looks like you left me no choice."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "That’s true. I’ve been a very bad girl."
+    },
+    {
+      "type": "scene",
+      "text": "Bernadette’s parents’ garage."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hi-ho, hi-ho, it’s off to fish we go."
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "That’s what you’re wearing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No good? The guy at the sporting goods store said these are what fishermen wear."
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "Maybe in cartoons."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Wish I had known that before I posted all those pictures on Facebook."
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "All right, let’s hit the road. I wouldn’t mind shooting some ducks in the morning."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Wait, now we’re shooting things?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "I like using a big shell. You can’t eat them afterwards, but it’s fun watching them blow up."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sir, I’m flattered that you invited me, and I really want you to like me, but I don’t think this trip is the way to do it. And I can’t return these things if there’s chunks of duck all over them."
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "So, why’d you agree to come?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "‘Cause Bernadette made me."
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "I tried to back out, too. My wife said I had to go."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Really? Your wife makes you do stuff? You’re a big, scary cop."
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "You’re an astronaut, and your wife makes you do things, and she’s only four feet tall."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So, what do we do now? They expect us to go away for the weekend."
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "Ah. There’s an Indian casino near Palm Springs. You know how to shoot craps?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, but I’m not a stranger to dice games. I was the Temple Beth-El Hebrew School Yahtzee champion."
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "Mazel tov. I’ll teach you how to play."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Really? Thank you, sir."
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "Call me Mike."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay. Oh, boy, we’re just married to a couple of ballbusters, huh, Mike?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "That’s my wife and daughter you’re talking about."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Great couple of gals."
+    },
+    {
+      "type": "dialog",
+      "character": "Mr. Rostenkowski",
+      "text": "I wouldn’t go that far."
+    },
+    {
+      "type": "scene",
+      "text": "Amy’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Are you prepared to receive your punishment?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "One second. I want to put on some music."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I don’t want to disturb the people next door while you discipline me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Very well, then. Get over my knee. Let’s begin."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, my."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Excuse me. You’re not supposed to be enjoying this."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Then maybe you should spank me harder."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Maybe I will."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Ooh!"
+    }
+  ]
+}

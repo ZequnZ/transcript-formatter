@@ -1,0 +1,1233 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 3,
+  "episode": 3,
+  "title": "The Gothowitz Deviation",
+  "url": "https://bigbangtrans.wordpress.com/series-3-episode-03-the-gothowitz-deviation/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The apartment kitchen. Penny is cooking breakfast while singing and dancing along to “Man I Feel Like A Woman” by Shenia Twain. Sheldon enters."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Morning, Sheldon. Come dance with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Penny, while I subscribe to the many worlds theory which posits the existence of an infinite number of Sheldons in an infinite number of universes, I assure you that in none of them am I dancing."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Are you fun in any of them?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The math would suggest that in a few I’m a clown made of candy. But I don’t dance."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right, want some French toast?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s Oatmeal Day."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Tell you what, next French Toast Day, I will make you oatmeal."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Dear Lord, are you still going to be here on French Toast Day?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Morning."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Look, Leonard, Penny made French toast."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sorry. I haven’t given her your schedule yet."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s an iCal download, she can put it right in her phone. And I thought we agreed that you’d have your conjugal visits in her apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We did, but there were extenuating circumstances."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I see. Did her abysmal housekeeping skills finally trump her perkiness?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, her bed kind of… broke."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That doesn’t seem likely. Her bed’s of sturdy construction. Even the addition"
+    },
+    {
+      "type": "direction",
+      "text": "of a second normal size human being wouldn’t cause a structural failure, much less a homunculus such as yourself."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "A homunculus?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Perfectly formed miniature human being."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, you’re my little homunculus."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Don’t do that."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sorry. Okay, who wants syrup and who wants cinnamon sugar?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I want oatmeal."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yes, well, I want a boyfriend whose roommate isn’t a giant pain in the ass."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m sure that will happen soon enough. But in the meantime, I still want oatmeal."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know what, I give up. He’s impossible."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I can’t be impossible. I exist. I believe what you meant to say is, “I give up, he’s improbable.”"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, you really need to find a better way of dealing with Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What am I supposed to do, eat French toast on a Monday? Now, that would be impossible."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m just saying, you can catch more flies with honey than with vinegar."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You can catch even more flies with manure. What’s your point?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s a… (gives up)"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Boy, that does smell good. Too bad it’s Monday."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, so Kim the night manager went on maternity leave, and her husband’s name is Sandy, right? So get this, her replacement is a woman named Sandy whose husband’s name is Kim."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Wow!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I know. What are the odds?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Easily calculable, we begin by identifying the set of married couples with unisex names. We then eliminate those unqualified for restaurant work, the aged, the imprisoned and the limbless, for example. Next we look at…"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon! it’s an amazing coincidence, can we leave it at that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m sorry. Ooh, Penny, it’s as if the Cheesecake Factory is run by witches."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Ooh, Sheldon, it’s as if you don’t think I’ll punch you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Come on, you guys, let it go."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Fine, whatever. Are you finished?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, thank you. How thoughtful. Would you like a chocolate"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Um, yeah, sure, thanks."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What was that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You said be nice to Penny. I believe offering chocolate to someone falls within the definition of nice."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It does. But in my experience, you don’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "There are more things in heaven and earth, Horatio, than are dreamt of in your philosophy."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, yeah, now that’s you, obnoxious and insufferable."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "direction": "(arriving, in goth gear)",
+      "text": "What’s going on, day dwellers?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, man, did the Kiss Army repeal don’t ask, don’t tell?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No. Raj and I are going a goth club in Hollywood to hang with the night people. Anybody want to come along?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, wow, you’re actually going out like that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, no. I’m going out like this. (Whips off jacket to reveal tattoos up both arms)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Howard, what did you do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "They’re called tattoo sleeves. Look. I bought them online, Raj got a set, too. Fantastic, right? Put them on, have hot sex with some freaky girl with her business pierced, take them off, and I can still be buried in a Jewish cemetery."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know, I’ve always wanted to go to a goth nighclub."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Really?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Bazinga! None of you ever see my practical jokes coming, do you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, how about you two? Look, I’ve got some extra tat sleeves."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why are you carrying extras?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, In case I snag one on someone’s nipple ring."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh, yeah, I think we’ll pass."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, is the missus speaking for the couple now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "In this case, you bet she is."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "direction": "(after Raj whispers)",
+      "text": "Yes, she’s pushy and yes, he’s whipped, but that’s not the expression. Come on, I want to stop at Walgreens and pick up some more eyeliner."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "They’re gonna get beaten up at that club."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "They’re gonna get beaten up at Walgreens. Oh, sorry, Sheldon, I almost sat in your spot."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Did you? I didn’t notice. Have a chocolate."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Thank you."
+    },
+    {
+      "type": "scene",
+      "text": "The goth club."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I think we’re fitting in quite nicely."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It’d help if you weren’t drinking light beer."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, what’s so gothic about vodka and cranberry juice?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hello, it looks like blood. Did you even read the Wiki How link I sent you on being goth?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No, I’m behind on my wiki-reading I’m kind of on a John Grisham kick right now."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, I finished reading The Pelican Brief and loved it so much, I dived right into The Client. He was a lawyer himself so his novels are accurate as well as entertaining."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Just remember we are lost boys, children of the night."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Great. Lost boys, children of the night. Got it. Can you pass the Chex mix, please. Thank you. We are lost boys."
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "Good for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m actually much morelost than he is."
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "Nice ink."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Thanks. Can we buy you ladies a drink?"
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "Two light beers."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Light beers? Well, Wiki-how about that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Second girl",
+      "text": "What’s your names?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m Howard."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Raj."
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "I’m Bethany."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Nice to meet you, Bethany."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yes, very nice."
+    },
+    {
+      "type": "dialog",
+      "character": "Bethany",
+      "text": "Nice to meet you too."
+    },
+    {
+      "type": "dialog",
+      "character": "Second girl",
+      "text": "I’m Sarah. Not that anyone cares."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Do either of you ladies enjoy the novels of John Grisham?"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What’s this cartoon called again?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oshikuru: Demon Samurai."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And it’s not a cartoon, it’s anime."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Anime. You know, I knew a girl in high school named Anna May. Anna May Fletcher. She was born with one nostril. Then she had this bad nose job and basically wound up with three."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re here a lot now."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, am I talking too much? I’m sorry. Zip."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thank you. Chocolate?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yes please. (Her phone rings) Oh. Hey, Kim. Yeah, I… (sees Sheldon looking disapprovingly) You know what, hold on, let me take this in the hall. (Sheldon silently offers her another chocolate. She takes it.) You’ll never guess who they got to replace you at work…"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, I know what you’re doing."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Really?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes, you’re using chocolates as positive reinforcement for what you consider correct behaviour."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Very good. Chocolate?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, I don’t want any chocolate! Sheldon, you can’t train my girlfriend like a lab rat."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Actually, it turns out I can."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, you shouldn’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "There’s just no pleasing you, is there, Leonard? You weren’t happy with my previous approach to dealing with her, so I decided to employ operant conditioning techniques, building on the work of Thorndike and B.F. Skinner. By this time next week, I believe I can have her jumping out of a pool, balancing a beach ball on her nose."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, this has to stop now."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m not suggesting we really make her jump out of a pool. I thought the “bazinga” was implied. I’m just tweaking her personality, sanding off the rough edges if you will."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, you’re not sanding Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Are you saying that I’m forbidden from applying a harmless, scientifically valid protocol that will make our lives better?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes, you’re forbidden."
+    },
+    {
+      "type": "direction",
+      "text": "Sheldon (Squirting him with a water spray): Bad Leonard."
+    },
+    {
+      "type": "scene",
+      "text": "The goth club."
+    },
+    {
+      "type": "dialog",
+      "character": "Bethany",
+      "text": "So what do you guys do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, you know, goth stuff. Goth magazines, goth music."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Goth food."
+    },
+    {
+      "type": "dialog",
+      "character": "Sarah",
+      "text": "What’s goth food?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Uh… blackened salmon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bethany",
+      "text": "No, I meant what do you do for jobs?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, we’re scientists."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, you know, the dark sciences."
+    },
+    {
+      "type": "dialog",
+      "character": "Bethany",
+      "text": "What are the dark sciences"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, I am an astrophysicist and a lot of that takes place at night. When there are vampires and miscellaneous undead out and about."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oy vay."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "That sounds really cool."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Does it? Okay, if you like space stuff, I design components for the international space station. Which is in space. Where, as I’m sure you know, no one can hear you scream."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "So what do you gals do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bethany",
+      "text": "I work at the Gap."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Really? How about that? I’ve been to the Gap."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, I’ve been there as well. I like your tee-shirts with the little pocket."
+    },
+    {
+      "type": "dialog",
+      "character": "Sarah",
+      "text": "I work there too. Not that anyone cares. You know, this place is boring."
+    },
+    {
+      "type": "dialog",
+      "character": "Bethany",
+      "text": "Yeah. Why don’t we go somewhere else and have some fun?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Sure, we like fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "We are fun people."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Dark and fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Bethany",
+      "text": "Come on, I know a place you’ll really dig."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Did you bring the black condoms?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "In my fanny pack."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Let’s go."
+    },
+    {
+      "type": "scene",
+      "text": "A tattoo parlour. Bethany is getting a tattoo."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Are you happy now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Not particularly."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(voice outside door)",
+      "text": "Oh’ my God, she didn’t!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What could she possibly be talking about for so long?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Obviously, waitressing at the Cheesecake Factory is a complex socioeconomic activity, that requires a great deal of analysis and planning. Bazinga! You know, using positive reinforcement techniques, I could train that behaviour out of her in a week."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If you let me use negative reinforcement, I can get it done before we go to bed."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re not squirting her in the face with water."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, of course not. We’re talking very mild electric shocks. No tissue damage whatsoever."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Forget it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, come on, you can’t tell me that you’re not intrigued about the possibility of building a better girlfriend."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m not. And Penny’s qualities, both good and bad, are what make her who she is."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You mean, like that high-pitched, irritating laugh?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes."
+    },
+    {
+      "type": "direction",
+      "text": "Sheldon You wouldn’t prefer a throaty chuckle?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re not changing how Penny laughs."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, that would be incongruous, I was going to lower the whole voice to a more pleasing register."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(entering)",
+      "text": "Uh, sorry guys, that girl is (high pitched) freaky!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Come again?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(normal voice)",
+      "text": "Freaky."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(lower voice)",
+      "text": "Freaky?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(lower voice)",
+      "text": "Yeah, freaky."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Have a chocolate."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Thank you."
+    },
+    {
+      "type": "scene",
+      "text": "The tattoo parlour. Howard is laying down, preparing to have a tattoo on his lower back."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Are you seriously going to deface your body just for the possibility you could have cheap sex with a strange girl you met in a bar?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Uh, yeah!"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What is your mother going to say?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "She’s not going to see it. She takes my temperature orally now."
+    },
+    {
+      "type": "dialog",
+      "character": "Bethany",
+      "text": "What are you going to get, Howard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, I can’t really decide between a screaming devil, this mean little skull or Kermit the Frog."
+    },
+    {
+      "type": "dialog",
+      "character": "Bethany",
+      "text": "Kermit the Frog?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You know (Kermit voice) Hi ho, I’m on Howard’s butt!"
+    },
+    {
+      "type": "dialog",
+      "character": "Bethany",
+      "text": "Get the mean little skull, and I’ll see if I can make him smile."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, I’d like the mean little skull, please."
+    },
+    {
+      "type": "dialog",
+      "character": "Sarah",
+      "text": "What are you going to get, Raj?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "With my luck, hepatitis"
+    },
+    {
+      "type": "dialog",
+      "character": "Tattooist",
+      "text": "Okay, here we go."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Ow, ow, ow, ow, ow!"
+    },
+    {
+      "type": "dialog",
+      "character": "Tattooist",
+      "text": "That’s just rubbing alcohol."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I know, but it was cold. Ow, ow, ow!"
+    },
+    {
+      "type": "dialog",
+      "character": "Tattooist",
+      "text": "I’m putting on the stencil."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What comes after the stencil?"
+    },
+    {
+      "type": "dialog",
+      "character": "Tattooist",
+      "text": "This."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Aaaaaargh! Okay, that’s it, no needle, no pain, no tattoo."
+    },
+    {
+      "type": "dialog",
+      "character": "Bethany",
+      "text": "What’s the big deal, you’ve done this before."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, I haven’t, look. (Rips off tattoo sleeves) I’m sorry, I’m a fraud, he’s a fraud."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "We’re both frauds."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, I think I covered that."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "But I was summing up."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "We’re not goth, we’re just guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Very, very smart guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Bethany",
+      "text": "So you were totally scamming us?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yes. And I wouldn’t blame you if you walked out of here and never wanted to see us again. Unless of course our bold honesty has suddenly made us attractive."
+    },
+    {
+      "type": "dialog",
+      "character": "Bethany",
+      "text": "I’m leaving."
+    },
+    {
+      "type": "dialog",
+      "character": "Sarah",
+      "text": "I’m leaving too. Not that anyone cares."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "When we tell this story, let’s end it differently."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What are you thinking? Maybe a big musical number?"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I’m going to make some warm milk and then turn in. I trust if you two are planning in engaging in amorous activites, you’ll keep the decibel level to a minimum."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Of course."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thank you. (Throws a chocolate. Penny catches it in her mouth)"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Mmm, these are so good"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Unbelievable."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I was just thinking, we should probably turn in too."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "well, my new bed got delivered, if you come over and put it together, you can stay at my place."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Really, that’s a lot of work, and it’s kind of late."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, but if we stay there, we won’t have to be quiet."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Let’s go."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Interesting. Sex works even better than chocolate to modify behaviour. I wonder if anyone else has stumbled on to that."
+    },
+    {
+      "type": "scene",
+      "text": "Raj’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, wait, how about this? We say there were four goth girls, the two girls in the club had two friends."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I like it, I like it. Did they smell good despite their gothlike nature?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What’s that got to do with the story?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Engaging my olfactory sense helps make it real for me."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Fine, they smelled good."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, they did. Like jasmine and honeysuckle."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Whatever."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "And then they held hands and did a sexy, demonic hokey-pokey for us."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, no. Look, let me say my story all the way through, and then you can say yours, and then we’ll pick."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m sorry. Go on."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay. We got tattoos, and then the four girls took us to their place."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "But we don’t have tattoos. What if someone asks to see our tattoos?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "We say they’re in a very intimate area."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, we are bad boys, aren’t we?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Right, right, so we go back to their place, and then the six of us end up in a hot tub."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "But we just got tattoos. Wouldn’t we be concerned about bacterial infection?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "True. Okay, forget the hot tub. The point is, we each have a ménage with sexy goth girls."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Wow. What a great night."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah. Hey, want to try a country bar tomorrow night."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, maybe we’ll get lucky with some sexy cowgirls."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Could happen."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I wonder how they smell."
+    }
+  ]
+}

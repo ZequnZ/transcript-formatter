@@ -1,0 +1,1231 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 4,
+  "episode": 18,
+  "title": "The Prestidigitation Approximation",
+  "url": "https://bigbangtrans.wordpress.com/series-4-episode-18-the-prestidigitation-approximation/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "Leonard’s bedroom"
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Morning."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Morning."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Sleep okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Mm-hmm. Great. Hey, can I ask you something?"
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Sure."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Last night, me wanting to try that stuff out of the Kama Sutra, was that fun for you or kinda racially insensitive?"
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Yeah, just because you’re in bed with an Indian woman, you think that gives you permission to use crazy positions from an ancient Indian love manual?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, if you can find a book called weird sex with white boys, I’d be okay with that."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "No, you have such beautiful eyes. Have you ever thought about getting contacts?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I tried in the seventh grade. I could never get used to them."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Oh, that’s too bad."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, if I had contacts I would have been the coolest debate club president ever to be stuffed into his own cello case."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "If you had them on now, you could see what we’re going to do next."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Th-th-th-that’s okay. I can infer from context."
+    },
+    {
+      "type": "scene",
+      "text": "The cafeteria."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, Raj, wanna see a new magic trick I’ve been working on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Howard, if I may interject here with a piece of friendly advice. Is working on magic tricks really how you want to spend your time? Granted, you’re just an engineer, but that doesn’t mean you might not someday build a geegaw or a thingamabob that may get you a thank you in someone else’s Nobel prize acceptance speech."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Is the trick making him disappear? Sure, let’s see it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Here, shuffle these."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Now spread them out on the table face down. Pick one, look at it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Now remember your card, put it back in the deck."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Is it any wonder he doesn’t have a doctorate?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Remind me, what’s your birthday?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "October sixth."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, October is the tenth month. So ten, one plus zero is one, plus six is seven. Turn over the seventh card."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "How about that!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Is that your card?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yes, it is. Very cool!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s not cool. It’s a childish trick designed to confuse and intrigue simpletons. How’d you do it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "A magician never reveals his secrets. But surely a future Nobel prize winner can figure it out."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Fine. Give me a second."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You ever notice when he thinks real hard, it smells like bacon?"
+    },
+    {
+      "type": "direction",
+      "text": "(Leonard enters, bumps into random man)"
+    },
+    {
+      "type": "dialog",
+      "character": "Random man",
+      "text": "Oh, hey!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sorry! Oop!"
+    },
+    {
+      "type": "direction",
+      "text": "(Continues across room bumping into nearly everyone in the room and knocking many things over)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sorry! Pardon me! Oh, I’m so sorry! My fault! Check it out. I just got contacts."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "One, two, three, four, five. No way."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That’s your card, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Seven of clubs! That is amazing!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s not amazing. All magic tricks are merely a combination of manipulation and misdirection with the occasional dwarf in a box wiggling his feet."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, really? So how did I do it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I don’t care how you did it. I have more important things to think about. Clearly, the cards are marked."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I thought you had more important things to think about."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I do. You just happen to have caught me on a break. Oh, let me see those cards."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, big deal. Not knowing is part of the fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Not knowing is part of the fun. Was that the motto of your community college?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, guys, what do you think? Priya took me clothes shopping."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, you look great. Good for you, Priya. I could never get that stupid hoodie off him when we were… well, you look great."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Lets go hang everything up."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, good. New contacts. I should have done this years ago."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So you finally getting used to them doing it on a daily basis?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’m not going out with him. He can sleep with whoever he wants."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, I was talking to Raj."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oopsy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "This deck is rigged in some fashion."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Fine. Get another deck and I’ll do the trick with that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So you’re saying this is a regulation deck?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m saying believe in magic, you muggle."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know, well, I’m happy Leonard’s found someone. Not that anybody asked."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s bedroom"
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "How many Star Trek uniforms do you have?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Just two. Everyday and dress."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Uh-huh. Listen, we need to talk about something."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, my god, you’re breaking up with me! Why would you take me out shopping and then break up with me? That is so cruel."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Leonard, I’m not breaking up with you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, okay. So, what’s up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "It’s a little weird, your ex-girlfriend hanging out here all the time."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I know. I usually never see my ex-girlfriends, unless their hard drives crash."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "I’m just saying, how would you feel if I was hanging out with my ex-boyfriend?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Um, not great, I guess. But Penny and I are just friends."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "I don’t care. This is a woman you have slept with. If you want her around, then I have to wonder if maybe you’re not ready to move on."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, no-no-no, I’m ready! I gave up the gift of sight for you. If that’s not moving on, what is?"
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "You need to cut the cord with Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh. Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "You don’t sound very confident."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, no, I’m confident. It’s not like I’m unfamiliar with the get lost conversation. Although, this will be the first time I’ll be the one saying it."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Thank you. I appreciate it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sure. Oh, god, you smell so good. Of course, that could just be my other senses getting stronger. Hypothetically, if I had access To a Lieutenant Uhura uniform, would you wear it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Leonard, it is a source of great pain to me and my family that my brother has that outfit in his wardrobe. Can we not discuss it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m sorry. I’m, never mind."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "And was your card the jack of diamonds?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, unbelievable! Know how he did it yet?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Um…"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Aw, he has the same look my little nephew gets when he can’t figure out how I got his nose."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You know, I have some remedial magic tricks that might be more your speed. Like, ooh, look! The pencil’s rubber!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, I think I know how you did the card trick."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, oh, please, if I don’t know, you don’t know. That’s axiomatic."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Come here. (Whispers to Howard)"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You’re right."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Not too bad for someone who doesn’t know what axiomatic means."
+    },
+    {
+      "type": "scene",
+      "text": "The laundry room."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, you. What happened with the contacts?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "One of them’s upstairs. The other one sort of slipped back into my skull."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, is that one of the new shirts Priya got you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You don’t wanna wash that."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, that’s silk. Seriously, what would you do without me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know, I gotta tell you, I think you got a real winner with Priya."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, me, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "She seems really sweet. Believe me, you do not want to take that for granted. There are a lot of bitches out there."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, bitches are the worst."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right, well I’ll see you later."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, Penny, there’s something I have to tell you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, uh, how do I put this? Um, are you familiar with Darwin’s observation of the finches in the Galapagos Islands?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Did they make a movie about it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Then no."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "All right, well, anyway, Darwin observed that when two groups of finches competed over the same food source, eventually one of them would evolve a different beak shape so they could feed on something else."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So what do you think we can learn from that behaviour that we can apply to our own lives?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh, a bird in the hand is worth two in the bush?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sure, that has birds in it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It’s fun talking to you, Leonard, I always learn stuff."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m sorry, but I’m gonna count that."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s bedroom"
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Do you really have to wear that in bed?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah. The doctor didn’t want me to rub my eye during the night. It was either this or one of those giant neck cones."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "So did you get to talk to Penny?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, yes. Indeed, I did."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "And?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "She completely understood everything I said. Case closed."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Was she upset?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Maybe, but that’s not my problem. She’s not my girlfriend, you are."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "I hope you weren’t cruel to her."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Is the autumn cruel for letting the flowers die, or is that just nature’s way?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Leonard? (Knock, knock, knock) Leonard? (Knock, knock, knock) Leonard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I think I figured out Wolowitz’s magic trick, and I need you to pick a card."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I am not opening that door, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "As you wish. (Cards slide under door) Pick a card, put it back, and prepare to be amazed. (Leonard does not) Did you pick one?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yep."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Sliding card under door) Is this your card?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "(Not looking) Nope."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Drat. Is this your card?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’ll be right back."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment. Sheldon is alone."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Pick a card, Sheldon. Now look at it, and put it back in the deck. Now do you remember your card? Of course I do, I have an eidetic memory. My apologies. Now shuffle the cards. Shuffling. Wait here. Processing image, cross-referencing."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Whatcha doin’?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m reverse engineering Wolowitz’s magic trick."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What’s up with the infrared cameras?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m measuring residual heat levels on the playing cards to determine which one’s been touched. By the way, if you hope to have children, I suggest you switch from briefs to boxers. Your testicles look a tad warm."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Holy crap, are you connected to the Oak Ridge National Laboratory?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes. I’m using their Cray Supercomputer to analyze shuffling patterns."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, that computer is used for National defence. Hacking into it is a Federal crime."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Relax, we’re not under attack right now."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, I’m leaving before the black helicopters get here."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And is this my card? Rats! I wonder if Howard used a radioactive tracer. Where am I going to find Uranium-235 this time of night? Come on, Craigslist."
+    },
+    {
+      "type": "scene",
+      "text": "A restaurant"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Is it racist that I took you to an Indian restaurant?"
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "It’s okay, I like Indian food."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Or as you probably call it back home, food."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Why didn’t you wear your contacts? Don’t you like them?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, no, I do. It’s just I knew I was having curry tonight and I only want one part of my body to burn at a time."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "You know, my company offered me a position here in Los Angeles."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Does that mean you’d relocate here permanently?"
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Maybe. What do you think?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, I love it. Oh, that’s great!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(knocking on window)",
+      "text": "Hi! Hi! Just hang on."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Small world."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "You did talk to her, didn’t you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Of course, I did. I talked and talked and talked."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey! Look at Leonard in his fancy-ass grownup clothes. Way to go, Priya. For once, he doesn’t look like a mannequin in the boys’ department. Hey, did he tell you I saved the silk shirt?"
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "No, he did not."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "He was gonna throw it in the washing machine with his Spiderman underwear. That’s our Lenny, huh?"
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Yes, that’s our Lenny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So, how’s the food here? Oh, wow, that is really, really good. Oh, I’m sorry. You guys are on a date. We can hang out anytime. Have fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Bye."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Good night."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, that’s, hot, hot, hot, hot! Whoo! It really sneaks up on ya, huh? All right, I gotta go."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It is pretty spicy."
+    },
+    {
+      "type": "scene",
+      "text": "The cafeteria."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I’ve been meaning to tell you, I figured out your magic trick."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Really?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, yes. In fact, I improved upon it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’d love to see that. How about you, Raj?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Beefaroni and a show? How do you turn that down?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right. Pick a card."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Bippity-boppity-boo."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What’s with the wand and the beep?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The wand is called showmanship, and the beep is none of your business. Oh! Excuse me, I’m getting a text message completely unrelated to this magic trick. Oh, look, my dry cleaning’s ready. And your card was the five of spades. Ta-da."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "These cards have barcodes on them. The wand is a reader. It’s transmitting to your phone."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I said, ta-da. Show’s over."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That’s pathetic. Let me show you how a real magician does it. Raj, take a card. Don’t let me see it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Three of clubs. (It isn’t)"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Son of a gun, you’re blowing my mind!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Bippity-boppity-boo-yah!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That does it. I’m getting uranium."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You ever gonna tell him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Maybe. When it stops being fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "So never."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s door."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, hey, I was just on my way to work."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, okay, it’s not important. It can wait."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, it’s all right. Walk me down. So, what’s up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, I kind of have a problem I was hoping you could help me with."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sure, anything."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Move out."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, uh, not far. Hey, if you ever wanna start a family, La Cañada has some great schools."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, I’m not moving anywhere. What the hell is this all about?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why does it have to be about anything? Can’t a fella ask his buddy to relocate, no questions asked?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, for god’s sake, Leonard, this is about Priya, isn’t it? She doesn’t want me hanging out with you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes. There, I said it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, look, I happen to like your girlfriend."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "And she likes you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, she doesn’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Not really, no."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It doesn’t matter. Look, I promise from now on I will keep my distance from you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, now, hold on. What kind of distance are we talking about? Because we are neighbours. I mean, I can hear the toilet flush in your apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You can hear my toilet flush?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t listen for it, but it’s nice to know everything’s okay with your plumbing. The building’s plumbing."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Leonard, I get it. You’re in a new relationship now. And I’m happy for you. So why don’t we just shake hands and part friends?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, now hold on, how about this? How about we still hang out, but on the down-low?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Are you really that kind of guy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No. I actually felt kinda silly just saying on the down-low."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Good-bye, Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Penny, wait. (Bumps into door) Damned contacts."
+    },
+    {
+      "type": "scene",
+      "text": "The cafeteria."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Incoming."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hi!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Why so glum, chum?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Apparently, you can’t hack into a government supercomputer and then try to buy uranium without the Department of Homeland Security tattling to your mother."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, that’s too bad. Figure out the magic trick yet?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Figure out the magic trick yet?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Want me to tell you how to do it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’ll show you one more time. Raj?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hang on. This time do it with me, so I can make sure there’s no monkey business."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "All right. (Raj looks over Sheldon’s shoulder. Holds two fingers over his heart). Two of hearts."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I hate you."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, he’s gonna win the Nobel prize."
+    }
+  ]
+}

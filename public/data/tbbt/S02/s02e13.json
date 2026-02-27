@@ -1,0 +1,1067 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 2,
+  "episode": 13,
+  "title": "The Friendship Algorithm",
+  "url": "https://bigbangtrans.wordpress.com/series-2-episode-13-the-friendship-algorithm/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The university cafeteria"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Mmm, gentlemen, I put it to you, the worst tapioca pudding is better than the best pudding of any other flavour."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "First off, that is axiomatically wrong, because the best pudding is chocolate. Secondly, the organic structure of tapioca makes it a jiggling bowl of potential death. It is extracted from the plant…"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, I’m thinking of growing a mustache."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Ah, no kidding! A Fu Man Chu? A handlebar pencil?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It is extracted from the plant…"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m not sure yet. You know, George Clooney has one now!"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Really? I once saw him shopping at Ralph’s. He was buying tequila."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, you’d think a guy like that would have some kind of booze lackey."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Alright this is cruel, we better let him finish before his head explodes."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Alright Sheldon, why is tapioca…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Tapioca is extracted from the root of the plant Manihot Esculenta. Due to a high concentration of cyanide it is poisonous in its raw form and lethal if prepared improperly."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Feel better now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It is also indigenous to Brazil, as is the Cocoa Bean, from which we get chocolate, the best pudding. And you promised you wouldn’t do that anymore!"
+    },
+    {
+      "type": "dialog",
+      "character": "Kripke",
+      "direction": "(arriving)",
+      "text": "Hey Hofstadter!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey Kripke."
+    },
+    {
+      "type": "dialog",
+      "character": "Kripke",
+      "text": "Heard about your watest pwoton decay expewiment, twenty thousand data wuns and no statistically significant wesults. Vewy impwessive!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What a jerk."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Don’t feel bad Leonard, negative results are still results."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Even twenty thousand of ’em."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Alright, please don’t cheer me up anymore."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "C’mon, don’t let him get to you. It’s Kripke."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, he’s a ginormous knob."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That’s why he eats by himself, instead of sitting here at the cool table."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Fo’ shizzle."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hey it’s true, Kripke lacks the basic social skills that we take for granted, but he also controls the new open science grid computer that I need to use to run some simulations of structure formation in the early universe."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Good luck getting time on it. The only people he lets use it are his friends."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well then, the solution is simple. I shall befriend him. Kripke!"
+    },
+    {
+      "type": "dialog",
+      "character": "Kripke",
+      "text": "Yeah?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What’d you say of the idea of you and I becoming friends?"
+    },
+    {
+      "type": "dialog",
+      "character": "Kripke",
+      "text": "I would say, I have no intewest in becoming your fwiend."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Really? That seems rather short sighted, coming from someone who is generally considered altogether unlikable. Why don’t you take some time to reconsider?"
+    },
+    {
+      "type": "dialog",
+      "character": "Kripke",
+      "text": "Yeah, I’ll do that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well I think we’re off to a terrific start."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "There you go. Now any e-mail from Wolowitz will go right into your spam folder."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Thanks! I mean the e-mail doesn’t bother me as much as the vacation pictures of him in a bathing suit."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, I got the same one. And that’s not a bathing suit, it’s a tan line."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(on phone)",
+      "text": "Hello. This is Sheldon Cooper. I’m leaving a message for Barry Kripke. Barry, It was pleasant seeing you today in the cafeteria. I saw that you purchased the chef’s salad. Apparently, you did not know that the chef’s salad is kitchen trickery, to utilize scrap meat. Nevertheless, I hope you enjoyed it. I’m following up on our pending friendship, and I look forward to hearing from you regarding its status. Sheldon Cooper."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What’s up with Ichabod?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh he’s trying to make a new friend."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh really? Well, good for him."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, unless he’s makes one out of wood like Gepetto, I don’t think it’s gonna happen."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, how did you guys become friends?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "There was a flier on the bulletin board at the university. Roommate wanted. Whistlers need not apply."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "And you moved in anyway?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I assumed he was joking. You’d be surprised how many particle physicists have a whimsical side."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, what about Howard and Raj, I mean how did you become friends with them?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know, how do carbon atoms form a benzene ring? Proximity and valence electrons."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well yeah, sure. When you put it that way. But it all worked out, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I suppose. I do miss whistling though."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh come on, really? (Leonard whistles)"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "First warning."
+    },
+    {
+      "type": "scene",
+      "text": "Outside Penny’s door."
+    },
+    {
+      "type": "direction",
+      "text": "Sheldon (Knock, knock, knock) : Penny (knock, knock, knock) Penny (knock, knock, knock) Penny.This is for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hello Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What is this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s a questionnaire I devised. I’m having some difficulty bonding with a colleague at work, so I’m doing a little research to better understand why my current friends like me."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yes. Well, that is a good question. But is this really the best way to figure it out?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, I agree, the social sciences are largely hokum. But, short of putting electrodes in your brain and monitoring your response to my companionship, this is the best I can do."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, question 1. Rank the following aspects of Sheldon Cooper in order of appeal. Intelligence. Ruthless attention to hygiene. Playfulness. Java applet writing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I know, I may have started off with a fairly obvious one. You did an aspect of my most appealing trait, playfulness. Why don’t you just go ahead and write that number 1. I’m afraid you’re on your own for the rest. It should take you no more than 3 hours."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wait! How many questions are on this thing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Only 211. Don’t worry, in deference to you, I’ve kept them on a high school graduate reading level."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Thanks pal."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You got it, buddy."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon honey, did you ever consider making friends by being, I don’t know, pleasant?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well that’s certainly a thought-provoking hypothesis. May I suggest it as the topic for your essay."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment. Sheldon is reading one of the questionnaires. He tuts."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Your questionnaire, very disappointing."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I answered every question Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You answered the multiple choice questions in a pattern. A B B A C. A B B A C."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Aw, you picked up on that huh?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "How could I not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Come on! There’s over 200 questions. And look at some of these things. Sheldon is to camaraderie, as the space shuttle is to blank?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "There are a number of acceptable answers, for example, C: near earth transport, but certainly not B: avocado rancher. And your essay, suggesting that I’d have better luck making friends if I wait ’til the Cylons take over? Please."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hold on. I put some real work into that!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, well it’s better than what Wolowitz did. He drew a raccoon with what appears to be, a distended scrotum."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s kinda cute, until you get to the scrotum."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What hope do I have for establishing new relationships given that my current friends apparently cannot take a few hours out of their lives to help me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, I’m not going to defend a big-balled raccoon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t see how you could."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What I’m trying to say is that, maybe you can’t approach this as a purely intellectual exercise."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What do you mean!?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, remember when you tried to learn how to swim using the internet?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I did learn how to swim."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "On the floor."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The skills are transferrable. I just have no interest in going in the water."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Then why learn how to swim?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The ice caps are melting Leonard. In the future, swimming isn’t going to be optional. But you do bring up an interesting point. I don’t have to break new ground here, I’m sure much of the research already exists."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No! no, my point is, if you want to learn how to make friends, then just go out to a coffee shop or a museum. Meet people. Talk to them. Take an interest in their lives."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s insane on the face of it. Come on."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Where are we going?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re driving me to the mall. I’m going to acquire a book that summarizes the current theories in the field of friendmaking."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why don’t you just lie down on the floor and swim there?"
+    },
+    {
+      "type": "scene",
+      "text": "A bookshop."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Coping with the death of a loved one. My condolences."
+    },
+    {
+      "type": "dialog",
+      "character": "Woman in queue",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Family or friend?"
+    },
+    {
+      "type": "dialog",
+      "character": "Woman",
+      "text": "Family."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Too bad. If it’d been a friend, I’m available to fill the void. (Woman moves away) It’s just as well, she smelled like moth balls."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, if you’re gonna start sniffing people, I’m gonna go get a hot pretzel."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Excuse me. Do you have any books about making friends?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bookstore employee",
+      "text": "Um, yeah but they’re all for little kids."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I assume the skills can be extrapolated and transferred."
+    },
+    {
+      "type": "dialog",
+      "character": "Employee",
+      "text": "Uh, I guess. They’re right over there by the wooden train set."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh! I love trains!"
+    },
+    {
+      "type": "dialog",
+      "character": "Employee",
+      "text": "I bet you do."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(picks up train)",
+      "text": "Oh my! That’s awfully sticky. Alright, let’s see. Bernie Bunny has Two Daddies Now. It’s probably about homosexual rabbits. Jerry the Gerbil and the Bullies on the Bus. Read it, not helpful. Oh! Here we go. Stu the Cockatoo is New at the Zoo. Author Sarah Carpenter lives in Fort Wayne, Indiana, with her husband and best friend Mark, and their cockatoos too. Hardly makes her an expert in making friends, wouldn’t you agree?"
+    },
+    {
+      "type": "dialog",
+      "character": "Little girl",
+      "text": "I don’t like birds, they scare me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Me too! Most people don’t see it. What are you reading?"
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "Curious George."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh I do like monkeys!"
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "Curious George is a monkey."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Somewhat anthropomorphized but yes. Say, maybe sometime you and I can go see monkeys together. Would you like that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, what are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m making friends with this little girl. What’s your name?"
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "Rebecca."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hi Rebecca, I’m your new friend, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No you’re not, let’s go."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "We were really hitting it off."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Don’t look up, there’s cameras."
+    },
+    {
+      "type": "scene",
+      "text": "The stairwell."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m curious. In the “How Well Do You Know Sheldon” section, what do you put for his favourite amino acid?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard and Howard",
+      "text": "Lysine."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Damn it. I had Lysine and changed it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh good! You’re just in time. I believe I’ve isolated the algorithm for making friends."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, there is no algorithm for making friends!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hear him out. If he’s really on to something, we can open a booth at Comic-Con, make a fortune."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "See, my initial approach to Kripke, had the same deficiencies as those that plagued Stu the Cockatoo, when he was new at the zoo."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Stu the cockatoo?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes, he’s new at the zoo."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s a terrific book. I’ve distilled its essence into a simple flowchart that would guide me through the process."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Have you thought about putting him in a crate while you’re out of the apartment?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(on phone)",
+      "text": "Hello, Kripke. Yes, Sheldon Cooper here. It occurred to me you hadn’t returned any of my calls because I hadn’t offered any concrete suggestions for pursuing our friendship. Perhaps the two of us might share a meal together… I see. Well then perhaps you’d have time for a hot beverage. Popular choices include tea, coffee, cocoa… I see. No, no, no, wait. Don’t hang up yet. What about a recreational activity? I bet we share some common interests. Tell me an interest of yours. Really? On actual horses? Tell me another interest of yours. Oh no, I’m sorry, I have no desire to get in the water until I absolutely have to. Tell me another interest of yours."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh-oh, he’s stuck in an infinite loop."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I can fix it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Mmhmm. Mmhmm. It’s interesting. But isn’t ventriloquism, by definition, a solo activity? Yeah? Tell me another interest of yours. Hmmm. Is there any chance you like monkeys? What is wrong with you? Everybody likes monkeys. Hang on, Kripke. (Checking changes Howard has made to his flowchart) A loop counter? And an escape to the least objectionable activity! Howard, that’s brilliant! I’m surprised you saw that."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Gee. Why can’t Sheldon make friends?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Alright Kripke, that last interest strikes me as the least objectionable and I would like to propose that we do that together. Tomorrow. Yes, I’ll pay. Alright, goodbye. Alright! Time to learn rock climbing."
+    },
+    {
+      "type": "scene",
+      "text": "Rock climbing centre. Sheldon and Kripke are watching someone descend the practice wall."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know, I am a fan of ventriloquism. Maybe you, me and your dummy could go get a hot beverage. He could talk while you drink."
+    },
+    {
+      "type": "dialog",
+      "character": "Kripke",
+      "text": "Nope, I wanna climb some wocks."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "This appears significantly more monolithic than it did on my laptop. No, one expects to see Hominids learning to use bones as weapeons."
+    },
+    {
+      "type": "dialog",
+      "character": "Kripke",
+      "text": "You afwaid of heights, Cooper?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hardly. Fear of heights is illogical. Fear of falling, on the other hand, is prudent and evolutionary. What would you say is the minimum altitude I need to achieve to cement our new-found friendship?"
+    },
+    {
+      "type": "dialog",
+      "character": "Kripke",
+      "text": "Come on, they have birthday parties here. Wittle kids climb this."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Little kid Hominids, perhaps. (To man who attaches him to ropes) Is this your entire job? Your parents must be so proud."
+    },
+    {
+      "type": "dialog",
+      "character": "Kripke",
+      "text": "Let’s go, Cooper."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Coming, Kripke. Okay. Harness seems to be secure. Small amount of incontinence just now, but the website said that’s to be expected. Hey, this isn’t so bad. A bit like vertical swimming."
+    },
+    {
+      "type": "dialog",
+      "character": "Kripke",
+      "text": "Hey, look at you, Cooper. You’re almost halfway to the top."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I am? I was wrong. It IS a fear of heights."
+    },
+    {
+      "type": "dialog",
+      "character": "Kripke",
+      "text": "You alwight there, Cooper?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Not really. I feel somewhat like an inverse tangent function that’s approaching an asymptote."
+    },
+    {
+      "type": "dialog",
+      "character": "Kripke",
+      "text": "Are you saying you’re stuck?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What part of an inverse tangent function approaching an asymptote did you not understand?"
+    },
+    {
+      "type": "dialog",
+      "character": "Kripke",
+      "text": "Understood all that. I’m not a mowon. Just keep going."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, I don’t think I can."
+    },
+    {
+      "type": "dialog",
+      "character": "Kripke",
+      "text": "Well, then. Cwimb back down."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, that doesn’t seem any more likely."
+    },
+    {
+      "type": "dialog",
+      "character": "Kripke",
+      "text": "So what’s the pwan, Cooper?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, it’s not exactly a plan but I think I’m going to pass out."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m sorry. Can we please just do it one more time?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay. 1, 2, 1, 2, 3 and… (Leonard, Howard and Raj whistle “Sweet Georgia Brown” together)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s a little thing but you really do miss it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hello, everyone. I brought my new friend, Barry Kripke, home for dinner."
+    },
+    {
+      "type": "dialog",
+      "character": "Together",
+      "text": "Oh…"
+    },
+    {
+      "type": "dialog",
+      "character": "Kripke",
+      "text": "Hewo to you, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "How was rock climbing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Kripke",
+      "text": "He passed out. Just hung there like a big sawami."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "D-d-d! That’s where I sit."
+    },
+    {
+      "type": "dialog",
+      "character": "Kripke",
+      "text": "Ooh, you have a special spot. What kind of wacko are you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "How much time you got?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Want some Chinese food?"
+    },
+    {
+      "type": "dialog",
+      "character": "Kripke",
+      "text": "Tewific. Got any dental fwoss?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "In the bathroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Kripke",
+      "text": "Be right back. I gotta fwoss the Indian food out of my teeth if I’m gonna eat Chinese."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon, are you okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh yes, I pass out all the time. But, it was worth it. I’ve made substantial progress in bonding with Kripke, which brings me to an awkward moment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What’s that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Maintaining five friendships promises to be a Herculean task. So, I’m going to have to let one of you go."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Me, me. Let it be me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard, you are my roommate, my source of transportation and you help me fold my sheets when they come out of the dryer. You are safe."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Can I whistle?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Don’t be silly. Howard, you do not have a PhD, your cologne is an assault on the senses and you’re not available for video games during the Jewish high holidays."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Guilty as charged. I’m out."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. You, too, are safe."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh come on. What do I have to do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay. You know what? I see where this is going. I’m not one of you guys. I’m not a scientist. So just…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Penny, Penny, Penny. Everything you’re saying is true, but please allow me to continue. Raj, you’re out. The good question, while you do provide a certain cultural diversity to an otherwise homogenous group, your responses to the questionnaire were truly disturbing. How could you, for a moment, think that my favourite amino acid is Glutamine?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "He had Lysine but changed it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah. Shoulda, woulda coulda, Raj."
+    },
+    {
+      "type": "dialog",
+      "character": "Kripke",
+      "text": "I like to fwoss before I eat, so my gum pockets are open for new food."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Eww."
+    },
+    {
+      "type": "dialog",
+      "character": "Kripke",
+      "text": "Hewo. How did I walk past you? I’m Bawy."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Kripke",
+      "text": "Yeah, it’s not a vewy hot name. I’m gonna call your Woxanne. Ooh, pot stickers."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Suddenly I’m looking pretty good, huh?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So uh, Kripke, I was wondering if there’s any chance you could get me some time on the open science grid computer."
+    },
+    {
+      "type": "dialog",
+      "character": "Kripke",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No? But we’re friends!"
+    },
+    {
+      "type": "dialog",
+      "character": "Kripke",
+      "text": "I’m sowy. No, my fwiend?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m confused. I was given an understanding that you allow your friends time on the machine?"
+    },
+    {
+      "type": "dialog",
+      "character": "Kripke",
+      "text": "No, that’s wong. There’s an official schedule. I have no contwol over it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh. This entire endeavour seems to have been an exercise in futility. Raj, you’re back in. He likes monkeys."
+    },
+    {
+      "type": "scene",
+      "text": "The climbing centre."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You gotta give him credit for sticking with it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I didn’t think he had it in him."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "He almost made it to the top this time."
+    },
+    {
+      "type": "direction",
+      "text": "Sheldon is seen dangling from the ropes"
+    }
+  ]
+}

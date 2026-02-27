@@ -1,0 +1,1215 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 9,
+  "episode": 9,
+  "title": "The Platonic Permutation",
+  "url": "https://bigbangtrans.wordpress.com/series-9-episode-09-the-platonic-permutation/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Have you guys seen this feature that lets you talk to Siri without pressing any buttons?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No. How does it work?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You just say, uh, Hey, Siri, what time is it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Siri",
+      "text": "The time is 6:37 p.m."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So now anyone can control your phone? Hey, Siri, show me pictures of naked grandma butts."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Nice try. It only recognizes my voice."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh. Cool. (In thick Indian accent) Hey, Siri, show me pictures of naked grandma butts."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I don’t sound like that."
+    },
+    {
+      "type": "dialog",
+      "character": "Siri",
+      "text": "Here are some images of naked grandma butts."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hey. Good news, everybody. Now that I’m no longer with Amy, I have an extra ticket to the annual Thanksgiving lunch buffet at the aquarium cafeteria. Who wants it? Well, you realize you won’t be going alone, I’ll be there the whole time. Providing fish and pilgrim facts. Can you people hear me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, we’re having everyone over."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, Leonard and I are gonna be cooking all day."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Otherwise we’d love to."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "But we can’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, poor us."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Mm-hmm."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "And Raj and I are volunteering at the soup kitchen, feeding food to the homeless."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, Howard, what about you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, I can’t. I’m going to the soup kitchen, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You said that sounded like the worst thing ever."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "If you can’t support me when I’m lying, why are we married?"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "direction": "(on skype)",
+      "text": "Hi, Sheldon. What’s up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I’m calling because Thanksgiving is coming up, and I wanted to offer you the aquarium tickets."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No one can go with you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. They’d rather spend the holiday with each other than find out of this is the year I finally touch a starfish. Anyway, I wouldn’t want the tickets to go to waste, so take whomever you’d like."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh. Okay. Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And feel free to tell your guest that the Myanmar catfish is also known as the pilgrim fish. In case the turkey’s dry and you need something juicy."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, I can tell you want to go, so if you’d be comfortable with it, maybe we could go as friends."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You don’t think that will be awkward?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well it is Thanksgiving in an aquarium cafeteria, so I’m gonna go out on a limb here and say yes. But if you mean between us, I think it’ll be fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Very well, then. I’ll see you on Thanksgiving morning."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "See you then."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, and forget what I said about the Myanmar catfish. My list of marine-themed pilgrim facts is pretty short."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Did you know they served shellfish and eel at the very first Thanksgiving?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And there goes my list."
+    },
+    {
+      "type": "scene",
+      "text": "Outside the soup kitchen."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "So, how does this work?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "The soup kitchen manager assigns the jobs, and the shifts are six hours."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Six hours? Oh, God, I don’t want to complain for that long."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Do you ever do anything for anyone else?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I happen to be a giving and generous lover."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Are you and I close enough for me to say that’s creepy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "We are, and I believe the word you’re looking for is yu-huh-huh-huh."
+    },
+    {
+      "type": "dialog",
+      "character": "Soup Kitchen Manager",
+      "text": "Uh, can I help you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Hi. We’d like to volunteer."
+    },
+    {
+      "type": "dialog",
+      "character": "Soup Kitchen Manager",
+      "text": "Oh, I appreciate you guys coming down, but we already have enough people. Any other day, please, come back."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh. Okay. Wipe that smug smile off your face."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Maybe I’m happy that so many people turned up to help the less fortunate."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Are you and I close enough for me to say…"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "That he’s an ass? He beat you to it."
+    },
+    {
+      "type": "dialog",
+      "character": "Soup Kitchen Manager",
+      "text": "I was wrong. A large group had to cancel."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, great. We’d love to help."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Wipe that smug smile off your face."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I can’t."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Look at us. Our first Thanksgiving as husband and wife."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I know. I feel so grown up."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sweetie, you are grown up."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Really? How many grown-ups do you know who have Mr. Spock oven mitts? Hey, the recipes are on my iPad. Will you pull ’em up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yep. What’s the code?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "My birthday."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It’s not working."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s just the four digits, month and day."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Nope."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Let me see. Yeah, there. What number were you putting in?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You don’t know my birthday, do you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yes, I do."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, what is it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "May."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "May what?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’m not gonna say your password out loud. That is not secure."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You don’t know your own husband’s birthday."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, you don’t know everything about me."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Your birthday is December 2, you grew up on Perkins Street, the last four digits of your social are 7 6-2 1, and the odds of me letting you forget this are zero."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, look at us. Our last Thanksgiving as husband and wife."
+    },
+    {
+      "type": "scene",
+      "text": "Amy’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hi. Ready for the aquarium?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I am. You know, and in an effort to reduce awkwardness as we learn how to function as friends, I printed out a list of safe topics for polite conversation."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "If that makes you more comfortable."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If there were a list of things that make me more comfortable, lists would be on the top of that list. Okay, now, oh, since last we spoke, have you acquired any pets?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No. You?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. Um, since last we spoke, have you planned or gone on any vacations?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I might go visit my aunt next week."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Mm. Your aunt in Modesto?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No, the one in Bakersfield."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Bakersfield. I see. Where has this list been all my life?"
+    },
+    {
+      "type": "scene",
+      "text": "The soup kitchen."
+    },
+    {
+      "type": "dialog",
+      "character": "Soup Kitchen Manager",
+      "text": "We’re gonna have you washing dishes. Uh, aprons and rubber gloves are here, just scrape, wash and stack. If you need me, I’ll be around."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So we don’t even get to be up front where the action is?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What difference does it make?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I don’t know. I was hoping some poor kid would come up to me and say, please, sir, I want some more."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You’re in a soup kitchen, not a production of Oliver!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It’s not like I’m expecting them to sing."
+    },
+    {
+      "type": "scene",
+      "text": "Amy’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "and then the next day was 73 degrees, and the day after that was 72, and then it was 72 again, uh, then it was 74, and that brings us to today, at I’d wear shorts if I had a pair. 78."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Are we done discussing the weather?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t know if I’d call it discussing. You kind of sat back and let me do all the work. Let’s see, what’s next on the list. Oh, uh, do you whittle, and if so, what kind of knife do you use."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon. We’ve known each other a long time. We are perfectly capable of having a conversation without relying on a list off the Internet."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right. Well, what should we talk about?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I don’t know. Just ask me whatever comes to mind."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Very well. I know you’ve been seeing other men. Have you had coitus with any of them?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Man, I walked right into that one."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Next we need a teaspoon of pepper, which, I believe, was also the name of your childhood dog."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Fine. You think you know so much. Who’s my favourite Spice Girl?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Baby."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Who’s my favorite member of NSYNC?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Justin."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Who’s my favorite Backstreet Boy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Nice try. NSYNC forever."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Damn it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Face it, you can’t stump me. I am the king of husbands. I know that you don’t like the lingerie that I got you on Valentine’s Day. I know you hate the word moist. I know…"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hang on. Wait, wait. Why don’t I like the lingerie you got me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Because it’s orange and you think it makes you look like a slutty carrot."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Interesting. I never told you that."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sure you did."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No. I never told anyone that. But I did write it in my journal."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What? I didn’t know you had a journal."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I also know your voice gets higher when you’re lying."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, it doesn’t."
+    },
+    {
+      "type": "scene",
+      "text": "The soup kitchen."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You know, this reminds me of high school."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "You worked in a restaurant?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No, I was in India, it was humid and smelled funny."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "All right, I think I’m getting into a groove here. This isn’t so bad."
+    },
+    {
+      "type": "dialog",
+      "character": "Emly",
+      "text": "Only five hours and 40 minutes to go."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "We’ve only been doing this 20 minutes?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You know, I read that washing dishes can be an excellent form of meditation. The key is that while washing the dishes one should only be washing the dishes."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Just because you have that accent doesn’t mean what you say isn’t stupid."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No, seriously. It’s about being present in the moment, focusing on the feeling of the warm water, the smell of the detergent, the sound of the dishes squeaking, and following your own breath. It’s about, it’s about simply being."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Huh. Okay, I’ll try it."
+    },
+    {
+      "type": "dialog",
+      "character": "Soup Kitchen Manager",
+      "text": "I need three people out front."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I’ll do it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Me."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Right here!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No fair, I was meditating."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Come on, don’t be mad. It was a long time ago, and it was an accident."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "How can reading my journal be an accident?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I didn’t even know what it was. I saw it on your nightstand. I picked it up."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, when you realized what it was, why didn’t you stop?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You know me, I’m a big ol’ bookworm."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right. Let’s just finish cooking."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, hey, okay. Let me make this up to you. Sometimes I keep an online journal. I want you to read something that I wrote."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, really, I’m fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay. Well, then I’ll read it to you. It’s from the day we first met. Beauty, thy name is Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, God. Stop. I don’t want you to read something you think’ll just butter me up. I want to hear the most recent thing you wrote."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Fine. Mmm, Penny’s beauty, like our love, grows more with each passing day.”"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Does it really say that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why would I lie?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "OMG. OMG. We’re so close to the new Star Wars. I can’t take it. Gah. Gah?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, you didn’t read it right. The new Star Wars is coming. Gah."
+    },
+    {
+      "type": "scene",
+      "text": "Amy’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m sensing things have gotten awkward."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No. It’s okay. If we’re friends, we should be able to talk about anything."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "So, you had some questions about me seeing other people."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Just a few."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Go ahead."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "How many dates have you been on? Who were they with? Where’d you go? Where did you meet them? Did you sleep with them? And how much longer to the aquarium? I’m getting kind of hungry."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Let’s see. I have been on six dates with three different people. It was either for coffee or dinner. One I met at a bookstore and two I met online. I haven’t slept with anyone. The aquarium is 40 minutes away. And there’s a baggie of Cheerios for you in the glove compartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Is that regular or honey nut?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I mixed them."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You mixed them. No wonder gentleman callers are pounding down your door. Do you have any questions for me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Just one. Are you doing okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I am."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Good. I want you to be happy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I believe you. I’d believe you more if you threw a few Apple Jacks in here."
+    },
+    {
+      "type": "scene",
+      "text": "The soup kitchen."
+    },
+    {
+      "type": "dialog",
+      "character": "Man",
+      "text": "Here you go."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Thanks. You got to be kidding me."
+    },
+    {
+      "type": "dialog",
+      "character": "Man",
+      "text": "Sorry?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Y, you’re Elon Musk."
+    },
+    {
+      "type": "dialog",
+      "character": "Elon",
+      "text": "I am."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Wh, what are you doing here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Elon",
+      "text": "I’m washing dishes. Well, I was on the turkey line, but I got demoted for being too generous with the gravy."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, man. I, what an honour to meet you. I’m, I’m such a fan of Tesla and SpaceX. All your companies. Howard Wolowitz, Caltech."
+    },
+    {
+      "type": "dialog",
+      "character": "Elon",
+      "text": "Nice to meet you, Howard. Feels great to come down here and help the less fortunate, huh?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, yeah. Nothing better than helping people. Which is something I realized when I was viewing Earth from the deck of the International Space Station, where I spent two months as a payload specialist, a job I was qualified for because I’m an MIT-trained engineer."
+    },
+    {
+      "type": "dialog",
+      "character": "Elon",
+      "text": "And I thought I ladled the gravy on thick."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sorry. It’s just, you’re you, you know? And I really want you to adopt me."
+    },
+    {
+      "type": "dialog",
+      "character": "Elon",
+      "text": "Well, you’re here on Thanksgiving, so you’re probably a good person."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh. I made my wife come down, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Elon",
+      "text": "You think you might ever get back out to space?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Is that a job offer? ‘Cause I really want to go to Mars. Assuming I can bring my wife. She hardly takes up any room. She’s basically a carry-on."
+    },
+    {
+      "type": "dialog",
+      "character": "Elon",
+      "text": "Well, we’re not quite there yet, but we’re always looking for engineers. So let me give you my e-mail. We can stay in touch."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Elon",
+      "text": "Oh, look. Someone hardly touched their pumpkin pie. Want to share it with me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "A partially eaten piece of pumpkin pie from a homeless shelter? With Elon Musk, you bet I do."
+    },
+    {
+      "type": "scene",
+      "text": "The aquarium."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know, for a Thanksgiving buffet in an aquarium cafeteria, that was really bad."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You’re just upset ’cause they ran out of Pilgrim hats."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "They gave one to that baby. He wasn’t even awake."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, it wouldn’t be a holiday without you being mad at a baby."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh. Would you care to play an ocean-themed game I invented?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sure. What is it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s called Food, Friend, Fight. One of us chooses three aquatic creatures, and the other one must decide which he would eat, befriend, or battle."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "So it’s like Kiss, Marry, Kill."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What is that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It’s a game where you’re given three people and you choose which one you’d kiss, marry, or kill."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, my game is better, ’cause instead of marrying someone, you get to eat them."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Let’s just play."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’ll start you off easy. Electric eel, pufferfish, shrimp."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hmm. Well, I wouldn’t fight the eel, because I know it can generate enough current to kill a horse. So I’d eat the eel, fight the shrimp, and befriend the pufferfish, because it would be nice to have company on those days I feel bloated."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Very well done."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Thank you. Okay, your turn. Hmm. Seal, hagfish, SpongeBob SquarePants."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I’d befriend SpongeBob but he’s not real, so I can’t do that, can I?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "But you can pal around with a hagfish?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hey, let’s not pull at that thread. Okay. I’ll fight SpongeBob, because he’s so friendly we’ll just end up tickling each other. Um, I’ll befriend the seal, because he’s trainable, which is the problem I’m having with my current friends. Which means I’ll have to eat the hagfish."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Isn’t that gross? I mean, a hagfish can produce enough mucus to fill a bucket in a minute."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I know. It makes its own gravy, it’ll slide right down."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I miss this."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "How can you miss a game you’ve never played before, silly?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I guess sometimes I’m silly."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey. Where’d you go? I can’t tell if the turkey’s done."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Be right there. Hi, lover."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m sorry about the journal. I want to make it up to you. So I’m gonna let you post a shame photo of me on Facebook."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I am not putting that on the Internet. I don’t want people to see this. I don’t want to see it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Don’t want people to see what, huh? A little bit of this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Huh? Some of this? And, since it’s Thanksgiving, an extra helping of this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Happy Thanks… Yikes."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m glad you had a nice time with Amy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Me, too. It’s comforting to know that she and I are able to function as friends."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, I’ve never been friends with any of my exes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I’m sure you and Leonard will be able to pull it off. (Phone rings) Oh. It’s my friend Amy. Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hi, Sheldon. I’m just driving home from my mother’s."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Did you have a nice time?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I did. Um, listen, I really enjoyed spending this morning with you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I can’t take all the credit. It was pretty funny when that one anchovy started going the wrong way."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It was. Uh, listen, I, I was thinking that, um, maybe I’m ready to be your girlfriend again."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh. I thought we were just friends."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "We are. But I was hoping, maybe…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Amy, I excel at many things, but getting over you wasn’t one of them. I think I need to just be your friend."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Okay. I understand."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Good. Oh, I watched a video of the hagfish producing mucus, so I’m gonna change my answer and eat SpongeBob."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Okay. Sure."
+    }
+  ]
+}

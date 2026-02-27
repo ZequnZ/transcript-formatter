@@ -1,0 +1,1332 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 10,
+  "episode": 14,
+  "title": "The Emotion Detection Automation",
+  "url": "https://bigbangtrans.wordpress.com/series-10-episode-14-the-emotion-detection-automation/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The stairwell."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What’s going on with that woman you’re dating?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I broke up with her."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "She said she didn’t want to see me any more and I found that insulting."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I thought things were going well. What happened?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I don’t know, she didn’t even give me a reason."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s not a problem, we can figure this out. What are the reasons women reject Raj?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Can we not play this game?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Doesn’t like games. That’s one."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Ignore him. Yeah, sorry about the breakup."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "That’s okay, I’m fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Of course you’re fine. Not every member of a species finds a mate. Sir Isaac Newton died a virgin, look at the contributions he made."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m not a virgin, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So now you think you’re better than Isaac Newton? Oh, no wonder women don’t like you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re not being very nice."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What? He said he was fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sometimes people say things they don’t mean."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, that’s a paradox. I mean if you meant what you just said, then that means you may not have meant what you just said."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Careful, I saw this on Star Trek. Smoke’s gonna come out of his ears soon. Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, boys. How’s it going?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I thought we were having a nice conversation, but it turns out I was being offensive."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "So, normal."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, what did you do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "We were discussing Raj’s recent breakup and apparently, I was insensitive to him."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s okay, I’m fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Don’t fall for it. He’ll get you to compare him to a dead virgin, and suddenly you’re the bad guy."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Sheldon, when I said I was fine, I meant I didn’t want to talk about it any more."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Then why didn’t you say that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Because that’s not what people do."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I would prefer if people told me exactly what is on their mind."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No. No, you don’t, you really don’t. I actually can’t say don’t enough."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, it certainly would be easier. You have no idea what it’s like to struggle with recognizing emotional cues."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’m sure it’s extremely frustrating."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "And also a little sad."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay, now you’re just showing off."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You know, I just read that a team at MIT. developed a device that helps people read human emotions."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "And you think we can get those guys to reprogram Sheldon? Cool."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "It’s supposed to be accurate, like, 85% of the time."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wow, I find that hard to believe."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That a bunch of awkward scientists with no social skills would invent a machine to do it for them?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I take it back. I believe it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You if it’s at MIT, I can make some calls. Maybe we can get Sheldon a prototype."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What do you think?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "A machine that reads emotions is intriguing. It could help me be a more considerate friend."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Wouldn’t that be nice."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It could also help me identify my enemies, discover their fears and then I could use those fears to destroy them."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I like the first one."
+    },
+    {
+      "type": "scene",
+      "text": "The comic book store."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Now that Sheldon’s across the hall, have you decided what you’re doing with his old room?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I was thinking maybe a library or a gaming room."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You could make it a train room."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t like trains. You like trains."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I know, and Amy says I can’t have a train room."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sheldon, I just heard from the guys at MIT about that emotion reader. They’re sending a prototype for you to beta test."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wonderful. Although I’m not sure how I feel about being used as a guinea pig."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, when you get the machine, you can find out."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Maybe I could use it to understand why women keep dumping me."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, you don’t need a machine for that, just send a survey card to all your ex-girlfriends and tell them if they fill it out they might win a prize."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "That’s actually not a bad idea. Maybe I could even get them all together, sort of like a, a focus group, to find out what’s wrong with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, Raj, that’s a terrible idea."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, I was joking."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Really? Uh, little tip: jokes are often better when you end them with wocka wocka or ha-cha-cha."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, great news. The TV I want will fit in the gaming room, and if I leave the curtains open, I can watch it from work."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, can you hold off redoing the room? My brother’s coming out here in a few weeks."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh. Yeah. Okay, sure. What’s going on with your brother?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "My dad asked if I can get him a job interview at my work."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Huh. Is that a good idea? I mean, you think they’ll consider someone who was in prison for selling drugs?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, I sell pharmaceuticals. That’s just a really hard to spell word for drugs."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, I’m sure he’ll appreciate carrying his samples in a briefcase instead of his colon. How long do you think he’ll stay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I, I’m not sure. Maybe a few days. Unless he gets the job, then who knows?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hmm. Who knows? That’s exciting. I’ll get to wake up every morning and see if he’s still here."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You don’t have a problem with this, do you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Of course not. I mean, he’s your brother."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay. Thank you, you’re the best. Mm."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Remember that when the new TV falls off the wall and crushes us both."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon’s office."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "This thing’s pretty cool. It interprets emotions using a wireless signal to analyse subtle changes in breathing and heart rate."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It’s amazing a machine can do that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes. Now, when the robots rise up, they’ll know that I’ve been rooting for them the whole time."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "The display is synced to your phone. Give it a try."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "All right. Now, I’m gonna look at some pictures to prompt an emotional response, and we’ll see if the machine can identify them accurately."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, remember, it can only detect happy, sad, angry and excited. Not other things you’re feeling, like, what have I done with my life?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Okay, I’m looking at the first picture."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You are happy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Yes. I’m looking at puppi"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Aw. Somebody’s ignoring their tiny needle teeth, but all right."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Try another one."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Okay. What does it say I’m feeling?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Sad."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Yes. I’m looking at a picture of my grandma."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, that makes sense, ’cause she’s gone and you miss her."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And you’re worried that turkey neck is in your future. What, now, see, now it says you’re mad. Make up your mind."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s kitchen."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj (on phone)",
+      "text": "Okay, Emily. Yeah, sounds great. See you then."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Is that Emily your ex-girlfriend?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah. I’m getting all my exes together in order to discuss why they broke up with me and how I can be a better boyfriend."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, God. You went through with that? What is wrong with you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "We are going to find out."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Why would you do that, Raj?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, I want information in order to improve myself."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You’re not gonna get information, you’re just gonna get criticism that hurts your feelings."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Don’t worry, I’m a grown man. I have a thick skin."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You’re so stupid."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, would you take a look at my brother’s résumé? I’m trying to help him clean it up a little."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, sure. He really worked with the Drug Enforcement Agency?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "He didn’t know it till he was cuffed, but yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hey, Leonard, if you’re happy and you know it, no need to clap your hands, because I have an emotion detector."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "How’s it working out?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Surprisingly well."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s great, I’m happy for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, wait, uh, hold on. Oh, what, you are. Aren’t you sweet?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What’s that? Are you working on your resume?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, it’s my brother’s. I’m trying to help him get a job out here."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, ooh! And that makes Leonard angry."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, it doesn’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What, Leonard, please. I know an angry face when I see it. It’s this red frowny guy on my phone."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What? Are you really upset about Randall coming?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I said no."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s like you’re twins."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Leonard, if you’re mad about this, just tell me."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Fine. You invited your drug dealer brother to stay with us for God knows how long and didn’t bother to ask me first."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "He’s my brother. I didn’t think I needed your permission."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, hey. Now she’s angry, too. This thing works like gangbusters."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m not saying you have to ask my permission, but you could have talked to me about it before you said it was okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Like you talked to me about your gaming room?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Our gaming room. I was gonna put a scented candle in it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "He’s still mad."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Stop enjoying their fight."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You first."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "If you were this upset, why didn’t you say so when I told you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Because I didn’t want to sound like a jerk."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, you sound like one now. I don’t see the big deal if my brother comes and stays for a while."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "If you get him a job, he’s gonna live here forever!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "He would get his own place."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Has he ever had his own place?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Did it have a metal toilet next to the bed?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It still counts. You know, how is this any different from you making me live with Sheldon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hey, I shared my Honey Nut Cheerios with you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You gave me a bill at the end of every month."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Stay out of this. You and your stupid machine started this fight."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You are lucky that this feelings machine doesn’t have feelings."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Come on, Sheldon, let’s go."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Gladly. Can we storm out?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I think it loses its impact if we’re chatting about it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Fine. I’ll just give them the finger."
+    },
+    {
+      "type": "scene",
+      "text": "Raj’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, first off, I want to thank you all so much for coming. Howard is here to interpret for Emily, and to take notes."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, he doesn’t think it’s stupid."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Uh, heads up, both of you are named Emily, so we’ll call you red-headed Emily, and you, red-headed Emily, Junior."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, you went out with him. I didn’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, uh, let’s get things started. Um, why don’t we go around the room, say your name, and why you broke up with me. Want to kick it off?"
+    },
+    {
+      "type": "dialog",
+      "character": "Lucy",
+      "text": "Oh, okay. Um, I’m Lucy, and I broke up with Raj because I have severe social anxiety, and he kept trying to force me into uncomfortable situations."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Like this one?"
+    },
+    {
+      "type": "dialog",
+      "character": "Lucy",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I did do that. I can be insensitive to other people’s boundaries. Howard, would you write that down?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Schmuck. Got it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Uh, next?"
+    },
+    {
+      "type": "dialog",
+      "character": "Claire",
+      "text": "Okay. Um, I’m Claire. And I guess I broke up with you because you were just really needy. Also, you were incredibly vain, like, all the time you spent shaping your eyebrows."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, new rule, everybody only gets one. Uh, next?"
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Ooh, I’m not sure I’m comfortable sharing details about our relationship in front of Howard."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh. He’s here to support me, so anything you have to say you can say in front of him."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Okay. Well, whenever you and I were in bed…"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Howard, get out."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Not a chance. So, you were telling us how Raj was terrible in bed."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon and Amy’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, dinner’s ready. I made beef loaf, because I know you’re uncomfortable with the non-specificity of meat loaf. Sheldon? Hey, are you okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Not really."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What’s going on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I wish I never tried that device. And I know I said the same thing after the massage chair, but this time I mean it."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’m sorry Leonard and Penny hurt your feelings."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s more than that. It’s me. I always knew I had trouble recognizing other people’s emotions, but that machine just made it so real."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, everybody has things that they need help with. Like me, I can’t see without my glasses. And right now you’re just a, a cute, pink smudge wearing a childish green smudge."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I thought I was getting better at it, but clearly I’m not."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Yes, you are. There have definitely been days when I was sad and you could tell."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, but that’s shooting fish in a barrel. You’re kind of a sad sack. I’m sorry, I shouldn’t have said that. I’m just upset."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No, see, right there, you knew you hurt my feelings. And I’m proud of you, for reasons I’m sure have something to do with my father. And if you don’t like that machine, get rid of it. Because I love you exactly the way you are."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I feel the same way about you. Now, put your glasses back on. You look weird."
+    },
+    {
+      "type": "scene",
+      "text": "Raj’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard (translating for other Emily)",
+      "text": "I thought you were great, but, oh, my God, you were so dominated by your parents."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Oh, yeah, that used to drive me nuts. He’s kind of a mama’s boy."
+    },
+    {
+      "type": "dialog",
+      "character": "Claire",
+      "text": "Kind of?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, that’s enough. Write down loving son."
+    },
+    {
+      "type": "dialog",
+      "character": "Lucy",
+      "text": "Can I just say something? Going out with Raj was one of the best things that ever happened to me."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yes, I’ll take you back."
+    },
+    {
+      "type": "dialog",
+      "character": "Lucy",
+      "text": "Let me finish. It’s like I needed to go through that experience to know what exactly I don’t want in a man."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, that’s hard to hear, but I’ll still take you back."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "You know, the same thing happened to me. After I broke up with Raj, I met Gary, who’s just amazing."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sorry, is that Gary with one R or two?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Would you stop writing? Wait, so, did all of you go on to better relationships after me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Lucy",
+      "text": "Oh, yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Without question."
+    },
+    {
+      "type": "dialog",
+      "character": "Claire",
+      "text": "Little before, actually."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard (responding to other Emily)",
+      "text": "Oh, wow. Don’t let him get away."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What did she say?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Uh, basically, she traded you for Bruce Wayne."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, maybe we should just end this."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Wait, hang on. I just want to point out to everyone here, this is a man who is going to great lengths to better himself. Even at the risk of being humiliated. And I, for one, think that’s very brave."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Thank you, Howard."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Honestly, I’m surprised you two didn’t wind up together."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, like you gals, I had to suffer through him to find Bernadette."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon and Amy’s door."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We owe you an apology."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, it’s fine. You needed a suitcase, I wasn’t home, you borrowed a suitcase."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That was six years ago. I’m talking about tonight."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh. Well, I thought we were going in order."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Look, we got really angry at each other, and you just got caught in the middle of it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "And, sorry about the suitcase."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, well, you should be. Your socks were still in it. I had to throw it away. Anyway, I, uh, trust that you’ve resolved your conflict."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yes, we’re fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Mm, Penny’s gonna call her dad and tell him it’s not a good time for Randall to visit."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hopefully, he won’t be too upset."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, you’re his little girl, he can’t stay mad at you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "He won’t be mad at me. I mean, you’re the one who doesn’t want my brother to come, so…"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So you’re gonna throw me under the bus?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, I’m gonna throw you so hard, I might actually win a stuffed animal."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Uh, guys, it sounds like you’re getting angry again."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s because we are."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes. I don’t need an emotion machine. I am one."
+    },
+    {
+      "type": "scene",
+      "text": "Raj’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Thanks, ladies, this was fun. Let’s not wait so long for another bizarre, awkward night."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, that was a waste of time. I’m such an idiot."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Don’t beat yourself up. That’s what I’m here for."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Maybe I won’t settle down. Maybe I’ll just play the field."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, the field was just here. The field said no."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Dude, come on."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, I’ll tell you what. I’ll make you a deal. 30 years from now, if you’re still single and things don’t work out with me and Bernadette, you and I can give it a go."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I appreciate the offer, but if things don’t work out with you two, I’m swooping in on her like a vulture."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Too late. Stuart called dibs."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "But theoretically, if you and I were in a gay relationship, how would we tell people? Like, print up announcements?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I don’t know. What difference does it make?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, I want to make sure we get invited to all the parades."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Those do look fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah. Well, if you want to march in a fishnet crop top, you better lay off that dip."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "If you didn’t want me to eat it, why’d you put it out?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It was for the girls. They broke up with me, I don’t care if they get fat."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m not gonna get fat."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, you want to bet? You never exercise."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Fine. Look, I’ll exercise right now. One, two. These are crunches, by the way."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Very mature. Keep eating like that, you’re gonna have a heart attack."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay. How about if I eat like this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You’re such a child."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, is that any way to talk to your future husband?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, I was being hypothetical, okay? I would never marry you."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Please. When you see the ring I pick out, you’re gonna melt."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, right. Wait, is it rose gold? Actually, don’t tell me, I want to be surprised."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So, did you wind up sending that machine back?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I did. You know, I’m not even sure how accurate it was. I took it to the train store, it said everyone was sad."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I finally got Halley to sleep."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You know, I just read a study that suggests new mothers are better at sensing emotions for up to two years."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It’s true. Pregnancy causes physiological changes in the brain that result in increased empathy."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So, all we need to do is get Sheldon knocked up."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We can’t. He was already fixed when I found him at the shelter."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hey, uh, Bernadette, let’s test this theory. What do you think I’m feeling right now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Let’s see. You’re better than us, a little bit sorry for us, but mostly glad you don’t have to be us."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Keep filling this one with babies. She’s good."
+    }
+  ]
+}

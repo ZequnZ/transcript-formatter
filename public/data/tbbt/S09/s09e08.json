@@ -1,0 +1,1206 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 9,
+  "episode": 8,
+  "title": "The Mystery Date Observation",
+  "url": "https://bigbangtrans.wordpress.com/series-9-episode-08-the-mystery-date-observation/",
+  "lines": [
+    {
+      "type": "direction",
+      "text": "After a “previously on” sequence."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I think it’s so adorable you’re making Sheldon breakfast."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, he’s having a rough time. Amy broke his heart, the DVR cut off the last minute of Doctor Who. That crow followed him home."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Aren’t you worried you’re making French toast on oatmeal day?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Ah, well, what’s this? A pot of oatmeal? Or, thanks to you, what I will now call gloatmeal."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, I don’t want credit for that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, Dr. and Mrs. Hofstadter, lovely to see you this fine morning."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re in a good mood."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, I am indeed. I have decided, instead of wallowing in sadness about Amy, it is time that I find myself a new female companion."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh. Good for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What brought this on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I realized something. When Amy was in my life, I was hyper-focused on my work and ignored her."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "And you don’t want to make the same mistake with the next woman."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, I need a new woman in my life to ignore so I can hyper-focus on my work again."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, I made French toast sticks."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "On oatmeal day?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Ah, I also made oatmeal."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Ooh, that’s a lot of carbohydrates for a man on the prowl. You know what? You eat it. You’re married, it doesn’t matter what you look like."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Don’t take advice from a man who threw his shoe at a crow."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thank you for coming by, gentlemen."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No problem."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "So what’s up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, it was the two of you who found Amy Farrah Fowler for me. Now that I’m looking for my next girlfriend, it seemed only logical that I employ your services once again."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You sure you’re up for that? She did hurt you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, no, it’s all right. I think of my time with Amy as a stick of Fruit Stripe gum. Sweet and enjoyable at first, but ultimately a flavourless lump of sadness."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You’re not wrong about Fruit Stripe. I was always a Hubba Bubba man."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hubba Bubba over Dubble Bubble? You’re crazy."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, the jaw wants what it wants."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Gentlemen."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, right, uh, girlfriend. Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "But what are you looking for?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All I’m looking for is an educated, intelligent woman who shares my interests while retaining her own unique point of view. She should be kind, patient, and most important, unable to imagine life without me by ten o’clock tonight."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Isn’t that a little unreasonable?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, fine, she doesn’t need her own point of view. Now, chop-chop."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Come on, Amy, show us the dress."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Okay. But I’m really stepping outside of my comfort zone here."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh, I don’t think any of your comfort zones are showing."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Yeah, it’s your third date, maybe you could go more sexy."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, some people think the sexiest organ is the brain."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No one ever bought me drinks at a bar because my brain just popped out of my shirt."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Do you have any heels higher than this? He’s pretty tall."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Ooh."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Ooh, tall. Finally some details about this mystery man."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, come on, tell us more."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, I told you his name and that he’s tall. What more do you need?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Did you kiss him yet?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Just a little peck on the lips."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, we’re your best friends, give us one more detail and we promise we’ll leave you alone."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Fine. Um, he’s British. All right, that is a juicy one."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right, where is tall British Dave taking you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Tea and basketball?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "To that new Italian place on Walnut."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, nice."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’m gonna go look for other shoes."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Good luck. I threw out all my tall ones when I married Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Hey, you want to swing by that place tonight and get a look at this guy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "We don’t even know what time they’re gonna be there."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I’ll just call the restaurant, pretend I’m Amy and check the reservation."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Damn, you’re sneaky."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Yeah, but I’m little, so it’s adorable."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I think the quickest way to find you a new girlfriend is just to get you on every dating Web site out there."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Are you sure? I’ve heard that on those sites, often when you think you’re corresponding with someone, it’s actually a computer program pretending to be a real person."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "And you’re afraid it’ll do a better job than you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Excuse me. No one does a better job pretending to be a person than I do. Siri comes close, but I know more jokes."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "If you don’t want to use dating Web sites, what do you suggest?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Off the top of my head? Uh, prospective women weed themselves out in a battle of wits until only one champion remains, and she shows up at my door flush with the thrill of victory, and then sits quietly by my side while I watch Daredevil."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You seriously think women would fight for you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "People compete for jobs and trophies, why not me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "He’s right, he knows a lot of jokes."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, no, but it is basic human nature. If we present him as a prize, maybe they would."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, he’s smart, he’s a respected scientist."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And I have the soulful eyes of a cow."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I don’t know if I’d say you… oh."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I have an idea. What if we put a post on Craigslist that says world-class Caltech physicist seeking girlfriend. If interested, solve the following puzzles for a chance to meet him."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, we’ll make the puzzles extremely challenging to eliminate unworthy candidates."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, we could set it up like a scavenger hunt where the last puzzle gives the winner Sheldon’s contact information."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, this is actually an interesting social experiment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m a little jealous of the people who get to do it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Me, too. And we’ve seen the prize."
+    },
+    {
+      "type": "scene",
+      "text": "The stairwell."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t understand why we’re leaving so early for the movie."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, I forgot to tell you, we’re gonna meet up with Bernadette to spy on Amy and her date."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What? I don’t want to do that."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What, and you think I want to see a documentary about aluminium can recycling?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "This is the movie that big soda doesn’t want you to see."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, it’s the movie your wife doesn’t want you to see."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So you’re actually okay with invading your friend’s privacy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You’re not curious who she’s out with?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Not really."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "But you’re curious about aluminium cans? You’re a weird little guy."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s it. The Sheldon Cooper Girlfriend Challenge is officially live."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Congratulations."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "This is exciting."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Right now, somewhere, a woman is dividing the atomic weight of the best noble gas by the number of colours in the oldest national flag still in use."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Then using that number as the average speed to calculate the travel time from Mordor to the Shire."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And, taking her first step towards a lifetime of laughter, love and, best of all, rules."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I, I hope we didn’t make the puzzles too hard."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, if she can solve them, it’ll prove she’s intelligent, tenacious and so socially awkward she has nothing better to do on a Saturday night."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Golly, she sounds too good to be true."
+    },
+    {
+      "type": "scene",
+      "text": "A restaurant."
+    },
+    {
+      "type": "dialog",
+      "character": "Tall British Dave",
+      "text": "This is fun. I haven’t dated much since my divorce."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, I’m having a good time, too. If you don’t mind me asking, why did you and your wife split up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Oh, you know how it is, we wanted different things. I wanted children, and she wanted a pastry chef named Jean-Philippe."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, I’m, I’m so sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "No, it’s, it’s fine. It’s why I left England. It reminded me too much of her. Cold, gloomy and easily accessed by a Frenchman through a tunnel."
+    },
+    {
+      "type": "direction",
+      "text": "(in the car outside)"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey. So, where are they?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Across the street, in the left window."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, damn it, we should have brought binoculars."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Right here."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You just happen to have those in the car?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Kinda. Before I met Howie, I liked to keep close tabs on my boyfriends."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "By stalking them?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "No. Stalkers are creepy. I’m just a harmless little girl with military-grade spy equipment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, there he is."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "He’s cute, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Can I see?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What, now you’re interested? You didn’t even want to come."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I know, but you guys make being a crappy friend look fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, okay, I see him. It looks like they’re having a nice time. I wish I could hear what they’re saying."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Yeah, I should’ve brought my parabolic microphone."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Your what?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Nothing. Not important."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "So you’ve never been married?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No. I mean, to be completely honest, I’ve, I’ve only been in one long-term relationship."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Oh. What happened with that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "That’s a good question. After five years, it was just feeling like more work than it should be."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Oh, that’s too bad. Was he a neurobiologist like you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No. He’s a theoretical physicist at Caltech."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "I love teaching math, but that would be my dream job. What’s his focus?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Um, used to be string theory, now it’s dark matter. But let’s not discuss Sheldon. Let’s get back to you."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Wait, you’re not talking about Dr. Sheldon Cooper?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’m trying not to. Do you know him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "No, but I’ve followed his work for years. He’s a rock star. You’ve got to tell me about him. What’s he like?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "He really seems into her."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I took a video. I forgot how much fun this is."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, we saw them. Can we go catch the movie?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Why’d you bring him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I had to; we’re married now."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Ugh, I hear that."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "I’m sorry, just one more question about Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sure, why not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "It’s more of a four-part question, really. When he wrote his paper on supersingular prime numbers, how long did it take?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Um about an hour and half."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Wow. I mean, wow. And you were there to see it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Yes. Yep. We were on a date. Very much like this one."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Mm. I doubt it was like this one. I mean, he’s a genius, and I wasn’t even smart enough to figure out why my wife always smelled of croissants."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What was the rest of your question?"
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Do you think you could introduce me to him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Really? You-you want me to introduce you to my ex-boyfriend?"
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "You’re right, it’s, it’s weird. No, wait. Do it. No. I changed my mind. I’d be too nervous. Oh, I don’t know what to do."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Are we gonna be much longer? I really have to go to the bathroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Right here."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "37 minutes left until the deadline."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Someone will show."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "And no matter what happens, this is still a fun experiment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Not as fun as the night we blew up grapes in the microwave. We really have led full lives."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Someone will show."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Maybe you don’t want someone exactly like you. You know what they say, opposites attract."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, by that logic, I should be with someone short, dull and needy, eh? Not to cast aspersions, but I can’t shake a stick around here without hitting that."
+    },
+    {
+      "type": "scene",
+      "text": "The restaurant."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "You know, I once drove 500 miles to hear him speak at Stanford."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I have a DVD of that lecture."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Really? Wasn’t it great?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Not as a Valentine’s present, no."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Well, the next time you watch it, I’m the bloke who asked the question that he said was stupid and obvious. It was the nicest thing he said to anyone there."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "That’s, um, terrific. Listen, I’m, I’m kind of tired. Can we call it a night?"
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Oh, gosh. Sorry, I’ve just spent the whole night talking about your ex-boyfriend. I’m such an idiot."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No, you’re not."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Well, maybe not an idiot, but certainly not as smart as someone we won’t mention."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "That you said you might introduce me to, I’m free on Thursday."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Hey, hey, they’re leaving."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What? Here, give me, give me. Oh, my God. Oh, my God, they’re coming right towards us."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "We got to get out of here."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay. Well, wait, what about Leonard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "He and his tiny bladder can take the bus. (Reverses into car behind)"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, no."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "She just hit my car."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What are you guys doing here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Hi, Ames, what are you doing here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What happened?"
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "O-M-G. Aren’t you Leonard Hofstadter?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "I saw you speak at Stanford with Sheldon Cooper. Amy, can you believe it? It’s Dr. Leonard Hofstadter."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No. Pinch me."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "It’s an absolute pleasure to meet you. Can I shake your hand?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know if you want to do that, I was just, okay, never mind."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Amy, I’m never washing this hand again."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You really should."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Sixty seconds. This is not looking good."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "One minute is a long time."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’ve been telling women that for 20 years."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Forty-five."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "45 seconds is plenty of time for a woman to walk through that door and fall in love with me. You know, probably half that if I break out the old cow eyes."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Thirty seconds."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Uh-oh. What if it’s Jennifer Lawrence?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, that last Hunger Games was not my cup of tea."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You thought she was great in X-Men."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, fine, I won’t shut my heart to the love of Jennifer Lawrence."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Guys, fifteen seconds."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Maybe she’s waiting to show up at the last possible moment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Sounds like a drama queen. Oh, no. It is Jennifer Lawrence."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Five, four, three, two, one. That’s too bad."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Maybe we did make the test too difficult."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I don’t think it matters. Look, Sheldon, I believe when the time is right for you to meet someone, it’ll just happen. Okay? Not because of a test or a Web site, but because… (knock on door) we are the dreamers of dreams."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It’s an actual girl, and she’s really pretty."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Answer it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right. Can I help you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "Um, are you the physicist that placed the ad on Craigslist?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Girl",
+      "text": "Hi. I’m Vanessa Bennett. Sorry it took a while for me to get here. I was stuck in this boring symposium on atomic spectroscopy when I came across your ad, and it saved my night. The puzzles were, were really fun. I’ve never had to translate Klingon into ancient Sanskrit before."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Careful, it’s addictive."
+    },
+    {
+      "type": "dialog",
+      "character": "Vanessa",
+      "text": "Chija”e’vlKub je. Or, as they say in Sanskrit, Ahm asman matey-bee ta-teyva."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And just like that, you’re a Klingon-Sanskrit junkie."
+    },
+    {
+      "type": "dialog",
+      "character": "Vanessa",
+      "text": "Anyway, I, I just, I knew I had to meet the person responsible for such a brilliant idea. And I don’t need to tell you, there aren’t a lot of men who love physics, archaic languages and flags of the world."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I am a bit of a unicorn. Well, you certainly seem like a special lady, uh, but as you know, you missed the deadline, so thanks for playing."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "How could you send her away?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "She was late. And she found atomic spectroscopy boring. Well, I wouldn’t coitus her with your genitals."
+    },
+    {
+      "type": "scene",
+      "text": "Amy’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Uh, thanks for driving me home."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No problem. I’m really sorry about your car."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Oh, it’s all right. If you’re free next weekend, I’d love to take you out again."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Um, listen, you’re a really nice guy, but I just, I don’t think this is working out."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "Oh. Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’m, I’m really sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "No, it’s, at least the same woman that rejected Sheldon Cooper rejected me."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "There you go."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "If I ever do meet him, we’ll have that in common."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sure. Heh."
+    },
+    {
+      "type": "dialog",
+      "character": "Dave",
+      "text": "And, he’s kissed you and I’ve kissed you, so if you think about it…"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Okay, get out."
+    }
+  ]
+}

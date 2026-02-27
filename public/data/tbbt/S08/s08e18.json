@@ -1,0 +1,1217 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 8,
+  "episode": 18,
+  "title": "The Leftover Thermalization",
+  "url": "https://bigbangtrans.wordpress.com/series-8-episode-18-the-leftover-thermalization/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The lobby."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Two one six four two zero one nine eight nine. And that, little lady, is pi to a thousand places."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’d say I’m sorry I asked, except I didn’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, look, it’s the Scientific American that covered the paper Leonard and I wrote."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, let me see."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I have mixed feelings about doing interviews. I like the part where I talk. I do not like the part where the other man talks."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, this article doesn’t mention Leonard at all."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, that can’t be right."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It only refers to Dr. Cooper and his team. Did you even talk about him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All I did was answer a few questions about the theory. And then expressed my gratitude that Scientific American doesn’t include any of those smelly perfume cards."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Poor Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why? The theory he came up with just got mentioned in Scientific American. He ought to be thrilled."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "He might not be."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, maybe you’re right. He is kind of a lump."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Think about it. How would you feel if you were referred to as part of Leonard’s team?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I’d be incensed."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "So you see what I’m getting at?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Squeaky wheel gets the grease?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Grass is always greener?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Try again."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I don’t know, we’re all Groot? Just tell me."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Leonard is as much a part of this paper as you are, and he was overlooked. He’s going to feel bad."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But it wasn’t my fault. I didn’t exclude him. And I didn’t write the article."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Remember that time you didn’t get picked to pull the sword out of the stone at Disneyland and they let that other kid do it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, that kid. Poor Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Exactly."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "For the record, that kid was a terrible choice. If you cry when you drop your churro, you do not have what it takes to rule England."
+    },
+    {
+      "type": "scene",
+      "text": "Howard’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Thanks for helping us sort through all my mom’s stuff."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Of course. I know what it’s like having to go through a loved one’s possessions. My uncle was a worshipper of Krishna. But after he died, you know what we found? A statue of Shiva. It may not be Crips and Bloods, okay? But in India, it’s a thing."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Well, it’ll be good that you’re there. Howard’s been having trouble deciding what to keep and what to let go."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, it’s hard. A lot of Ma’s stuff brings back fond memories."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Is that why you couldn’t get rid of her drawer full of ketchup packets?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yes. It reminds me of us eating out and her saying quick, nobody’s looking, fill your pockets with ketchup."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard? Have you ever noticed that only my name is on the cable bill?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Good, good. And your name is on the electric bill and mine isn’t. And I’m okay with that."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Actually, your name is on the electric bill."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, right. This is a disaster."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t even know what you’re talking about and I agree."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay, I have to tell you something, but you’re not going to like it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What’s going on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "An article was just published in Scientific American about our theory."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Did they hate it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. No, they loved it. They, uh, couldn’t say enough nice things about it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So what’s the problem?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know how the PennySaver only has my name…"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "They didn’t mention you in the article. Only me."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Really?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I know. It’s not fair. Let the anger go, buddy. You just, you relax all your muscles. Except for your pubococcygeus and anal sphincter. Let’s keep those tight."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, that, that’s not necessary."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It is. They’re what hold back the urine and the faeces. Look, maybe, maybe you shouldn’t read it. It’ll only make you feel worse."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Cooper and his team?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You should know I had nothing to do with that."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, at least they’re talking about the theory. I mean, that’s what’s important."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know, you’re right. Yeah. You know, it’s like when Stan Lee and Steve Ditko created Spider-Man. Stan Lee may get all the credit, but Steve Ditko knows he was just as important. Even though Stan Lee gets to be in all the Marvel movies. And. and he’s far richer. And he’s a household name, you know? Whereas, you know, you say Ditko, and that sounds like a company that makes Dits."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s not helping."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I’d give more examples, but, well, everyone in your position’s so forgettable."
+    },
+    {
+      "type": "scene",
+      "text": "Mrs Wolowitz’s House."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Stuart, we’re here."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s nice of you to let him keep staying at your mom’s house."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, well, I tried putting him out on the curb, but nobody took him."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Hey. Just so you know, the power’s out."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What happened?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "I called, they said a transformer blew. It’s the whole block. Should be fixed by tomorrow."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Wait, when did it go out?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "In the middle of the night."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, my God."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Howie, what’s wrong?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It’s all defrosting."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "It’s okay. It’s just food."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It’s not just food. This is the last food my mother ever made. This is her last brisket. This is her last meatloaf. This is her last. I have no idea what this is, but it’s the last one."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Everything okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No. All Ma’s food is gonna be ruined."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Well, why don’t we take it home and put it in our freezer?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You don’t want to do that. Refreezing not only removes moisture, but it creates ice crystals in the fibres of the meat that can compromise its taste and texture. What? I saw a teachable moment. I dropped some culinary science."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What should we do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’ll tell you exactly what we’re gonna do. We’re gonna eat it."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "There’s, like, twenty pounds of food in there."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "All you said was I had to get rid of things. You didn’t say they couldn’t pass through my colon first."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Howie."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay. Then how about this? Let’s invite everyone over to dinner. It’ll be like Ma’s feeding us one last time."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I love that."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Me, too. Oh, look, we’ve got enough ketchup to cover every ounce of it."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I mean, who even reads Scientific American?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s kind of a big deal."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "If it’s such a big deal, how come the biggest celebrity they could get for the cover is a molecule?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Can we please just stop talking about it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’m sorry. What can I do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Nothing, I’m fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, no. I’m gonna cheer you up. Here we go."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What are we doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I am taking you shopping."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "My baby is sad, and I’m gonna make him happy again."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Look, I know shopping cheers you up, but it’s just not really my thing."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, what about this helicopter you control with an iPad?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Does it have a camera in it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It does have a camera in it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Baby’s listening."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Leonard? (Knock, knock, knock) Leonard? (Knock, knock, knock) Leonard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I spoke to the reporter at the magazine."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What happened? Did you tell him it was my idea?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I did."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thank you. What did he say?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "He said they made the editorial decision to only cite the lead scientist."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why did he think you’re the lead scientist? It was my idea."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know, for an extra four bucks, I can have this thing here tomorrow."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I know it was your idea, but the reporter said he’s been following my work for a while, and the only reason they even mentioned it in the magazine is ’cause my name is on it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know what? I did it. What’s four bucks?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "If you’re trying to make me feel better, it’s not working."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well then what if I told you that I added your name to the cable bill?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh. That’s just as well. They had me on hold for 20 minutes and I hung up. (Knock, knock, knock) Leonard? (Knock, knock, knock) Leonard? (Knock, knock, knock) Leonard? Also, Wolowitz invited us all to dinner, so I’m ready whenever you are."
+    },
+    {
+      "type": "scene",
+      "text": "Amy’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All he had was an idea."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, that is an important part."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, please. I have ideas all day long. Reverse SeaWorld where dolphins are allowed to pet people. A new clothing size between medium and large called Marge. Snow White retold from the point of view of Sneezy. Why won’t Doc prescribe him something? We finally find out."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "But Leonard’s idea was good."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Fine. Then Grumpy, what’s he so grumpy about? Maybe his girlfriend won’t take his side."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m the one who thought of it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, didn’t he do a lot of the work?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah. But now he’s happy to let people think he’s responsible for everything."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "And that’s why you get an iPad helicopter."
+    },
+    {
+      "type": "scene",
+      "text": "Amy’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Is it my fault I have a much bigger reputation than he does?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It’s not your fault."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Is it my fault that my name came first on the paper alphabetically?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Not your fault."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Is it my fault that when the reporter cited me as the lead scientist I didn’t correct him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hey, look at that pretty bird."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "He always needs all the attention. He’s such a baby."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I know, I know."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I swear, he is never ever playing with my helicopter."
+    },
+    {
+      "type": "scene",
+      "text": "Mrs Wolowitz’s kitchen."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, I’ll start heating some of this stuff up."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Thanks."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, man. This is the boutonniere from my high school prom. A piece of cake from my Bar Mitzvah."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Did she throw anything away?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No. If I find my foreskin, I’m gonna kill myself."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, so we’ve got, um, three briskets, four meatloafs, one lasagna."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, that’s noodle kugel."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "One Jewish lasagna, two pound cakes that are about eight pounds each, and one giant container of matzoh ball soup."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Ma always kept it on hand, in case I got sick. She thought she could cure anything with her cooking. Even the time I got food poisoning. From her cooking."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, I’m okay. Let’s get started."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You got it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m never gonna talk to her again."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Should we tell everyone not to come?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No. I want to do this."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Okay. Well, I’ll keep it together if you can."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m not making any promises."
+    },
+    {
+      "type": "scene",
+      "text": "Mrs Wolowitz’s living room."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Glad you guys could make it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Of course."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wow, it looks really pretty in here."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Yeah, turns out half a dozen menorahs really sets a mood."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, Stuart, have you thought about what you’d do if Howard sells the house?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "And there goes the mood."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hi. Hello. Oh, and a special hello to Leonard, who needs to be mentioned by name."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Subtle."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But you got it, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, guys."
+    },
+    {
+      "type": "dialog",
+      "character": "All",
+      "text": "Hey. Hi. Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I just want everyone to know, uh, tonight’s not a sad occasion."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Yeah, we just want to have the kind of dinner that we’ve all had here so many times before."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Good food, good friends, and sometime around midnight, heartburn that makes you pray for death."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Do you need any help in the kitchen?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "No, we got it. You guys make yourselves comfortable."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right, hey, you two, we’re here for Howard right now, okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Yes, so please behave yourselves."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Of course."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "So I heard you two, uh, wrote a paper together. How’s that going?"
+    },
+    {
+      "type": "scene",
+      "text": "Mrs Wolowitz’s dining room."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "This food is amazing."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Mm, and not a vegetable in sight."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That’s not true. We’ve got tomatoes right here."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "All these bright people sitting around a table by candlelight. Feels like we could be an 18th century French salon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Indeed. Penny, a salon is a gathering where intellectuals entertained each other with sparkling conversations about issues of the day."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, so it’s like The View."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, The View is a daytime talk show hosted by women."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I’m aware. It features Whoopi Goldberg. She played Guinan on Star Trek: Next Gen. Penny, Next Gen refers to Star Trek…"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Shut up."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I would like to propose a salon topic."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Ooh, please do, Rajesh."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "The lead in The Hunger Games is a woman. Marvel has made Tor a female."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wait, who’s Tor?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You know, Tor, the God of Tunder. As I was saying, is this a sign that our society is approaching gender equality?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Certainly a lot more women are reading comic books now."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "It’s true. At the store, I had to put a seat on the toilet."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "We won’t know if there’s equality until female Thor has a baby and the Avengers are cool with her pumping breast milk at work."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I wonder if only a baby who is worthy can suckle at the bosom of Thor."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, new salon topic. Salons, dumb thing from a long time ago or interesting thing made dumb by talking about superheroes? Discuss."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t believe it matters what the topic is. What’s crucial for a salon is that we conduct the discussion in an elevated and insightful way. It’s all about the execution."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Of course you’d focus on that rather than the inspiration. Uh, new salon topic. What’s more important, an idea or its execution?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, that’s fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, good for you, Leonard. That’s a lovely little notion. Kind of like, I wish I could talk to my uncle in Chicago. Yeah, now stand back while I invent the telephone. Hello? Oh, hold on. Leonard, it’s your uncle. He says you just got burned."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, it’s okay. We’re all adults trying to have an intelligent discussion. At least I am. Howard, what do you think?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, I guess, as an engineer, I lean towards execution. I spend my days trying to take ideas and make them real."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well said, old chap. I thought eloquence had died, here it stands before us. Starting today, it’ll go Gettysburg Address, I have a dream, and what he just said."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, now he’s a genius? All you ever do is make fun of him and engineering."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard, please. His mother just died."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re being ridiculous."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, so are you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Guys, if I wanted to hear people be bitchy, I’d go to my real salon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard, lots of people could’ve had that idea, but very few people could’ve worked out the math the way I did."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Lots of people also didn’t have that idea, like everyone in the entire world except for me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, well, apparently Leonard thinks he’s better than everyone in the whole world, including those fighting for our freedom. Yeah, well, I don’t know about you, but I support our boys overseas."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "And girls."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hey, you already ruined Thor, give it a rest."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So I’m just supposed to be okay with you hogging all the credit?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I didn’t hog anything. Unlike you and that weird lasagna with raisins in it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You want some of this? I’ll give you some."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Hey. Sheldon, Leonard, living room, right now!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "She said my name first, that must kill you."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "direction": "(off)",
+      "text": "I don’t know what you think you’re doing, but this is a very difficult time for my husband. We’re eating the last food his mother ever made, and you were gonna throw it at each other like children? Whatever it is you’re fighting about, put it aside, go back in there and be a good friend to Howard or there’s no dessert for either of you. Look at me when I’m talking to you. And don’t think…"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You guys ever notice sometimes Bernadette sounds like my mom?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I don’t hear it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No, not at all."
+    },
+    {
+      "type": "scene",
+      "text": "Mrs Wolowitz’s living room."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I don’t think I’ve eaten that much in my entire life."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It’s why my people wandered the desert for 40 years. Took that long to walk it off."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You see, Penny, the Israelites were in the desert…"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Shut up."
+    },
+    {
+      "type": "dialog",
+      "character": "Ra",
+      "text": "So glad you two are done fighting."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Right now, I’m just trying to burp without throwing up."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hang on. Physics Today mentioned the paper."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "What’d they say?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Who cares? Did they mention Leonard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "They did."
+    },
+    {
+      "type": "dialog",
+      "character": "All",
+      "text": "Yay."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Good news, I found more Tums."
+    },
+    {
+      "type": "dialog",
+      "character": "All",
+      "text": "Yay."
+    }
+  ]
+}

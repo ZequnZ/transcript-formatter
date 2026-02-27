@@ -1,0 +1,1298 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 9,
+  "episode": 6,
+  "title": "The Helium Insufficiency",
+  "url": "https://bigbangtrans.wordpress.com/series-9-episode-06-the-helium-insufficiency/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "Leonard’s lab."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard, I’ve got terrible news."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What’s going on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Before I tell you, perhaps I should soften the blow. You’re face is pleasingly symmetrical."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Just tell me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "A Swedish team of physicists is trying to scoop our super-fluid vortex experiment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, well, that kind of stinks."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That kind of stinks? Why aren’t you more upset? Did I soften the blow too much? Because this here is more like a Picasso painting."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What are we going to do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Perform the experiment immediately."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’d love to, but we need liquid helium and our shipment’s on back order for a month."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "A month? What? Are you kidding me? That would have been a good time for you to soften the blow."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That shirt brings out the blue in your eyes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thank you. Aren’t you sweet."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Let’s go check to see if the university has any helium in reserve."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Did you know that I almost didn’t wear this shirt today?"
+    },
+    {
+      "type": "scene",
+      "text": "Barry Kripke’s office."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, Barry, we’re in trouble. We need liquid helium, does the department have any we can use?"
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Sowwy, there’s a showtage. And what we do have I need for my quantum excitation study."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But you won’t need much for that."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Twue, but if it’s successful, I’m having a pawty with bawwoons."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Come on, Barry, there’s a Swedish team trying to run our experiment before us. Can’t you spare any?"
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Be honest, if the shoe was on the other foot, would you do this for me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Not a chance."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "He said be honest, so I was honest. Didn’t your mother tell you? It’s the best policy. So, what do you say?"
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Hell no."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "He could’ve softened the blow."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s lab."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Why do you need Kripke? Can’t you just go to Party City for helium?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We’d have to go to every Party City in California."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sounds like you on Cinco de Mayo."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, people were still talking about that party on siete de Mayo."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard, if that Swedish team beats us, I will never be able to enjoy anything from their country again. Which is a shame, because Swedish meatballs are my favourite toothpick-delivered meatball."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "If you need liquid helium so bad, I know a guy who can get you some, if you don’t ask too many questions."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Who is he?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Where does he work?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "How does he get the helium?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "How many questions are too many questions?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Maybe he’s not for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Four questions. There answer’s four."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s house."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Hey, you know who went out on a date the other night? Stuart."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, good for him."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I thought so, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So is she, like, homeless, or framing him for a crime?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "He’s using some kind of dating app on his phone."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, which one? Maybe we can get Amy to try it."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I don’t know. Stuart, can you come in here? He tried to explain it to me. It shows you pictures of people nearby, you swipe them around, it looks kind of like a game."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, and if you lose the game, you have to go out with Stuart."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "What’s up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Can you show us that dating app?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Oh, yeah, sure. This thing has changed my life."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wow. So how many girls have you met?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Two. I probably don’t need to mention there’s an entire number between that and zero."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, so how does it work?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Uh, well, it, it shows me all the single women in a five-mile radius who are using the app. If I like the way they look I hit thumbs up, if I don’t, thumbs down."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, what would make you give a girl a thumbs down?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "First time it happens I will let you know."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, hey. I just heard back from the liquid helium guy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What’s he say?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "He’s got what we need and can meet us tonight."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Really? You know I don’t like buying things at night. January 7th, 2009, I went to the Ralph’s at 11:30pm to pick up Cracklin’ Oat Bran for the morning and what did I see?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "The man restocking the cereal shelves."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s right. And what did he do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "He handed you the box directly and called you Stretch."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s like it was yesterday."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Do you want liquid helium or not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Of course I do. I don’t want that Swedish team scooping us."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Then I’m going to tell him we’re in."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard, wait. This is highly unethical."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We’re just bending the rules a little. We have grant money to do the experiment, so we’re going to spend it on the helium we need. It’s not like when Dr. Goldfarb claimed he bought an electron microscope and he was really just keeping a Russian girl in an apartment in Van Nuys."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Was she helping him with his research?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sure. So, are we doing this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, but where does he get the helium?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Remember? Don’t ask too many questions?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Uh, but this is violating university code."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "A little, but if I may quote Einstein, the pursuit of science calls us to ignore the rules set by man."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Huh. All right, do it. Tell him we’re in."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Done."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I can’t find that quote on the Internet. Did you make that up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Before I answer, may I just say your skin has never looked better."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Aren’t you just made of sugar."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s house."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’m not sure how I feel about this."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, come on, just let him put the app on your phone."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Yeah, Stuart got two dates with it."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "One of which would’ve ended in sex had she not said no. Okay, all set."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, let me see. Nope, nope, nope, oh, he’s cute."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Doesn’t a teardrop tattoo mean he murdered someone?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "And he’s sad about it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Hey, I thought you were gonna be out late?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "If you wanted me to stay out later, you should’ve given me more spending money."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What are you guys up to?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "We put Amy on a dating app, and we’re seeing what’s out there."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, fun. Let me see. Uh, no, no, uh, definitely not."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What was wrong with that guy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Uh, he’s Indian. We’ve already got one of those. Ooh, we should find a nice Latino, really round us out."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, I want to try."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Uh, excuse me, can I have my phone back?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hang on, I’m trying to find you the next great love of your life. The man who will father your children. Okay, yes or no on white guy with dreadlocks?"
+    },
+    {
+      "type": "scene",
+      "text": "A parking garage."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That must be him."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, of course. An nondescript, white panel van. You may be familiar with it from the sentence, their bodies were found in a nondescript, white panel van."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Man",
+      "text": "What’s up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, I’m Leonard. This is my friend…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m Skippy. Skippy Cavanaugh."
+    },
+    {
+      "type": "dialog",
+      "character": "Man",
+      "text": "Great. You got the cash?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, yeah, uh, right here."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wait, hold on, hold on. How do we know that you’re not gonna take the money and drive away?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What ya doing, Skippy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Exactly what 1970s television crime dramas have taught us. You give us the helium first."
+    },
+    {
+      "type": "dialog",
+      "character": "Man",
+      "text": "Oh, how do I know you’re not gonna drive away without paying me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Guess I’m not the only one who watches ’70s television crime dramas."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Look, you can trust us. We’re respected scientists."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, he is. I’m a wedding planner who can’t find love himself. It’s ironic, but the point is we can’t trust you. You’re a sketchy character in a parking garage."
+    },
+    {
+      "type": "dialog",
+      "character": "Man",
+      "text": "Yeah, well, from my perspective, that’s how you two appear to me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I never thought of it like that. Boy, frame of reference will just sneak up on you, won’t it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "My friend does make a decent point about the money. I don’t feel comfortable just handing it over up front."
+    },
+    {
+      "type": "dialog",
+      "character": "Man",
+      "text": "Ah, no money, no helium. Seems we’re at a, uh, stalemate."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Not technically. In chess, a stalemate refers to a situation in which there are no remaining moves. Uh, you have plenty of moves available. You could beat us up and steal the money. You could kill us, you know. Really, you’re only limited by your imagination."
+    },
+    {
+      "type": "dialog",
+      "character": "Man",
+      "text": "Huh. All these years I’ve been using stalemate, when I really mean impasse. I feel foolish."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t think it matters if this is a stalemate or an impasse or a Mexican standoff. What are we gonna do here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Man",
+      "text": "Oh, whoa, whoa, how can it bea Mexican standoff? Everybody knows you need three sides for that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Not necessarily. Uh, many argue the essence of a Mexican standoff is that no one can walk away from the conflict without incurring harm."
+    },
+    {
+      "type": "dialog",
+      "character": "Man",
+      "text": "Hmm, I don’t follow."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Let me give you an example. Earlier today, I decoded the headers on your e-mail, and I know that your name is Kenneth Fitzgerald. From that, I figured out where you live and where you work. Now, to make this a Mexican standoff, I would say something like, uh, you give us the helium or I’ll turn you in to the authorities."
+    },
+    {
+      "type": "dialog",
+      "character": "Man",
+      "text": "Is that a threat?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, exactly. See, you’re getting it."
+    },
+    {
+      "type": "dialog",
+      "character": "Man",
+      "text": "Yeah, well, I know where you work, all right? And if you mess with me, I’ll report you, then I’ll pound your asses into the ground."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Perfect. Now we really are in a Mexican standoff. Is this one of those times where I’ve won the battle but lost the war?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Afraid so, Skippy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I told you we shouldn’t go shopping at night."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "All right, let’s all just calm down. Nobody wants to report anybody."
+    },
+    {
+      "type": "dialog",
+      "character": "Man",
+      "text": "No, I don’t like this. I’m out."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, no, no. Wait, don’t go. Just let me explain. We’re physicists, and we’re trying to prove a hypothesis that we’ve been working on for over a year."
+    },
+    {
+      "type": "dialog",
+      "character": "Man",
+      "text": "Really? What’s the hypothesis?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Space-time can be interpreted as the surface of an n-dimensional superfluid."
+    },
+    {
+      "type": "dialog",
+      "character": "Man",
+      "text": "Hmm. Could be, could be. Go on."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, but now there’s this Swedish team that read our paper and they’re trying to beat us to our own discovery. We really need this helium."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And I’m sorry I lied about being a wedding planner who can’t find love. Although I am currently single, if you know anybody."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Here’s the money. Can we do this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Man",
+      "text": "Okay. It’s a shame about those scientists ripping you off. I expected a higher ethical standard from our friends in Sweden."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s actually pretty common in our field. There’s not much you can do about it."
+    },
+    {
+      "type": "dialog",
+      "character": "Man",
+      "text": "Well, for the right amount of money, if you know where they live, there’s, uh, plenty we could do about it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Did you hear that, Leonard? There’s plenty we could do about it. Do you have a card?"
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s house."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, here we go. Now everyone can see. All right. Where do we stand on cross-eyed Mike?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You know he won’t be looking at other girls."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Unless they’re sitting on the end of his nose."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, okay, okay. Thumbs down. Next."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Ew, check out his tiny teeth. He looks like a man-dolphin."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well if he’s good in bed, she can throw him a fish."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I love you, Amy. (Dolphin noises)"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Okay, I’m starting to feel guilty. Aren’t we being a little mean?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "That’s a fair point. We wouldn’t make fun of someone like this to their face."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Look, it’s Stuart."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You may want to leave the room."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s lab."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Right this way, Uncle Harvey."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Will you stop with that already?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m trying not to attract attention."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "And tipping his hat to the cleaning lady didn’t do that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "She said buenas noches. What was he supposed to do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Let’s just start the experiment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard, we should probably have our story straight in case we get caught."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We’re not getting caught."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, you can’t be sure of that. What if the helium dealer rats us out? What if Kripke asks where we got it? What if the university checks my family tree and finds out I don’t have an Uncle Harvey?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "The dealer doesn’t care, Kripke has no authority over us, and you being related to a metal container would explain a lot. Help me hook this up."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Uh-oh."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, did you see this sticker?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What is it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s partially torn off, but the segment that remains reads property of and the letter U."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s probably USC or UCLA."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, but what if it’s Property of U.S. Government? There’s a national helium reserve in Amarillo, Texas. If this was stolen from there, we’re accessories to a federal crime."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Let’s not jump to conclusions. A lot of things start with U."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s true. There’s the U.S. Air Force, U.S. Department of Defence, U.S. Navy, you and I are going to jail."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Listen, we can do the experiment as planned and beat the Swedish team to the punch, or we can kiss our dreams good-bye because we were to afraid to break a few rules."
+    },
+    {
+      "type": "scene",
+      "text": "A university corridor."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Ma’am."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s house."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, does everyone remember the rules? If he’s shirtless, one sip. Posing with a pet, two sips. Pet and shirtless, chug like it’s your job. And pull."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I have that same underwear."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Chug."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Amy, you’re getting a text."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, um, give me that."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I had a great time last night."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No, no, stop reading that."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Who’s Dave?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You went on a date last night? Are you seeing someone?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No, it, it’s not like that."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "And I’d love to take you out again”?"
+    },
+    {
+      "type": "dialog",
+      "character": "All",
+      "text": "Amy/What?/Can’t believe it/Oh, my God."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Okay, it’s like that."
+    },
+    {
+      "type": "scene",
+      "text": "The parking garage."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thank you for coming back."
+    },
+    {
+      "type": "dialog",
+      "character": "Man",
+      "text": "Yeah, well, normally I wouldn’t, but my daughter’s having a sleepover, and there’s only so much screaming and Katy Perry a man can take."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Anyway, if you could just give us our money back, you can have your helium and we’ll be on our way."
+    },
+    {
+      "type": "dialog",
+      "character": "Man",
+      "text": "Yeah, well, is there something wrong with it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, nothing. We just changed our mind."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "He has glasses and I’m a know-it-all, we are not built for prison."
+    },
+    {
+      "type": "dialog",
+      "character": "Man",
+      "text": "Yeah, I hear you. Well, you’re good guys, so I’ll, uh, I’ll take the helium off your hands."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Man",
+      "text": "But you ain’t getting your money back."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re taking advantage of us? We clarified nomenclature together."
+    },
+    {
+      "type": "dialog",
+      "character": "Man",
+      "text": "Look, I enjoy semantic digressions as much as the next guy, but, uh, this is business."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You know what? It’s fine. Keep the money. We just want to be done with this."
+    },
+    {
+      "type": "dialog",
+      "character": "Man",
+      "text": "No problem, but I am gonna have to charge you a small helium restocking fee."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t understand."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "He wants more money."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, it better not be more than a thousand dollars. That’s all I’ve got on me."
+    },
+    {
+      "type": "dialog",
+      "character": "Man",
+      "text": "That’s exactly how much it is."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Finally, something breaks our way."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s house."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I can’t believe you’re seeing someone and we don’t even know about it."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Yeah, why wouldn’t you tell us?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Because it’s new and weird and I’m just trying to figure it all out. And I knew if I told you guys I had been out with a few people that you’d get way too excited about it."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "A few people?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Amy."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "So, are we allowed to ask how it’s going?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It’s going fine. It’s mostly just been meeting people for coffee."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What? I thought we were all… never mind."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I, I thought you weren’t ready to start seeing people."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, I don’t have much experience dating, so I decided it would be good for me to, you know, get out there a little."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, good for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "And how many guys have you gone out with?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Please be less than two."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Three."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Damn it."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s lab."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, the Swedes might beat us, but at least we won’t get gang-noogied in prison."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Is Ernest Goes to Jail the only prison movie you’ve seen?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It scared me straight, Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Hey, I’ve been thinking. I was being petty. You can have my hewium."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thank you, Barry."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "But you have to add my name to your paper."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s preposterous."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "I don’t know, seems fair. You can’t do it without me."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Can you give us a minute?"
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Take your time. I’ll walk out backwards for dwamatic effect."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t like being extorted like this. Especially by him of all people."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Me neither, but what other choice do we have?"
+    },
+    {
+      "type": "scene",
+      "text": "The parking garage."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I promise this is the last time."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It says right here on Wikipedia. A Mexican standoff is a confrontation between at least three parties."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "How can you trust Wikipedia if they use between to refer to three parties?"
+    },
+    {
+      "type": "dialog",
+      "character": "Helium Man",
+      "text": "They should’ve used among, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Or amongst, if they were feeling whimsically archaic."
+    },
+    {
+      "type": "dialog",
+      "character": "Helium Man",
+      "text": "All right, enough with the chitchat. Are we gonna watch Ernest Goes to Jail or not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Absolutely. But don’t be surprised if this movie sets you on the straight and narrow."
+    },
+    {
+      "type": "dialog",
+      "character": "Helium Man",
+      "text": "I am open to change."
+    }
+  ]
+}

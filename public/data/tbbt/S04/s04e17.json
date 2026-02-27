@@ -1,0 +1,1210 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 4,
+  "episode": 17,
+  "title": "The Toast Derivation",
+  "url": "https://bigbangtrans.wordpress.com/series-4-episode-17-the-toast-derivation/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The apartment. Sheldon is on the phone."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Buona sera, Luigi’s Pizza. Buona sera. It means good evening in Italian. May I say, having to explain that to you calls into question the authenticity of your ristorante?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, I’m out of here."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Un momento. Oh, for heaven’s sake, now you’re being deliberately stupid. (to Leonard) Where are you going?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m having dinner with Priya at Raj’s. I think Howard’s going to be there. You want to join us?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But tonight’s Thursday. On Thursdays, everybody comes over here and has pizza. Or a reasonable facsimile prepared by someone claiming to be Luigi, but who sounds suspiciously like Jackie Chan."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Can’t we make a one-time exception for tonight?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "We could. We could also stop using the letter M, but I think that idea is isguided and oronic."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Just come with me to Raj’s."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I don’t want to go to a party."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s not a party. It’s the same group of people who hang out here, hanging out over there."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m sorry, but five people eating and chatting is a party."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "How come it’s not a party when we do it here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Because we don’t throw parties."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know what to tell you, Sheldon. I’m going to see Priya. Everyone’s over there. You coming or not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, no, sir, and do you know why? In a word, tradition. Every Thursday night for the last eight years, you and I and our friends have gathered here in this very spot to break bread covered with cheese and sauce, discuss the issues of the day, and yes, share a laugh or two. But I guess our rich heritage means nothing to you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I guess you’re right. See you later."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wait! Leonard! Wait! What am I going to do for dinner?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Come with me to Raj’s and eat there."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I can’t do that. What if he serves haggis and blood pudding?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I really doubt that’s what he’ll serve."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But what if he does? I’ll be obliged to dine on liver and lungs stuffed in a sheep’s stomach. And frankly, blood pudding is essentially the same thing. I don’t know why he’s serving both."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What do you want to do? You want to come with me, or do you want to sit here alone?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, I’ll go to your haggis party. But I’m telling you, this is adness. This is utter and coplete adness."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, dear!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Raj’s television. I just realized we’re about to spend an evening watching a plasma screen with a cluster of dead pixels in the upper left-hand corner."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So don’t watch TV. Read a book."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And be a social pariah? Oh, you know that’s not my style."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Ugh!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The audible sigh is a show of exasperation, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Right."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Is it about me or the dead pixels?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, you’re just in time. We made Tex-Mex."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, sounds great."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, Indians making Tex-Mex. Might as well have had the Chinese pizza."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Hey, you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That’s got to be fun for you, huh? Watching Hofstadter suck the saliva out of your sister’s mouth?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Excuse me. Before this evening goes any further, we need to decide where everyone is going to sit."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "There is no assigned seats, Sheldon. Just sit anywhere. Make yourself comfortable."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, what fun. We’re like hippies at a love-in."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Just sit here."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, right on, man. Right on. Oh, look, it’s Harry Potter and 98% of The Sorcerer’s Stone."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, we’ve got fajitas with all the fixins, so you make your own."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wonderful. Dinner, some assembly required."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Do you want a margarita, Sheldon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "A margarita? Where are we? What is happening?"
+    },
+    {
+      "type": "scene",
+      "text": "The bar of the Cheesecake Factory"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh. Hey, Sheldon. What can I get ya?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Water. Neat. With a little umbrella."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Where are all your friends?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Sadly, Penny, this evening, I am the Dark Knight, roaming these mean streets alone. A windbreaker for my cape, and a stern expression for my cowl."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Excuse me? Isn’t this the point where the world-weary barkeep absentmindedly wipes down the bar and coaxes the woes out of the troubled patron?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, I was getting your stupid umbrella, but all right. What’s troubling you, buddy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t think your heart’s in it, but since you asked. Apparently, because Leonard is dating Raj’s sister, we’re all forced to hang out at his apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, the horror."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Indeed. Yeah, at one point, Raj put on reggae music, and his sister took off her shoes. It was like the last days of Caligula. (Phone rings) Oh, I have to get this. Umbrella?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Ugh!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wonder what she’s exasperated about. Hello?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "direction": "(on phone)",
+      "text": "Sheldon, are you all right? When last we spoke, you were going to take a taxi home from Raj’s, but according to Facebook, you just checked in at the Cheesecake Factory."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, I was in a taxi, but the driver didn’t look at all like the photograph on his license, so I leapt out and ran for it."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Wise."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "There you go. Just like recovering alcoholics drink in the Caribbean."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hi, bestie."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh. Hi, Amy. How you been?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Fine. From this angle, I can see up your nose."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, it’s a great time to be alive, isn’t it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Don’t worry. My problems can wait while you two hens finish your clucking."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Look, Sheldon, Leonard is dating Priya. She is staying with Raj. That means you’re all probably gonna be hanging out there more."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Penny, I’m sorry you got dragged into this. I know you’re devastated that your ex-boyfriend has found an exciting new lover with flawless, caramel-coloured skin."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, I’m not upset about Leonard and Priya."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Your flaring nostrils indicate otherwise."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Cluck-cluck-cluck."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, look at me. I think it’s time to face the fact that Leonard is the nucleus of your social group. Where he goes, the group goes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard the nucleus? That makes no sense. I’m the whimsical elf that everyone looks to for a good time."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’m not saying that you’re not fun. You’re the most fun person I know."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "A lot of people think I’m fun to be around."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Don’t be needy, bestie. That’s probably part of what chased Leonard away. What I am saying, Sheldon, is that your group is Leonard-centric. If it were a town, it would be Leonardville. If it were an Islamic nation, Leonardstan. If it were the birthplace of motion pictures, we’d all be singing Hooray for Leonardwood."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Ooh, I got one. If you guys were a band, you’d be called Leonard and the Leonards."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "So needy."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m setting out snacks."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You do realize everyone’s eating at Raj’s again tonight?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I didn’t say the snacks were for you now, did I, Nosy Rosie?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re having people over?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes. Must be killing you wondering who. Fine, I’ll tell you. Stuart from the comic bookstore, Barry Kripke from the university, Penny’s ex-boyfriend Zack and TV’s LeVar Burton."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Really? LeVar Burton’s coming here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Possibly. I Tweeted him."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, well, tell him I loved him on Star Trek."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Please, Leonard, stop trying to horn in on my new friends."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Of course. Good night."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "We had a good run, you and I."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But change is a part of life."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It certainly is."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay. I have guests coming. I’m afraid I’m going to have to ask you to leave now."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I am leaving."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Don’t make this harder than it is, Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Good-bye, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And good-bye to you, sir. He’ll be back."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Of course I’ll be back. I live here!"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment, later."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, it would appear LeVar Burton won’t be joining us so let’s get started. Um, I thought we’d begin by going around the room, introducing ourselves and saying a little bit about why we’re here. Okay. I’m Sheldon. Uh, for regular readers of The New England Journal of High Energy Physics, I need no introduction. If you’re not familiar with that publication, there’s a free copy in your goody bag. Stuart?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Um. Hi. I’m Stuart. I run a comic bookstore, which for financial reasons, I’m currently living in. And I guess what I’m hoping for most out of tonight is a hot shower."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s very nice, Stuart. Zack?"
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "I’m Zack, and I’m, uh… uh… could you come back to me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Of course. Barry?"
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "I’m Barry Kwipke, and I’m here because you told me there was going to be a whaffle. When is the whaffle?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Patience, patience, Barry. The whaffle… the raffle is the grand finale to an evening-long festival of fun and folly."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "One more question…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, you must be present to win."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Okay, I’m ready. I’m Zack, and I’m, uh… oh, crap, why is this so hard?"
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Yo, P-dog."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What’s up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "We’re here to kidnap you for a girls’ night out."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Parenthetical, the term kidnap is being used playfully."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I kind of figured that."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Good. Now put this pillowcase over your head."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "She used to be much more fun, until Leonard punched her in the heart."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "We just thought you might want to go out and have a good time, maybe go dancing."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh. Gee, thanks, but I’m not really in the mood."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You do understand that it will distract you from obsessing over the rich variety of sweet loving that your ex-boyfriend is currently receiving from the fiery jewel of Mumbai."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, look, if I agree to go out with you guys, will you promise to stop pestering me about Leonard and Priya?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Sure."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right. I’ll go change. Come on in."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "If you’d have let me bring the chloroform, we wouldn’t have had to put up with all this jibber-jabber."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Anyway, after we get done snowboarding, I go back to the lodge and get in the Jacuzzi. There’s no one around, so naturally, I’m free-balling it. Next thing I know, this beautiful chick shows up, drunk out of her skull, wants to get in with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Question. Was it a Jacuzzi or a hot tub?"
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Weally? That’s your question?"
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "What’s the difference?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Jacuzzi is a commercial brand. Hot tub is the generic term, i.e., all Jacuzzis are hot tubs, but not all hot tubs are Jacuzzis."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Is that like all thumbs are fingers, but not all fingers are thumbs?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Surprisingly, yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Nice. Now, what exactly are toes?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Can you please get back to the drunk girl? I’d like something to think about in the shower."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Oh, yeah. Right. Anyway, she takes off all of her clothes, climbs into the hot tub, and the first thing I notice…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The water level rose."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Of course it did. It’s said that Archimedes, the ancient Greek mathematician, discovered the principle of displacement while taking a bath."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Tewwific. Go ahead, Zack. Naked dwunk girl, fwee-balling, continue."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Forgive me, but I think you’ll find my story is more interesting."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Does yours have wet bweasts in it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Better. It has a gold crown. You see, the king wondered how much gold was in it and charged Archimedes with coming up with the solution. Because the crown was irregularly shaped, there was no way to mathematically determine its volume. But, while bathing, Archimedes realized he could immerse the crown and measure the amount the water rose."
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "So, long story short, I nailed her."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "When he finished, he shouted Eureka!"
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "No, I always shout, Holy Moly! Don’t know why. Just do."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, that concludes the getting to know you portion of the evening. Who’s ready to play some vintage video games? And tonight’s selections include ColecoVision’s Smurf Rescue in Gargamel’s Castle, Atari’s Cookie Monster Munch, and for you text adventure aficionados, Zork. Pick me, pick me. I’m fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "That all sucks the big haiwy meatball. How about I go get the kawaoke machine out of my car, get plastered and blow the woof off this place?"
+    },
+    {
+      "type": "dialog",
+      "character": "Zack",
+      "text": "Great, I’ll make a beer run."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "And I’ll take a shower. We’ll meet back here in fifteen."
+    },
+    {
+      "type": "dialog",
+      "character": "Barry",
+      "text": "Check."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m unhappy."
+    },
+    {
+      "type": "scene",
+      "text": "Raj’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "This is delicious. Where’d you learn to make chili?"
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "When I was at university in England, my flatmate was from Texas."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I hope she wasn’t anything like my flatmate from Texas."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Sheldon is a bit quirky, isn’t he?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, please. That crazy bastard’s looking at quirky in the rearview mirror."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Did you know that, per our roommate agreement, I have to wash my feet before I get in the shower? And not in the sink. We each have special buckets."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Raj, did you ever tell your sister about the time Sheldon got punched by Bill Gates?"
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Oh, God, you’re kidding."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Nope. Gates gave a speech at the university. Sheldon went up to him afterwards and said, maybe if you weren’t so distracted by sick children in Africa, you could have put a little more thought into Windows Vista.”"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Bam. Right in the nose. Made me proud to own a PC."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’d like to propose a toast to a rare and wonderful Sheldon-free evening."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hear, hear."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Cheers. You realize that’s the first time we’ve ever done that without having to listen to Sheldon tell us why it’s called a toast?"
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Why is it called a toast?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, the ancient Romans put spiced toast in their punch bowls."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Sheldon tells it better."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "He kind of does."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Aw, hell, I miss him."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So, where do you guys want to go dancing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "We were hoping you’d know a place."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Yes, perhaps somewhere packed tightly with young, beautiful bodies sweating and writhing against each other in a glorious orgy of the flesh."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, yeah, I know that place. What do you think?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "That should display enough of your bosom to attract a new mate, or a hungry infant."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, let’s go through this one more time. Just because Leonard has a new girlfriend does not mean I need to go out and hook up with some guy."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "But you could if you wanted to, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, yeah, I guess."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Pick out the hottest guy in the room, take him home, do unspeakable things to him, then kick him to the curb with a smile on his face and teeth marks on his heinie?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "More or less."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What’s that like?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I don’t know. It’s fun while you’re doing it. And then after, it’s mostly embarrassment, self-loathing and regret."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I would take that deal all day long."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, well, it’s not gonna happen tonight. You know, for the first time in my life, I am not in a relationship, and I’m totally okay with it."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You know, if being on your own is new to you, I’d be happy to share some tension-relieving techniques for ladies I’ve perfected over the years. For example, do you have an electric toothbrush?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Um, no."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You should get one."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What’s that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It appears to be something preserved between two pieces of acrylic."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, it’s a snowflake from the North Pole. Leonard gave it to me last year."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, God, that is so romantic."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, it was."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Leonard’s really one of a kind."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Saying that while holding a snowflake is a little bit heavy-handed, don’t you think?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Let me see that. Oh, screw it. I can deal with a little self-loathing. Let’s go find me a heinie to bite."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Outstanding. And if we fail, we can always stop at CVS and pick you out a nice toothbrush. I call mine Gerard."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "That’s kind of creepy."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment. Barry and Zack are singing “Don’t Go Breaking My Heart”"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Anybody do Walking on Sunshine yet?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Dibs."
+    },
+    {
+      "type": "scene",
+      "text": "Raj’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "I’m sorry, Sheldon bought a loom and learned how to weave?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "He actually got pretty good. He made us all matching serapes."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I still wear mine when there’s a nip in the air."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Now, was this before or after he adopted the 25 cats?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Long before the cats. I think it was around the time he tried to declare our apartment a sovereign nation. I still have some of the currency."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(outside)",
+      "text": "(Knock, knock, knock) All my friends. (Knock, knock, knock) All my friends. (Knock, knock, knock) All my friends."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I think it’s like Beetlejuice. We said his name too many times."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Come on in."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey. I thought you were with your new buddies."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I had to leave. They were having fun wrong."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Come here, Sheldon. Sit here with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Would you like some homemade chili?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Are there beans in it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Then it’s not chili. Real chili has no beans in it, but you’re from a foreign land, so your ignorance is forgiven."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Sheldon, do you want some or not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, please. Your girlfriend’s a little short-tempered."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’d like to propose a toast to friends, no matter how quirky."
+    },
+    {
+      "type": "dialog",
+      "character": "All",
+      "text": "Cheers."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Priya, do you know why this is called a toast?"
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Actually, I do. I believe the Romans used to put spiced toast in their punch bowls."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "She’s also a bit of a know-it-all. Mmm. This is good. Whatever it is."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment. Stuart is singing “Walking on Sunshine”. Barry and Zack are doing backing vocals."
+    },
+    {
+      "type": "dialog",
+      "character": "LeVar Burton",
+      "text": "Hello? I… Oh, I don’t think so. I am so done with Twitter."
+    }
+  ]
+}

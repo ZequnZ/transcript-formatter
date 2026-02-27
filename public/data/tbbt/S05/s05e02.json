@@ -1,0 +1,1119 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 5,
+  "episode": 2,
+  "title": "The Infestation Hypothesis",
+  "url": "https://bigbangtrans.wordpress.com/series-5-episode-02-the-infestation-hypothesis/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The apartment. Leonard is laying out wine and napkins in front of his laptop."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, uh, Priya’s calling in a few minutes on Skype, and we are gonna have a dinner date."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s eight o’clock in the morning in Mumbai. How can she have dinner?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Fine, whatever. Priya will be having breakfast."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, so technically it’s not a dinner date. I suppose you could call it a, uh, dinfast date. But if you did, you’d open yourself to peer-based mocking, such as, Hey, Leonard, how was your dinfast with Priya last night?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That doesn’t sound like mocking."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You didn’t let me finish. Dinfast (rolls eyes). Are those soy-based candles?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know. Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Paraffin candles may contain carcinogens. Unless lung cancer is the ambiance you were going for at your dinfast. Dinfast (rolls eyes)."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Listen, I don’t want to be rude, but Priya’s gonna be calling any minute, so…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, yes, Priya. Leonard, you know I make a point of never interfering in your personal affairs."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes, I’ve always admired that about you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "As well you should. But I’m going to make an exception here."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, good."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Priya has moved back to India to pursue her law career. Instead of desperately trying to keep this intercontinental relationship alive, you could use that time to take up a hobby."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "A hobby?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes. I read recently about a fellow in Kansas with an enormous ball of twine. I bet you could give him a run for his money."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You know, some people might say that it’s great that we’re trying to make things work long distance. They’d say things like, love is stronger than the miles between you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "When I rise to power, those people will be sterilized."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You video-chat with Amy all the time. How is this different?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Don’t you like Amy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Of course I like Amy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, there’s the difference. (Skype tone rings)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Excuse me, that’s Priya."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "direction": "(on screen)",
+      "text": "Hi, Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, honey."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "I miss you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, I miss you, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I miss the old days when your romantic partners could be returned to the video store."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thanks for letting me stay here while Leonard Skypes with his girlfriend."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, it’s no problem. It’s actually kind of nice. You reading, me reading. We’re like an old married couple."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If we were an old married couple, the wife would serve iced tea and snickerdoodles."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I don’t have iced tea and snickerdoodles."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "A good wife would go to the store."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I want a divorce."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Good. On the way to see the lawyer, pick up some tea and cookies. I must say, I am enjoying your new chair."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It’s great, isn’t it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It is. Aligns the lumbar, cradles the coccyx, balances the buttocks. This is a chair worthy of the name."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What name?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Chair."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, all right, well, I’m glad you like it. I mean, I still can’t get over the fact someone just threw it away."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, it was just sitting on the street. I paid a homeless guy ten bucks to help me get it up here."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(jumps up)",
+      "text": "Oh, dear. Oh, dear. Oh, dear. (Starts stripping off clothing)"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What is wrong?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’ve been sitting in garbage!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon, take it easy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You take it easy! I need to use your shower."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I went into this marriage with so much hope."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "There’s a wet Band-Aid on the shower floor. (Runs out of apartment)."
+    },
+    {
+      "type": "scene",
+      "text": "Howard’s workshop."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "This is fun. I’ve never used a hydraulic thermoforming press before."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Pretty sweet, huh? This little baby set the university back 175 grand."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s three minutes. Should we see what we got?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hang on."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, yeah. This is one good-looking panini."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hand me the tuna melt."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yep."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Thank you. How’s it going with the long-distance love affair?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Not easy, but we’re making it work."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "When you say making it work, does that include doing the cyber nasty?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You know, the virtual pickle tickle. The digital bow-chicka-bow-bow."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Come on, dude. This is my sister you’re talking about."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, Leonard jiggling his junk at her through a webcam has got to be easier for you to deal with than him actually touching her with it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "There’s no junk jiggling. We just talk."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Are you insane? With high-speed Internet, you have at your fingertips the greatest advancement in the field of sex since the invention of the washcloth."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I can’t do that."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, if you don’t, you’re gonna lose Priya to some fancy guy in a turban who grew up with Kama Sutra coloring books."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "How can you be so racist?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, come on, tell me I’m wrong."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(entering)",
+      "text": "Oh, Leonard, good. There you are. I need you to check my head for chair lice."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I did it last night, I’m not doing it again."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Just his head, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t want to talk about it. You didn’t catch bugs from Penny’s chair."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, I did. And now they’re cavorting at the base of my hair follicles like dancing hippies at the Redwood National Forest."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, you do this all the time. You fixate on some crazy idea and then blow it way out of proportion."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Name one time I’ve ever done that."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "How about when you put GPS trackers in your garbage because you were convinced North Korean spies were stealing your doodles? The chicken nuggets you were sure were human nuggets. The strangely-shaped cloud that was following you around town. The time you put on my shirt by mistake and were convinced you’d started growing again."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I said, name one. You really need to work on your listening skills."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment door."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Penny. (Knock, knock, knock) Penny. (Knock, knock, knock) Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yello."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You need to remove that chair from the building. It’s a health hazard."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, relax. I took off the slipcovers, had them dry-cleaned and then fumigated the cushions."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Really?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah. It’s cleaner than my couch. Found half a Hot Pocket in there."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It certainly looks okay. Has a strong toxic chemical smell. That’s reassuring."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why don’t you give it a try, Sheldon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right. It is a comfortable chair."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why don’t you just admit you overreacted?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, thank you. (Sees insect. More appear and swarm all over him. He jumps out of a daydream on his own couch. Jumps up and runs out to Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s like living with a Chihuahua."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(at Penny’s door)",
+      "text": "(Knock, knock, knock) Penny. (Knock, knock, knock) Penny. (Knock, knock, knock) Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What’s up, buttercup?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You have to get rid of the chair."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Nope. (Closes door)"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Penny. (Knock, knock, knock) Penny. (Knock, knock, knock) Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What’s the word, hummingbird?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "For your safety, please wait in my apartment as I call the authorities so they may remove the chair of death."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No. (Closes door)"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Penny. (Knock, knock, knock) Penny. (Knock, knock, knock) Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What’s the gist, physicist?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Under my authority as a self-appointed member of the Centres for Disease Control street team, these premises are condemned. (Penny tries to close door) As a man with a keen sense of style, I must tell you, that chair does not work with the room. (Penny closes door). (Knock, knock, knock) Penny. (Knock, knock, knock) Penny. (Penny opens door and waves seat cushion at him. He screams and runs off. She closes door. He sneaks back) (Knock, knock, knock) Penny."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, here we are. Back in bed together."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "direction": "(on laptop screen)",
+      "text": "Yep, here we are."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, so I, I, I guess I’ll just jump right in."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "All right."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, you’re a naughty girl. And, and, uh, I, I want to punish you with my love?"
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Not good?"
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "That’s terrible. Try again."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay. Uh, uh, you’re not naughty. Uh, you’re, you’re, you’re dirty. You’re, you’re a, a dirty girl?"
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Oh, yes. Yes, I am."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, yeah. Uh, okay. You’re a, you’re a, you’re a, a dirty, disgusting, revolting girl. Ugh!"
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "God, Leonard, stop talking."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why don’t you just give me five minutes? I’ll Google how to do this. I’ll call you right back."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Shh-shh-shh. Just be quiet and do what I tell you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, like usual. Good."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Take off your shirt."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "All rightie. Shirt coming off. Ta-da! Man nipples."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "I said be quiet."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes, ma’am."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Now take off your shorts."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Taking shorts off. There we go. Naked, naked, naked!"
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Wonderful. Now I’ll take off my clothes."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Cool. (computer screen bugs out) Uh-oh!"
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Here I am, baby. You miss these?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, damn it!"
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Oh, Leonard! Already?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, no! No-no-no! The screen froze. It’s probably just buffering, just give it a second."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, how are your mom and dad?"
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Yeah, I really don’t want to talk about my parents now."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah. Sure, sure."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(calling from outside)",
+      "text": "If your video’s frozen, try resetting the TCP/IP stack."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh! I didn’t even think of that. Thanks."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(still off)",
+      "text": "You’re welcome. Please let me know when you and your girlfriend are done hogging the bandwidth for your self-abuse. I’m trying to stream a movie on Netflix in here."
+    },
+    {
+      "type": "scene",
+      "text": "Amy’s apartment. Amy is playing a harp."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Five, six, seven, eight. Tall and tan and young and lovely, the girl from Ipanema goes walking, and when she passes, each one she passes goes…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Amy. (Knock, knock, knock) Amy. (Knock, knock, knock) Amy."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh… You are aware that your ritualistic knocking behaviour is symptomatic of obsessive compulsive disorder?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Is not. Is not, is not."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Denial. Denial, denial. Come in."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Would you like to hear me play a bossa nova standard on the harp?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "How about the theme song to the classic television show Diff’rent Strokes? Now the world don’t move to the beat…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, that’s every song I know. What’s up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re good friends with Penny, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Best friends, besties, BFFs, peas in a pod, sisters who would share travelling pants. Go on."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I was hoping she might listen to you about the dangers of owning unhygienic furniture."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "For general educational purposes, or has she acquired a bar stool dipped in cholera?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Cholera is water-borne. You’re mocking me."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Yes, I am."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Penny has dragged a chair in off the street whose unknown provenance jeopardizes the health and welfare of every resident in our building."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, just because you have a focus on cleanliness bordering on the psychotic doesn’t mean I have to participate."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, name your price."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Kiss me where I’ve never been kissed before."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You mean like Salt Lake City?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Never mind. I’ll talk to Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Will you listen to me play my harp now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. I dislike the sound of the harp. Its overuse in classic television sitcoms always makes me think I’m going to experience an episode from my past. (Amy plays glissando) I’m sorry, Mommy. Don’t be mad at me. Don’t do that!"
+    },
+    {
+      "type": "scene",
+      "text": "Howard’s workshop."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know about this, Howard."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What? You’re having trouble with the long-distance lovemaking. This is your answer. There are two interfaces that simulate a human mouth. You have one, Priya has one in India. When you move your lips and tongue on yours, it transmits exactly what you’re doing to hers. See? Internet kissing. (Howard kisses device) Give it a try."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t think so."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’ll try it. Like this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Almost. Really get your tongue in there, to activate the motion sensor."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Like this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Close. Really French it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Better?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, you got it, you got it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m impressed. This is very lifelike."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Whoa! You just bit my tongue!"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I, I nibbled. I was being playful."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Why do you have to make everything weird?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Sorry. Better?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, yeah."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Pretty cool, huh? Probably would cost, like, two hundred bucks in a store."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I do appreciate a bargain. This entire ensemble once belonged to my dead grandmother."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You’re kidding."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Everything except bra and panties. And they’re a leopard-spotted secret I share with Victoria."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "And now me."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I just have one question about the chair."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "And what’s that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Aren’t you worried about it being unhygienic?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, it’s completely fine. Hmm. I get it. Sheldon sent you. He put you up to this."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No, he didn’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Really?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Yes, he did. He absolutely did."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "My God, Amy, that’s really crappy of you."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It is?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah! Letting Sheldon use you to manipulate me? I thought you were my friend."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No, I am your friend. Please don’t be mad at me."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I can’t even believe this. You know, maybe you should just go."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No, no, I’m sorry, I’m so sorry. I take it all back. Look. I’m, uh, I’m sitting in your chair. There’s nothing wrong with it. It’s a great chair. Please let me continue to be part of your world. Ow!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What’s wrong?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Something in the chair’s biting my tushy. It’s not important. Ow!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wait. Get up, get up! (She does. Something is moving in the seat cushion. They both run out of the apartment screaming.) Swear you won’t tell Sheldon what happened!"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "direction": "(between screams)",
+      "text": "I swear! Can I tell my doctor? I’m probably gonna need shots!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(also still screaming)",
+      "text": "Yeah, sure!"
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, hey, babe, I think I figured this thing out."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "direction": "(on screen)",
+      "text": "Oh, Leonard, listen…"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, you listen. You’re my woman, and I’m gonna make you feel things you have never felt before."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "Leonard…"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s right, say my name, and beg me for more, ’cause, I’m gonna give it to you."
+    },
+    {
+      "type": "dialog",
+      "character": "Priya",
+      "text": "My parents are here."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Koothrappali",
+      "text": "Hello, Leonard, if I may also say your name."
+    },
+    {
+      "type": "scene",
+      "text": "The street outside the apartment block."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Check it out. Free chair."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah. Hey, you know, if this was in Sheldon and Leonard’s apartment, I wouldn’t wind up sitting on the floor all the time."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "On three?"
+    },
+    {
+      "type": "dialog",
+      "character": "Together",
+      "text": "Three!"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What kind of idiot throws away a terrific chair like this?"
+    }
+  ]
+}

@@ -1,0 +1,1304 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 1,
+  "episode": 3,
+  "title": "The Fuzzy Boots Corollary",
+  "url": "https://bigbangtrans.wordpress.com/series-1-episode-3-the-fuzzy-boots-corollary/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "Sheldon and Leonard’s apartment. Sheldon, Leonard, Howard and Raj are using laptops. All are wearing microphone headsets."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Alright, just a few more feet, and…. here we are gentlemen, the Gates of Elzebub."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Good lord!"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oooh."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Don’t panic, this is what the last 97 hours have been about."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Stay frosty, there’s a horde of armed goblins on the other side of that gate guarding the Sword of Azeroth."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Warriors, unsheathe your weapons, magic wielders raise your wands."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Lock and load."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Raj, blow up the gates."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Blowing the gates. Control, shift, B! Oh, my God, so many goblins!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Don’t just stand there, slash and move, slash and move."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Stay in formation."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Leonard, you’ve got one on your tail."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s alright, my tail’s prehensile, I’ll swat him off."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’ve got him Leonard. Tonight I spice my meat with goblin blood!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Raj, no, it’s a trap, they’re flanking us!"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oooh, he’s got me."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sheldon, he’s got Raj, use your sleath spell. Sheldon! Sheldon!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’ve got the Sword of Azeroth!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Forget the sword, Sheldon, help Raj."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "There is no more Sheldon, I am the Swordmaster!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Leonard look out!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Dammit man, we’re dying here."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Goodbye, peasants."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "The bastard teleported."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "He’s selling the Sword of Azeroth on ebay."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You betrayed us for money, who are you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m a rogue knight elf, don’t you people read character descriptions? Wait, wait, wait, somebody just clicked “buy it now.”"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I am the Swordmaster!"
+    },
+    {
+      "type": "scene",
+      "text": "The same."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wooh, I’m all sweaty, anybody want to log on to second life and go swimming, I just built a virtual pool."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, I can’t look at you or your avatar right now."
+    },
+    {
+      "type": "direction",
+      "text": "(Sound of female laughter from out in the hall)."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sounds like your neighbour’s home."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Excuse me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Don’t forget the mail you took accidentally on purpose so you’d have an excuse to talk to her."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, right, right right right right."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Stealing snail mail, very old school, I like it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard (exiting to hallway)",
+      "text": "Penny, the mailman did it again, he… (looks up to see Penny kissing a hunky man) Oh! Sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Um, no, hi Leonard, this is Doug, Doug, this is my neighbour Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Doug",
+      "text": "What’s up bro."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Not much. Bro."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Is, is everything okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, yeah, uh, I just, I got your mail again, here."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Thank you, I’ve got to talk to that mailman."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh no, that’s probably not such a good idea. Civil servants have a documented propensity to, you know, snap."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, well, thank you, again."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No problem. Bye. Oh, and, bye, bro! (Returns to apartment)."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Penny for your thoughts."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What’s the matter."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, I’m fine. Penny’s fine, the guy she’s kissing is really fine and…"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Kissing, what kind of kissing? Cheeks? Lips? Chaste? French?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What is wrong with you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m a romantic."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Please don’t tell me that your hopeless infatuation is devolving into pointless jealousy."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, I’m not jealous, I’m just a little concerned for her. I didn’t like the look of the guy that she was with."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Because he looked better than you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah. He was kinda dreamy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, at least now you can retrieve the black box from the twisted smouldering wreckage that was once your fantasy of dating her, and analyse the data so that you don’t crash into geek mountain again."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I disagree, love is not a sprint, it’s a marathon. A relentless pursuit that only ends when she falls into your arms. Or hits you with the pepper spray."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, I’m done with Penny. I’m going to be more realistic and go after someone my own speed."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Like who?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know. Olivia Geiger?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The dietician at the cafeteria with the limp and the lazy eye?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I don’t think you have a shot there. I have noticed that Lesley Winkle recently started shaving her legs. Now, given that winter is coming one can only assume that she is signalling sexual availability."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I don’t know, you guys work in the same lab."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "There are pitfalls, trust me, I know. When it comes to sexual harassment law I’m… a bit of a self-taught expert."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Look, Howard, if I were to ask Lesley Winkle out it would just be for dinner, I’m not going to walk into the lab, ask her to strip naked and dance for me."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, then you’re probably okay."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Lesley’s lab."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hello Lesley."
+    },
+    {
+      "type": "dialog",
+      "character": "Lesley",
+      "text": "Hi Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Lesley I would like to propose an experiment."
+    },
+    {
+      "type": "dialog",
+      "character": "Lesley",
+      "text": "Goggles, Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Right. Lesley, I would like to propose an experiment."
+    },
+    {
+      "type": "dialog",
+      "character": "Lesley",
+      "text": "Hang on. I’m trying to see how long it takes a five hundred kilowatt oxygen iodine laser to heat up my cup o’ noodles."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Pfff, I’ve done it, about two seconds, 2.6 for minestrone. Anyway, I was thinking more of a bio-social exploration with a neuro-chemical overlay."
+    },
+    {
+      "type": "dialog",
+      "character": "Lesley",
+      "text": "Wait, are you asking me out?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I was going to characterise it as the modification of our colleague/friendship paradigm, with the addition of a date-like component. But we don’t need to quibble over terminology."
+    },
+    {
+      "type": "dialog",
+      "character": "Lesley",
+      "text": "What sort of experiment would you propose?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "There is a generally accepted pattern in this area, I would pick you up, take you to a restaurant, then we would see a movie, probably a romantic comedy featuring the talents of Hugh Grant or Sandra Bullock."
+    },
+    {
+      "type": "dialog",
+      "character": "Lesley",
+      "text": "Interesting. And would you agree that the primary way we would evaluate either the success or failure of the date would be based on the bio-chemical reaction during the goodnight kiss."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Heartrate, pheromones, etc, yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Lesley",
+      "text": "Well, why don’t we just stipulate that the date goes well and move to the key variable."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You mean, kiss you now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Lesley",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Can you define the parameters of the kiss?"
+    },
+    {
+      "type": "dialog",
+      "character": "Lesley",
+      "text": "Closed mouth but romantic. Mint?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thank you. (Takes mint). Shall I count down from three?"
+    },
+    {
+      "type": "dialog",
+      "character": "Lesley",
+      "text": "No, I think it needs to be spontaneous."
+    },
+    {
+      "type": "direction",
+      "text": "(They kiss.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Lesley",
+      "text": "What do you think."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You proposed the experiment, I think you should present your findings first."
+    },
+    {
+      "type": "dialog",
+      "character": "Lesley",
+      "text": "Fair enough. On the plus side, it was a good kiss, reasonable technique, no extraneous spittle. On the other hand, no arousal."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "None?"
+    },
+    {
+      "type": "dialog",
+      "character": "Lesley",
+      "text": "None."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Ah. Well, thank you for your time."
+    },
+    {
+      "type": "dialog",
+      "character": "Lesley",
+      "text": "Thank you."
+    },
+    {
+      "type": "direction",
+      "text": "(They shake hands. Leonard leaves. Then returns.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "None at all?"
+    },
+    {
+      "type": "dialog",
+      "character": "Scene",
+      "text": "Sheldon and Leonard’s flat. Sheldon, Raj and Howard are playing Jenga."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sheldon, if you were a robot, and I knew and you didn’t, would you want me to tell you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That depends. When I learn that I’m a robot, will I be able to handle it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Maybe, although the history of science-fiction is not on your side."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Uh, let me ask you this. When I learn that I’m a robot, would I be bound by Asimov’s three laws of robotics?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You might be bound by them right now."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That’s true. Have you ever harmed a human being, or through inaction allowed a human being to come to harm?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Of course not."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Have you ever harmed yourself, or allowed yourself to be harmed except in cases where a human being would have been endangered?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, no."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I smell robot."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard (entering)",
+      "text": "Hey, what’s going on."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The internet’s been down for half an hour."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Also, Sheldon may be a robot."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So, how did it go with Lesley?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, we tried kissing, but the earth didn’t move. I mean any more than the 383 miles that it was going to move anyway."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I’ve seen that look before. This is just going to be two weeks of moping and tedious emo songs, and calling me to come down to pet stores to look at cats. I don’t know if I can take it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You could power down."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, as usual, Wolowitz has the solution. I happen to know a place where there are plenty of eligible women, and Leonard could have his pick."
+    },
+    {
+      "type": "scene",
+      "text": "A salsa class. The four guys and a random fat bloke salsa opposite five middle-aged women."
+    },
+    {
+      "type": "dialog",
+      "character": "Class instructor",
+      "text": "Remember the Latin hips. Shoulders stay still, and we sway. One two three. Five six seven."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard (to Leonard)",
+      "text": "I think Mrs Tishman’s got her eye on you. I’ve been there, you’re in for a treat."
+    },
+    {
+      "type": "scene",
+      "text": "The flat, Leonard is entering, singing to himself a depressing emo song."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, good lord."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard (singing)",
+      "text": "You don’t know me, you don’t wear my chains… God, that’s a good song."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If you’re compiling a mix CD for a double suicide. (Leonard is taking supplies out of a bag) Oh, I hope that scratching post is for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I know what you’re thinking, I’ve taken your asthma into account. There’s a feline geneticist in San Diego who has developed the cutest little hypo-allergenic calicos."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard, listen to me…"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’ve been thinking about names, I’m kind of torn between Einstein, Newton and Sergeant Fuzzyboots."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard, do you really think you can satisfy your need for a relationship with a genetically altered cat?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Maybe, if it’s a cute little cuddly cat."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, come on, Leonard! This is obviously about Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It doesn’t matter. The woman’s not interested in me, the woman rejected me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay, look, I think that you have as much of a chance of having a sexual relationship with Penny as the Hubble Telescope does of discovering at the centre of every black hole is a little man with a flashlight searching for a circuit breaker. Nevertheless, I do feel obligated to point out to you that she did no reject you. You did not ask her out."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re right. I didn’t ask her out, I should ask her out."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. No, now that was not my point. My point was, don’t buy a cat."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, but you’re right. I should march over there and ask her out."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, goody, we’re getting a cat."
+    },
+    {
+      "type": "scene",
+      "text": "The hallway. Leonard knocks on Penny’s door."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny (opening door)",
+      "text": "Ah, hey Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Good afternoon Penny, so hi, hey. Uh… I was wondering if you had plans for dinner."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh, do you mean dinner tonight?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "There is an inherent ambiguity in the word dinner. Technically it refers to the largest meal of the day whenever it is consumed, so, to clarify here, by dinner I mean supper."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Supper?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Or dinner. I was thinking six thirty, if you can go, or a different time."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh, six thirty’s great."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Really? Great!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, I like hanging out with you guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Us guys?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know, Sheldon, Howard, Raj, who all’s coming?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "They…. might all be there. Or a subset of them might be there, uh, algebraically speaking there are too many unknowns, for example Sheldon had Quizznos for lunch, sometimes he finds that filling, other times he doesn’t, it’s no fault of Quizznos, they have a varied menu."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, whatever, it sounds like fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Great. Did we say a time?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Six thirty."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "And that’s still good for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It’s fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Cos it’s not carved in stone."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, six thirty’s great."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’ll get my chisel."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "To… carve the… okay, I’ll see you six thirty."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon and Leonard’s apartment. Leonard enters from bedrooms, dressed in a smart shirt and trousers. They are covered in sweat stains."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "How do I look?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Could you be more specific?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Can you tell I’m perspiring a little?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. The dark crescent-shaped patterns under your arms conceal it nicely. What time is your date?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Six thirty."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Perfect, that gives you two hours and fifteen minutes for that dense molecular cloud of Aramis to dissipate."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Is it too much?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Not if you’re a rugby team."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "By the way, if it should ever come up, you didn’t join us because you stuffed yourself with a chicken carbonara sub at Quizznos."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why would I join you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No reason. Oh, you know what, maybe this isn’t such a good idea."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, no, no, no, well now, there’s always the possibility that alcohol and poor judgement on her part might lead to a nice romantic evening."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re right, alcohol, poor judgement, it could go well."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Of course, there’s the other possibility that this date kicks off a rather unpleasant six months of the two of you passing awkwardly in the hall until one of you breaks down and moves to another zip code."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You could have stopped at “it could go well.”"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If I could of, I would of."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I mean, I’m a perfectly nice guy. There’s no reason we couldn’t go to the restaurant and have a lovely dinner. Maybe take a walk afterwards, talk about things we have in common, “you love pottery? I love pottery!” You know, there’s a pause, we both know what’s happening, I lean in, we kiss, it’s a little tentative at first but then I realise, she’s kissing me back, and she’s biting my lower lip, you know, she wants me, this thing is going the distance, we’re going to have sex! Oh God! Oh, my God!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Is the sex starting now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m having a panic attack."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, okay, well then, calm down."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "If I could calm down I wouldn’t be having a panic attack, that’s why they call it a panic attack."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Alright, alright, well, just, sit down, yes, sit down, now close your eyes."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Just do it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Now try to increase your alpha-wave activity."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s a bio-feedback technique, it’s relaxation through brain-wave manipulation, I read a paper about it in the Journal of American Neuroscience, it was a little sparsely sourced but I think the basic science is valid, I probably have it here somewhere."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, who am I kidding, I can’t go through with this, you need to call her and cancel."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What should I tell her."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know. Tell her I’m sick."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Not the kind of illness that will make her want to come over and take care of me, but nothing so critical that she’ll feel uncomfortable going out with me in the future if I want to try this again."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Got it. So I’m assuming nothing venereal. I’ll just tell her that you had a routine colonoscopy and haven’t quite bounced back."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Give me the phone."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But I thought you wanted to cancel?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I can’t because if I don’t show up she’ll still be expecting you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why would she be expecting me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Stop asking me all these questions, I need to take another shower."
+    },
+    {
+      "type": "scene",
+      "text": "A restaurant."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So are the rest of the guys meeting us here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, yeah, no. Turns out that Raj and Howard had to work, and Sheldon had a colonoscopy and he hasn’t quite bounced back yet."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Ooh, my uncle just had a colonoscopy."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re kidding, well, then, that’s something we have in common."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "How?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We both have people in our lives who… want to nip intestinal polyps in the bud."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So, what’s new in the world of physics?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Nothing."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Really, nothing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, with the exception of string theory, not much has happened since the 1930’s, and you can’t prove string theory, at best you can say “hey, look, my idea has an internal logical consistency.”"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Ah. Well I’m sure things will pick up."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What’s new at the Cheesecake Factory?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, uh, not much. We do have a chocolate key lime that’s moving pretty well."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Good. Good. And what about your, uh, hallway friend."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Doug? Oh, yeah, I dunno, I mean, he’s nice and funny, but…"
+    },
+    {
+      "type": "dialog",
+      "character": "Waitress",
+      "text": "Can I get you started with some drinks?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, (waves her away) You were saying, but…"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’d like a drink."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Just say the but thing about Doug and then I’ll get her back."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, well, you know, it’s just me. I’m still getting over this break-up with Kurt, and this thing with Doug would be just rebound sex."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Ugh, don’t get me started on rebound sex."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It’s just, it’s my pattern. I break up, then I find some cute guy, and then it’s just thirty six meaningless of… well, you know."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m not sure that I do. Um, is that one thirty-six hour experience, or is it thirty six hours spread out over say, one… glorious summer."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, it’s usually over a weekend, and trust me, you do not feel good after it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, chafing, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Emotionally."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Of course, yeah, emotional chafing. Hey, do you want to see something cool? (Penny nods.) I can make this olive go into this glass without touching it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "How?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Physics. (He places the glass over the olive and spins it until the olive gets caught up on the side)."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wow, centrifugal force!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Actually, it’s centripetal force, which is an inward force generated by the glass acting on the olive. (The olive drops.) Excuse me. (Leonard disappears under table.)Now, if you were riding on the olive, you’d be in a non-inertial reference frame, and would (he bangs his head on the underside of the table.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Are you okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, I’m okay. Did you spill ketchup?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m not okay."
+    },
+    {
+      "type": "scene",
+      "text": "The stairwell of the apartment building."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Are you sure you don’t want to go to the emergency room?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, no, I’m okay, it’s stopped bleeding."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I know, but you did throw up. Isn’t that a sign of a concussion?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes, but I get car sick too, so…"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sorry about your car, by the way."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, no, it’s fine, you got most of it out the window."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "The poor guy on the bike. I had a nice time."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, me too. Um, good night. (Leonard turns across hallway.) Leonard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Was this supposed to be a date?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "This? No. No, of course not, this was just you and me hanging out with a bunch of guys who didn’t show up, because of work and a colonoscopy."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, I was just checking."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "When I take a girl out on a date, and I do, she knows she’s been dated. Capital D. Bold face, underline, like Day-ted. I think I might have a little concussion, I’m going to go lay down for a while, good night."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment, Leonard enters."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So, how was your date?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Awesome!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Score one for liquor and poor judgement."
+    },
+    {
+      "type": "direction",
+      "text": "Teleplay: Bill Prady & Steven Molaro"
+    },
+    {
+      "type": "direction",
+      "text": "Story: Chuck Lorre"
+    }
+  ]
+}

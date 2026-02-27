@@ -1,0 +1,1299 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 10,
+  "episode": 17,
+  "title": "The Comic-Con Conundrum",
+  "url": "https://bigbangtrans.wordpress.com/series-10-episode-17-the-comic-con-conundrum/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Uh-huh. Interesting. Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "How bad is it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Let me put it this way, do you own a barrel and suspenders?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Are you serious?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m not wearing this visor to play women’s golf."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, let me guess. You guys are drafting your fantasy accounting firms."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We’re helping Raj figure out his finances."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, he has a job. How bad can it be?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, his rent and car lease are exceedingly high. You couple that with his penchant for dining out and shopping."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wait, wait, not shopping for clothes, right? Because look."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "He also has a remarkable amount of credit card debt."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I thought your dad paid your cards."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I have a card for emergencies that I pay for myself."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What emergency happened at the L.A. Zoo?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "That’s a penguin I sponsor. They’re losing their homes to global warming, and my car gets, like, seven miles a gallon, so I felt bad."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What is Pink Cheeks?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s intimate waxing. Quit looking at that."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Maybe you should find someone to help you get your finances under control."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Like a business manager?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, absolutely not. You can’t afford to hire someone who’ll forbid you from spending your money on foolish expenses. That is a foolish expense, and I forbid it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What if there’s someone who just likes controlling other people and stealing joy from their lives?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "He sounds like a sociopath."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We don’t know, his mother never had him tested."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re talking about me. Very funny. Although I would enjoy drawing up a budget and forcing Raj to adhere to it without an ounce of compassion."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wait, wait, who’s gonna break it to the penguin?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, Sheldon. Yeah, I’m putting you in charge of my finances. I will not spend another penny that you don’t authorize."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Very well. Hey, Comic-Con tickets go on sale this Friday. You can’t buy one."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, better luck next time, Pink Cheeks."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon and Amy’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You’re actually going to Comic-Con?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, Leonard wants me to do more stuff like that with him, so I thought maybe this year I’d tag along."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, that’s sweet. I bet you’ll have fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So, do you want to come?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No, thanks. I already live in a place all the nerds come to."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Please? I went to your boring thing last month."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "My aunt’s funeral?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Come on, even you checked your e-mail during the eulogy."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, I’m not going, but I do think it’s nice you want to."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It’s not that I want to go, I just think it’ll make Leonard happy. And if I have to watch him squeeze into an Ewok costume, so be it."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Look at you, going to Comic-Con, talking about Ewoks. I really have become the cool one around here."
+    },
+    {
+      "type": "scene",
+      "text": "The comic book store."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You actually think Penny will have fun at Comic-Con?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No. Which will make me miserable, which is usually Sheldon’s job."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "She’s gonna hate waiting in line for the panels."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "And hate all the crowds at the panels."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "She’s gonna hate the panels."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "She’s gonna hate how often we say the word panels."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Why don’t you just tell her not to come?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, she’s so excited, I can’t do that to her."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What if you make it sound so bad she won’t want to go?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That I would do to her."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I can’t believe Penny’s gonna get to go, and I’m not."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You can always watch the panels online. Oh, boy, we do say that a lot."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Panels. Just wanted to be included."
+    },
+    {
+      "type": "direction",
+      "text": "Raj; Come on, Sheldon, it’s Comic-Con. Just let me have the money for this, and I won’t ask for anything else."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You put me in charge of your finances. If you wanted someone weak and spineless you could walk all over, you should have asked Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "See? Miserable."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, you’re right, I got myself into this, but I’ve never missed a Comic-Con with you guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Your father may have spoiled you, but I won’t. If you want a ticket to Comic-Con, I suggest you figure out a way to earn the money yourself."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, you’re a grown man who’s highly educated. You could charge people money to punch you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Go ahead, make jokes. I don’t know why you think you’re going to Comic-Con, you just had a baby."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, so? So you think Bernadette’s just gonna let you jet down to San Diego for five days and leave her alone?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hang, hang on. So I have to bring Penny, you can’t afford it, Howard’s gonna get in trouble, and this guy gets to have a great time."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m gonna go as Dumbledore."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s kitchen."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Mm-mm, how’s my favourite girl?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Making lasagna."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, she’s sexy, she can cook. I’m such a lucky guy."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You want something stupid, or you did something stupid?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No. I just walked in here, saw how beautiful you are and had to tell you."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, dear God, you’re cheating on me with Raj."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Ha ha ha, never gets old. Okay, there is something I want, but it’s not a big deal."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What is it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, Comic-Con tickets go on sale this Friday, and I was hoping I could go with the guys. But before you say anything, I’ll make up for being gone by doing everything around here, I mean everything. I’m even gonna answer for you. Yes, Howard, you can go."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "It’s so hard to say no to you."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "So I’ll say maybe."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What? Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You said tickets don’t go on sale till Friday, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You said you were gonna do all this stuff for me, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "See where I’m going with this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "If you don’t know how to make lasagna, Google does."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, so this is the main Comic-Con floor. It’s where all the vendors and exhibits are."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wow, that is a lot of people jammed in there."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I know. Sometimes Howard wears a striped shirt so we can play Where’s Wolowitz? Okay, now, This is us camping out in line for the Avengers panel."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, you really sleep on the sidewalk, huh?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah. It can get chilly, but Raj figured out that if you pee in a bottle and put it in your sleeping bag, it helps keep you warm. Here’s the hotel room we all share."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, you and I would get our own room, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Every hotel is booked. But, yeah, see this space here between Sheldon’s feet and my head? That’s where you go."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, it’s no different than when Sheldon used to climb in bed with us during a thunderstorm."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Don’t worry, we won’t be doing much sleeping anyway. It’s like an all-night party. There’s trivia contests and Dungeons & Dragons. As we like to say, it’s off the chain mail."
+    },
+    {
+      "type": "scene",
+      "text": "The comic book store."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I even said off the chain mail, and she still wants to go."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s probably my fault. She may have heard about my cool Dumbledore costume."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Okay, I can give you 20 bucks for the whole box."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "But you charged me hundreds for this stuff."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "I know. And I did it with a straight face."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "But I need to earn enough money so I can go to Comic-Con."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Well, all right. I’ll give you 25 bucks. That’s my best offer."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I have no choice."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "You know, if you want to make extra money, I could throw some work your way."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Really? I’ll do anything."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Great, you’re hired. First thing you can do is put price tags on these. Start the little ones at fifty."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know, it’s no big deal. I can put up with anything for three days."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Comic-Con’s five days."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Are you kidding me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Why don’t you just tell him you don’t want to go?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I can’t, it’ll break his heart. You know, he’s always making an effort to do things with me he doesn’t enjoy, like going outside."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "He is an indoor cat."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know, maybe it won’t be that bad. Leonard says it’s really mainstream now. Comic books aren’t just for sad nerds any more. I mean, it is still a key part of their demographic."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s house. Raj rings the doorbell."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette (off)",
+      "text": "Howie, can you get that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard (off)",
+      "text": "Kind of busy."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette (off)",
+      "text": "Busy like I’ll be with the baby if you go to San Diego?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What’s with the gloves?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "They complete my ensemble. What do you want?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m looking to make extra money and was wondering if you had any chores I could do."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hang on. Bernie, can I outsource my chores to an Indian guy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I tried."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, I was thinking, if you want to do a couples costume, we could paint ourselves green and be Hulk and She-Hulk. Or we could paint ourselves blue and go as Nightcrawler and Mystique."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Is there any scenario where we’re not in full body paint?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, if you want us to look like losers."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, um, are you sure the guys are okay with me coming?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, of course, why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "This is just something you usually do together, and if I’m screwing it up, I don’t have to go."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, why? Do you not want to go?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why? Do you not want me to go?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, I want you to go."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, good, ’cause that’s what I want, too."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon and Amy’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Now we’re going as Hulk and She-Hulk. I don’t want to take my shirt off at Comic-Con."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If I may speak for Comic-Con, we don’t want that either."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Is that nice?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, but it’s honest, and it sounds like you could use a little more honesty in your relationship."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, it’s more complicated than that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m always honest with Amy. The other day she said she was self-conscious about the beauty mark on her shoulder, and I said, you know, you can call that a beauty mark all you want. When there’s hair growing out of it, that’s a mole."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Do you think she’s as honest with you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I should hope so. When she called me an insensitive jerk, I’d like to think she meant it."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s kitchen."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "There’s got to be other ways you can make a quick buck."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, you’d think. Ooh, maybe I could sell my blood and sperm."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I really should wear a bell around my neck so you guys can hear me coming."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Here, let me help you."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, Double Stuffed Oreos, I remember when I could afford you."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "There she goes."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Stay, I’ll get her."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I appreciate it."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "That’s fine. She and I can cry together."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "He’s such a sweetie."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I know, I wish there was some way we could help him."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "If he could find a girl with a job, all his problems would be over."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, that’s working out great for me."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon and Amy’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Penny says they’re ready to go."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Very well. Prepare for a long night of deceit."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, women can wear make up, it’s not lying."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I was talking about Leonard. And if make up is so truthful, why is it called concealer?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Wait, wait, wait, what’s Leonard lying about?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "He doesn’t really want Penny to go to Comic-Con. He’s just doing it to make her happy."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Really? Because she doesn’t actually want to go. She’s just doing it to make him happy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So they’re both trying to make each other happy, and the end result is they make each other sad? That’s hilarious. I can’t wait to tell them."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "No, you’re not gonna tell them anything. You’re gonna stay out of it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Because it’s between them."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, if you haven’t noticed, I’ve been between them for the last ten years."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, babe, you want to drive?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sure, or you can."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, it’s fine, I know you don’t like the way I drive."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t have a problem with your driving."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Are you listening to this? They deceive each other about everything."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Shh."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Just so you know, that guy in the parking lot hit me."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "He wasn’t in a car, but okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Just say you want to drive."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I honestly don’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Amy, do us a favour, please drive."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sure, happy to."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "If you want to drive, just drive. I don’t see why this has to be so complicated."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It’s not complicated. Amy’s driving, that’s it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s not it because you’re clearly upset."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You’re the one who seems upset."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why would I be upset?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Because you don’t want her to go to Comic-Con."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "This is an interesting way to stay out of it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wait, you don’t want me to go?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, I just don’t think you’re gonna have a good time."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, well, get this, neither does Penny, that’s why she doesn’t want to go. You set ’em up, I knock ’em down, good job."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why would you say you wanted to go if you didn’t?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I just thought it would make you happy."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "O-o-o-okay, hold on, so if you don’t want to go and I don’t need to bring you, is everything good?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hold on, I’m trying to decide if I’m mad at you. No, I’m happy I don’t have to go."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "All right, problem solved."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Not entirely, the fight over who’s going to drive is still…"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, my God, stop talking."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s house."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "The place looks great. Did you guys get a maid?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Kinda."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Dinner’s almost ready. If you like meatloaf, I’m sure you’ll like its cousin, bowl of meat."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, if you’re still looking to make money, I will pay you to burn that jacket."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Thank you, but it doesn’t look like I’m going to Comic-Con this year."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, with as much debt as you have, probably not next year either."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Howie?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sure. This is for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What’s this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "It’s back pay for all the babysitting and taking care of Halley you’ve done."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "There’s more than enough in there to cover Comic-Con."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Um, I also take care of Halley."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "And you live here for free."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "I do, ma’am, thank you, ma’am."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "This is so generous of you, I, um, I don’t know what to say."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Now you can come with us."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, there’s room in the bed by Sheldon’s feet."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "As much as I appreciate this, I can’t accept it, okay? Halley’s my goddaughter, I don’t take care of her for money."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "I would."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Keep it. Consider it a gift."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hold on. Is it back pay or is it a gift?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What’s the difference?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "When the IRS questions us in separate rooms, we need to have our stories straight."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It doesn’t matter. I’m not keeping this. I’m trying to pay my own way and be responsible. Taking handouts won’t help that."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "So you’re not going to Comic-Con?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’ve been plenty of times. If I miss one, it’s fine. I’m a big boy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m a big boy, and if I missed one, I’d throw a big-boy tantrum."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You know what? I’ve gone 12 times. Maybe I’ll sit out this year, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Really?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah. Maybe you and I can do something fun that weekend."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Ooh, how about white-water rafting?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, how about we compromise and go on the Small World ride at Disneyland?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You know what, I’m not gonna go either. I’m a father now. I’d rather spend time with my family."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You just don’t want to go alone with Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m gonna go check on dinner."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sounds like everyone’s staying home. What do you say?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Nuts to that, I’m going to Comic-Con."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "By yourself?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Not necessarily. I have four months to find some new friends."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "I’ll go with you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s very kind of you, Stuart. Check back in with me in July."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon and Amy’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "There’s my pretty girlfriend."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’m not going with you to Comic-Con."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What? Can’t a man just be happy to see his woman and pat her on her second most erogenous ball-and-socket joint?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "He can, but it’s still not changing my mind."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, maybe what’s in my pants will change your mind. It’s a list of this year’s panelists. It’s long, isn’t it?"
+    }
+  ]
+}

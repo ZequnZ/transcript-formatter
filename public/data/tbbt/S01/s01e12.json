@@ -1,0 +1,1213 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 1,
+  "episode": 12,
+  "title": "The Jerusalem Duality",
+  "url": "https://bigbangtrans.wordpress.com/series-1-episode-12-the-jerusalem-duality/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The University cafeteria."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Here’s the problem with teleportation."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Lay it on me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Assuming the device could be invented which would identify the quantum state of matter of an individual in one location, and transmit that pattern to a distant location for reassembly, you would not have actually transported the individual. You would have destroyed him in one location, and recreated him in another."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "How about that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Personally, I would never use a transporter. Because the original Sheldon would have to be disintegrated in order to create a new Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Would the new Sheldon be in any way an improvement on the old Sheldon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, he would be exactly the same."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That is a problem."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So, you see it too."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Gablehouser (arriving)",
+      "text": "Dr Hofstadter, Dr Cooper."
+    },
+    {
+      "type": "dialog",
+      "character": "Together",
+      "text": "Dr Gablehouser."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "Gentlemen, I’d like you to meet Dennis Kim. Dennis is a highly sought after Doctorial candidate and we’re hoping to have him do his graduate work here."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Graduate work, very impressive."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "And he’s only fifteen years old."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Not bad, I myself started graduate school at fourteen."
+    },
+    {
+      "type": "dialog",
+      "character": "Dennis",
+      "text": "Well, I lost a year while my family was tunnelling out of North Korea."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Advantage Kim."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "I thought maybe you boys could show Dennis around, let him see why we’re the best physics research facility in the country."
+    },
+    {
+      "type": "dialog",
+      "character": "Dennis",
+      "text": "I already know you’re not. You don’t have an open science grid computer, or a free electron laser, and the string theory research being done here is nothing but a dead end."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Excuse me, that is my research, and it is by no means a dead end."
+    },
+    {
+      "type": "dialog",
+      "character": "Dennis",
+      "text": "Well, obviously you don’t see it yet, but trust me, you will."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "Dennis, we discussed this, we’re in the process of updating our equipment, and we welcome your input on our research goals, and we’ve agreed to look the other way if you want to use up to 20% of the grant money you attract to smuggle your grandfather out of Pyongyang. We want him here boys, make it happen."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes sir."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You can count on us, we’re on it. What the hell do you mean, dead end."
+    },
+    {
+      "type": "dialog",
+      "character": "Dennis",
+      "text": "I mean, the whole landscape of false vacuums in string theory could be as large as ten to the five-hundredth power. In addition… ooh, look, chocolate milk."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I sense a disturbance in the force."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard (in a Yoda voice)",
+      "text": "A bad feeling I have about this, mmm-hmmm."
+    },
+    {
+      "type": "scene",
+      "text": "A corridor."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, Dennis, how long have you been in America."
+    },
+    {
+      "type": "dialog",
+      "character": "Dennis",
+      "text": "A year and a half."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No kidding, you speak English really well."
+    },
+    {
+      "type": "dialog",
+      "character": "Dennis",
+      "text": "So do you. Except for your tendency to end sentences with prepositions."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What are you talking about?"
+    },
+    {
+      "type": "dialog",
+      "character": "Dennis",
+      "text": "That."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "He’s not wrong. Alright, and this is my office."
+    },
+    {
+      "type": "dialog",
+      "character": "Dennis",
+      "text": "Is this part of the tour?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Nope. Goodbye."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Come on, Sheldon, we’ve hardly shown him anything."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, alright, this is my desk, these are my books, this is my door, please close it behind you. Goodbye."
+    },
+    {
+      "type": "dialog",
+      "character": "Dennis",
+      "text": "Looks like you’re doing work in quantum loop corrections."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Keen observation, goodbye."
+    },
+    {
+      "type": "dialog",
+      "character": "Dennis",
+      "text": "You see where you went wrong, don’t you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Huh, yeah?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Get him out."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Come on, Dennis, I’ll show you the rec centre, they’ve got nautilus equipment."
+    },
+    {
+      "type": "dialog",
+      "character": "Dennis",
+      "text": "Do I look like I lift weights."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Not heavy ones."
+    },
+    {
+      "type": "dialog",
+      "character": "Dennis",
+      "text": "It’s startling to me you haven’t considered a Lorentz invariant field theory approach."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You think I haven’t considered it? You really think I haven’t considered it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Dennis",
+      "text": "Have you considered it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Get him out Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Come on, Dennis, I’ll show you the radiation lab."
+    },
+    {
+      "type": "dialog",
+      "character": "Dennis",
+      "text": "Wow, you won the Stephenson award."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, in fact I am the youngest person ever to win it."
+    },
+    {
+      "type": "dialog",
+      "character": "Dennis",
+      "text": "Really, how old?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Fourteen and a half."
+    },
+    {
+      "type": "dialog",
+      "character": "Dennis",
+      "text": "You were the youngest person ever to win it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s like looking into an obnoxious little mirror, isn’t it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Scene",
+      "text": "The living room of the apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny (to Raj)",
+      "text": "Mmm, this is really delicious, isn’t it? (Raj looks uncomfortable, then nods.) Still can’t talk to me unless you’re drunk, huh? (Shakes head) Oh, sweetie, you are so damaged."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, I’m damaged too. How about a hug for Howie?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sure. Raj, hug Howard."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon (dramatically)",
+      "text": "Uh-uh-uh."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Something you’d like to share? A tale of woe perhaps."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Fifteen years old. Dennis Kim is fifteen years old, and he’s already correcting my work. Today I went from being Wolfgang Amadeus Mozart to… you know, that other guy."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Antonio Salieri?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, God, now even you’re smarter than me."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You know, Sheldon, you don’t have so many friends that you can afford to start insulting them."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Just eat, Sheldon, you’ll feel better."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why waste food. In Texas when a cow goes dry they don’t keep feeding it, they just take her out and shoot her between the eyes."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’m confused, did Sheldon stop giving milk?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You can’t let this kid get to you. You always knew that someday someone would come along who was younger and smarter."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, but I assumed I would have been dead hundreds of years, and that there would be an asterisk by his name because he would be a cyborg."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So, you’ve got a bit of competition, I really don’t see what the big deal is."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well of course you don’t, you’ve never excelled at anything."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I don’t understand, exactly how did he get any friends in the first place?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "We liked Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, what are you going to do, Sheldon, give up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes. That’s what a rational person does when his entire life’s work is invalidated by a post-pubescent Asian wunderkind. He ceases his fruitless efforts, he donates his body to scientific research, and he waits to die."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know, I’m confused again, is he waiting, or do we get to shoot him between the eyes?"
+    },
+    {
+      "type": "scene",
+      "text": "The same, later that night"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’ve decided you’re right. My career is not over."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Great."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But, since the arrival of Dennis Kim has rendered my research pointless, I just have to find something else to focus on."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Great."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So I’ve decided, I’m going to collaborate with you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Great."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What exactly is it you do? I know you chatter on about it all the time, but I’ve never really paid attention."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, well, right now I’m designing an experiment to study the soft component of cosmic radiation at sea-level, but I really don’t need any help."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, sure you do. Now, see, what’s this here in the schematic, is that a laser array?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. Hmmm. What happens if you use argon lasers instead of helium neon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It would blow up."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Are you sure?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Pretty sure."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Pretty sure’s not very scientific, is this how you normally work, just hunches and guesses and stuff?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, Sheldon, I understand that you’re going through a bit of a career crisis, you’re searching for some other area where you can feel valuable and productive but I need to tell you something and I want you to listen carefully."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Alright."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Go away."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If you’re concerned about sharing credit with me, you’re name can go first… I’m going."
+    },
+    {
+      "type": "scene",
+      "text": "Howard’s lab."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard (into phone)",
+      "text": "It’s a small brown paper bag, Ma, I’m looking at it right now. (Pause.) Why would I make that up, there’s no ding-dong in it. (Pause.) How are two ding-dongs tomorrow going to help me today?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon (entering)",
+      "text": "So, this is engineering, huh?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard (into phone)",
+      "text": "I’ll talk to you later."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Engineering. Where the noble semi-skilled labourers execute the vision of those who think and dream. Hello, oompah-loompahs of science."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sheldon, what are you doing here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I just came by to say hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’ve been at this lab for three years, you’ve never came by to say hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, up until now I’ve had better things to do. So, what are we making today?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "A small payload support structure for a European science experimental package that’s going up on the next space shuttle."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Really, how does it work?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "When this is done, it will be attached to the payload bay, and the sensor apparatus will rest on it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Uh, huh. So it’s a shelf?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, you don’t understand, during acceleration it needs to stay perfectly level and provide… yeah, okay, it’s a shelf."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Now, I notice you’re using titanium, did you give any consideration to carbon nanotubes, they’re lighter, cheaper and half twice the tensile strength."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sheldon, there’s a diploma in my office that says I have a masters in engineering."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And you also have a note from your mother that says I love you, bubbula. But neither of those is a cogent argument for titanium over nanotubes."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Go away."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Did Leonard tell you to say that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, I thought of it all by myself."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Huh. It can’t be a coincidence. There must be some causal link I’m missing."
+    },
+    {
+      "type": "scene",
+      "text": "Raj is exiting his office."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Go away. (Sheldon exits)"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Curiouser and curiouser."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard (entering)",
+      "text": "Is he here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "If he were, I wouldn’t be."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Do you know what he did. He watched me work for ten minutes, and then started to design a simple piece of software that could replace me."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Is that even possible?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "As it turns out, yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Something’s got to be done about him, Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Like what? He’ll never be able to cope with the fact that some fifteen year-old kid is smarter and more accomplished than he is."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, what if something were to happen to this boy so he was no longer a threat to Sheldon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Then our problem would be solved."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hang on, are we talking about murdering Dennis Kim? I’m not saying no."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "We don’t have to go that far, there are other means available."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "We can’t send him back to North Korea. He knows how to get out."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "The only thing we need to do is make this Kim kid lose his focus."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That won’t happen, he’s not interested in anything but physics."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What about biology?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You know, biology? The one thing that can completely derail a world class mind."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Howard, he’s fifteen."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, so, when I was fifteen I met Denise Polmerry and my grade point average fell from a 5.0 to a 1.8."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "She was sleeping with you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, I just wasted a lot of time thinking about what it would be like if she did."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon (entering)",
+      "text": "Oh, good, you’re all here. Look, I’ve decided that if the three of you drop whatever it is you’re working on and join me, we could lick cold fusion in less than a decade, twelve years tops. (They stare at him.) Go away? (They nod) Hmm. Could it be me?"
+    },
+    {
+      "type": "scene",
+      "text": "Outside Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny (opening door)",
+      "text": "Oh, hey guys, what’s up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "We need a hot fifteen year-old Asian girl with a thing for smart guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Howard, that’s racist, any fifteen year-old girl will do the trick. (Penny slams door.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s possible she may have misunderstood us."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon’s office. He is making measurements on maps. There is a knock on the door."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser (entering)",
+      "text": "Dr Cooper? Oh, are we interrupting?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, no, please, come in. Yeah, I think you’ll appreciate this, very exciting."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "Oh, what are you working on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Something remarkable. Since my prospects for the Nobel Prize in physics have disappeared, thank you very much, I’ve decided to refocus my efforts and use my people skills to win the Nobel Peace Prize. Look, I’m going to solve the Middle-East Crisis by building an exact replica of Jerusalem in the middle of the Mexican desert."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "To what end?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know, it’s like the baseball movie, build it and they will come."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "Who will come?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The Jewish people."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "What if they don’t come."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "We’ll make it nice, put out a spread."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "Okay, well, um, speaking of spreads, we’re having a small welcoming party this afternoon for Mr Kim, who’s agreed to join us here at the University."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Of course he has, the oracle told us little Neo was the one. You can see the Matrix, can’t you."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "Okay, well, uh, obviously you’re very busy with your… uh, um, come Dennis. You’ll have to excuse Dr Cooper, he’s been under a lot of… um… he’s nuts."
+    },
+    {
+      "type": "direction",
+      "text": "Sheldon (voice off, sings to a Mexican tune): Ah, la-la-la, Hava Nagila. They’ll come, they’ll settle and I’ll win the prize…"
+    },
+    {
+      "type": "scene",
+      "text": "The welcoming party"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I really don’t understand your objections, Professor Goldfarb, why wouldn’t the Senoran Desert make a perfectly good promised land?"
+    },
+    {
+      "type": "dialog",
+      "character": "Goldfarb",
+      "text": "Go away."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "We could call it Nuevo Cherusalem."
+    },
+    {
+      "type": "dialog",
+      "character": "Goldfarb",
+      "text": "Please go away."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Said Pharoah to Moses."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "Why are all these young women here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s take your daughter to work day."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "Really, I was not aware of that."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, yes. There was a very official email that was sent to everyone whose insurance files indicated they had daughters between the ages of 14 and 16."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "Hm?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Smooth."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "There’s the man of the hour."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, so we now have a socially awkward genius in a room full of attractive age-appropriate women."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "All he has to do now is hook up with one of them. (The look at Dennis, who is picking his ear.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Does anyone else see the flaw in this plan?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "We need a social catalyst."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Like what? We can’t get fifteen year-old girls drunk."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Or can we?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, we can’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I don’t think you mean we can’t. I think you mean we shouldn’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hey, Howard. You’re a Jew. If there was another wailing wall, exactly like the one in Jerusalem, but close to taco stands and cheap prescription drugs, would you still be able to wail at it? Okay, it’s definitely me."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, we cannot leave this to chance, lets pick a girl, and figure out how to get her together with Dennis."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay. How about that one."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Uh-uh. I know the type, cheerleader, student council, goes out with jocks, won’t even look at anybody in the gifted programme. And if, after two years of begging, she does agree to go out with you, it turns out to be a set-up and you’re in the back seat of your mom’s car with your pants off while the whole football team laughs at you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Are you crying?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, I have allergies."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, uh, how about her?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sure. If he wants to spend a couple of years doing her homework while she drinks herself into a stupor with non-fat White Russians, while you’re the one holding her head out of the toilet while she’s puking and telling you she wishes more guys were like you, and they she gets into Cornell because you wrote her essay for her, and you drive up to visit her one weekend and she acts like she doesn’t even know you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, so not her either. How about her?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Interesting, kind of pretty, a little chubby so probably low self-esteem."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I think that’s our girl. One of us should go talk to her."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I can’t talk to her, you do it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I can’t just go up and talk to her. Howard, you talk to her."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh no, she’ll never go for the kid once she gets a peek at this."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You know, if we were in India this would be simpler. Five minutes with her dad, twenty goats and a laptop and we’d be done."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, we’re not in India."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Alright, why don’t we do it your way then? We’ll arrange for this girl to move in across the hall from Dennis so he can pathetically moon over her for months on end."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, that was uncalled for."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You started it, dude."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "Could I have everyone’s attention please. What a wonderful occasion this is. And how fortunate that it should happen to fall on take your daughter to work day. We’re here to welcome Mr Dennis Kim to our little family."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon (sarcastically)",
+      "text": "Welcome Dennis Kim."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "Mr Kim was not only the valedictorian at Stamford University, he is also the youngest recipient of the prestigious Stephenson Award."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Youngest till the cyborgs rise up!"
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "And now, without any further ado, let me introduce the man of the hour, Mr Dennis Kim. Dennis! Dennis!"
+    },
+    {
+      "type": "dialog",
+      "character": "Dennis",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "Would you like to tell us a little bit about your upcoming research."
+    },
+    {
+      "type": "dialog",
+      "character": "Dennis",
+      "text": "Um, no thanks. I’m going to the mall with Emma."
+    },
+    {
+      "type": "dialog",
+      "character": "Gablehouser",
+      "text": "Well, uh, well, uh…."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "The kid got a girl."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Unbelievable."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Did anyone see how he did it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon (to Gablehouser)",
+      "text": "Don’t worry, I’ve got this. Ladies and Gentlemen, honoured daughters. While Mr Kim, by virtue of his youth and naivety, has fallen prey to the inexplicable need for human contact, let me step in and assure you that my research will go on uninterrupted, and that social relationships will continue to baffle and repulse me. Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "He’s back."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, mission accomplished."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Forget the mission, how did that little yutz get a girl on his own?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I guess times have changed since we were young. Smart is the new sexy."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, why do we go home alone every night, we’re still smart."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Maybe we’re too smart. So smart it’s offputting."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, let’s go with that."
+    },
+    {
+      "type": "scene",
+      "text": "The park. The four guys are carrying remote control rockets."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Unbelievable. Components I built are on the International Space Station, and I get a ticket for launching a model rocket in the park."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know if the ticket was so much for the launch as it was for you telling the policewoman “you have to frisk me, I have a rocket in my pants.”"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, look at that. (There is a group of youngsters on the grass, laying about. One is playing a guitar. Dennis Kim is among them. He is drinking something from a bottle in a brown paper bag.) It’s Dennis Kim."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Wow, I almost didn’t recognise him."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You know, I kind of feel bad about what we did to him. (Dennis is now snogging the face off Emma)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, we really ruined his life."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Screw him, he was weak."
+    }
+  ]
+}

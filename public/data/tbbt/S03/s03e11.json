@@ -1,0 +1,1161 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 3,
+  "episode": 11,
+  "title": "The Maternal Congruence",
+  "url": "https://bigbangtrans.wordpress.com/series-3-episode-11-the-maternal-congruence/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, I always tear up when the Grinch’s heart grows three sizes."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Tears seem appropriate. Enlargement of the heart muscle, or hypertrophic cardiomyopathy, is a serious disease which could lead to congestive heart failure."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "direction": "(singing Deck the Halls)",
+      "text": "Fa-la-la, la-la-la, la-la-la."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You really didn’t like it, Sheldon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, on the contrary. I found the Grinch to be a relatable, engaging character, and I was really with him right up to the point that he succumbed to social convention and returned the presents and saved Christmas. What a buzz kill that was."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "When we watch Frosty the Snowman, he roots for the sun."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Excuse me, but the sun is essential for all life on Earth. Frosty is merely a bit of frozen supernatural ephemera in a stolen hat. A crime, by the way, for which he is never brought to account."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "direction": "(continuing Deck the Halls)",
+      "text": "Fa-la-la-la-la, la-la-la-la."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I just love decorating the Christmas tree. It makes me feel like a little girl again."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We didn’t have a tree when I was growing up."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Really? Why not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Mmm, in my family, holidays weren’t so much celebrated as studied for their anthropological and psychological implications on human society."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, sounds festive. Did you at least give presents?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Mmm, in a way. We presented papers, and then broke off into focus groups and critiqued each other."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon, what about you? Did you have a Christmas tree?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, yes. We had a tree, we had a manger, we had an inflatable Santa Claus with plastic reindeer on the front lawn. And to make things even more jolly, there were so many blinking lights on the house they induced neighbourhood-wide seizures."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So I take it you don’t want to help us trim the tree."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I do not. But if you insist on decorating a spider-infested fire hazard in my home I would request that you add this."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What is it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re kidding, right? It’s a bust of Sir Isaac Newton."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, sure, sure, yeah. Very Christmassy."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wait, excuse me, but it’s much more Christmassy than anything you’ve put on the tree."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Here we go."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "December 25, 1642, Julian calendar, Sir Isaac Newton is born. Jesus, on the other hand, was actually born in the summer. His birthday was moved to coincide with a traditional pagan holiday that celebrated the winter solstice with lit fires and slaughtered goats. Which, frankly, sounds like more fun than 12 hours of church with my mother followed by a fruitcake."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Merry Newton-mas, everyone."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I sense that’s not sincere, although I have no idea why."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, it’s fine. Look, Sir Isaac can go right next to this little candy cane."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. Isaac goes at the top of the tree."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, he doesn’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I understand. You dispute Newton’s claim that he invented calculus and you want to put Gottfried Leibniz on the top."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, you got me. I’m a Leibniz man."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, perhaps when your mother gets here, she’ll talk some sense into you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What? Your… your mother’s coming? When?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Tomorrow."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "When were you going to tell me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Um, tomorrow?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why were you keeping this a secret?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, I just, I thought…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If I can interject here, obviously Leonard is concerned that his mother won’t approve of you as his mate."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why wouldn’t she approve of me? I’m adorable."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You are, it’s just…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If I can interject again. Leonard comes from a remarkably high-achieving family, who have all chosen high-achieving partners. He probably feels that it’s doubtful that his mother will be overly impressed with his dating a woman whose most significant achievement is memorizing the Cheesecake Factory menu."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, it’s a big menu. There’s two pages just for desserts."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I know. And those specials, they change every day."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, you know what? It’s lame when I say it, it’s just ridiculous when you pile on."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So what did she say when you told her we were going out?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Um…"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You didn’t tell her we were going out, did you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Um…"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Um…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard, I’m no expert on meditation, but if you’re trying to calm yourself down, I believe the word is Om."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "It was so nice of you to come all the way down to the airport to pick me up."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No trouble at all."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I drove, Mother. I’m driving now."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Yes, dear. Mommy’s proud. I’ve been meaning to thank you for your notes on my paper disproving quantum brain dynamic theory."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "My pleasure. For a non-physicist, you have a remarkable grasp of how electric dipoles in the brain’s water molecules could not possibly form a Bose condensate."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Wait, wait, wait. When did you send my mom notes on a paper?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "August 16th. Right after her carpal tunnel surgery."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Oh, did I thank you for the flowers?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You did."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "I don’t really like flowers."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Neither do I, but it’s the social convention."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "It is, isn’t it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Wait, wait, wait. You had surgery?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Yes, and Sheldon sent me flowers."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, I heard that."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Then what was all that wait, wait, wait about?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I just don’t understand why he knows more about your life than I do."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Well, I would assume it’s because Sheldon and I stay in touch due to mutual interest and respect, while you avoid me, due to unresolved childhood issues."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s what we think caused your narcissistic personality disorder. We discussed it at length during our last video chat. Although how we got onto the subject of you is baffling."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Yes, but we are on the subject, so I’m obliged to ask, Leonard, how are you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Fine, Mom. How are you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Mmm, menopausal."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Now I’m less fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Have you heard your brother has gotten engaged?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No. Sheldon, why didn’t you tell me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "My bad. I did send a gift from both of us."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "She’s a remarkable girl. The youngest appeals court judge in New Jersey and a two-time Olympic bronze medallist."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You must be very happy."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Why? I’m not marrying her. So, how about you? Are you seeing anyone interesting?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I’m not sure about interesting, but…"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Not the time, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Very well. Shall we switch topics to Isaac Newton v. Gottfried Leibniz?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "It’s all right, Sheldon. I will just pretend that Leonard’s not withholding information. Although, I will point out, Leonard, that I am a trained psychiatrist and you are exhibiting the same secretive behavioural tics that accompanied your learning to masturbate."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Isn’t she brilliant, Leonard? How I envy you."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "So, Howard, have you and Rajesh finally summoned the courage to express your latent homosexual feelings toward one another?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What? No."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Why not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Because we don’t have latent homosexual feelings toward one another."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "I see."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, really. I have a girlfriend now."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "And where is she this evening?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "She had to go out of town. Her grandmother died."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "I see. Her grandmother died."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Honest to God. Leonard, tell her I have a girlfriend."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know what you’re talking about."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What do you mean you don’t know what I’m talking about? Tell her I have a girlfriend!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "All right. He “has” a “girlfriend.”"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Her name is Bernadette, she’s working as a waitress, but she’s going to school to be a microbiologist."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Howard, keep in mind that the more passionately you stick to this construct, the more you’re hurting your partner."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "direction": "(to Raj who has whispered to him)",
+      "text": "Do you really think your lips in my ear is helping?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(arriving)",
+      "text": "Hi. Sorry I’m late."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, glad you’re here, uh, sit down, I’ll get you a plate. Mom, you remember Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Oh, yes, the waitress slash actress with the unresolved father issues. Has he finally come to terms with his little slugger growing breasts?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, he sent me a football and a catcher’s mitt for Christmas, so I’m going to say no."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "If it helps, we’re all good with your breasts."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Classic overcompensation. Oh, speaking of fathers, Leonard, that reminds me, I’m divorcing yours."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Yes. He was cheating on me."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No!"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Yes, with some waitress from the university cafeteria. Can you believe it? A waitress? Oh, no offense, dear."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, it sounded like a compliment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "When did this happen?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Mmm, well, let’s see. Sheldon, when did I leave Leonard’s father?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "September 22nd."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Oh, yes, that’s right. The weekend after Leonard’s dog died."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Mitzy’s dead?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "She was old and blind, Leonard. What choice did we have?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t believe this. Why am I the last to know?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Excuse me, Leonard, I am the one who’s getting a divorce, Mitzy is the one who is dead. Why are you the one making a fuss?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re right. I’m-I’m-I’m-I’m sorry, I’m way out of line!"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "So, Penny, what’s new in your life?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Nothing. Not a damn thing."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Thank you for driving me back to my hotel."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, it’s not a problem."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "I was going to ask Leonard to do it, but he seemed a bit emotionally unstable and you don’t want someone like that operating heavy machinery."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, you do not."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Your check engine light is on."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, I gotta put a sticker over that. So, uh, you must be devastated about your divorce."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Oh, not at all. But I am a bit distressed to be in a vehicle that’s not subjected to regular maintenance."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Come on, I mean, you’re not upset that your marriage is over?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Well, initially I felt something akin to grief and perhaps anger, but that’s the natural reaction of the limbic system to being betrayed by a loathsome son of a bitch."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sure, sure."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Thankfully, my shock was somewhat mitigated by the fact that I haven’t had intercourse with him in eight years."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Eight years?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Oh, that’s nothing. I’ve been responsible for my own orgasms since 1982."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yikes. What’s so funny?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "That’s exactly what I say during orgasms. Yikes."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You know what? I could use a drink. Do you want to stop for a drink?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Oh, I don’t drink."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I do, I’ll teach you."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Leonard? (Knock, knock, knock) Leonard? (Knock, knock, knock) Leonard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What is it? Sheldon: I made tea."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t want tea."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I didn’t make tea for you. This is my tea."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Then why are you telling me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s a conversation starter."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s a lousy conversation starter."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, is it? We’re conversing. Checkmate."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What do you want, Sheldon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What I want is to be departing the Starship Enterprise in a one-man shuttle craft headed to the planetoid I rule known as Sheldon Alpha Five."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I want that too. Why are you here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "To comfort you, of course. No, that’s not going to work at all, I’ll comfort you from over here. Leonard, what you’re experiencing is a classic Jungian crisis in which the aging individual mourns the loss of the never-to-be realized ideal family unit."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Thank you, that’s very comforting."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s not the comforting part."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, no. The comforting part is that the Germans have a term for what you’re feeling. Weltschmerz. It means the depression that arises from comparing the world as it is to a hypothetical, idealized world."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re right, I do feel better."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, the Germans have always been a comforting people. Just remember, Leonard, where your biological family has failed you, you always have me, your surrogate family."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You’re my surrogate family?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If it’s any consolation, I’m not happy about it either. Good night."
+    },
+    {
+      "type": "scene",
+      "text": "A bar."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, now this time try drinking it all at once."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Yikes."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’ve been responsible for my own buzz since 2003. Another round for me and my homegirl."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "I feel a spreading warmth through my extremities."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "As long as you don’t feel it running down your pants, you’re fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Oh, that is fascinating. I’m noticing an immediate lowering of my inhibitions. For example, I’m seriously considering asking that busboy to ravish me in the alleyway while I eat cheesecake. What do you think?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, we are known for our cheesecake. Hit us again."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Yes. If a little is good, more must be better."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, Bev, guess what?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’m sleeping with your son."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Really? Which one?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "The one from whom I live across the hall from."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Well, that’s convenient. How did his penis turn out?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, Beverly, I can’t talk to my boyfriend’s mother about his penis."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Oh, fair enough. What can you tell me, if anything, about that busboy’s penis?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Actually, I’ve only had the cheesecake. One more time. You know, Leonard did not want to tell you we were dating."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Really? Well, that means he’s either embarrassed about the relationship or he doesn’t care enough about his mother to tell her he’s in one. Either way, one of us should be insulted."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, let’s go find out who."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "You go get a taxi. I’m gonna slip my business card into that busboy’s back pocket, cupping his firm, right buttock as I do so."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Leonard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Sonny boy!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Get out here! Your mommy wants to talk to you!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What the hell is going on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You’re in trouble."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Why didn’t you tell me you were tapping my homegirl? Did I say that right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, not bad, not bad."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Are you guys drunk?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Well, I hope so. Otherwise, why would we have stopped at Del Taco? Now, how could you not tell me you were in a relationship with this lovely, charming young woman?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "You’re welcome. Is it because she’s uneducated, trapped in a menial service position?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What the hell happened to lovely and charming?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "How come you didn’t tell me that you and Father were getting a divorce? How come you didn’t tell me you had surgery? How come you didn’t tell me my dog died?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Wait, wait, wait, wait, wait. What I hear you saying is that you want a more intimate mother-son relationship."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I do."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "direction": "(gives him an uncomfortable hug)",
+      "text": "There. It’s late. Now, go to bed. I’m getting a warm feeling spreading through my heart."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That’s the Del Taco."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Why is Leonard softly banging his head against his bedroom door?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Speaking of warm feelings, come here. (She grabs Sheldon and kisses him) No, I’d rather have the busboy."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s car."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Thank you for taking me to the airport."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You’re very welcome."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Once again, I’m driving. I’m right here."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Please, I am very hungover and in no mood to satisfy your need for approval. Sheldon, I do hope you’ll forgive me for my inappropriate behaviour last night."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t blame you. You were intoxicated."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I blame Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I blame Penny, too. Bad Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Wait a minute, what are you talking about? What inappropriate behaviour?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "I think it’s best that you not know."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Agreed."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Agreed."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What the hell, agreed."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "And I want you to take very good care of this young woman."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, thank you, Beverly."
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "You’re welcome. She doesn’t have much in the way of career prospects, don’t make her responsible for her own orgasms as well."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Mother, remember when I was complaining that you don’t communicate with me enough?"
+    },
+    {
+      "type": "dialog",
+      "character": "Beverley",
+      "text": "Yes, dear."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m over it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(finishing Deck the Halls)",
+      "text": "Fa-la-la-la-la, la-la la-la."
+    }
+  ]
+}

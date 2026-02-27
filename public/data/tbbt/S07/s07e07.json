@@ -1,0 +1,1157 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 7,
+  "episode": 7,
+  "title": "The Proton Displacement",
+  "url": "https://bigbangtrans.wordpress.com/series-7-episode-07-the-proton-displacement/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "A supermarket"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’ve never seen him this happy before."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s because you’ve never seen him on restock the medicine cabinet day."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Look. A new topical antihistamine with lidocaine. Wow. I can’t wait until I get a rash."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, Gas-X has a new ultra strength. I guess they really do read their mail."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hey, isn’t that Professor Proton?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Look at him, just standing in line like he wasn’t moderately famous 30 years ago. Let’s go say hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, maybe we shouldn’t bother him."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m not going to bother him, I’m going to talk to him."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "He thinks there’s a difference."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Arthur? Arthur, it’s me, Sheldon Cooper. You may not remember because of your advanced age."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "Trust me, I, I remember."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "This is my girlfriend, Amy. Amy, this is television legend Arthur Jeffries. His science show inspired millions of children."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "Hold, hold, hold on. You, you have a girlfriend?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Yes, and I’ve heard so much about you. Hey look, we’re wearing the same orthopaedic shoes. I can’t believe I dress like a celebrity."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "Oh, okay, I get it now."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Dr. Jeffries, hello again. Leonard Hofstadter."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "Oh, oh, right, I remember your, your girlfriend. Is, is she, is she here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, she’s not."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So, what prescription are you getting filled?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. Wait, I want to guess. Don’t tell me."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "I wasn’t going to tell you."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, come on."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, no, no. I’m really good at this. All right, give me a hint. Does it involve difficulty initiating a stream of anything?"
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "Well, given my age, that’s more than just a lucky guess."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, Sheldon, let’s go mock the people buying homeopathic medicine, you love that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But I’m hanging out with my friend, and we’re having fun. Look how happy he is."
+    },
+    {
+      "type": "direction",
+      "text": "The cafeteria."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Bernie’s having a girls’ night on Friday at our place. You want to do something?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Actually, I’m busy."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Doing what?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "There’s a new sports bar over on Colorado Ave…"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You’re going to girls’ night."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You know they’re making jewellery right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You think they came up with that? They were going to drink beer and play darts."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What’s up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Not his testosterone levels."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Excuse me. I happen to be very comfortable with my masculinity."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "How is that possible?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, I got an email from Professor Proton."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Goody. What’s it say?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "He’s working on a paper about nano vacuum tubes, and wants to know if I’d take a look at it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s strange. That he would come to you for that and not me. Oh, I got two emails from him. Do you have Leonard’s email address? And. Never mind, I found it. I can’t believe he picked you over me."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You don’t want to read a paper by some old has-been who hasn’t done any real science in decades."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, it’s nothing to cry about."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Sheldon Cooper does not cry."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It’s true, you’d rust."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And to think I idolized that man. And why? At the end of the day he’s just another Hollywood phony."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Is it really worth getting upset about?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, they say don’t meet your heroes. Don’t peek behind that curtain of fame and celebrity, because if you do, you’ll see them as they really are, degenerate carnival folk."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Come on, he’s a retired kids show host."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s even worse. Using the sweet candy of science to trick children into loving him. Pervert."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Have you ever thought about why Arthur didn’t want you to read his paper?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, I have. And my only conclusion is the prescription he was picking up the other day was for cuckoo pills."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Maybe he found you, um, a bit much."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s kind of a stretch. Look, when it comes to social skills, I’ve mastered the big three. There’s the coy smile. There’s the friendly chuckle. There’s the vocalization of sympathy. Aw. That last one’s tricky, I’m still working on it."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "From what I saw the other day, I could understand why he and some people might find you…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Doesn’t matter."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, go ahead, say it. I know what it is. I’ve heard it my whole life. The word’s annoying. Go ahead, say it. Say it. Say I’m annoying."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, it won’t hurt my feelings. Go ahead, Amy, say I’m annoying. I’m annoying. I’m annoying. I’m annoying. Yeah, now, uh, now where are you going? Look, you know you want to say it, say it. Say I’m annoying. Go ahead, say it. Say it. Say it. Amy, say it. Well, she can’t stand it when I’m right."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "This is fun. I’m going to feel like such a vixen wearing jewellery that doesn’t have a list of medications I’m allergic to."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Penny, how’s it going over there?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Good, I’m just having little trouble with the glue."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "How do you not know how to use glue? Did you ditch pre-school?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, but only because I was dating a second grader."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hello, everyone."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, let me have it. Let’s hear all the Raj is a girl jokes."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Nope. Bernadette told me it isn’t nice and I’m not allowed."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So I won’t be making fun of you, or the things you like, or the fact that you just want to have fu-un."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Howie, stop. Come on, look at what I’m making."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, that’s actually pretty nice."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’m making a bracelet."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, I’m just making a mess."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You know, instead of beads and glue, you guys can use my soldering iron. You’d be able to make much cooler stuff."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, I think we’re doing just fine, thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Actually, I’d kind of like to try that."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Me, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Be right back."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "When did I have pistachios?"
+    },
+    {
+      "type": "scene",
+      "text": "Professor Proton’s house."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Arthur. (Knock, knock, knock) Arthur. (Knock, knock, knock) Arthur. Door knocker. That’s TV money."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "Sheldon, what are you doing here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m sorry, did I wake you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "Of course you woke me, it’s seven thirty."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I would have been here sooner, but for some reason your home isn’t on this map of Hollywood stars."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "What do you want, Sheldon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s been pointed out by my girlfriend that I may have been annoying to you."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "She sounds like a keeper."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Anyway, I wanted to apologize. I am truly sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "All right, apology accepted. Have a nice night."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, no, now that we’ve cleared the air, I wanted to discuss another matter with you."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "Sheldon, in a couple hours I have to get up, pee and then wander around the house."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, then, I’ll make this quick. Um, I want to talk about the paper you sent Leonard. Now, I know he said it’s promising and he’s going to collaborate on it, but now that you and I are friends again, I am at your disposal. And, um, frankly, lending my name and reputation to it will help, because a lot of people think that you’re a washed-up has-been. Or dead."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "I should be so lucky."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So, uh, what do you say?"
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "You know, if it’s all the same with you, I, I think I’ll, I’ll stick with Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s because I’m annoying, right? I know it is. Say it. Say it. Say I’m annoying."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "Good night."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Say it. Arthur, say it. Say I’m annoying. Say it. Say it. I’m annoying. Say it."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "You’re annoying."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, that really hurt."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s laboratory."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "If you would have told me when I was a kid that someday I would be doing science next to Professor Proton, I would not have believed you."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "If someone had told me that people would still call me Professor Proton when I was 83 years old, I never would have quit smoking."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m sorry, Dr. Jeffries, I’m just excited. This nano vacuum tube idea of yours is, it’s really interesting."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hello, Leonard. Oh, hello, Arthur. What an odd coincidence that you’re both here."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why is it odd?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Because as it just so happens, I’m also spending the day with a beloved children’s television science personality. Isn’t that right, new friend and colleague Bill Nye the Science Guy. Sorry, I replaced you with a newer model."
+    },
+    {
+      "type": "dialog",
+      "character": "Bill Nye",
+      "text": "Wow, Arthur Jeffries. It’s an honour to meet you. My show never would have happened without yours."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "That’s what I told my lawyers."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Mr. Nye, hello. I’m sorry he got you involved in this nonsense."
+    },
+    {
+      "type": "dialog",
+      "character": "Bill",
+      "text": "He said I’d be speaking to a class."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, I said you were teaching someone a lesson. Now let’s go."
+    },
+    {
+      "type": "dialog",
+      "character": "Bill",
+      "text": "What are you guys working on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, uh, we’re making nano vacuum tubes."
+    },
+    {
+      "type": "dialog",
+      "character": "Bill",
+      "text": "Oh, that’s interesting."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "Haven’t you stolen enough from me? Back off, bow tie."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, guys, what do you think?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Wow, Penny, good job."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Thanks. Target, four ninety-nine. I’m getting a drink."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What are you working on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Ah, I’m making a necklace for my mom."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "That’s sweet."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, she and my dad are going through a bit of a rough patch, so I wanted to do something to let her know I was thinking about her."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What’s going on with them?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "They’re just having a little trouble communicating. My dad says it’s because the sound of my mom’s voice makes him want to tear his ears off and sew them over his eyes so he never has to look at her again."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Look who’s here to put the Jew in jewellery night."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, sure, so it’s fine when you say it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sorry we’re late. I wanted to swing by the lab and pick up some even cooler tools for us to use."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I didn’t know you were coming again."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, last week was a blast. Plus, I thought you might like having a guy here."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny (laughing)",
+      "text": "It was not funny."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "So, what tools did you bring?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Everything we need to make jewellery moulds. Here’s some silver, a crucible and an acetylene torch to melt it down."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Ooh, that looks like fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Maybe you should master glue before you move on to fire."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, who’s up first?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Rajesh, do you want to make a bracelet for your mom to go with the necklace?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No, thanks."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I was gonna make a necklace for my mom, but unfortunately she doesn’t have a neck. She’s just chins and fat and feet."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s laboratory."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, we’re almost ready to go. Once we bond the wires, we can test the tubes."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "This is so exciting, I, I feel like I’m 75 again."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, God."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "What, what is it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon just sent me a picture of him and Bill Nye getting smoothies."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "Can, can I ask you a question?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, sure."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "Why do you put up with Sheldon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, uh, you know, because we’re friends."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Wow, you ask really hard questions."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Look, I know he can be aggravating, but what you have to remember is that he’s not doing it on purpose. It’s just how he is. But he’s also loyal and trustworthy and we have fun together."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "You, you know you’re describing a dog."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "He did bite me once. But in his defence, I came up behind him while he was eating, so…"
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "Yeah, they, they hate that."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You know what, Sheldon is the smartest person I have ever met. And he’s a little broken and he needs me. I guess I need him, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "Why, why is that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Boy, you will not let this go, will you? Oh, jeez."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "Another photo from Sheldon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, I have to go pick him up. Bill Nye ditched him at the smoothie place."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "He probably stole his wallet, too."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You know, if you guys are interested, there’s a technique where I can take a lock of your hair, refine it into carbon dust and use the hydraulic press at work to turn it into a tiny little diamond with your DNA in it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, that’s amazing,"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah. See Bernie’s engagement ring? That came right off my mom’s back."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "He’s kidding. If that were true, it’d be so much bigger."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "My name is Howard. I can make your hair into diamonds. My mom is morbidly obese. Everybody love me."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Whoa, where is that coming from?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’ll tell you where it’s coming from. All you do is make fun of me for coming to girls’ night and now you’re here ruining it for everyone."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Raj, cool it, he’s gonna make us hair diamonds."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "How am I ruining anything? I’m just trying to help you make better jewellery."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "But this isn’t about the jewellery. This is about me having a place where I can open up about my feelings."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Since when can’t you open up with me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "There are just some things that I feel more comfortable sharing with the girls, because they won’t make fun of me or and call me names, or ask me if my Koothrapanties are in a bunch."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Buddy, I was just joking around."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, well, sometimes your jokes hurt."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You’re right. I didn’t realize I was making you feel that way. It was very brave of you to tell me."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Thank you. It wasn’t easy."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "They’re gonna have sex before Sheldon and I do, I know it."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Arthur?"
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "Hi, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m surprised to see you here."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "Yeah, me, too. Somewhere around the third floor I began to see a, a white light."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’ll get Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "No, no, no, I’m, I’m here, I’m here to see you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If you’re hoping to get in touch with Bill Nye, I can’t help you. I’ve been informed that he’s now Bill Nye the Restraining Order Guy."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "No, I, I, I was thinking, if it isn’t too much trouble, I’d like to get your opinion about my, my paper."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thank you. It would be an honour."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "Oh. Uh, great."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Actually, I don’t need that. I hacked into your e-mail account and read it."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "And, what did you think?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, first, I think the fact that you use your birthday as a password is embarrassing."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "Mmm. Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Second, um, I thought your paper was inspired."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "Oh, well, that, that means a lot to me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Can I invite you in for tea?"
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "Uh, no, no. I, I really, I have, I have to run."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, Arthur. How are you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "Well, I guess one cup wouldn’t hurt."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, hey, buddy, what’s up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, I was feeling bad about how I acted the other night so I made you a little something."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You didn’t have to do that."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, it was fun. I used some of the jewellery techniques you taught us. It’s a lightsabre belt buckle."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Wow, this is so cool. Thanks."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh gets better."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Wow."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "And that’s not even the best part. See? I have one, too. Check it out. You can wear yours and we can have little sword fights whenever we want."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, and my eighth favourite episode of Professor Proton was Alka-Seltzer rocket. You said, plop, plop, fizz, fizz, oh, what a blast-off it is. Remember? Remember that? Remember?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "He can’t help it. He can’t. He really can’t."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, wait here. I’ll get some Alka-Seltzer, we can build that rocket, and we can shoot it at Bill Nye’s house. As long as I’m not within 500 feet of it."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "So, you, uh, you have, you have any, single grandmothers?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sorry, they’re both married."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "Good."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Mmm."
+    },
+    {
+      "type": "dialog",
+      "character": "Arthur",
+      "text": "Hap, hap, happily?"
+    }
+  ]
+}

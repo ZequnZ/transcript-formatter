@@ -1,0 +1,1270 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 8,
+  "episode": 4,
+  "title": "The Hook-Up Reverbration",
+  "url": "https://bigbangtrans.wordpress.com/series-8-episode-04-the-hook-up-reverbration/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The cafeteria."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Have you guys heard about this research team that’s trying to transgenically manipulate chicken DNA to create some sort of chicken dinosaur?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I think that sounds wonderful."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What? You’re afraid of both dinosaurs and chickens."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, but tell me a dinosaur chicken salad sandwich wouldn’t hit the Mesozoic spot."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "We still on for tomorrow night?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah. I’m excited to finally meet your girlfriend."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Speaking of which, according to a recent study out of Oxford University, when someone takes on a new romantic partner, that person loses one or two close friends."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Since when do you read social science?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I go to the bathroom like everybody else."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Why would I lose friends just because I started dating someone?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, you didn’t lose anyone when you met Amy. Yeah, well, no, this study refers to romantic partners. Not the way I would categorize the two of us."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You guys kiss and hold hands."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’ve seen him do it. It’s not romantic."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Look, I’m not the kind of guy who drops his friends just because he’s in a relationship."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What happens if she doesn’t like us?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, hey, you’re my dear friends. You’ll get a Christmas card for a couple of years, and then you’re dead to me."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "So, Howard, is Stuart still living with your mom?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I don’t want to talk about it."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "But he’s going to."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "My mom got him cable. In my whole life, growing up in that house, no cable. Do you know how many HBOs that leech had my mother get him? Seven. Seven HBOs. Seven."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Long story short, they have seven HBOs."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Emily, you know almost everybody here."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "And this is Leonard, this is Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Oh, it’s so nice to meet you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Nice to finally meet you, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Wow, Raj, you were not lying about her."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I told you she exists."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, I hear you’re a dermatologist."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Uh, yeah, I’m a resident at Huntington Hospital."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I like their emergency room. Yeah, even if it turns out you don’t have Dengue fever, they still let you take a lollipop."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You know, Penny just started training to be a pharmaceutical sales rep. Maybe she can practice on you some time."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, it would be great to practice on a real doctor."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Yeah. I’m sure that’d be fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I have some odd freckles on my buttocks. Can I make an appointment for you to look at them?"
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Um, okay, I guess."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’m with him three years, nothing. She’s with him two minutes, and he’s taking his pants off."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Last night was fun. What did you think of Emily?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I don’t know. I kind of got the sense she didn’t like me."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Did she say she didn’t like you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Of course not. No one ever says they don’t like you straight to your face."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "We have led different lives."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "You guys just met. Why would she feel that way?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It’s just this vibe I got."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I’m sure you’re worried about nothing."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah. You’re probably right. I used to think my high school P.E. teacher didn’t like me, but it turned out, she liked me a little too much."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Really?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah. It was fine. We went to a Melissa Etheridge concert, I got an A, it all worked out."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "When you go to Emily’s office to practice, you’ll see. It’s fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, I hope you’re right."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You really went your entire life without anyone saying I hate you to your face?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’d say it now, but look at those cheekbones."
+    },
+    {
+      "type": "scene",
+      "text": "Capital Comics."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I miss Stuart’s place. All this loud music and exposed brick. What, is this a comic book store, or a rave at the third little pig’s house?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yep, I wish Stuart would reopen. I hate this place, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, him I believe because he’s an 80-year-old man in a 15-year-old’s tee shirt. But you’re just upset about Stuart and your mom and all their HBOs."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yes, I am. You know, I can’t even watch Game of Thrones now without thinking of mother saying, Stuart, which one is Thrones?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You know, he might not reopen. He didn’t get a lot of money from the insurance company."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, boy, if there is one thing that gets my goat, it’s those dad-gum insurance companies."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why? Because they won’t get off your lawn? Is Stuart trying to get a loan, or, or find investors?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "All I know is, he’s got my mother buying four-ply toilet paper. I mean, four-ply. If his butt is so delicate, why doesn’t he just use an angora rabbit?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "For starters, they shed and bite."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, here’s a thought. Why don’t we put up the rest of the money that Stuart needs?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "So, we’d be, like, owners of a comic book store?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s kind of a dream come true."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That does sound fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Ooh, maybe we could come up with a business plan to compete with this place."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’ll give you a plan right now. Step one, open comic book store. Step two, start rumour this comic book store gives you genital warts. Step three, buy a big bag to put the money in."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s not that bad."
+    },
+    {
+      "type": "scene",
+      "text": "Emily’s surgery."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Thank you so much for letting me practice my sales pitch on you. I really appreciate it."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Sure."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Um, I brought coffee. I wasn’t sure what you like, so I got a regular, a cappuccino and a Chai tea. Since you like Raj, I thought you might be into that."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Thanks. If we could get started. I’m a little busy."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, yeah, sure. Let me just get out my materials. Leonard gave me this briefcase. He used to carry it around in high school. You can still see the dent where they whacked him with it. Okay, I would like to talk to you about our new birth control pill, Femevra."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Great."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So, Femevra’s triphasic design provides balanced hormonal exposure."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "All right."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It has also been shown to cause significantly fewer side effects than other oral contraceptives. Although it can cause acne, which, if you ask me, kind of increases its effectiveness as a contraceptive."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Funny."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, I’m sorry. Did we get off on the wrong foot? Because since the other night, I kind of feel like you might have a problem with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "No, it’s fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Are you sure, because it doesn’t seem fine?"
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Okay. If you really want to talk about this, I do have a problem."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, my God. Tell me, what did I do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Look, it’s nothing. It’s just, Raj told me that a while ago, you two hooked up."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What? Oh, why would he say that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Did it not happen?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, I wouldn’t exactly call it a hook-up."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Did you kiss?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Were you naked?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "So, it was a hook-up."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No. Yeah."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So, what are some ways we could set our comic book store apart from the competition?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, kids buy comic books. It would be great to figure out a way to get more kids in the store."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You know, when I was a kid, I loved going there, but I could never get a ride."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Ooh, what if we got a van and drove around and picked kids up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Nice. You mean, like at parks and schools?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Toy stores, puppet shows."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hold on. So, your idea is to get a van and cruise the streets looking for kids to pick up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "And are you gonna use candy to lure them in?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "We are now."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You told Emily we hooked up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Um, well, in my defence, I tell everybody."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why would you say that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "We were having a conversation about past lovers."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "We weren’t lovers. Come on. Everyone knows we didn’t sleep together. We got drunk and fooled around. Why couldn’t you just leave me out of it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, we were being honest. You would leave me out of the conversation with the next guy if you dumped Leonard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why say it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, I would never leave you off my list, and not just because, without you, we’re playing fast and loose with the word list."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, good job. Now she hates me. Ugh."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Great."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "On the bright side, that Oxford study was right. One friend down. I wonder who you’re going to lose next."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "You, okay? It’s you. You’re, you’re next."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. You’re crazy about me."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I don’t know what Emily’s so upset about anyway. Even if I had slept with him, so what? Everyone has a past."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hmm-hmm."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Almost everyone has a past."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Come on, look how pretty you are. I’m sure this isn’t the first girl to hate you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It’s not."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "And I’m sure you can turn it around."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "How? You can’t force someone to like you."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What if you just hang around and act like her friend until you wear her down? I mean, next thing you know, you’re in her home, you’re eating her food, drinking her wine."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, that won’t work."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You’re right. Cheers."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, I know. Why don’t you use your sales training to go back down there and sell yourself?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Yeah. But instead of selling a drug, you’d be selling Penny. it’s cute."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It’s stupid."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Well, maybe people would like you more if you didn’t crap all over their ideas."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’m gonna go with Penny on this one. Then again, why wouldn’t I? I mean, we go way back."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, my God. I didn’t used to like you."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Shh. Amy’s here now."
+    },
+    {
+      "type": "scene",
+      "text": "Capital Comics."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know, the more I think about it, the more intrigued I am about having our own store."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "We’ll get to see all the new stuff before it hits the shelves."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And we’ll get to have fun interactions with our customers. Like, this isn’t a library, buy it or get out."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You say things like that all the time."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, but as a store owner, I’ll finally have a good comeback to, You don’t work here, shut up."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, do you know how Penny told Raj he should have left her off his list?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, do you think when she and I had that conversation, she left people off her list?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m sure she did."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Because if she hadn’t, she’d still be wading through the list."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Will you stay out of this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "If only Penny had said that once in a while."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, what difference does it make? You’re the one she wants to marry."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s true."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, and I’m not sure that complete honesty is always the best thing for a relationship."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, he’s right. Once, in a moment of candour, I told Amy that her hair reminded me of a duck caught in an oil spill. She stormed out. Which was sad, because we were playing Scrabble, and I had all the letters to spell persimmon."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why are you even part of this conversation? You don’t know anything about women."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I know that if I had a wife or a fiancée, I’d ask her first before I invested money in a comic book store."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "He’s right."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, well, of course I am. I was also right about her hair. It did everything but quack."
+    },
+    {
+      "type": "scene",
+      "text": "The stairwell."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "There’s something I wanted to run past you."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What’s up?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Mm, the guys and I were thinking about investing in Stuart’s comic book store. Is that okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why are you asking me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, you know, we’re engaged, and it’s kind of a big deal financially. It seems like something we should talk about."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh. Well, would you consider mounds of credit card debt kind of a big deal financially?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Huh."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Mm. So, me and the guys were talking about this great investment opportunity."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Nope."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "But you didn’t hear what it was."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I know."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, come on."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Fine. What is it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It’s to help reopen the comic book store."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Nope."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, hear me out."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Howard, you know we’re saving up for a house."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I know, but all the guys are doing it. We’re splitting it four ways, so it’s really not that much money."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "It just seems like a risky investment."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I get that. I, okay, look, the real reason this is important is, before my dad left me and my mom, he used to take me to the comic book store. It was one of the few things we did together."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh. Howie, I had no idea."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, I don’t like to talk about it."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, baby. That story’s made up, isn’t it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That’s how much buying a comic book store means to me."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’d like your honest opinion on something."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Of course."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Now, before I start, I need you to know that I’m very excited about this, and anything you say that isn’t enthusiastically supportive will throw our entire relationship into question. So, keep an open mind."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I’m feeling a little backed into a corner, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Perfect. Now, I’m considering investing in Stuart’s comic book store."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Interesting. Can you see how a grown man, an accomplished scientist, who invests in a store that sells picture books about flying men in colourful underwear might be wasting both his financial and intellectual resources?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Then I think it’s a terrific idea."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Great. Wait till you hear about our van."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hi."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Thanks for inviting us over."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, thank you for coming."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Uh, listen, Penny, before you start, I just want to apologise for being so rude the other day in my office."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, no. No need to apologise."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Excuse me, can I say something? I just love both you guys, and I want you to get along. And when I say love I meant as a friend. And, uh, way too soon, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, sit down. Listen, Emily, what happened between me and Raj was a long time ago."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It was, and I may have made it seem like a bigger deal than I should have."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, and Leonard and I are engaged now, and I’m just hoping we can put this whole thing behind us."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "Mm. I’d like that, too. Yeah, I thought I’d be okay with it, but then I saw how pretty you are."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, that’s so sweet. I mean, look at you, you are gorgeous."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s true, you’re both gorgeous. Kind of says something about the man who could bed you both. You get why I’ve been alone most of my adult life."
+    },
+    {
+      "type": "scene",
+      "text": "Mrs Wolowitz’s house."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "So, what brings you by?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, I don’t need a reason, it’s my house."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Technically, it’s your mom’s house, but we certainly want you to feel welcome."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m always welcome."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Mm, just try and call first."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Okay, let’s get down to business. Howie was thinking about putting up some money to help you reopen the store, but before that happens, I have a few questions."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Oh. I appreciate the offer, but actually your mother already gave me the money."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Yeah. I told her it was too much, but she said she was happy to help out her bubala."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Excuse me. Ma, you are cancelling that cheque, and Stuart is not your bubala, I’m your bubala. You can’t have more than one bubala."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "I don’t know who he’s talking to. She’s at Target, buying me shirts."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m so glad we could work this all out."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, me, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "You know, we should have dinner one night with you and Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, we would love that."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Great."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, good night, guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily",
+      "text": "All right, night."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Bye."
+    },
+    {
+      "type": "dialog",
+      "character": "Emily and Penny",
+      "direction": "(simultaneously)",
+      "text": "I hate her."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m really disappointed we’re not gonna have our own comic book store."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I know. I was looking forward to it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It would’ve been so nice to have a place that was ours, where we could just sit and read comics in peace."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "With comfy seats."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "And snacks."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I guess it was too good to be true."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah."
+    }
+  ]
+}

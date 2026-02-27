@@ -1,0 +1,1196 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 6,
+  "episode": 2,
+  "title": "The Decoupling Fluctuation",
+  "url": "https://bigbangtrans.wordpress.com/series-6-episode-02-the-decoupling-fluctuation/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "Bernadette’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "And the next wedding gift is a gravy boat."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Ooh, one gravy boat."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "That’s from Sheldon. He told me he had it engraved."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "In the event of a divorce, please return to Sheldon Cooper."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "One inappropriate, yet I wish I thought of that gravy boat."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "When I get married I’m going to register at the UCLA Cadaver Lab."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Ew, why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "‘Cause I’ve always wanted a whole human skeleton and they are really spendy."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "So, you actually see you and Sheldon getting married someday?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Not just someday. In exactly four years. But don’t tell Sheldon. He’s still a flight risk."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What about you, Penny?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What about me what?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Do you think you and Leonard might ever get married?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, well, you know, Leonard is great."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "But do you think you’ll ever get married?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "He’s a sweetie."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You’re not answering the question. Do you love him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yeah, sure, of course I love him."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "It doesn’t sound like it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, I do."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Do you tell him that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, he’d just take it the wrong way."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "What does that mean?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It means he is special and smart and nice and…"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Are you gonna break up with him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No. Maybe. I don’t know."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I had no idea you were unhappy."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That’s the thing, I’m not. I’m not unhappy at all. It’s just, I don’t know, I, I’ve been in love before, but it felt different. But maybe this is a new, better, boring kind of love. Do you ever feel that way about Howard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, that’s not really a fair comparison. I’m basically married to a sexy Buzz Lightyear."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Amy, you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Can’t help ya, kid. Whenever I’m around Sheldon, I feel like my loins are on fire. In the good way. Not the urinary tract infection way."
+    },
+    {
+      "type": "scene",
+      "text": "Cutting between the International Space Station and the apartment (the guys are on webcam)."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "direction": "(voice off)",
+      "text": "Hey, buddy, how’s it going up there?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You don’t have to shout, Raj. It’s not like I’m an astronaut floating around in outer space. Oh, wait, I am."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, is it everything you hoped it would be?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It’s better. I wake up every morning and I just can’t believe I’m on this incredible adventure."
+    },
+    {
+      "type": "dialog",
+      "character": "Dimitri",
+      "text": "Hey, Froot Loops, did you clean the space toilet?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Excuse me. I’m talking to my friends."
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "You know the rules, new guy scrubs the toilet."
+    },
+    {
+      "type": "dialog",
+      "character": "Dimitri",
+      "text": "If you do good job, next time we give you brush."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Funny. We’re always giving each other a hard time up here. It’s kind of like being in a frat. You know, joking, kidding around, hurting feelings."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay, my turn. Let me talk to him."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Go ahead."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "2311 North Los Robles Avenue, Pasadena, California to International Space Station. Can you read me? Over. (Makes static noise)"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yes, I read you, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Copy that. Over. (Static noise)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I am talking to a man in space. If you don’t have the (static noise) then he might as well be at the Coffee Bean over on Lake Street."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You’re out of your mind,Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s a negative. My mother had me tested. Over. (Static noise)"
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "Come on, scrub it up, Loops."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "All right, all right. I gotta go. There’s a meteor shower."
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "You want to see a meteor shower? Take a look at what Dimitri just left you in the toilet."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Bye."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Over and out. (Static noise)"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Bye, buddy!"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "direction": "(knocking and entering)",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Hey, Stuart, come on in."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What are you doing here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Um, Raj invited me to go to the movies with you guys."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Excuse me. I didn’t authorize this."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, you are not in charge."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s mighty sassy for a man with a roommate performance review around the corner."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "What’s the big deal? You guys are bringing your girlfriends. I didn’t want to sit by myself."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The big deal is I was expecting us to be an intimate group of five. Now, we’re going to be a faceless mass of six."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’ll be fine. Just, uh, pretend he’s Wolowitz."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hmm. Do you like Raisinets?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "I can take them or leave them."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "At the movies, Wolowitz always eats Raisinets."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Would you feel more comfortable if I ate Raisinets?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, it’s hardly my business what you eat, as long as it doesn’t crunch during the film and it’s Raisinets."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Okay. Should we go?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yuh-uh, one more question, if you’re going to replace Wolowitz, I need to know a little more about you."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "All right."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wolowitz went to MIT. What’s your educational background?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "I went to art school."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Equally ridiculous. Let’s go."
+    },
+    {
+      "type": "scene",
+      "text": "The cinema."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "This insistence on hand-holding is preposterous."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, I like it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, of course you do. You’re a girl. You like all kinds of hippy-dippy things."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Just watch the movie."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s not fair. Penny isn’t making Leonard hold hands."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "There might be a reason for that."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Sweaty? Unhygienic? Looks dumb? Take your pick."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Penny said she’s not sure she wants to be Leonard’s girlfriend anymore."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wrong. She just took a sip from his Diet Dr. Pepper."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "So?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So, if she wants to end her pair-bond with Leonard, why on earth would she guzzle a witches’ brew of his soda and spit?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It’s complicated."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "String theory is complicated. That’s just yucky. Don’t get any ideas. All right, for the sake of argument, let’s say that’s true. Why doesn’t Penny just end the relationship?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "She’s not sure how she feels."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "How can she not be sure how she feels? You know, when I have a feeling, I know it. Trains? Love them. Swordfish? I love them, too. They’re fish with a sword for a nose."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Regardless, don’t say anything to Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Now you’re asking me to keep a secret from my best friend, colleague, and roommate?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Yes, please, Penny will kill me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Uh, fine. FYI, secret-keeping? Hate it. Hand-holding? Not a fan. Hammerhead shark? I love that thing. Yeah, it’s another fish with a tool on its head."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Raisinet?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Shh, we’re trying to watch the movie. This is not working out with him."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment. Sheldon is making a sucking noise with his teeth."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I think I might have tartar buildup. My tongue won’t go as far forward as it used to."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Maybe your tongue is shrinking."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(measures)",
+      "text": "Nope. Oh, you have no idea how annoying this is."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m starting to get a sense of it. Don’t worry. I’ll take you to the dentist tomorrow."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thank you. I appreciate that. You’re good people, Leonard. There’s something I need to tell you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I can’t tell you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I can’t tell you why I can’t tell you. So I guess there’s two things I can’t tell you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I wish there were more."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Good night. I’m sorry. This is really important."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What is it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I like The Transformers. Do you like The Transformers?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Where exactly did your mother have you tested?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard, the Transformers teach us that things are not always what they appear to be. You know, like, uh, a semi truck might be an alien robot, or, uh, someone in a romantic relationship, uh, might feel differently than they appear to. Or a conversation about The Transformers might actually be about someone in this room. I’m going to pause to let that sink in."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, I think I understand."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "The guy who seems like an emotionless robot is you, but your relationship with Amy is causing you to transform into a red-blooded man with sexual desires."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That is literally the stupidest thing I’ve ever heard."
+    },
+    {
+      "type": "scene",
+      "text": "Leonard’s room."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Leonard? (Knock, knock, knock) Leonard? (Knock, knock, knock) Leonard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Are you sleeping?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I was. Now I’m having a nightmare. What do you want?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Never mind. I still can’t tell you."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s bedroom. Sheldon is standing over Penny’s bed, knocking on the wall."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Penny? (Knock, knock, knock) Penny? (Knock, knock, knock) Penny? (Penny wakes up and screams. Sheldon also screams)"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, my God. Sheldon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You frightened me."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What are you doing in my bedroom?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, well, I knocked on the front door, but you didn’t hear it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "How did you even get in, you weirdo?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, really? I’ve seen strange men traipsing in and out of here for years, but when I do it, it’s weird?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What do you want, Sheldon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I was having a little trouble sleeping and I just thought, uh, seeing as you’re up, we could talk."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Talk about what?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, I don’t know, uh, weather, uh, fish you could do carpentry with, why Leonard is such an attractive and desirable boyfriend. Yeah, pick one, your choice."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Did you know that Leonard has a perfect driving record and enjoys the insurance discounts that go along with that? Hubba-hubba."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, go home, crazy man."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah. Did you know that while Leonard is not considered a tall fellow in our country, in today’s North Korea, he’s downright average. Hey, talk about a keeper."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, what did Amy tell you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, very well. I can’t keep up this clever charade any longer. She told me that you were thinking of ending it with Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, you listen to me. I think it’s really sweet you’re trying to protect your friend, but this is none of your business. Got it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Excuse me. This is not about protecting my friend. I’m a big fan of homeostasis. Do you know what that is?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Of course not."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Homeostasis refers to a system’s ability to regulate its internal environment and maintain a constant condition of properties like temperature or pH."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Worst bedtime story ever."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "My point is I don’t like when things change. So, regardless of your feelings, I would like you to continue dating Leonard. And also, while we’re on the subject, you recently changed your shampoo. I’m not comfortable with the new scent. Please stop this madness and go back to green apple."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, honey, I have a lot to figure out, and until I do, you are not to say a word to Leonard. Do you understand?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I do. You clear on the shampoo issue?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Get out."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Penny?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Please don’t hurt my friend."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That is the last thing I want to do."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thank you. Coconut? What were you thinking? Are you a hula girl?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Get out."
+    },
+    {
+      "type": "scene",
+      "text": "Amy’s bedroom. Phone rings."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hello?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What the hell is wrong with you? You told Sheldon? Do you know what a terrible position this puts me in? (Phone beeps)"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Hang on, please. Hello?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, just a heads-up: Penny knows that you blabbed about Leonard. She’s pretty mad."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "I know. She’s yelling at me right now."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right then, so we’re all on the same page. Yes."
+    },
+    {
+      "type": "scene",
+      "text": "Cutting between the International Space Station and the Bernadette’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, Bernie."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "There’s my hubby. How’s everything going up there?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, it’s okay. Space is beautiful. Earth is beautiful. Same old, same old."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "What’s wrong?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Nothing. Everything’s fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Howard."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "The other astronauts are being mean to me."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "No, what are they doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, like for instance, the other day when I was asleep, one of the guys went on a space walk and glued a big-eyed rubber alien mask to the outside of my window. When I woke up, I screamed for like nine minutes."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, Howie."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You can see it if you want. It’s on YouTube. Google astronaut screams for nine minutes."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Why don’t you stand up to them?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What am I supposed to say?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I don’t know. Say, being mean is lame, what’s cool is being nice."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Great, I’ll do that when I want to be the first guy in space to get a wedgie."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Do you want me to call somebody at NASA?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No. My mom already tried that. It only made things worse."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment. The guys are playing a card game."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Gelatinous Sphere."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Focused Locust."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Temple of Yip."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m sorry. Wolowitz would never play that card."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "All right, Lesser Demon Turtle."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Fairy God Monster, I win. Your desperate need for friendship makes you weak."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "So, what are you guys doing later? Stuart and I were thinking of going out for a drink."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "We’re gonna try to meet some girls."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "‘Cause that’s what we do."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Watch out, ladies, a little coffee and cream coming your way."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "In case you didn’t follow that, I’m the coffee."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Leonard? Maybe you’d like to go with them to meet girls."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why would I be interested? I have Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, for now. But that woman has a death wish, Leonard. She talks to strangers, she pets unfamiliar dogs, and it is ridiculously easy to break into her apartment. If I were you, I’d get a back-up."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You can’t just replace someone you care about with some other random person."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "No, please don’t ruin this for me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Do you remember how upset I was when they replaced Edward Norton as the Hulk?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes, you walked around for a week saying, Sheldon unhappy with casting choice."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But, then Mark Ruffalo was the Hulk in The Avengers, and he was even better."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What’s your point?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Call me a romantic. I like to think that your Mark Ruffalo is still out there somewhere."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "This is ridiculous. Are we gonna play cards or not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "I like Mark Ruffalo, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, settle down there, fake Wolowitz. No one likes a kiss-up."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, I had to take Sheldon to the dentist this morning."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Really?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yup. I told him if he didn’t bite the hygienist, I’d take him for ice cream."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Mmm."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I didn’t have to take him for ice cream."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh-huh."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You okay? You seem a little distracted."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Look, there’s something I need to tell you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh. Yeah, okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I don’t really know how to say this."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Just say it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay. Here goes."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Mm-hmm."
+    },
+    {
+      "type": "scene",
+      "text": "Bernadette’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "You slept with him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I didn’t know what else to do. He had those big, sad eyes."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, sure, you had no choice."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "He looked at me like this."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Well, if that’s all it takes, it’s a good thing you don’t have a dog."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Don’t worry. You’ll have plenty of chances to break up with him. Your wedding day, your honeymoon, your 50th anniversary."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Look, it’s fine. We’re not getting married, okay? We’re keeping things, you know, homeostasis."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It’s so cute when she tries."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(phone text tone)",
+      "text": "It’s from Leonard. Last night was amazing. You’re amazing. I’m so lucky to have you in my life. (They give him a hangdog look) Okay, stop it."
+    },
+    {
+      "type": "scene",
+      "text": "Cutting between the International Space Station and the Bernadette’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, Bernie, guess what? I stood up to the other astronauts like you said and I got to tell you, last night was the first time in a week I got a good night’s sleep. (On screen, Howard has a mouse face drawn on his face, and the words F.LOOPS on his forehead.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, Howie."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What’s wrong? You look upset."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Nope, this is my proud face."
+    }
+  ]
+}

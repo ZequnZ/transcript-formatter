@@ -1,0 +1,1061 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 6,
+  "episode": 12,
+  "title": "The Egg Salad Equivalency",
+  "url": "https://bigbangtrans.wordpress.com/series-6-episode-12-the-egg-salad-equivalency/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I must say, Leonard, when I first heard your idea for Giant Jenga, I was sceptical."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I can’t blame you. Tiny Twister was a complete bust."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, I was wrong. The looming threat of being crushed under a pile of lumber does add a certain spice. I’ve never felt so alive. (Answers door) Oh, hello, Alex. Uh, let me go get you last night’s recordings."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What recordings?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, you remember when you told me I talk in my sleep? Well, it occurred to me that, like most things I say, it’s probably pure gold. So I started recording it all, and now Alex gets to comb through eight hours of what I like to call Sheldon After Dark."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "Hey, Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey. Just playing a little Giant Jenga here."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "Oh, I know, I’m the one who had to buy him the helmet. So, do you have any plans this weekend?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, most of Saturday’s gonna be figuring out where to put this game when we’re done. How about you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "Oh, I’m gonna go see Kip Thorne give a lecture on subatomic space-time."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Ooh. That’s his take on John Wheeler’s quantum foam. That should be great."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "Well, if you want, you can come with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Ah, I’d love to, but I’m supposed to hang out with Penny."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "Well, bring her."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, she’s not really into that kind of stuff."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "Yeah, okay. Well, if you want to hear about the lecture, I can tell you all about it at work, or, you know, over dinner sometime."
+    },
+    {
+      "type": "direction",
+      "text": "Leonard (jumping and knocking over the Jenga): What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Jenga, I win!"
+    },
+    {
+      "type": "scene",
+      "text": "The cafeteria."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, come on, that can’t be true."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I did the research. Tony the Tiger, Dig’em the Frog, Cap’n Crunch, Toucan Sam, Count Chocula, Trix the Rabbit, Snap, Crackle and Pop. Not one cereal mascot is a girl. It’s a total breakfast sausage fest."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Are we done with this?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Almost. Franken Berry, Boo Berry, Sugar Bear and the Honey Nut Cheerio bee, I believe his name is Buzz."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Terrific. Something weird happened and I don’t know what to do about it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What’s going on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon’s assistant asked me on a date last night."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "How could you do that to me? You know I’ve been working it with Alex for weeks."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Working it? You can’t even talk to her."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I talk with my eyes."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You look like my little cousin when he’s dropping one in his diaper."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "She knows I have a girlfriend. It’s so weird."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, my God. You’re loving this."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "To my bones. I mean, I’m not gonna do anything about it. I love Penny. It’s just nice to have a young, attractive woman sniffing around the goods."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I both hate you and want to be you. This is Ryan Gosling all over again."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Ah, gentlemen, what is on the conversational menu this morning?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Leonard stole my woman, and he knew full well I was only six to eight months away from making my move."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I didn’t steal anyone."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Your assistant is totally hitting on this jerk and he loves it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, that’s not acceptable. I mean, I’m her boss. She needs to be solely focused on my needs, not distracted by your pasty, androgynous brand of sexuality."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m androgynous?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, please. Look at you with your pouty bee-stung lips."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What do you guys think I should do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I say you tell Alex your heart belongs to Penny, I provide her a shoulder to cry on, and then roughly half a year later I give it to her good."
+    },
+    {
+      "type": "scene",
+      "text": "Amy’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I want to thank you all for coming on such short notice. Uh, in the past, I’ve reached out to each of you individually, but I believe my present situation requires the collective wisdom of the group, which as you can see from your commemorative T-shirts I have dubbed Sheldon Cooper’s Council of Ladies."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What is happening?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I need your advice about a delicate workplace situation. Uh, to protect those involved, I’ll be changing their names."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Who’s involved?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, a short, bespectacled colleague of mine who lives in the shadow of his brilliant roommate. Let’s call this colleague Ricardo Shilly-Shally."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You’re talking about Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, no, Shilly-Shally has red hair and, uh, he briefly served in the Mexican Navy. Anyway, despite the fact that he has a girlfriend, Shilly-Shally has been the recipient of inappropriate workplace flirtations from a young lady."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "It’s your assistant Alex, isn’t it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. No. No. This is Tondelaya della Ventimiglia."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Wait, what the hell’s going on with Leonard and Alex?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, uh, no, I’m sorry. Who’s talking about Leonard and Alex?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Fine. Ricardo and Tondelaya."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay, look, it’s not really about Ricardo and Tondelaya. It is really about her boss, who doesn’t quite know how to handle this situation and could use your advice, which is surprising because Dr. Einstein Von Brainstorm, he’s usually pretty smart about these things."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I’m gonna kill her."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I’m sure you’ve got nothing to worry about. Leonard would never cheat on you."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "She’s right. But say the word, I got a lab full of cocaine-addicted monkeys with nothing to lose. One of them could end up in the backseat of her car. Or her shower."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Ladies, ladies, please. We’re not here to talk about Penny, okay? We’re here to talk about me. Uh, I mean Einstein Von Brainstorm. Oh, darn it! All right, I guess the cat’s out of the bag. Let me explain what’s going on. Ricardo is really Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "We know what’s going on, Sheldon!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, what should I do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Well, Alex is your employee. If she’s doing something that’s making Leonard uncomfortable, you should talk to her."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, no, he’s not uncomfortable at all. No, he’s loving it. Yeah, he’s strutting around like he’s five-foot-six."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What? He’s loving it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Sheldon, you need to talk to Alex right away."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Talk to her? That’s all you’ve got? With a cool name like Sheldon Cooper’s Council of Ladies, I really expected more. Give me back the T-shirts."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon’s office."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Alex, check my schedule. What does my afternoon look like?"
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "I think it’s pretty wide open. Oh, wait. Here’s something at four o’clock. Give Alex a talking to?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, that snuck up on us, didn’t it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "Is there a problem?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Let’s not call it a problem. Let’s call it an opportunity. To solve a serious problem."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "What did I do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You don’t know? Oh, you poor dear. Your ovaries are squirting so much goofy juice into your brains you don’t even know which way is up. You made an inappropriate sexual advance towards Dr. Hofstadter."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "What? I didn’t make a sexual advance on anybody."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Now, there’s no need to get defensive. I’m not unsympathetic to your plight. My father used to say that a woman is like an egg salad sandwich on a warm Texas day."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Full of eggs and only appealing for a short time."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "This conversation is making me uncomfortable."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, you and me both, sister. Now, please understand, I don’t hold you responsible for your behaviour because, see, from an evolutionary standpoint, you’re a slave to your desire to reproduce. But during the work day, when you feel possessed by amorous intent, may I suggest that you suppress it by leafing through this illustrated book of sexually transmitted diseases? Let’s see here. Oh, yes. Check out this oozy doozy."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "I have to go."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So does this fellow, but he can’t without it burning like hot soup."
+    },
+    {
+      "type": "scene",
+      "text": "The stairwell."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, pretty lady."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, you seem extra happy."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, I guess I am."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Any particular reason why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know, just having a good day. This morning Sheldon fell asleep on the way to work, so I got to listen to the radio. That was pretty crazy."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Mm-hmm. Anything else?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Mm. I found this quiz online called Which Star Trek Character Are You? and it only took me four tries to get Captain Kirk."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "That’s great."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh. It. Was."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hmm. Well, I’m glad you’re having such a great day."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah. And the one thing that could make it even better is an evening with my special girl."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, and who’s that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What do you mean?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, I just didn’t know if you meant me or Alex."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Um, why would I mean Alex?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Because I know she hit on you and I know you liked it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Don’t play dumb with me, Ricardo Shilly-Shally!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m missing something. (Enters apartment. To Sheldon) Did you say something to Penny about Alex?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, yes. Yeah, and a fat lot of good it did me. All she did was get mad at you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why would you do that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I needed advice about a woman. I would have asked you, but if the last few years have proven anything, it’s that you can’t tell a uterus from a unicycle."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "At least I know not to blab to a girl about somebody flirting with her boyfriend."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Good to know. Yeah, a few more helpful hints like that, you may find yourself on the Council of Ladies. (Answering phone) Hello. I see. Uh, what time? Very well, then. Huh. That was the Human Resources Department at the university. Apparently, my assistant Alex has filed a complaint accusing me of inappropriate behaviour in the workplace."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, my God, what did you do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hmm, let me think. Nothing. I’m a delight."
+    },
+    {
+      "type": "scene",
+      "text": "The Human Resources Department."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "(Knock, knock, knock) Human Resources Department. (Knock, knock, knock) Human Resources Department. (Knock, knock, knock) Human Resources Department."
+    },
+    {
+      "type": "dialog",
+      "character": "HR Woman",
+      "text": "Come in."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hello."
+    },
+    {
+      "type": "dialog",
+      "character": "HR Woman",
+      "text": "Ah, Dr. Cooper, have a seat."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thank you."
+    },
+    {
+      "type": "dialog",
+      "character": "HR Woman",
+      "text": "I called you in today because your assistant Alex Jensen has lodged a complaint against you."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So I’ve been told. But I can’t understand what she has to complain about. I mean, she has a front-row seat as I make scientific history. There’s string cheese in my mini-fridge, and that’s for anyone. Yeah, and just yesterday I led her away from a life of sexual promiscuity by making her look at pictures of disease-ridden genitalia."
+    },
+    {
+      "type": "dialog",
+      "character": "HR Woman",
+      "text": "Cancel my next appointment. This is gonna take a while. Dr. Cooper, you said things to your employee that you just cannot say in the workplace."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Like what?"
+    },
+    {
+      "type": "dialog",
+      "character": "HR Woman",
+      "text": "Well, according to Ms. Jensen, you said that she was a slave to her biological urges and called her an egg salad sandwich. I don’t even know what that means, but I’m gonna go ahead and tell you you can’t say it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh! I see the confusion here. No, no, Alex thought I was singling her out. No. I meant that all women are slaves to their biological urges, you know? Even you. You’re a slave."
+    },
+    {
+      "type": "dialog",
+      "character": "HR Woman",
+      "text": "I’m a what?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, y-you, I-I’m just saying, you know, at a certain point in a woman’s menstrual cycle…"
+    },
+    {
+      "type": "dialog",
+      "character": "HR Woman",
+      "text": "Whuh-ah! Woah! You can’t talk about that, either, Dr. Cooper. Your language is entirely inappropriate, and I’m gonna advise that you shut your mouth right now."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t see why I’m the one being persecuted here. Dr. Hofstadter, he was bragging about his sexual desirability to anyone who would listen. You know, and Howard Wolowitz, he spent two years using university resources building a six-breasted sex robot. Oh, and at the office Christmas party, I heard Rajesh Koothrappali refer to you several times as Brown Sugar."
+    },
+    {
+      "type": "dialog",
+      "character": "HR Woman (writing)",
+      "text": "Hofstadter… Wolowitz… and the last one was Rajesh Koothrappali?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes. No, yeah, but in his defense, that wasn’t racist. He’s also brown."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment. Penny answers the door. Leonard is playing his cello outside."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard (singing)",
+      "text": "I’m sorry Alex hit on me, hit on me, hit on me. I’m sorry Alex hit on me, I’d no idea I’m cute."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, damn it, you are."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Please forgive me. I should have told you about Alex."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I don’t care about Alex. Fine, I care. Okay, I hate that bitch. But what really hurt is that you liked it so much. I mean, do I need to be worried?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Of course not. No. Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Because, she is pretty and smart, and when you talk about work, she doesn’t have to go home and look up words in the dictionary to understand what you said."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You do that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hang on. Are you feeling insecure? Because that’s my thing, and if you take it away, I don’t know what I’m bringing to this relationship."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yes, Leonard, I am insecure. Happy?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, I’m not happy."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why are you smiling?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m sorry. I just never think of you having feelings like that."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, I do."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Why? Nothing is ever going to happen between me and Alex."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Good."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Come here. Tell you a secret?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What’s that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "With all these women chasing me, I kind of do feel like Captain Kirk."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Can I tell you a secret?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sure."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Keep talking about Captain Kirk, and we’re all gonna stop."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Message received. Ah, excuse me. (Answering phone) Hello. This is Dr. Hofstadter. Okay. All right, thank you. That’s weird. I’m getting called in to Human Resources."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What did you do?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s kitchen."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Huh. I just got called in to Human Resources."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I don’t know."
+    },
+    {
+      "type": "scene",
+      "text": "Raj’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Huh. That is so strange. Human Resources wants to talk to me tomorrow. (To his dog) Could you stop licking your ass for two minutes? I have a problem here."
+    },
+    {
+      "type": "scene",
+      "text": "Human Resources department."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Do you really think you should be drinking right now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "How else am I supposed to talk to the Human Resources lady?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I don’t know. Seek professional help?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I did. The guy at the liquor store said this stuff tastes great in coffee."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Wait, you got called in, too? What is going on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon threw us all under the bus."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I feel like I’ve been called down to the principal’s office. Although I wouldn’t mind if Brown Sugar suspended me. From a sex swing. This may have been a mistake."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Relax. Everything’s gonna be fine. Before I met Bernadette I was in here every other day. Uh, little tip, turn off your I Like Big Butts ringtone before you go in."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Well, this is all your fault."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "How is this my fault?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "If you weren’t screwing around with Sheldon’s assistant, none of this would be happening."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I wasn’t screwing around with anyone."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, of course not. She was just sniffing around your goods because she was hunting for truffles."
+    },
+    {
+      "type": "dialog",
+      "character": "HR Woman",
+      "text": "Ah, Mr. Wolowitz, it’s been a while."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, Janine. How are Tom and the kids?"
+    },
+    {
+      "type": "dialog",
+      "character": "Janine",
+      "text": "Fine. You must be Dr. Hofstadter."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yes, but I think this is all a big misunderstanding."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Yeah, yeah, me, too. I didn’t do anything."
+    },
+    {
+      "type": "dialog",
+      "character": "Janine",
+      "text": "Is that alcohol on your breath?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Howard built a sex robot."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "That is not true. All I did was build a robot."
+    },
+    {
+      "type": "dialog",
+      "character": "Janine",
+      "text": "Did it have six breasts?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I’m sorry, I’m a feminist, I don’t notice things like how many breasts a robot has."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, hello."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What are you doing here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Actually, I came to speak to Mrs. Davis."
+    },
+    {
+      "type": "dialog",
+      "character": "Janine",
+      "text": "And I’m a little busy right now."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But I came to file a complaint. Somebody has made me feel uncomfortable in the workplace by using language of an inappropriate and sexual nature."
+    },
+    {
+      "type": "dialog",
+      "character": "Janine",
+      "text": "And who was that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You, you dirty birdie. I-I thought about the things you said to me yesterday, and I realized I’m deeply offended. Now, be a dear and get me one of those complaint forms."
+    },
+    {
+      "type": "dialog",
+      "character": "Janine",
+      "text": "That’s it. All of you, in my office now!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And thanks to you, I know better than to ask if you’re menstruating. And based on your behaviour, I don’t have to."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon’s office."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It has been pointed out to me that some of the things I said to you could be construed as offensive, and I would like to offer you my sincerest apology."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "Thank you, Dr. Cooper."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, additionally, you should know that the university has mandated that I take an online sexual harassment seminar so this sort of thing doesn’t happen in the future."
+    },
+    {
+      "type": "dialog",
+      "character": "Alex",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah. Now, unfortunately, uh, my time is much too valuable to waste on nonsense like this, so, um, I’m gonna need you to take it for me. Oh, and, uh, you’d better ace it, they’re pretty mad."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So, hey, I was thinking about that stuff with Alex."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, would you stop worrying about that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I can’t help it. But, look, I figured I could sit around and feel insecure, or I could do something about it. So I got a course catalogue at school and looked at some of the science classes."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That’s great."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, it isn’t, they are extremely boring. I mean, how do you not kill yourself, like, every day? Anyway, I decided I don’t need to be a scientist, I could just look like one. So I bought these."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Glasses? I really don’t think that’s gonna change… oh, my God, you look so smart and hot."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I know, right? Watch this. Molecules."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, come with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Where are we going?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "To my bedroom, so I can take everything off but those glasses. And maybe the boots."
+    }
+  ]
+}

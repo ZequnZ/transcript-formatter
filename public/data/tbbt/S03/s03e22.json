@@ -1,0 +1,1296 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 3,
+  "episode": 22,
+  "title": "The Staircase Implementation",
+  "url": "https://bigbangtrans.wordpress.com/series-3-episode-22-the-staircase-implementation/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, Babydoll Pink, let’s see if you can cover up the fact that I got my dad’s feet."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "direction": "(voice off)",
+      "text": "It’s just two degrees, Sheldon. I just want to turn up the thermostat two degrees!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon:",
+      "direction": "(voice off)",
+      "text": "Let me point out that two degrees can be the difference between water and steam."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "direction": "(voice off)",
+      "text": "Yes, if we lived in a teakettle."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon:",
+      "direction": "(voice off)",
+      "text": "This is the temperature you agreed to in the roommate agreement."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "direction": "(voice off)",
+      "text": "Aw, screw the roommate agreement!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon:",
+      "direction": "(voice off)",
+      "text": "No, you don’t screw the roommate agreement. The roommate agreement screws you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "direction": "(voice off)",
+      "text": "You know what, go to Hell and set their thermostat."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon:",
+      "direction": "(voice off)",
+      "text": "I don’t have to go to Hell. At 73 degrees, I’m there already!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(after a knock on the door)",
+      "text": "Who is it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Leonard."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hang on."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Can I sleep on your couch tonight?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Uh, well, you can try, but the people across the hall are being very noisy."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You heard that, huh?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Apparently, the one fella tried to adjust the thermostat, then the other fella went bat-crap crazy."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So you agree, he’s nuts."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, not as nuts as the guy who chooses to live with him."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Believe it or not, he was worse when I met him."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, I do not believe that."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You are so naive. Just like I was seven years ago. (Flasback: The lobby) I’d just started at the university."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Excuse me, I’m looking for Sheldon Cooper’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Man with a box",
+      "text": "Oh, I bet you’re here to check out the room for rent."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Man",
+      "text": "Run away, dude."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Man",
+      "text": "Run fast, run far. (End of flashback.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That should have been my first clue."
+    },
+    {
+      "type": "scene",
+      "text": "Moments later."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So Sheldon’s last roommate tried to warn you off?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "For all I knew, he was the crazy one. He had this really deranged look."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, yeah, he’d been living with Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sure, it makes sense now. (Flashback. Past Leonard is getting out of the lift). Anyway, I went upstairs and knocked on the door."
+    },
+    {
+      "type": "dialog",
+      "character": "Large Black Transvestite",
+      "text": "Yeah?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Dr. Cooper?"
+    },
+    {
+      "type": "dialog",
+      "character": "Transvestite",
+      "text": "No, you want the crazy guy across the hall."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "In retrospect, that was clue number two."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "Yes?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "I’m Leonard Hofstadter. I called you about the apartment. You said…"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "I know what I said. I know what you said. I know what my mother said on March 5, 1992. What is the sixth noble gas?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "What?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "You said you’re a scientist. What is the sixth noble gas?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Uh, radon?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "Are you asking me or telling me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Telling you? Telling you."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "All right, next question. Kirk or Picard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Oh, uh, well, that’s tricky. Um, well, uh, Original Series over Next Generation, but Picard over Kirk."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "Correct. You’ve passed the first barrier to roommate-hood. You may enter."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "direction": "(Enters apartment. It is bare except for two lawn chairs, a television and some whiteboards)",
+      "text": "Oh, this is pretty nice. Uh, the bedrooms are back there?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "That depends."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "I don’t understand, their, their existence is conditional?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "No, but your ability to perceive their existence is conditional on you passing the second and third barriers."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "There’s three?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "Each more daunting than the last. Have a seat."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "No! That’s where I sit!"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "What’s the difference?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "This seat is ideally located both in relation to the heat source in the winter and a cross breeze in the summer. It also faces the television at a direct angle allowing me to immerse myself in entertainment or game play without being subjected to conversation. As a result, I’ve placed it in a state of eternal dibs."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Can you do that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "Cathedra mea, regulae meae. That’s Latin for my chair, my rules. Now, you said on the phone that your area of study is physics."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Uh, yeah, experimental physics."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "Hmm."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "What is that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "Doesn’t concern you. You’ll be going to the university every day?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "And you have a vehicle?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "A car, yeah."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "And you’ll be willing to drive me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Well, can’t you drive?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "I can. I choose not to."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Okay, I suppose I could drive you. Well that’s a point in my favour, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "Why don’t you let me do this."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Come on, I just asked."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "Last question. In a post-apocalyptic world, which task would you assign the highest priority? Locating a sustainable food source, re-establishing a functioning government, procreating, or preserving the knowledge of mankind?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Uh, I’m gonna go with preserving the knowledge."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "That’s correct. FYI, I would have accepted any answer other than procreating. Come, I’ll show you the rest of the apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Oh, good. I passed the barriers."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "The second barrier. Don’t get cocky. This is the bathroom. Are you fairly regular?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Uh, I guess."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "This isn’t going to work if you’re guessing. When do you evacuate your bowels?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "When I have to."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "When you have to? I’m sorry, I don’t rent to hippies."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "I, I’m sorry, uh, in the morning. Around eight."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "I can’t give you eight. I can give you seven thirty."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Fine. I’ll take it."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "Third barrier passed. You have won the right to see your room. Huzzah!"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Is this it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "No, this is my room. People don’t go in my room."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "So where do you sleep?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "I don’t understand."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "If people don’t go in there, and you’re people, and… You are people, aren’t you? Making a joke."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "Do you do this often?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "On occasion."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "Your room. You may want to repaint. (End of Flashback)"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, and after all that, you just moved in?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, I didn’t just move in. First we had to iron out a few details. (Flashback: The apartment)"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "Roommates agree that Friday nights shall be reserved for watching Joss Whedon’s brilliant new series Firefly."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Does that really need to be in the agreement?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "We might as well settle it now, it’s going to be on for years. Initial here. All right, that’s television and movies. Section nine, miscellany. The apartment’s flag is a gold lion rampant on a field of azure."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "We have a flag?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "Never fly it upside down unless the apartment’s in distress. And next, if either of us ever invents time travel, we agree our first stop will be this meeting today in precisely five seconds."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "Well that’s disappointing. (End of flashback.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why on earth did you agree to all that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It was the best apartment I’d seen, the rent was very reasonable and after you’ve passed the first three barriers you kind of want to take it all the way."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, I’m sorry, Leonard, it’s very hard to feel sympathy for you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, how about this? Let me tell you about the first time I brought a girl over. (Flashback to Leonard’s bedroom.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "(Knock, knock, knock) Leonard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Shh. Just pretend we’re not here."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "(Knock, knock, knock) Leonard?Leonard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "I’m sure he’ll go away."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "I’m just going to keep knocking till you answer. (Knock, knock, knock) Leonard? (Knock, knock, knock) Leonard? (Knock, knock, knock) Leonard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "What do you want? I didn’t say come in!"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "You asked what I wanted. I wanted to come in. I’m here because you violated our roommate agreement. Specifically, section eight, visitors, subsection C, females, paragraph four, coitus. Roommates shall give each other 12 hours notice of impending coitus.”"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "I didn’t even know her 12 hours ago."
+    },
+    {
+      "type": "dialog",
+      "character": "Joyce Kim",
+      "text": "That’s it! I’m out of here!"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "But, Joyce, come on."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "12 hours? (End of flashback.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, my God."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Do I get some sympathy now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "A little bit. Okay. Let me get this straight. You move in with this guy, he makes you sign a ridiculous roommate agreement, then he walks into your bedroom while you’re doing this Joyce Kim, and you still stay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Actually, I couldn’t get too mad at him about Joyce Kim."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, I was doing some government research at the time, you know, military, rocket fuel. It’s kind of secret."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What does that have to do with Joyce Kim?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "As it turns out, she was a North Korean spy. Luckily, Sheldon drove her out before I revealed anything important. Which I’m not saying I would have."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So, what, that’s it? You’ve stayed with Sheldon all this time because he kept you from going to federal prison?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "That was part of it. The other part is what happened with the elevator."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, yeah, I’m wondering about that. You said it was working when you moved in."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It was, but one night, Sheldon came home from work… (Flashback, the apartment. The settee has now appeared. Leonard, Howard and Raj are playing a video game.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "What is going on here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Hey, Sheldon. This is Howard and Raj. They work at the university, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Howard",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Raj",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "I’ll get to you later. What are you sitting on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Howard",
+      "text": "I can’t speak for these guys, but I’m sitting on my tushie. It’s a joke."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Yeah, not a good idea."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Raj",
+      "text": "Tushie is buttocks, right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Howard",
+      "text": "Right."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Raj",
+      "text": "Hilarious."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "Explain the couch."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Oh, well, there were some people on the first floor moving out, and they sold it to me for a hundred dollars. Howard and Raj helped me bring it up."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "But what’s wrong with the furniture we have?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "They’re lawn chairs. And there was no place for company."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "Did it occur to you that was by design?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "According to the roommate agreement, I’m entitled to allocate 50% of the cubic footage of the common areas."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "But you didn’t notify me by e-mail, so this is still a breach."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "I did notify you."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "Oh, you did, did you? Oh, drat! Hoisted by my own spam filter."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "What am I doing in your spam folder?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "I put you there after you forwarded me a picture of a cat playing the piano, entitled this is funny."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Raj",
+      "text": "Oh, yeah, I saw that. That was hilarious. (End of flashback.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, what does all this have to do with the elevator?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m getting to it. (Back to flashback.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "I assure you, you’ll be sorry you wasted your money on an iPod when Microsoft comes out with theirs."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Raj",
+      "text": "Okay, do you have an opinion about everything?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Howard",
+      "text": "And you just assume you’re always right?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "It’s not an assumption. Change seats with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Raj",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "I don’t like this spot. I have to keep turning my head."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Raj",
+      "text": "Fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Ooh, it’s time for Babylon 5!"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "We don’t watch Babylon 5 in this apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Why not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "Because no one likes Babylon 5."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "I like it."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Raj",
+      "text": "Me, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Howard",
+      "text": "So do I."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "There you go– three against one."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "They don’t get a vote. It’s one against one. And according to the roommate agreement, all ties will be settled by me."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "But I said no to that."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "And I said yes. And I settle all ties. Change seats with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Howard",
+      "text": "Why?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "There’s a draft on my neck over here."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Howard",
+      "text": "So, I get the draft?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "You’re protected by your turtleneck."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Howard",
+      "text": "Fine. And it’s a dickey."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "Hmm, I’m still not comfortable. Of course. There’s too many people here."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "We can fix that. Let’s leave."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Howard",
+      "text": "Yeah, we can go over to my place."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "Wait. Let me get my jacket."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Howard",
+      "text": "You’re not going with us."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "Why not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Raj",
+      "text": "You’re the guy we’re trying to get away from."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "Oh. Well, in that case, I don’t need my jacket. And for the record, the correct syntax is I’m the guy from whom you’re trying to get away. Oh, yes, this is definitely going to be my spot. (End of flashback.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, how do you know he said that? You left the room."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey, do you want me to finish working on your man feet or not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Fine. Go ahead. (Flashback to Howard’s bedroom.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz",
+      "text": "Howard, are you having a playdate?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Howard",
+      "text": "I don’t have playdates! I have colleagues!"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz",
+      "text": "Do their parents know they’re here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Howard",
+      "text": "No, but if you keep screaming, maybe they’ll hear you!"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "That your dad?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Howard",
+      "text": "She grows any more hair on her face, yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Oh, man. Is that a two-stage rocket?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Howard",
+      "text": "Three. I designed the engine myself."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Raj",
+      "text": "Cool. Can it break Mach 1?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Howard",
+      "text": "Oh, probably, if I could get my hands on that new fuel the government’s been working on."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Oh, this just might be your lucky day."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz",
+      "text": "Howard, what happened to the Oreos I left on the counter?!"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Howard",
+      "text": "I haven’t seen your Oreos! Just take your bath without them! (End of flashback.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "So, why was it his lucky day?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Well, it turns out I had a little rocket fuel in the apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "What were you doing with rocket fuel in your apartment?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Mm, Joyce Kim was kind of curious about what I did for a living, and I was going to kind of show it to her. It’s not important. The point is, the guys and I went back to the apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Are we ever going to get to the elevator?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, we’re really close. Uh, uh, we’re at the apartment. (Flashback.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "The trick is to mix it into Tovex in order to create a combustible gel that will generate over 8,000 kilonewtons of thrust."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Howard",
+      "text": "Nice."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Raj",
+      "text": "Cool."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "Won’t work."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Excuse me, but I’ve been working on this a long time. Trust me, it’ll work."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "You don’t see your mistake, do you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "There’s no mistake."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "This is for a full-scale rocket, not a model."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Well, I’ve adjusted the formula."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "Not correctly."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Okay, I’ve had it with you. You might be an expert on theoretical physics and science-fiction programs and where to sit on a freaking couch, but this is applied physics. And when it comes to applied physic… uh-oh."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Howard",
+      "text": "What’s happening?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "A bad thing. A very bad thing. Get the door. Get the door! Get the door! Get the door! Get the door!"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Howard",
+      "text": "You’re waiting for the elevator?"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "Oh. Right."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Raj",
+      "text": "Wait. It’s here."
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "Give me that. (Takes the rocket fuel. Puts it in elevator. Presses button and jumps out.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Leonard",
+      "text": "What’d you do that for? I had plenty of time. (Elevator explodes.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Sheldon",
+      "text": "You’re welcome. (End of flashback.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Not only did Sheldon save my life, he didn’t rat me out to the landlord. Or the police. Or Homeland Security."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, so, basically, you’re the reason I have to walk up and down three flights of stairs every day?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So I did something stupid. I’m sure you did stupid things when you were younger. What were you doing seven years ago?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Excuse me, I was in high school. Studying, keeping my nose clean, doing volunteer work for the community. (Flashback. Penny is in her bedroom, sitting on the bed with a guy, looking at a pregnancy tester.)"
+    },
+    {
+      "type": "dialog",
+      "character": "Past Penny",
+      "text": "Not pregnant. Yes!"
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, Ubuntu, you are my favourite Linux-based operating system."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Hey."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hello. Why do I smell methacrylate?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, uh, clear nail polish. I had a mani-pedi. Men can get those. Anyway, I may owe you an apology."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "There’s doubt?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I did agree to the thermostat setting, and I shouldn’t have tried to change it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s not an apology, simply an acknowledgement that I was right."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay, I’m sorry."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "There you go."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, we’re good?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Good what?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Never mind. Okay if I watch some TV?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Go ahead."
+    },
+    {
+      "type": "dialog",
+      "character": "Television voice",
+      "text": "Up next Babylon 5."
+    },
+    {
+      "type": "scene",
+      "text": "Penny’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "direction": "(voice off)",
+      "text": "You’re not even watching!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(voice off)",
+      "text": "I can hear it!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "direction": "(voice off)",
+      "text": "Oh, so the dialogue offends you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(voice off)",
+      "text": "I would hardly call that dialogue!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "direction": "(voice off)",
+      "text": "You’re insane, you know that?!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(voice off)",
+      "text": "Don’t make me turn that flag upside down, ’cause you know I’ll do it!"
+    }
+  ]
+}

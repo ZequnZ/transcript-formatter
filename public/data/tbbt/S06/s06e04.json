@@ -1,0 +1,1187 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 6,
+  "episode": 4,
+  "title": "The Re-Entry Minimization",
+  "url": "https://bigbangtrans.wordpress.com/series-6-episode-04-the-re-entry-minimization/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The Apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Howard’s capsule should be re-entering the atmosphere any minute."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’ll be good to have him back."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "The Fantastic Four reunited."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, you had a good run, Fake Wolowitz. We’ll remember you with nostalgic fondness, the way we do the dial-up modem, the VHS tape, or, or Leonard’s gym membership."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "We’re not kicking him out. Stuart and I have become good friends."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay, one vote for, one vote against. Leonard, you’re the tiebreaker."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t have a problem with Stuart. Besides, he gives us a twenty percent discount at his comic book store."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I don’t sell my friendship that cheaply."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "I can go thirty."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Welcome aboard, old chum."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, the NASA Web site says Howard’s final descent has begun."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "He left a boy, he returns a boy-sized hero."
+    },
+    {
+      "type": "scene",
+      "text": "The Soyuz Capsule. Howard is screaming."
+    },
+    {
+      "type": "dialog",
+      "character": "Dimitri",
+      "text": "Loops, calm down!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard (singing)",
+      "text": "Baruch atah, Adonai, Eloheinu. Melech haolam, hamotzi. Lechem min haaretz"
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "What’s that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "The Jewish prayer for eating bread! We don’t have one for falling out of space! We did it! We’re on the ground! We survived!"
+    },
+    {
+      "type": "dialog",
+      "character": "Mike",
+      "text": "That was just the parachute. We still have another six miles to go. (Howard screams again)"
+    },
+    {
+      "type": "scene",
+      "text": "The Airport Arrivals Hall."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Waiting for my husband."
+    },
+    {
+      "type": "dialog",
+      "character": "Man in Suit",
+      "text": "That’s nice."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "He’s coming back from outer space."
+    },
+    {
+      "type": "dialog",
+      "character": "Man in Suit",
+      "text": "I think this flight’s coming from Houston."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "No, I mean, he… Never mind. There he is! Howie!"
+    },
+    {
+      "type": "dialog",
+      "character": "Various others (all at once)",
+      "text": "Howie! Howie!"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Whoa, thank you. Great to be back on Earth."
+    },
+    {
+      "type": "dialog",
+      "character": "Howie Mandel",
+      "text": "Uh, I think they’re here for me, Ringo."
+    },
+    {
+      "type": "dialog",
+      "character": "Man in Suit",
+      "text": "Mr. Mandel, I’m your driver."
+    },
+    {
+      "type": "dialog",
+      "character": "Howie Mandel",
+      "text": "Oh, thanks. That nut job was telling everybody on the plane he’s an astronaut."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I missed you so much."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I missed you, too. Where are the guys?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Oh, it’s just me."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, I get it. They’re waiting back home with a big surprise party. Don’t worry, I can act surprised. (Does)"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "No, I told them they could have you tomorrow night. Tonight, you belong to me. (Sneezes)"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Gesundheit. You okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "I am now that you’re back. Come on, let’s go home so I can tear off those little pants."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Great. Just keep in mind astronauts lose a lot of muscle tone in space, so you might have to do most of the heavy lifting."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "You know, I am very disappointed that I won’t be able to celebrate Howard’s accomplishment tonight."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Me, too. But we’ll see him tomorrow."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, it’s just that in all the years I’ve known him, he’s never had the opportunity to receive my admiration. I was excited to see the look on his face when it finally happened."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "You’re unbelievable."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I know."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "All right, Pictionary. What are the teams?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "How about boys versus girls?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, that hardly seems fair. But I guess any team that I’m not on has a decided disadvantage."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Once again, unbelievable."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, once again, I know."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right, round one. Here."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Got it."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay. Ready, set, go."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Uh, box? Uh, window?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Batman. Batman and Robin. Uh, Wonder Twins plus the monkey. Wonder Twins plus the monkey and Batman."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Uh, gift? Uh, Present!"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Present! Yeah!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, Leonard. Now, how can you not get that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "In what universe is that a present?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s not a present, it’s the present. Look. There’s you and me. There’s Penny and Amy. We’re playing Pictionary. In the present."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, my God, we’re gonna kill them."
+    },
+    {
+      "type": "direction",
+      "text": "Later"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s a quark-gluon plasma."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s asymptotically free partons inside a quark-gluon plasma."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Nothing with quarks."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s an observational rebuttal of the Lambda-CDM model of the universe."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "It’s a chocolate chip cookie."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Yes."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "How could you miss that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hey, if you want someone to guess chocolate chip cookie, you draw a glass of milk next to it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Penny got it."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yeah, only after I eliminated all the obvious answers. You’re welcome."
+    },
+    {
+      "type": "direction",
+      "text": "Later"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, uh, uh, uh, sausage. Uh, uh, uh, uh, bratwurst? Oh, oh, a hot dog."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Penny, aren’t you gonna draw something?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Relax, we got time, this is so fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "There."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "A solar system. Uh, uh, uh, uh, um, unidentified flying liverwurst? I don’t…"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Soon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Come on, Leonard, I am spoon-feeding this to you."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I don’t know, uh, Casper the alcoholic ghost?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right, that’s enough. (Draws)"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Uh, hand. Uh, nail, polish?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yep!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wait, no, no. No. The word is Polish. See, look. Polish sausage. And the, the model of the solar system developed by Nicolaus Copernicus, a Polish astronomer. And then, finally, if that wasn’t enough, which it should have been, this is Madame Curie killing herself by discovering radium, who, although she was a naturalized French citizen, was Polish by birth."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Excuse me, the word is polish. See? Small P."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Ah. So it is. I guess we both share blame on this one."
+    },
+    {
+      "type": "scene",
+      "text": "Howard and Bernadette’s Bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Bernie, you okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette (off)",
+      "text": "Yeah, I’ll be right there. (Hacking and coughing noises)"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Did you get a sea lion while I was gone?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "It’s just allergies."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Took some Benadryl. I’ll be fine. So, did you miss me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh. Are you kidding? Every minute of every…"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette (has a coughing fit)",
+      "text": "Ew. Excuse me."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sweetie, we don’t have to do this now."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Yes, we do. You left right after we got married. This is like our honeymoon. Now, hold on to your hat. Oh. Uh-oh."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You okay?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "A little dizzy. Must be the Benadryl. Switch places with me."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette",
+      "text": "Now, kiss me. (He does. She starts snoring)"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Bernadette? Bernie? Bernie?"
+    },
+    {
+      "type": "dialog",
+      "character": "Bernadette (waking suddenly)",
+      "text": "That was amazing. You made me feel things I never… (starts snoring again)"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Well, that was quick, and a little gross. Now, I know how she feels."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, Sheldon, you’re always full of fun little facts. Where did the expression got your ass handed to you come from?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Don’t know."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I wonder if it’s from, like, ancient Rome where they’d actually chop somebody’s ass off and then go, here. You know, to appease Loseroneous, the god of losers."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I am not a loser. Pictionary is not a true test of any real intelligence or skill."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Mmm, in all fairness, Pictionary has verbal skills, visual skills. It’s a pretty well-rounded game."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Lot of big talk from a man who can’t draw a chocolate chip cookie."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right, fine, pick another game. Amy and I will beat you at anything."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right. Let’s play Physics Fiesta."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, come on, what is that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It’s a game that I just invented, in which the participants answer physics questions in remedial Spanish. Um, ¿Dónde está el boson de Higgs?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "En el acelerador de particulares."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Bueno, mi amigo."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "No, no, we’re not playing some dumb made-up game."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All games are made up. They’re not found in nature. You don’t just dig in the ground, come across a rich vein of Rock’em Sock’em Robots."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Just pick another game."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Why don’t we do something athletic like go over to the university pool and play water polo?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No good, Sheldon doesn’t float."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That is true. I have a higher than normal body density. If I run too deep a bath, I drown."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "All right, let’s keep it simple. How about darts?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, that’s not fair either."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Why not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Darts is a bar game. You’ve been frequenting drinking establishments since you were of legal age."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, that’s when it started."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, regardless, she has a distinct advantage in all tavern-based competitions. Pool, beer pong, wet T-shirt contests, they’re all out."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay. Just for the record, I have never entered a wet T-shirt contest. I’ve won a few, but that’s just because I spill when I’m drunk, so…"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "We could go to the cadaver lab at UCLA and play real-life Operation."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh-uh."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "I don’t think so."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Are you sure? I mean, the nose doesn’t light up, but if the corpse is fresh enough, sometimes you can get the leg to jerk."
+    },
+    {
+      "type": "scene",
+      "text": "Mrs Wolowitz’s House."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, Ma, twinkle, twinkle, your little star is home. Ma, the chain’s on the door."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz (off)",
+      "text": "Howard? I thought I wasn’t going to see you till tomorrow."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, well, Bernie’s not feeling well, so I thought I’d stop by, tell you about the greatest adventure of my life, see if you can make me feel bad about it."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz (off)",
+      "text": "Uh, uh, okay, hold on, I’m not decent."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "All right. Woman hasn’t tied her robe in 20 years. Suddenly she’s not decent?"
+    },
+    {
+      "type": "direction",
+      "text": "Man’s Voice (off): You want me to hide in the closet or go out the back?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz (off)",
+      "text": "Shh, you need to whisper."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Ma, who is in there?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz (off)",
+      "text": "Uh, nobody. The TV is on."
+    },
+    {
+      "type": "direction",
+      "text": "Man’s Voice (off): I only got one sock. Where’s my other sock?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Who is that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz (off)",
+      "text": "I told you, it’s the TV. Jay Leno lost a sock, it’s hilarious."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "If you’re busy, I can come back."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Wolowitz (off)",
+      "text": "Just give me a second. Go, go, go, go."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard (to man climbing out window)",
+      "text": "Dr. Schneider?"
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Schneider",
+      "text": "Oh, hello, Howard."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What are you doing here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Schneider",
+      "text": "Um, house call."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "You’re a dentist."
+    },
+    {
+      "type": "dialog",
+      "character": "Dr Schneider",
+      "text": "Yes, yes, I am. I think he’s on to us."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, glasses off. Find Waldo."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Hurry up, find him, find him."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m trying. Don’t yell at me."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "For goodness’ sake, he’s wearing a hat, glasses, and a red striped shirt."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I know what he looks like."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Oh, there he is, I got him."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Yes, we win again."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "How could you not find him?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Because he’s hard to find. If he was easy to find, the books would be called There’s Waldo."
+    },
+    {
+      "type": "direction",
+      "text": "Later. Penny and Sheldon have their foreheads on light sabres and are spinning."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "57, 58, 59, that’s one minute."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Long division, long division. Go, go, go."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Remember, show your work."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m okay. I’m okay. I’m not okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Get up, we can’t lose at math."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "37."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Yes."
+    },
+    {
+      "type": "direction",
+      "text": "Later"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Ready, set, wrestle. (Penny pins Sheldon straight away) One, two, three, pin."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Mwah!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Stop that."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Mwah!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Amy, do something. Amy, help. Amy, stop that. Amy, Penny, both of you, stop it."
+    },
+    {
+      "type": "scene",
+      "text": "Raj’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "One to beam aboard?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, my God, you’re back. Oh, look at you. You, you look like you grew."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah. The lack of gravity did decompress my spine, so I’m like an inch and a half taller. I’m going to the DMV tomorrow to get my license changed before I shrink back."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, uh, come in, come in. Oh, I, uh, I didn’t think I was going to get to see you until tomorrow."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yeah, well, Bernadette’s a little under the weather and my mom’s kind of under my dentist."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Wait, your, your mother is sleeping with your dentist?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Former dentist. I need a new one now that I know where his hands have been."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "So you’re wandering all around by yourself? That’s not the kind of hero’s welcome an astronaut should come home to."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "It’s okay, you know, we space cowboys don’t do what we do for glory and fame. We leave that to your rock stars and your athletes and your Howie Mandels."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Oh, hey, man, welcome back."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, Stuart, thanks. What are you doing here?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "I, I kind of live here now."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Just until he gets back on his feet, which are looking pretty good in the boots I bought him for his birthday."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Ah, he’s spoiling me and I love it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Wow, so you guys are like buds now?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, yeah, we hang out all the time."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Plus, he doesn’t have a girlfriend, I don’t have a girlfriend."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "It’s like we both had these holes in our lives, but now we fill each other’s holes."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Uh, that sounds a little funny to an American ear."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Which part?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Just all of it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Okay, so what do you guys got going on tonight?"
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Raj is taking me to the Sound of Music sing-along."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Sound of Music sing-along? That used to be our thing, but that’s cool."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Oh, Howard, it’s still our thing. Come with us, we’ll, we’ll get you a scalped ticket."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So I’d be sitting by myself?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "We’ll switch. You’ll come sit with me after intermission."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "So I, I, I’d be sitting by myself during Edelweiss?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, no, you guys go. Have fun."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Okay, uh, will I get to see you tomorrow?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Absolutely. See you, Stuart."
+    },
+    {
+      "type": "dialog",
+      "character": "Stuart",
+      "text": "Yeah, yeah. Is he taller?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "At least my mother made her boyfriend climb out the window."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "All right, standard state fair pie-eating contest rules are, no hands, first one to clean the pan wins."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "On the count of three. One, two…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Wait. I’m a little concerned. Blueberries are rich in antioxidants."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "So, with all those antioxidants, what if I run out of oxidants?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, we haven’t won a game all night. Now, you either stick your face in that pie or I’m gonna stick that pie in your face."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That’s rude."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "One, two, three, eat."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Hey, guys, guess who’s back from space."
+    },
+    {
+      "type": "dialog",
+      "character": "All",
+      "text": "Not now!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, ow, blueberry in my nose, blueberry in my nose!"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Snort it down and keep eating!"
+    },
+    {
+      "type": "scene",
+      "text": "A diner."
+    },
+    {
+      "type": "dialog",
+      "character": "Waitress",
+      "text": "You look familiar."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "I don’t think so."
+    },
+    {
+      "type": "dialog",
+      "character": "Waitress",
+      "text": "Yeah, I just saw you on the news. You’re an astronaut."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yes. Yes, I am."
+    },
+    {
+      "type": "dialog",
+      "character": "Waitress",
+      "text": "Good for you. How about a piece of cheesecake on the house?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, thank you so much. I’ve been having the worst night. I just got back, and my friends don’t care, my wife’s sick, I went to my mom…"
+    },
+    {
+      "type": "dialog",
+      "character": "Waitress",
+      "text": "You want the cheesecake or not?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yes, please. (Sings) And I think it’s gonna be long, long time till touchdown brings me ’round again to find I’m not the man they think I am at home, oh, no, oh, no, I’m a rocket man. (Sneezes) Perfect."
+    }
+  ]
+}

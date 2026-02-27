@@ -1,0 +1,1015 @@
+{
+  "series": "The Big Bang Theory",
+  "season": 5,
+  "episode": 6,
+  "title": "The Rhinitis Revelation",
+  "url": "https://bigbangtrans.wordpress.com/series-5-episode-06-the-rhinitis-revelation/",
+  "lines": [
+    {
+      "type": "scene",
+      "text": "The apartment. Sheldon’s mother is visiting."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So what kind of cruise is this you’re going on?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "It’s called the Born Again Boat Ride. Christian Quarterly gave it their highest rating, five thorny crowns. I do wish you’d come with me, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, Mom, if I did, it would be conclusive proof that your God can work miracles."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "You’re missing out. It’s gonna be wall-to-wall fun. It’s all themed. There’s Jonah and the Whale Watching, all-you-can-eat Last Supper Buffet, and my personal favourite, Gunning with God."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What’s Gunning with God? I’m afraid to ask."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Oh, it is a hoot and a half. You write your sins on a clay pigeon, they fire ’em up in the air, and you pulverize them with a 12-gauge shotgun full of our Lord’s forgiveness."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Frankly, Mom, I’m encouraged to see how advanced your group has become, willing to sail out into the ocean without fear of falling off the edge."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "For example, if Shelly was aboard, he’d write “smart mouth” on his pigeon, and then bam!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The Lord giveth and the Lord bloweth away. Well, Mom, according to my itinerary for our weekend together, the fun begins with fried chicken."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Sounds delicious."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Good, ’cause I got you everything you need to make it. You are in for a treat. My mother’s fried chicken is why we had to buy my dad the extra large coffin."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, she just got off the plane. She doesn’t want to cook."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Of course she does. Making me food is her way of saying I love you. Making me food when she’s too tired to cook is her way of saying I really love you."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Actually, I wouldn’t mind going out for a bite, Sheldon."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Won’t that spoil our appetites for the chicken you’re going to make me?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "All right, that settles it, we’re going out. Do you like sushi? There’s a great little place down the street."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "I’ve never had it, but there’s no harm in trying something new."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "There’s a lot of harm in trying something new. That’s why we test out drugs and cosmetics on bunny rabbits."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sheldon, you’re talking like a crazy person."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Actually, I had him tested as a child. Doctor says he’s fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Told you."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Although, I do regret not following up with that specialist in Houston."
+    },
+    {
+      "type": "scene",
+      "text": "A sushi bar."
+    },
+    {
+      "type": "dialog",
+      "character": "All",
+      "text": "Irasshaimase!"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Stop yelling! I’m not happy about this."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What’s the last thing you were ever happy about?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "The prospect of fried chicken."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "This is exciting. Back home, the diner on Route Four serves sushi, but it’s just cut up fish sticks and a side of Uncle Ben’s. They put it on the menu in those kung fu letters, but that don’t make it sushi."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, kung fu letters might not be politically correct."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Oh, I thought the one we couldn’t say was ching chong."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Yeah, yeah, that, too."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "So, Shelly, what’s up with you and your friend Amy, if you don’t mind a mother prying a bit?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, there’s actually big news on the Amy front. She’s been studying the neurobiology of addiction in lower animals. She is this close to getting a starfish hooked on cocaine."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Do you have any idea what’s going on with those two?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "It’s kind of like the Loch Ness monster. Maybe there’s something there, maybe there isn’t. We’ll probably never know. But sometimes it’s fun to creep yourself out thinking about it."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "How are you doing on the young lady front? I hear you’re in some sort of a long distance situation?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Uh, yeah, it’s Raj’s sister. It’s kind of tough. She’s in India. Also, her parents aren’t happy she’s dating someone white."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Oh, that’s a funny turn, isn’t it? You never think about it going the other way. Well, you can’t force things. You need to figure out if you’re in a relationship or if you’re just calling it one. It’s like they say, a cat can have kittens in the oven but that don’t make ’em biscuits."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And that reminds me of another saying. You can lead a chicken to Crisco, but you can’tmake your mother fry it."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Sheldon, you pester me one more time about chicken, I will put you over my knee right here in this restaurant."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Please pester her. Please, for me."
+    },
+    {
+      "type": "scene",
+      "text": "The stairwell."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "So, Mrs. Cooper, what did you think of the sushi?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "It was good. The only thing that would have made it better is if it was cooked and if it was beef. Sheldon, when is your landlord going to fix the elevator?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I don’t know. Lately we’ve been talking about converting it into a missile silo."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Your son seems to think we need to launch a pre-emptive strike on Burbank."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Get them before they get us."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "direction": "(Sitting against their front door, drinking a beer)",
+      "text": "Hey, look who decided to show up."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Raj, what are you doing?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I couldn’t find you guys so I bought six new friends. Three, sadly, are dead."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Mom, you remember Rajesh? Rajesh, my mother."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Of course. Mrs. Cooper. So nice to see you again."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Well, it’s so nice to see you, too. I thought it was our Indians that had the occasional alcohol problem."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "We don’t say that, either. I’ll make you a list."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Oh, that would be mighty white of you. So, Raj, what pain are you trying to cover up with alcohol?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "Nothing, I’m fine."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Are ya?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "No. (Bursts into tears)"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "That’s better. Now tell me what’s bothering you."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I’m so lonely."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, yes, born alone, die alone. It’s a tragic human condition. Now, Raj, if you’ll excuse my mother, she’s about to make a pecan pie that’ll be so good I’ll almost forget how she blew it with the fried chicken."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Sheldon, your friend is hurtin’. What do we do when someone’s hurtin’?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Offer them a hot beverage."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "And when they’re drunk as a skunk, what beverage do we offer?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Coffee."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "And what do we do it with? (Sheldon fixes a large false smile.) Now you listen to me. I know you feel like you can’t find someone, but there’s a lock for every key. Back home, there’s a girl works at the Wal-Mart. Tall, tall girl. Woman could hunt geese with a rake. Thought she’d never find a man, then one day, wouldn’t ya know, Harlem Globetrotters come to town. Long story short, today that woman travels the world with a semi-professional basketball player and two beautiful mixed-race babies."
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "text": "I didn’t get a lot of that because of your accent, but the general tone was soothing and somehow I feel better."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m not going to get my pecan pie, am I?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "You want some Oreos?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Double Stuf?"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "No, regular."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Nice. Kick a man when he’s down."
+    },
+    {
+      "type": "scene",
+      "text": "The laundry room."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m glad we’re finally getting to do something together, just the two of us."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Sure. One thing you really miss when you’re on vacation is laundry."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Careful, you’re using too much Downey. You know if my clothes get too soft it makes me sleepy."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Well, this takes me back. Me doing your laundry, you next to me criticizing."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It is nice, isn’t it?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "direction": "(arriving)",
+      "text": "Mrs. Cooper. Hi!"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Oh, hello, darlin’."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Sheldon, you didn’t tell me your mom was coming."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "It was in my weekly e-mail blast. Right between beet season is finally here, and uh-oh, red stool from beets leads to cancer scare."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "So, how’ve you been?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Good, good."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "I hear that Leonard has a new girlfriend. How are you doing with all that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, fine. You know, it’s been a while. I’m getting back out there."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Let me ask you, when you get back out there, are you wearing this? (Holds up a skimpy top)"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Well, it’s super cute on. That top has paid for itself in free drinks like ten times what it cost."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yes, Penny has a lot of her money tied up in promiscuity futures."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Hon, you think maybe the reason why you’re having trouble finding a guy to settle down with is because you’re letting them ride the roller coaster without buying a ticket?"
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, they don’t always get to ride the roller coaster. Sometimes they only get to spin the teacups. Now I’m going out tonight. Would it be crazy to ask you to look at the outfit I’m going to wear?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Oh, not crazy at all. And don’t beat yourself up. When I was your age, you could have me for a car ride and a bottle of strawberry wine."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Now that will not be in this week’s e-mail blast."
+    },
+    {
+      "type": "scene",
+      "text": "The apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "So, this spring, I get to go to the International Space Station."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Oh, my word, a trip to the heavens. If you ever want to live there eternally, I’ve got a good book you could read."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Thanks, but I watch the Charlie Brown Christmas special every year, so I get the gist."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "I bet your mom is really proud of you."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Nope. She says if I don’t back out she’s going to go on a hunger strike. It would take years before she’d be in any kind of danger, but still."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’ve got a treat for us tomorrow, Mom. I’m taking you to see Saul Perlmutter give a lecture about his Nobel Prize-winning work in cosmology. And the best part is, at the Q and A afterward, I’ve worked up a couple of Q’s that will stump his sorry A."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "I don’t know, Shelly. I thought we could do a little sightseeing."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What sight is better than your little boy embarrassing a Nobel laureate?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Come on, Sheldon, we’ll take your mom to see the Hollywood sign, the wax museum, the Walk of Fame."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Ooh, maybe a little Rodeo Drive."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Well, I can’t spend twelve thousand dollars on a handbag, but it’s free to look upon those who do with righteous condemnation."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "What do you say?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What do I say? I say you people need to stop ruining my mom’s visit with your sushi, and your sadness and your slutty shirts. Stop it."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "direction": "(after Raj whispers to him)",
+      "text": "He’s not talking about your shirt. Your shirt is fine."
+    },
+    {
+      "type": "scene",
+      "text": "The kitchen."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "These are delicious."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "The trick to pancakes is bacon grease. I cook everything in it."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Everything? Aren’t you worried about your health?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Oh, doctors are always changing their mind. One week bacon grease is bad for you. The next week we’re not getting enough of it. Good morning, Shelly."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Mom, I want to apologize for my behaviour last night."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Apology accepted."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Great. Now, you’re going to love the Perlmutter lecture. Look, he will be stating that the universe is older than 6,000 years, but I thought you could stick your fingers in your ears and hum Amazing Grace during those parts."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "I am still going out with your friends."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "But I apologized. And that was hard for me because I didn’t do anything wrong."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Shelly, I hung out with you in enough dusty lecture halls while you were growing up. I want to go sightseeing. So why don’t you have some pancakes, get dressed and come with us."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I’m not going, and you can’t make me."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "You’re right, I can’t. Have a nice day."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I’m going to stand here until you change your mind."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Well, then you are going to stand there all day."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I’m just gonna take my bacon grease and slide over there."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I can’t believe my own mother is abandoning me."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "I am not abandoning you. Sheldon, abandoning you is leaving you in a basket on a church doorstep. I am going to Hollywood and thank a wax Ronald Reagan for his service to our country."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "We appear to be at a crossroads in our relationship, Mother."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Well, I guess we are."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Sorry. Syrup."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "All right, Mom. When you’re at the Ripley’s Believe It Or Not Museum, if they have an exhibit about a mother who threw away a chance to spend the day with the world’s most wonderful son, believe it, because it’s true. (Grabs pancakes and snatches syrup from Leonard’s hand)"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "I hadn’t…"
+    },
+    {
+      "type": "scene",
+      "text": "Amy’s apartment."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "That lecture was a waste of time. I made more accurate diagrams of the expansion of the early universe on the nursery wall with the contents of my diaper. (Sneezes)"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Are you getting sick?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, I’m just allergic to people who get Nobel Prizes for no good reason."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, is it possible that your foul mood, or, to use the clinical term, bitchiness, is because your mother isn’t making you a priority?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No. Or to use the clinical term, nuh-uh."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Are you sure? The infant-mother pair-bond is the building block of primate psychology."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, there it is. It always comes back to monkeys with you. Just monkeys, monkeys, monkeys."
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Sheldon, we’re all animals. And granted, there are aspects of you that are extraordinary, but when it comes to emotions and relationships, you’re just like everybody else."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Are you trying to suggest that my emotional problems are no different than those of a stupid person?"
+    },
+    {
+      "type": "dialog",
+      "character": "Amy",
+      "text": "Actually, some research indicates that by not over-thinking, the less intelligent handle emotions better. (He sneezes again) Sure you’re not coming down with a cold?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Oh, yes, the common cold. Just like everyone else. You’d love that, wouldn’t you?"
+    },
+    {
+      "type": "scene",
+      "text": "A church."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Oh, this one’s sweet. You know, for your rosary rattlers."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Mrs. Cooper, we say Catholics, not rosary rattlers."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "My goodness, it’s a wonder you people in California can talk at all."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "This is like the worst Hollywood tour ever."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "What are you gonna do? She wanted to see churches."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Hey, they have wine here, don’t they?"
+    },
+    {
+      "type": "dialog",
+      "character": "Raj",
+      "direction": "(pointing at a crucifixion statue)",
+      "text": "Hey, none of our gods have abs like that."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Yep, that’s the last Jew who did sit-ups. And look where it got him."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Hey, while we’re here, why don’t we all do some praying? Let’s put a little church in this church."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Oh, I’m not sure we should."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "It’s easy. I’ll show you how. Lord, Mary Cooper here. Coming to you from Gomorrah, California. I want to thank you for the blessing that is my little Shelly. I also want to thank you for the continued strength not to coldcock him with my Bible. All right, Penny, your turn."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Okay, um, hey, God. What’s up? Um, I’m good, but, uh, it would be a big help to my family if you could get my brother to stop cooking meth. But no cops. Be cool."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "She also goes a little overboard on the love thy neighbour. Could probably use that chat you had with Mary Magdalene. Leonard, you’re up. Wasserman, you’re on deck."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Okay. I don’t know, it’s probably a little late to ask you to make me taller. Oh, um, if you could help out with me and my girlfriend. She’s all the way in India. That would be great."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Hear that? Girl trouble. Turns out we were both wrong on that front. How about you?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "Oh, me? No. Thanks, I’m good. I’m really just trying not to burst into flames."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Rajesh?"
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "He says he’s having trouble dropping those last five pounds."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Huh, I might have gone with the talking-to-girls thing."
+    },
+    {
+      "type": "dialog",
+      "character": "Howard",
+      "text": "No, you only get one wish."
+    },
+    {
+      "type": "scene",
+      "text": "A park bench. Sheldon is sitting. A stranger sits next to him."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Look at the two of us. Me, a highly regarded physicist. The kind of mind that comes along once, maybe twice in a generation. You, the common man, tired from your labours as a stockbroker, or vacuum cleaner salesman, or bootblack. But deep down inside, apparently we’re just two peas in a pod. A regular pea, and the kind of pea that comes along once, maybe twice in a generation. Rain. Another great equalizer. Falling on the head of the brilliant and the unremarkable alike. (The stranger puts up an umbrella) Smarty-pants."
+    },
+    {
+      "type": "scene",
+      "text": "The kitchen."
+    },
+    {
+      "type": "dialog",
+      "character": "Penny",
+      "text": "Oh, Mrs. Cooper, it smells so good."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "You take notes, darlin’. The real way to get a man is with melted cheese and cream of mushroom soup. He’ll die at 50 but his love will be true."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "direction": "(entering, soaked)",
+      "text": "I need a tissue.This one got wet."
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "text": "Here."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thank you. Yeah, I’ve learned something today. You and I, in so many ways, other than intelligence and what counts, we’re the same. (Sneezes)"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Sweetheart, are you sick?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I hope so, because if this is well, life isn’t worth living."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Oh, sugarpie, you are burning up. We’ve got to get you to bed."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Okay."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Don’t worry. Mama’s here to take care of her baby."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "And just to be clear, only her baby and not these other people."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Of course."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Can I have tea with honey and toast with the crust cut off?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "You can have whatever you want."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Thanks, Mom.You’re the best."
+    },
+    {
+      "type": "scene",
+      "text": "Sheldon’s bedroom."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Boy, last time I put VapoRub on you, you didn’t have hair on your chest."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "I know, it filled in last year. I didn’t get to spend a lot of time with you on this visit."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "And whose fault was that?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Yours."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Shelly, you’re not eight years old any more. We have to have a different relationship."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "No, we don’t. The one we have works great."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Sweetheart, you are a grown man."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Or maybe I’m part of a new species, that lives for hundreds of years, which means I’m still basically a toddler."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Oh, I so should have taken you to Houston."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Does this mean you’re not going to sing Soft Kitty?"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "No, I will always sing you Soft Kitty. (Sings) Soft kitty, warm kitty, little ball of fur…"
+    },
+    {
+      "type": "dialog",
+      "character": "Leonard",
+      "direction": "(at door)",
+      "text": "Mrs. Cooper, were we supposed to take that pie out of the oven?"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Get out!"
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Well, that was rude."
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "Well, I know, but he means well. Sing."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "text": "Happy kitty, sleepy kitty…"
+    },
+    {
+      "type": "dialog",
+      "character": "Sheldon",
+      "text": "What are you trying to pull, Mom? From the top."
+    },
+    {
+      "type": "dialog",
+      "character": "Mrs Cooper",
+      "direction": "(to God)",
+      "text": "This is what I’m talking about. (Sings) Soft kitty, warm kitty, little ball of fur…"
+    }
+  ]
+}
